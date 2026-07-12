@@ -13,7 +13,8 @@
   "cost": "免押金",
   "how": "微信小程序『重庆图书馆』或支付宝均可在线注册电子读者证",
   "tutorial_url": "https://www.cqlib.cn/web/column/col5003515.html",
-  "notes": "全国用户均可从微信小程序或支付宝注册。原仅限川渝，现已扩展至全国。"
+  "notes": "全国用户均可从微信小程序或支付宝注册。原仅限川渝，现已扩展至全国。",
+  "online_scope": "open"
  },
  "resources": [
   {

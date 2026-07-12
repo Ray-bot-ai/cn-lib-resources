@@ -13,7 +13,8 @@
   "cost": "免押金",
   "how": "线上：凭二代身份证在“首都图书馆”或“北京城市图书馆”微信小程序办电子证(或社保卡认证)；线下：到馆自助办证机/人工服务台办实体证",
   "tutorial_url": "https://www.clcn.net.cn/guide/default/index?page_id=3",
-  "notes": "共120个数字资源；含馆内/馆外/试用标注。"
+  "notes": "共120个数字资源；含馆内/馆外/试用标注。",
+  "online_scope": "open"
  },
  "resources": [
   {

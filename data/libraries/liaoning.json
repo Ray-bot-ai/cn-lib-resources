@@ -13,7 +13,8 @@
   "cost": "免押金",
   "how": "官网在线表单注册数字资源阅读证（虚拟证，仅供数字资源登录使用，免押金）。注册后也可到馆交押金升级为有外借权限的实体证。",
   "tutorial_url": "http://index.lnlib.com:108/opac/reader/register",
-  "notes": "人工核对。线上注册入口为数字资源阅读证（虚拟证），免费免押金。"
+  "notes": "人工核对。线上注册入口为数字资源阅读证（虚拟证），免费免押金。",
+  "online_scope": "open"
  },
  "resources": [
   {

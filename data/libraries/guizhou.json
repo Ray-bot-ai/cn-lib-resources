@@ -13,7 +13,8 @@
   "cost": "免费",
   "how": "贵州数字图书馆官网(gzlib.org)右上角『在线领卡』填信息免费注册；或支付宝『嘉图借书』办网借电子卡后绑贵州省图书馆公众号。卡号+密码登录数字资源。",
   "tutorial_url": "https://whfw.superlib.com/guizhou_library_register/page/register.html",
-  "notes": "官网支持在线领卡即用，故判 yes。"
+  "notes": "官网支持在线领卡即用，故判 yes。",
+  "online_scope": "open"
  },
  "resources": [
   {

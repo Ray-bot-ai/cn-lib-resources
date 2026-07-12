@@ -12,7 +12,8 @@
   "cost": "免费（微信小程序免押金办证）",
   "how": "微信搜索『四川省图书馆办证』小程序→办理读者证(上传身份证、人脸识别、设密码)；办证后登录官网『馆藏资源』页或四川省图书馆APP/微信公众号访问数字资源",
   "tutorial_url": "https://www.sclib.cn/",
-  "notes": "数字资源统一入口为官网『馆藏资源』页(sclib.cn/v2/sub/...)，采用畅想之星engine2平台，接口 /engine2/data/api-v2/0/type/datas 一次返回全量92条(p2=100)。原『数字馆藏门户』portal.sclib.org 已整合进官网新平台。"
+  "notes": "数字资源统一入口为官网『馆藏资源』页(sclib.cn/v2/sub/...)，采用畅想之星engine2平台，接口 /engine2/data/api-v2/0/type/datas 一次返回全量92条(p2=100)。原『数字馆藏门户』portal.sclib.org 已整合进官网新平台。",
+  "online_scope": "open"
  },
  "resources": [
   {

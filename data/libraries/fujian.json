@@ -13,7 +13,8 @@
   "cost": "免费",
   "how": "支付宝搜索『借阅宝』选福建省图书馆办虚拟读者证；微信『福建省图书馆』公众号也可在线注册。也可用身份证号在官网在线免费注册。",
   "tutorial_url": "https://www.fjlib.net/gncs/mtzlzt/",
-  "notes": "支付宝、微信均可在线办证，故判 yes。"
+  "notes": "支付宝、微信均可在线办证，故判 yes。",
+  "online_scope": "open"
  },
  "resources": [
   {

@@ -54,7 +54,7 @@ TEMPLATE = r"""<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>公立图书馆免费电子资源清单</title>
+<title>公立图书馆免费电子资源清单 · Free E-Resources of Chinese Public Libraries</title>
 <style>
   :root { --bg:#fafaf8; --card:#fff; --line:#e6e3dc; --ink:#222; --muted:#777; --accent:#7a5c3e; --soft:#f3f0ea; }
   @media (prefers-color-scheme: dark) {
@@ -90,12 +90,14 @@ TEMPLATE = r"""<!doctype html>
   .b-yes { background:#e7f3e7; color:#2e7d32; border-color:#bfe0bf; }
   .b-no  { background:#fbeaea; color:#c0392b; border-color:#eec4c4; }
   .b-partial { background:#fdf3e2; color:#b9770e; border-color:#eeddb8; }
+  .b-local { background:#fdeede; color:#a85b1a; border-color:#eccfa6; font-weight:600; }
   .b-unknown { background:transparent; color:var(--muted); border-style:dashed; }
   .b-unverified { background:transparent; color:var(--muted); border-style:dashed; }
   @media (prefers-color-scheme: dark) {
     .b-yes{background:#22331f;color:#8bc98b;border-color:#3c5b37;}
     .b-no{background:#331f1f;color:#e08b8b;border-color:#5b3737;}
     .b-partial{background:#332a1a;color:#d8b06a;border-color:#5b4a2f;}
+    .b-local{background:#3a2c19;color:#e0a35c;border-color:#5f4526;}
   }
   .regbox { background:var(--soft); border:1px solid var(--line); border-radius:8px;
             padding:8px 12px; margin:2px 0 10px; font-size:13px; }
@@ -113,6 +115,7 @@ TEMPLATE = r"""<!doctype html>
 <body>
 <header>
   <h1>公立图书馆免费电子资源清单</h1>
+  <div class="subtitle" style="font-size:13px;color:var(--muted);margin:-2px 0 6px">Free Digital Resources of Chinese Public Libraries</div>
   <div class="stat" id="stat"></div>
   <div class="controls">
     <span class="toggle">
@@ -124,12 +127,14 @@ TEMPLATE = r"""<!doctype html>
 </header>
 <main>
   <details class="notice" open>
-    <summary>关于本站 · 使用说明</summary>
-    <p>本站整理国家图书馆及各省、直辖市、自治区图书馆 <b>能否线上注册读者证</b>、<b>注册指南链接</b>、<b>有哪些数字资源</b>、<b>各个数字资源能否远程访问</b>（这一点受资源限制，目前只标明了从数字资源页可直接看到能否远程访问的），数据均来自网络公开信息（主要是图书馆官网，不过，官网有时信息更新不及时，如果您对某图书馆很感兴趣，可再检索确认一下）。本站支持检索，以及按资源、图书馆分类访问。亦可于笔者 github 直接下载原数据。截至 2026 年 7 月 13 日经笔者人工全量核对。</p>
+    <summary>关于本站 · 使用说明 / About &amp; How to use</summary>
+    <p>本站整理国家图书馆及各省、直辖市、自治区图书馆 <b>能否线上注册读者证</b>、<b>注册指南链接</b>、<b>有哪些数字资源</b>、<b>各个数字资源能否远程访问</b>（这一点受资源限制，目前只标明了从数字资源页可直接看到能否远程访问的），数据均来自网络公开信息（主要是图书馆官网，不过，官网有时信息更新不及时，如果您对某图书馆很感兴趣，可再检索确认一下）。本站支持检索，以及按资源、图书馆分类访问。亦可于笔者 github 直接下载原数据。截至 2026 年 7 月 13 日经笔者人工全量核对。<b>如有建议请邮件 <a href="mailto:u3642567@connect.hku.hk">u3642567@connect.hku.hk</a>。</b></p>
+    <p lang="en">This site compiles, for the National Library of China and the public libraries of every province, municipality and autonomous region: whether a reader's card can be <b>registered online</b>, links to the <b>registration guides</b>, <b>which digital resources</b> each library offers, and whether each resource can be <b>accessed remotely</b> (marked only where the library's resource page states it directly). Data comes from publicly available sources (mainly the libraries' official websites, which are sometimes out of date — if you are especially interested in a library, please double-check with a fresh search). <b>Note for readers outside mainland China: most online resources listed here require a mainland-China platform account, and many require a mainland-China IP address, to open.</b> You can search and browse by resource or by library; raw data is downloadable from the author's GitHub. Fully hand-verified as of 13 July 2026. Suggestions welcome — email <a href="mailto:u3642567@connect.hku.hk">u3642567@connect.hku.hk</a>.</p>
     <div class="legend">
-      标注说明：
-      <span class="badge b-yes">可线上注册</span> / <span class="badge b-no">仅线下办证</span> 指该馆读者证能否网上办；
-      <span class="badge b-yes">可远程访问</span> / <span class="badge b-no">仅馆内访问</span> / <span class="badge b-unknown">远程未标注</span> 指该资源能否在馆外使用。
+      <b>注册 / Registration：</b>
+      <span class="badge b-yes">可线上注册</span>（不限身份 open）/ <span class="badge b-local">仅本地居民线上注册</span>（local residents only）/ <span class="badge b-partial">部分可线上</span> / <span class="badge b-no">仅线下办证</span>（on-site only）
+      <b>远程 / Remote：</b>
+      <span class="badge b-yes">可远程访问</span>（off-site OK）/ <span class="badge b-no">仅馆内访问</span>（in-library）/ <span class="badge b-unknown">远程未标注</span>（not stated）
     </div>
   </details>
   <div id="app"></div>
@@ -142,9 +147,15 @@ let view = 'res';
 function esc(s){ return (s==null?'':String(s)).replace(/[&<>]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])); }
 function link(url, text){ return url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(text||url)}</a>` : `<span class="empty">${esc(text||'—')}</span>`; }
 
-// 能否线上注册（图书馆维度）
-function onlineBadge(o){
-  const map={yes:['可线上注册','b-yes'],partial:['部分线上','b-partial'],no:['仅线下办证','b-no']};
+// 能否线上注册（图书馆维度）；yes 再分 open(未注明身份限制) / local(仅本地居民)
+function onlineBadge(reg){
+  const o=reg&&reg.online;
+  if(o==='yes'){
+    return reg.online_scope==='local'
+      ? '<span class="badge b-local">仅本地居民线上注册</span>'
+      : '<span class="badge b-yes">可线上注册</span>';
+  }
+  const map={partial:['部分可线上','b-partial'],no:['仅线下办证','b-no']};
   const [t,c]=map[o]||['注册方式未核实','b-unknown'];
   return `<span class="badge ${c}">${t}</span>`;
 }
@@ -206,7 +217,7 @@ function renderByResource(kw){
     out+='<ul class="rows">';
     for(const {lib,h} of holders){
       const reg=lib.registration||{};
-      out+=`<li><span class="libname">${esc(lib.name)}</span> ${onlineBadge(reg.online)} ${remoteBadge(h.access_method)} ${unverified(lib)}`;
+      out+=`<li><span class="libname">${esc(lib.name)}</span> ${onlineBadge(reg)} ${remoteBadge(h.access_method)} ${unverified(lib)}`;
       if(h.scope) out+=` <span class="sub">（${esc(h.scope)}）</span>`;
       out+=`<div class="sub">`;
       const parts=[];
@@ -230,7 +241,7 @@ function renderByLibrary(kw){
     if(kw && !hay.includes(kw)) continue;
     const reg=lib.registration||{};
     const rs=lib.resources||[];
-    out+=`<div class="card"><h2>${esc(lib.name)} ${onlineBadge(reg.online)} ${unverified(lib)} <span class="count">· ${rs.length} 个资源</span></h2>`;
+    out+=`<div class="card"><h2>${esc(lib.name)} ${onlineBadge(reg)} ${unverified(lib)} <span class="count">· ${rs.length} 个资源</span></h2>`;
     out+=`<div class="regbox"><b>办证：</b>${regLine(lib)||'<span class="empty">待核实</span>'}`;
     out+=`<div class="sub" style="margin-top:5px">`;
     out+=`${link(reg.tutorial_url,'注册指南↗')}　·　官网：${link(lib.official_site,'↗')}　·　数字资源页：${link(lib.digital_resource_url,'↗')}`;

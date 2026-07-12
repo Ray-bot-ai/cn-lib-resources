@@ -13,7 +13,8 @@
   "cost": "免费",
   "how": "官网或微信服务号注册。注册教程：https://whhlyt.hunan.gov.cn/whhlyt/news/gzdt/202409/t20240906_33449059.html",
   "tutorial_url": "https://www.library.hn.cn/entry/v2/sub/41496cfadcecb1ec8a66370f03511bfb",
-  "notes": "人工核对。两个注册教程链接：文旅厅公告+官网入口。"
+  "notes": "人工核对。两个注册教程链接：文旅厅公告+官网入口。",
+  "online_scope": "local"
  },
  "resources": [
   {

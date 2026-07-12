@@ -13,7 +13,8 @@
   "cost": "支付宝信用注册(免押金)",
   "how": "手机支付宝扫码进行“信用注册”实名办证；或线下到馆办理",
   "tutorial_url": "https://www.zjlib.cn/register",
-  "notes": "部分资源为馆内镜像(内网IP地址)，是否支持远程访问未核实。"
+  "notes": "部分资源为馆内镜像(内网IP地址)，是否支持远程访问未核实。",
+  "online_scope": "open"
  },
  "resources": [
   {

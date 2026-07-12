@@ -12,7 +12,8 @@
   "cost": "免费（信用办证免押金，每人限办1张）",
   "how": "支付宝搜索并关注『江西省图书馆生活号』小程序→『在线办证/小程序在线办证』→芝麻信用办证（≥550分）生成电子借阅证；办证后用读者证号（=身份证号，初始密码为出生年月日8位）登录官网 www.jxlibrary.net 或微信公众号『数字资源』栏目免费访问全部数字资源",
   "tutorial_url": "https://www.jxlibrary.net/channels/66.html",
-  "notes": "数字资源需持证读者登录后访问（gwfw.jxlibrary.net 统一认证）；官网『全部资源』页(utils/resalllist.html)列出全量。"
+  "notes": "数字资源需持证读者登录后访问（gwfw.jxlibrary.net 统一认证）；官网『全部资源』页(utils/resalllist.html)列出全量。",
+  "online_scope": "open"
  },
  "resources": [
   {

@@ -13,7 +13,8 @@
   "cost": "免费",
   "how": "微信公众号'云上甘图'在线注册（注：视频验证非常不灵敏）",
   "tutorial_url": "https://www.gslib.com.cn/gtgg/content_11990",
-  "notes": "微信公众号注册。部分数据库提供馆外公网账号密码直接访问。"
+  "notes": "微信公众号注册。部分数据库提供馆外公网账号密码直接访问。",
+  "online_scope": "open"
  },
  "resources": [
   {

@@ -13,7 +13,8 @@
   "cost": "",
   "how": "官网线上注册。注册教程：http://qhslib.org.cn/#/guideDel",
   "tutorial_url": "http://qhslib.org.cn/#/guideDel",
-  "notes": "人工核对。仅线上注册。"
+  "notes": "人工核对。仅线上注册。",
+  "online_scope": "open"
  },
  "resources": [
   {

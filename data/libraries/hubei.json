@@ -12,7 +12,8 @@
   "cost": "免费（信用办证免押金）",
   "how": "支付宝搜索『湖北省图书馆』小程序→『开通电子读者证』，填身份证等信息完成办理(初始密码身份证后6位)；再用身份证号+密码登录官网 www.library.hb.cn / 微信公众号 / 『掌上鄂图』App 远程访问数字资源",
   "tutorial_url": "https://www.library.hb.cn/gywm/ydpt",
-  "notes": "数字资源馆外访问经统一认证(SSO)登录；馆内可IP直连。全量清单来自官网接口 /portal/public/dataResource/list.do (count=207)。"
+  "notes": "数字资源馆外访问经统一认证(SSO)登录；馆内可IP直连。全量清单来自官网接口 /portal/public/dataResource/list.do (count=207)。",
+  "online_scope": "open"
  },
  "resources": [
   {

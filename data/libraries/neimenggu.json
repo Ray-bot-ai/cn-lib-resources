@@ -13,7 +13,8 @@
   "cost": "免费",
   "how": "微信搜索进入服务号'内蒙古图书馆'，点击左下角'微官网'栏目，选择'办理证件'功能即可线上申领电子读者证。",
   "tutorial_url": "https://www.nmglib.com/#/banZhengZhiNan",
-  "notes": "人工核对。微信服务号可线上办电子读者证。"
+  "notes": "人工核对。微信服务号可线上办电子读者证。",
+  "online_scope": "open"
  },
  "resources": [
   {
