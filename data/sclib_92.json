@@ -1,0 +1,646 @@
+[
+ {
+  "name": "四川省图书馆珍贵古籍数据库",
+  "category": "自建资源",
+  "desc": "四川省图书馆珍贵古籍数据库收藏珍贵古籍共计141部1636册。其中，入选《国家珍贵古籍名录》的古籍有108部1315册；入选省级珍贵古籍名录的古籍有127部1523册；94部1202册同时入选国家和省级珍贵古籍名录；文献内容丰富，版本珍贵。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.150.20:9000/web/%23/&wfwfid=3264&sign=c39515c53de3ec47115b5b66ed6408a6",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.150.20:9000/web/%23/&wfwfid=3264&sign=c39515c53de3ec47115b5b66ed6408a6"
+ },
+ {
+  "name": "中国知网学术期刊",
+  "category": "学术资源",
+  "desc": "《中国学术期刊（网络版）》是连续动态更新的中文学术期刊全文数据库，是国家学术期刊权威性文献检索工具和网络出版平台，基本完整收录了我国的全部学术期刊，覆盖所有学科的内容。截至2021年10月11日，共收录8541种期刊，中文全文文献量超过58",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.cnki.net/&wfwfid=3264&sign=6be71e2dd1346e90dbcf24f5044f221f",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.cnki.net/&wfwfid=3264&sign=6be71e2dd1346e90dbcf24f5044f221f"
+ },
+ {
+  "name": "《洪武南藏》数字化服务平台",
+  "category": "自建资源",
+  "desc": "馆藏的《洪武南藏》是明代第一部官刻大藏经，具有极高的版本与文献价值，入选首批《国家珍贵古籍名录》。本平台提供全文数字化影像浏览及部分文本检索服务，旨在推动古籍资源开放共享，促进文化遗产的传承与利用。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.1.24:90/&wfwfid=3264&sign=5d09448c2861744c0bc76974c6934dfd",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.1.24:90/&wfwfid=3264&sign=5d09448c2861744c0bc76974c6934dfd"
+ },
+ {
+  "name": "智慧图书馆知识资源发布系统（民国文献，古籍）",
+  "category": "自建资源",
+  "desc": "自2021年以来，四川省图书馆积极参与全国智慧图书馆体系建设，充分利用语义网、大数据、知识图谱、自动抽取等技术深度揭示馆藏资源，在文献数字化的基础上进行细颗粒度内容标识，关键知识点标签标引，并通过“智慧图书馆知识资源发布系统”为读者提供服务",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://125.70.14.133:8018/web/index?en%3Dscfz%26sourceproject%3D&wfwfid=3264&sign=1282c1426968ee533cf0b152f665b7d0",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://125.70.14.133:8018/web/index?en%3Dscfz%26sourceproject%3D&wfwfid=3264&sign=1282c1426968ee533cf0b152f665b7d0"
+ },
+ {
+  "name": "四川省图书馆家谱知识库",
+  "category": "自建资源",
+  "desc": "四川省图书馆利用数字化技术对馆藏家谱进行数字化加工整理和知识标引，打造“四川省图书馆家谱知识库”，收录馆藏家谱文献数字化1159册，涵盖110余个姓氏，按姓氏进行专题分类，方便读者查找阅读。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://125.70.14.133:8018/family/index?book_id%3D240013020240373%26en%3Dscfz&wfwfid=3264&sign=176cdf41473792b40ea35d6437d77d33",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://125.70.14.133:8018/family/index?book_id%3D240013020240373%26en%3Dscfz&wfwfid=3264&sign=176cdf41473792b40ea35d6437d77d33"
+ },
+ {
+  "name": "四川省图书馆特藏资源平台",
+  "category": "自建资源",
+  "desc": "“四川省图书馆特藏资源平台”收录四川省图书馆馆藏的古籍和民国文献数字资源，分科技平台、线装书、家谱、方志四个板块，均提供免费全文影像阅览。平台中，家谱、方志、医书等馆藏特色文献丰富。宋元旧本、明清精椠、名钞名校、珍贵手稿等罗列其中，可谓版刻",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://guji.sclib.cn&wfwfid=3264&sign=a95bdf6503f4f42a6b79769618dd478c",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://guji.sclib.cn&wfwfid=3264&sign=a95bdf6503f4f42a6b79769618dd478c"
+ },
+ {
+  "name": "万方数据服务平台",
+  "category": "学术资源",
+  "desc": "《万方数据库服务平台》（学位论文数据库）收录博士和硕士论文400万余篇，年新增35余万篇，涵盖基础科学、理学、工业技术、人文科学、社会科学、医药卫生、农业科学、交通运输、航空航天和环境科学等各学科领域。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.wanfangdata.com.cn/index.html&wfwfid=3264&sign=f097b11f5dff1b51ce0d1733a137057e",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.wanfangdata.com.cn/index.html&wfwfid=3264&sign=f097b11f5dff1b51ce0d1733a137057e"
+ },
+ {
+  "name": "读秀",
+  "category": "学术资源",
+  "desc": "“读秀”是一个以海量中文图书和全文资料为基础，为用户提供检索的学术搜索引擎及文献服务平台，该库拥有超660万种中文图书信息，涵盖中国图书馆分类法22个分类，每个分类细分到第三级子类。超338万种文献资源可通过Email的方式向读者进行传递服",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.duxiu.com/&wfwfid=3264&sign=c70f334c56b4b54c8f638072df4506bd",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.duxiu.com/&wfwfid=3264&sign=c70f334c56b4b54c8f638072df4506bd"
+ },
+ {
+  "name": "万方数据中小学数字图书馆",
+  "category": "教育资源",
+  "desc": "《万方数据中小学数字图书馆》提供基础教育阶段海量优质教学教研及学生学习资源。其中微课数据库由一线教学教研骨干团队拍摄制作可与参考文献关联。匹配中小学新课程标准知识点，总共4000余部微课视频，并不断更新中。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://edu.wanfangdata.com.cn&wfwfid=3264&sign=4add95cfe80798f037ee4e7ba700909d",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://edu.wanfangdata.com.cn&wfwfid=3264&sign=4add95cfe80798f037ee4e7ba700909d"
+ },
+ {
+  "name": "超星少儿绘本",
+  "category": "少儿资源",
+  "desc": "《超星少儿绘本》是针对3-12岁儿童精心打造的系列少儿数字绘本，精选国内外精品原创绘本1000本，涵盖8大领域、23个分类。同时还包含基于移动端的100种听书资源。拥有包含《海底小纵队》、《熊小米》、《恐龙探秘》、《小狼巴顿》、《超级飞侠》",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://shaoerhuiben.chaoxing.com/?siteId%3D922&wfwfid=3264&sign=b79c5f92b1aefdd14036113939f46e59",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://shaoerhuiben.chaoxing.com/?siteId%3D922&wfwfid=3264&sign=b79c5f92b1aefdd14036113939f46e59"
+ },
+ {
+  "name": "超星名师讲坛",
+  "category": "音视频资源",
+  "desc": "《超星名师讲坛》主要收录各领域名师大咖的优质讲座，将他们的前沿思想、专业技术或成功经验系统地记录、保存，并深度编辑制作成精彩视频。自2006年始，超星名师讲坛目前已拍摄名师10000余位，主讲老师或为来自全国重点高校及机构的知名教授、学者，",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://ssvideo.superlib.com/&wfwfid=3264&sign=801f029ffb4bb812b7c352da05b601f6",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://ssvideo.superlib.com/&wfwfid=3264&sign=801f029ffb4bb812b7c352da05b601f6"
+ },
+ {
+  "name": "超星汇雅电子书",
+  "category": "电子图书",
+  "desc": "《超星电子图书》支持电子图书的全文检索、目次检索等多种检索方式。电子图书总量在135万种以上，涵盖中图分类法22个大类。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.sslibrary.com/&wfwfid=3264&sign=a0cf935973c5af7b7ec7247e001125cc",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.sslibrary.com/&wfwfid=3264&sign=a0cf935973c5af7b7ec7247e001125cc"
+ },
+ {
+  "name": "中国知网工具书",
+  "category": "决策工具",
+  "desc": "《中国工具书网络出版总库》收录语文词典、专业词典、百科全书、手册、图录图鉴、表谱、资料集等工具书，收录我国200多家出版社正式出版的1.2万多部工具书，约2200万词条，370万张图片，为读者全面、深入、系统地学习提供了便捷途径。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://gongjushu.cnki.net/rbook&wfwfid=3264&sign=baeb88ec4074e79cb2f1538cd2955a47",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://gongjushu.cnki.net/rbook&wfwfid=3264&sign=baeb88ec4074e79cb2f1538cd2955a47"
+ },
+ {
+  "name": "维普中文期刊服务平台",
+  "category": "学术资源",
+  "desc": "《维普中文期刊服务平台》是中文学术期刊大数据服务平台，收录中文期刊15000余种，现刊9317种，文献总量7000余万篇，年更新近350万篇，覆盖全学科领域。收录北大核心1980种（2020版）收录率99.5%、CSSCI 804种（202",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://qikan.cqvip.com&wfwfid=3264&sign=e9e551adf0901cefe3fa3a90b1cc3093",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://qikan.cqvip.com&wfwfid=3264&sign=e9e551adf0901cefe3fa3a90b1cc3093"
+ },
+ {
+  "name": "全国报刊索引",
+  "category": "电子报刊",
+  "desc": "《全国报刊索引》创立于1955年，是上海图书馆主管主办并倾力打造的专业信息服务品牌。六十余年来，《全国报刊索引》已由最初的月刊出版，发展为汇聚两百年历史文献成果，集成近现代报纸、期刊、图书、会议论文为一体，并进行内容深度挖掘和组织的特大型综",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.cnbksy.com/v1&wfwfid=3264&sign=392f257c9c381121d4e65bffabf5f133",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.cnbksy.com/v1&wfwfid=3264&sign=392f257c9c381121d4e65bffabf5f133"
+ },
+ {
+  "name": "中华古籍书目库",
+  "category": "决策工具",
+  "desc": "《中华古籍书目数据库》是在“籍合”的概念下，将从古至今已整理的各类书目资源进行数字碎片化处理，在确保数据准确、权威的前提下，统一呈现，实现一站式检索的平台。数据库一期收录65种图书，58万余条书目，6797万字。二期已上线53种图书，30万",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://bib.ancientbooks.cn/docGuji/&wfwfid=3264&sign=1781158153936f771687ff3298b102d9",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://bib.ancientbooks.cn/docGuji/&wfwfid=3264&sign=1781158153936f771687ff3298b102d9"
+ },
+ {
+  "name": "超星党建资源库",
+  "category": "教育资源",
+  "desc": "《超星党建资源库》包括1400册党建图书、270种党建期刊、5000集红色视频、300个党建系列专题（辉煌历程、四个自信、强国之路、改革开放40周年、习近平系列讲话、党的十九大、中国共产党历届全国代表大会、党内法规制度、党员基础知识、党章学",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://scstsgdj.mh.chaoxing.com&wfwfid=3264&sign=9c256da8a3e8098ec8ae21c7b7b7f17b",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://scstsgdj.mh.chaoxing.com&wfwfid=3264&sign=9c256da8a3e8098ec8ae21c7b7b7f17b"
+ },
+ {
+  "name": "中华医学会期刊-中文期刊",
+  "category": "学术资源",
+  "desc": "《中华医学会期刊权威数据库》收录医学期刊180余种",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.yiigle.com/index&wfwfid=3264&sign=92483865d75010a30ae6f01eb524359b",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.yiigle.com/index&wfwfid=3264&sign=92483865d75010a30ae6f01eb524359b"
+ },
+ {
+  "name": "畅想之星电子图书数据库",
+  "category": "电子图书",
+  "desc": "《畅想之星电子书》是一个集版权管理、新书发布、纸书荐购、电子图书阅读与知识发现于一体的大型综合性文献服务平台，该平台入驻有400余家出版机构，每周更新1000种左右，以收集新书电子图书、专业类电子图书为主。收录清华大学出版社、人民邮电出版社",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/cxstar?wfwfid%3D3264&wfwfid=3264&sign=d8d9885288c96eae9ac9876cacf5e341",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/cxstar?wfwfid%3D3264&wfwfid=3264&sign=d8d9885288c96eae9ac9876cacf5e341"
+ },
+ {
+  "name": "新语数字图书馆-中文音视频",
+  "category": "音视频资源",
+  "desc": "《新语数字图书馆》收录听书资源5万小时、18万集。分类包含月排行榜、最新上线、畅销书、广播剧、建党百年专题、历史文学、获奖名篇、有声商学院、都市文学、家庭教育、商战小说、世界童话、科幻世界、侦破推理、长书短读、科普百科、军事文学、少年文学、",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.xinyulib.com.cn/lib/index/index.jsp&wfwfid=3264&sign=82e4aedc6ba8166278e45dcef0878155",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.xinyulib.com.cn/lib/index/index.jsp&wfwfid=3264&sign=82e4aedc6ba8166278e45dcef0878155"
+ },
+ {
+  "name": "文化产业数据库-中文信息咨讯",
+  "category": "决策工具",
+  "desc": "《文化产业数据库》全面系统地收录了中国文化产业发展相关的最新动态、政策法规、研究报告、统计数据，以及国外文化产业发展动态及参考借鉴信息。内容包括产业纵览、重点产业（影视娱乐、文化旅游、网络文化、出版印刷、创意设计、动漫产业、广告会展、工艺美",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://culture.drcnet.com.cn/%23/&wfwfid=3264&sign=6c75fc5f29caf37f91c617c2f4609766",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://culture.drcnet.com.cn/%23/&wfwfid=3264&sign=6c75fc5f29caf37f91c617c2f4609766"
+ },
+ {
+  "name": "掌阅精选",
+  "category": "电子图书",
+  "desc": "《掌阅精选》从精选出10万余册精品图书和3万集有声图书（包含名家解读书和大咖知识课），其中当当新书热卖榜覆盖80%，近3年上市新书占比50%。提供包括Web网站，掌阅精选APP,&nbsp;微信公众号、iReader阅读器、数字阅读机等多样",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://se.zhangyue.com/channel/index?appId%3D17d74fc4&wfwfid=3264&sign=1e51dfb52c558fb8557263da037ff6c5",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://se.zhangyue.com/channel/index?appId%3D17d74fc4&wfwfid=3264&sign=1e51dfb52c558fb8557263da037ff6c5"
+ },
+ {
+  "name": "综合学科期刊数据库",
+  "category": "外文资源",
+  "desc": "《综合学科期刊数据库》收录1887&nbsp;年至今8,900多种全文期刊（其中7,600多种为同行评审[peer-reviewed]），730多种非期刊类全文出版物（如书籍,&nbsp;报告及会议论文等）。其中2,600多种全文期刊同时收",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://search.ebscohost.com/login.aspx?authtype%3Dip,uid%26custid%3Dns258595%26groupid%3Dmain%26profile%3Dehost&wfwfid=3264&sign=80db8b5fd37550b745c107b6c1f54863",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://search.ebscohost.com/login.aspx?authtype%3Dip,uid%26custid%3Dns258595%26groupid%3Dmain%26profile%3Dehost&wfwfid=3264&sign=80db8b5fd37550b745c107b6c1f54863"
+ },
+ {
+  "name": "云图有声-中文音视频",
+  "category": "音视频资源",
+  "desc": "《云图数字有声图书馆》以正版授权、名家演播的优质有声书为核心资源，全面覆盖经典文学、人文历史、文化艺术、职场财经、儿童文学、红色经典等类别，通过手机端、PC端及硬件设备等多途径向读者提供累计超过37万集，合计时长超过10万小时的高品质有声阅",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps%253A%252F%252Flibrary.yuntuys.com&wfwfid=3264&sign=e754eb4114b7979925f05a40987e4d28",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps%253A%252F%252Flibrary.yuntuys.com&wfwfid=3264&sign=e754eb4114b7979925f05a40987e4d28"
+ },
+ {
+  "name": "国研网政策法规库",
+  "category": "决策工具",
+  "desc": "《政策法规库》重点采集政府信息公开目录中的政策法规文件，为用户提供国家及地方性政策参考以及平级单位政策对比，年更新量约50000条左右。“中央政策法规库”发文机构主体分类17级维度，共计1071余个，“地方政策法规库”发文机构主体包括省级行",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://policy.drcnet.com.cn/home&wfwfid=3264&sign=a8957a53120052b9c8dbf707b1c361d8",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://policy.drcnet.com.cn/home&wfwfid=3264&sign=a8957a53120052b9c8dbf707b1c361d8"
+ },
+ {
+  "name": "“元阅读”精品电子书",
+  "category": "电子图书",
+  "desc": "元阅读精品电子书数据库是集电子书阅读、听书、互动于一体的一站式数字阅读服务平台。平台内容丰富，且经过专业编辑精挑细选，内容基于畅销榜单、豆瓣高分、名家作品、知名版权方、获奖作品等不同维度遴选出10万余册电子书和3万余集有声听书。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://h5.metareader.cn/?tenantId%253D101525%2526appId%253D4dg77hb9&wfwfid=3264&sign=574a14699f88550821fed42bf5b4bb54",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://h5.metareader.cn/?tenantId%253D101525%2526appId%253D4dg77hb9&wfwfid=3264&sign=574a14699f88550821fed42bf5b4bb54"
+ },
+ {
+  "name": "CNKI公共文化知识服务平台",
+  "category": "学术资源",
+  "desc": "《CNKI公共文化知识服务平台》内容包括学术期刊、国内会议、国际会议、报纸、科普期刊、经济信息期刊、党建期刊、法律法规、法律案例库、政报公报等。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.cp.cnki.net&wfwfid=3264&sign=16925d82e3da96910b33f1d016033fdb",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.cp.cnki.net&wfwfid=3264&sign=16925d82e3da96910b33f1d016033fdb"
+ },
+ {
+  "name": "MET全民英语",
+  "category": "外文资源",
+  "desc": "《MET全民英语》是中国图书馆学会阅读推广委员会主办的“全国‘图书馆杯’全民英语口语风采展示活动”赛事平台，集教学视频讲解、口语听力训练、智能语音评测、网络口语竞赛、学习激励机制为一体的英语多媒体学习资源库。融合全球领先的智能语音分析评测系",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.52met.com&wfwfid=3264&sign=d8827fd5e83163156378ed7832b77169",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.52met.com&wfwfid=3264&sign=d8827fd5e83163156378ed7832b77169"
+ },
+ {
+  "name": "皮书数据库-中文报告",
+  "category": "决策工具",
+  "desc": "皮书数据库是分析解读当下中国发展变迁的智库产品与知识服务平台，以社科文献社知名图书品牌“皮书系列”为基础，内容覆盖经济、社会政法、文化传媒、地方发展、行业、国际问题六领域，收录图书1.4万本，报告25万篇。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.pishu.com.cn/skwx_ps/database?SiteID%3D14&wfwfid=3264&sign=c14e658996d9d9235bbb4df482afc3e4",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.pishu.com.cn/skwx_ps/database?SiteID%3D14&wfwfid=3264&sign=c14e658996d9d9235bbb4df482afc3e4"
+ },
+ {
+  "name": "民国图书数据库",
+  "category": "电子图书",
+  "desc": "《中国历史文献总库·民国图书数据库》是《中国历史文献总库》的子库，由国家图书馆出版社开发，目前已完成五期20万种图书的建设，总计3500万页，3.8TB，全部图书实现全文检索，可检索字数超过100亿字。该库是“民国时期文献保护计划”重要成果",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://mg.nlcpress.com&wfwfid=3264&sign=fe7303f1bef441904f89e3865805c7fb",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://mg.nlcpress.com&wfwfid=3264&sign=fe7303f1bef441904f89e3865805c7fb"
+ },
+ {
+  "name": "万方数据-新方志",
+  "category": "电子图书",
+  "desc": "《万方数据-新方志》全面系统整合我国现有新旧方志文献资源。平台资源内容纵贯整个社会发展历史，横及社会各个门类，从历史到当代，从政治到经济，从自然资源到人文遗产，是一个时间跨度大、涵盖范围广、资料全面、可多角度检索的中国地方志知识资源总库。目",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://fz.wanfangdata.com.cn/&wfwfid=3264&sign=49055a97f474d2949ab3744fc8bd0304",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://fz.wanfangdata.com.cn/&wfwfid=3264&sign=49055a97f474d2949ab3744fc8bd0304"
+ },
+ {
+  "name": "博看书苑",
+  "category": "电子图书",
+  "desc": "《博看书苑》以正版授权的人文期刊、畅销图书、有声资源等优质内容为核心，涵盖党政、时事、军事、管理、财经、文学、家庭、健康、时尚、娱乐、科技、教育等多类别的主流阅读资源。收录人文期刊期刊4000余种，畅销图书6万余册，精品听书资源60万集10",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp%253A%252F%252Fzq.bookan.com.cn%252F%253Ft%253Dindex%2526id%253D23504&wfwfid=3264&sign=cdc366a2b3b3fa3c23e452610e9900ee",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp%253A%252F%252Fzq.bookan.com.cn%252F%253Ft%253Dindex%2526id%253D23504&wfwfid=3264&sign=cdc366a2b3b3fa3c23e452610e9900ee"
+ },
+ {
+  "name": "慧科新闻搜索",
+  "category": "决策工具",
+  "desc": "《慧科新闻搜索（WiseSearch）数据库》致力于满足用户对在新闻搜索/浏览、传播分析、案例研究的需求下，帮助用户深入研究事件传播特点，灵活分析特定媒体/版面新闻报道，快速发现用户关注的热点新闻，高效的进行新闻检索。数据库以慧科讯业20多",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps%253A%252F%252Fwisesearch6.wisers.net%252F%253Fgid%253DSCLIBWS%2526user%253Dipaccess&wfwfid=3264&sign=5b4239aaae7c9c349115d8ba7e9b090e",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps%253A%252F%252Fwisesearch6.wisers.net%252F%253Fgid%253DSCLIBWS%2526user%253Dipaccess&wfwfid=3264&sign=5b4239aaae7c9c349115d8ba7e9b090e"
+ },
+ {
+  "name": "中宏智库支持系统",
+  "category": "决策工具",
+  "desc": "《中宏智库支持系统》提供政府决策过程中从“信息资源保障”到“政府决策支持”的“一揽子”支持方案的经济类资源。包括专家智囊及课题研究、统计分析、国际经验、兄弟省市经验、国家相关政策法规、相关产业分布、相关外资外贸情况、相关的金融税收政策、宏观",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://gov.macrochina.com.cn/skins/1/gov/index.shtml?tdsourcetag%3Ds_pcqq_aiomsg&wfwfid=3264&sign=19ea43c9eefd42bbd36db620516c01f3",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://gov.macrochina.com.cn/skins/1/gov/index.shtml?tdsourcetag%3Ds_pcqq_aiomsg&wfwfid=3264&sign=19ea43c9eefd42bbd36db620516c01f3"
+ },
+ {
+  "name": "藏诸名山，传之其人——国家级非物质文化遗产代表性传承人记录工作成果展",
+  "category": "自建资源",
+  "desc": "简介：展览分为上下两篇。上篇主题为“滔滔长河”，将中国的非物质文化遗产比作长河，追溯我国记录民族民间文化的历史，盘点记录工作的十年历程，呈现记录工作的丰盈硕果，感受非遗保护工作者的使命与担当。下篇主题为“巍巍高山”，将国家级非遗代表性传承人",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://ich.nlc.cn/10years&wfwfid=3264&sign=80d1fe739ecbb557b8b2e8d0d556dbdc",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://ich.nlc.cn/10years&wfwfid=3264&sign=80d1fe739ecbb557b8b2e8d0d556dbdc"
+ },
+ {
+  "name": "“年华易老，技·忆永存——第七届国家级非物质文化遗产代表性传承人记录工作成果展映月”活动",
+  "category": "自建资源",
+  "desc": "简介：集中放映44部非遗纪录片。这批影片具有丰富的文化价值，集中展示了国家级非遗代表性传承人记录工作最新一批的优秀成果，内容覆盖了非遗十大类别，通过传承人亲身实践、传承带徒和口述历史等方面内容，立体展示了国家级非遗传承人的生活环境、成长经历",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://ich.nlc.cn/onshow&wfwfid=3264&sign=c91963d5a5bc5880ca96ccaae08f88fd",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://ich.nlc.cn/onshow&wfwfid=3264&sign=c91963d5a5bc5880ca96ccaae08f88fd"
+ },
+ {
+  "name": "张大千文献库",
+  "category": "自建资源",
+  "desc": "2019年6月开放的张大千文献中心则是以专门收藏张大千相关文献为职能的文献机构，集“搜、藏、展、研”等职能为一体，集中入藏巴蜀绘画大家张大千先生相关的艺术著作和研究文献1500余册，涵盖了张大千、张善孖以及大风堂门人的画集画册和与之相关的著",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://zdqwxk.lib.libsou.com/node/324.jspx&wfwfid=3264&sign=99e19b822bbb9169889121520dd54871",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://zdqwxk.lib.libsou.com/node/324.jspx&wfwfid=3264&sign=99e19b822bbb9169889121520dd54871"
+ },
+ {
+  "name": "科研成果论文库",
+  "category": "自建资源",
+  "desc": "《科研成果论文库》包含四川省图书馆馆内员工的科研成果信息，包括发表的论文，专著等。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.1.206:81/default.aspx&wfwfid=3264&sign=fece6ab9e20e8bc8fdda54a5d951552d",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.1.206:81/default.aspx&wfwfid=3264&sign=fece6ab9e20e8bc8fdda54a5d951552d"
+ },
+ {
+  "name": "川话说书",
+  "category": "自建资源",
+  "desc": "川话说书是四川省图书馆智慧图书馆建设项目的建设成果，所选书籍均用四川话进行录播，目前已上线《成都物候记》《市井闲谭（上下）》《成都旧事》《李劼人说成都》《暴风雨前》《死水微澜》《语自在》等十七种书籍，音频时长195小时。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.1.203:86/MainPage.aspx?en%3Dscfz&wfwfid=3264&sign=41e527d7b88d2c687f130d2c8330a1f1",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.1.203:86/MainPage.aspx?en%3Dscfz&wfwfid=3264&sign=41e527d7b88d2c687f130d2c8330a1f1"
+ },
+ {
+  "name": "二李文库VR虚拟展厅",
+  "category": "自建资源",
+  "desc": "“二李”文库里收录了李劼人、李一氓捐赠给图书馆的珍贵古籍共2万余册。在公共图书馆中专门设立名人文献文库，并打造成藏阅一体的形式，四川省图书馆是国内首创。“二李”都痴爱读书，热心收藏。生前晚年都选择主动捐出珍贵典籍给公家，给家乡四川，在四川的",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.1.21&wfwfid=3264&sign=d7218f2882cb6a3e8c711666e51abdfc",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.1.21&wfwfid=3264&sign=d7218f2882cb6a3e8c711666e51abdfc"
+ },
+ {
+  "name": "四川省公共文化数字资源",
+  "category": "自建资源",
+  "desc": "四川省公共文化数字资源包含四川省图书馆和市州图书馆历年来自建的图书，报纸，音频，视频资源，以及自2021年以来四川省智慧图书馆的建设成果。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.1.206:88/index.html?en%3Dscfz&wfwfid=3264&sign=a1c51fa7fc51d70c9b18b76cc0657e83",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.1.206:88/index.html?en%3Dscfz&wfwfid=3264&sign=a1c51fa7fc51d70c9b18b76cc0657e83"
+ },
+ {
+  "name": "中华医学健康科普知识库",
+  "category": "教育资源",
+  "desc": "《中华医学会健康科普知识库》是由中华医学会牵头实施、入选“十四五”国家重点出版规划的重点健康科普项目。该知识库以《健康中国行动（2019—2030年）》为指导，依托中华医学会90个专科分会、近万名专业学术带头人，围绕创伤急救、急症处理、常见",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://cmhadb.cma-cmc.com.cn&wfwfid=3264&sign=aa0e61648d88e7fa4bdc1ad9b1fc722d",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://cmhadb.cma-cmc.com.cn&wfwfid=3264&sign=aa0e61648d88e7fa4bdc1ad9b1fc722d"
+ },
+ {
+  "name": "优质图书资源全民阅读服务平台",
+  "category": "电子图书",
+  "desc": "作为全国智慧图书馆体系建设的重要组成部分，由北京国图书店有限责任公司（国家图书馆全资企业）主导建设的“优质图书资源全民阅读服务平台”（以下简称“阅读平台”），聚焦策划优质图书资源文化服务产品，深度整合各大出版社的优质电子图书资源，依托全国图",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.yztszyqmyd.com/&wfwfid=3264&sign=2fbccd7243e751279366a42ee125a8d7",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.yztszyqmyd.com/&wfwfid=3264&sign=2fbccd7243e751279366a42ee125a8d7"
+ },
+ {
+  "name": "沁言",
+  "category": "学术资源",
+  "desc": "沁言学术是一款深度融合人工智能技术的全流程学术服务平台，可为全校师生提供从选题分析、精准文献检索、文献管理、深度阅读、笔记沉淀到辅助写作的全链路服务。通过将繁琐的流程自动化，帮助师生从机械劳动中解放出来，将宝贵的时间投入到更有价值的深度思考",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://app.qinyanai.com/?sourceCode%3DN9H67XRW&wfwfid=3264&sign=de885fd0acd69af760bc3543c0afc590",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://app.qinyanai.com/?sourceCode%3DN9H67XRW&wfwfid=3264&sign=de885fd0acd69af760bc3543c0afc590"
+ },
+ {
+  "name": "复兴文库",
+  "category": "电子图书",
+  "desc": "《复兴文库》以实现中华民族伟大复兴为主题，以思想史为基本线索编纂的大型历史文献丛书，全面梳理和精选1840年鸦片战争以来与中华民族伟大复兴相关的重要文献。文献分为三编：第一编(1840—1921)，共7卷，全38册；第二编(1921—194",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://fuxingwenku.ancientbooks.cn/&wfwfid=3264&sign=66fe93c6fe1c527c4204ebf897ca21c9",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://fuxingwenku.ancientbooks.cn/&wfwfid=3264&sign=66fe93c6fe1c527c4204ebf897ca21c9"
+ },
+ {
+  "name": "慧写智能创作平台",
+  "category": "学术资源",
+  "desc": "《慧写智能创作平台》构建了一套完备的智能写作解决方案，全面覆盖通用写作、专业创作以及学术研究的全周期流程。旨在为创作者提供从灵感到成稿的智能化支持，降低创作门槛，提升内容质量和效率。适用于文字创作、商业文案、学术写作等多种场景，致力于成为用",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://write.wanfangdata.com.cn/&wfwfid=3264&sign=f0de8bcdaed488f6df164496597a8ade",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://write.wanfangdata.com.cn/&wfwfid=3264&sign=f0de8bcdaed488f6df164496597a8ade"
+ },
+ {
+  "name": "智研AI+",
+  "category": "学术资源",
+  "desc": " 《智研AI+》是万方数据的智慧研究平台，依托海量文献资源和前沿智能技术，面向本硕博、教师、科研学者等不同创新主体在科研学习、创作投稿、项目申报、素养提升等不同场景的实际需求，提供智能发现、智慧研读、创作投稿、知识管理、项目申报支持等全流程",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://zhiyan.wanfangdata.com.cn/&wfwfid=3264&sign=c8c72c4286785e3d4ee543d9f64df6a9",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://zhiyan.wanfangdata.com.cn/&wfwfid=3264&sign=c8c72c4286785e3d4ee543d9f64df6a9"
+ },
+ {
+  "name": "妙趣手工坊",
+  "category": "少儿资源",
+  "desc": "《妙趣手工坊数据库》囊括了多类儿童手工制作，内容丰富，花样出新；手工教学视频，形式多样，制作精细。在妙趣横生的手工世界里，引领儿童剪出惟妙惟肖，画出奇思妙想，捏出别致新奇，搭出无限创意。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.libdiy.com/?OrgCode%3DD2RUVN312&wfwfid=3264&sign=1b261b5e4b064519b4e87ac79ece421d",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.libdiy.com/?OrgCode%3DD2RUVN312&wfwfid=3264&sign=1b261b5e4b064519b4e87ac79ece421d"
+ },
+ {
+  "name": "芯经典",
+  "category": "电子图书",
+  "desc": "《芯经典学习平台》主要内容为电子图书和有声书，拥有电子图书15万册，有声书3万集，均可浏览全文。平台以经典图书为基础，整合红色经典、文明经典、专业经典、获奖书籍等优质资源。平台引入导读视频、AI辅助阅读。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.xjdread.com/&wfwfid=3264&sign=83bf39dd17455d020cac863fd25d59cb",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.xjdread.com/&wfwfid=3264&sign=83bf39dd17455d020cac863fd25d59cb"
+ },
+ {
+  "name": "触点通人文通识学习系统",
+  "category": "教育资源",
+  "desc": "《触点通人文通识学习系统》基于云存储、云计算和大数据技术的人文通识学习系统，涵盖文化、艺术、历史、民俗、地理、科技、旅游、生活等数十个类目，现有各类数字文化资源1600万条目，汉字总量262 亿字，图像总量480万幅，均在持续增加中。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://longmai.link/sc-scstsg&wfwfid=3264&sign=e0b9bd355c70f842c01ed276ab5f0583",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://longmai.link/sc-scstsg&wfwfid=3264&sign=e0b9bd355c70f842c01ed276ab5f0583"
+ },
+ {
+  "name": "观致·数字展播",
+  "category": "教育资源",
+  "desc": "《观致·数字展播》是基于优质数字文化资源和领先展示技术的数字内容展播系统。该库从规模可观的数字资源储备中精挑细选，已创设230余套展播专辑(持续增长)，主题涵盖文化、艺术、历史、地理、科技、民俗、生活等众多领域，充分展示中国与全球文化、文明",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://longmai.link/d-26357la&wfwfid=3264&sign=bc8473385651b8564ec0e7aedc9f327d",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://longmai.link/d-26357la&wfwfid=3264&sign=bc8473385651b8564ec0e7aedc9f327d"
+ },
+ {
+  "name": "艺术维基",
+  "category": "教育资源",
+  "desc": "《艺术维基》收录全球112个国家和地区、2400余所艺术机构、16400余名艺术家各类艺术作品216.8万幅，包含大量珍贵历史照片、历史地图、手札书信等档案影像，图像品质清晰、艺术类目全面、检索功能丰富、数据翔实准确、界面美观流畅。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://b.yishu.wiki/&wfwfid=3264&sign=5159d50f7fa966a3b01f69ba72dc2051",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://b.yishu.wiki/&wfwfid=3264&sign=5159d50f7fa966a3b01f69ba72dc2051"
+ },
+ {
+  "name": "新东方双语阅读",
+  "category": "外文资源",
+  "desc": "《新东方双语阅读》是以优质的原版剑桥读物资源为依托，专为中国中小学生提供“电子书+学习系统”的分级阅读。该库面向6-15岁读者提供中英文双语阅读内容，将图书资源和互联网技术相结合，搭载最先进的智能语音识别技术、学情数据分析系统和阅读评测系统",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://smart-reading.xdf.cn/%23/?cid%3Df230f036cb7b428909d45f6be6be2ace6b8f8ba6d500fb9c91cc67eb53248450&wfwfid=3264&sign=799ec0ad8adc41e0bdacc2f4a91ed45e",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://smart-reading.xdf.cn/%23/?cid%3Df230f036cb7b428909d45f6be6be2ace6b8f8ba6d500fb9c91cc67eb53248450&wfwfid=3264&sign=799ec0ad8adc41e0bdacc2f4a91ed45e"
+ },
+ {
+  "name": "书香中国互联网数字图书馆",
+  "category": "电子图书",
+  "desc": "《书香中国互联网数字图书馆》资源涵盖电子图书50万册，听书10万集、近千种期刊，内容涵盖畅销长销、名家精品、经典名著、人文历史、大众社科、科学金融等多种类型图书，提供在线阅读、收藏、下载、书评、书友互动、中文智言XDeepSeek AI服务",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/chineseall?wfwfid%3D3264%26refer%3D&wfwfid=3264&sign=32ce9351fc70f153619f52907ab72ea8",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/chineseall?wfwfid%3D3264%26refer%3D&wfwfid=3264&sign=32ce9351fc70f153619f52907ab72ea8"
+ },
+ {
+  "name": "民间故事专题库",
+  "category": "音视频资源",
+  "desc": "《民间故事专题库》集结了中华各地民间故事。数据库搜集并整理了丰富的民间故事，涵盖传说、动物、风俗、趣事、人物、神话和寓言等多个类别。平台上，运用了专业的音频技术,将这些故事转化为高品质的音频数据，让读者可以随时随地聆听。同时，也结合视频形式",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://cpc.wanfangdata.com.cn/folk/%23/&wfwfid=3264&sign=8648232a6671fdefcb7017c96540d0c9",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://cpc.wanfangdata.com.cn/folk/%23/&wfwfid=3264&sign=8648232a6671fdefcb7017c96540d0c9"
+ },
+ {
+  "name": "上岸考公网",
+  "category": "教育资源",
+  "desc": "《上岸考公网》依托中公、华图等师资力量，知识体系囊括国考、省考、选调生、事业单位等十五大类考试科目，并提供了历年真题试卷与仿真模考试卷等学习资源，从入门到冲刺、从单科到系统、从基础知识到真题精讲、从学习方法到实战演练的闭环学习体系。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.shangankaogong.net/&wfwfid=3264&sign=a710788002cd882a0b654ed947a4ae43",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.shangankaogong.net/&wfwfid=3264&sign=a710788002cd882a0b654ed947a4ae43"
+ },
+ {
+  "name": "新东方多媒体学习库",
+  "category": "音视频资源",
+  "desc": "《新东方多媒体学习库》是新东方推出的“一站式”学习平台，专注于为全广大读者提供丰富优质的数字视听资源与学习服务。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://library.koolearn.com/encryptedLogin/efbd4e2450ae77e1&wfwfid=3264&sign=7ceddbbd42a8acd7eb3f7670cd7ddc79",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://library.koolearn.com/encryptedLogin/efbd4e2450ae77e1&wfwfid=3264&sign=7ceddbbd42a8acd7eb3f7670cd7ddc79"
+ },
+ {
+  "name": "近代报纸数据库",
+  "category": "电子报刊",
+  "desc": "《近代报纸数据库》由国家图书馆出版社开发，以国家图书馆的馆藏为主，其他图书馆所藏的报纸为辅，优先选取具有全国影响或在某一地域影响较大的报纸，进行数据加工，提供篇目检索和全文检索，并能够准确定位到单篇内容位置，方便使用者进行查阅。已上线报纸5",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://bz.nlcpress.com/&wfwfid=3264&sign=2cd0bd563a518bd1aac12a830df20613",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://bz.nlcpress.com/&wfwfid=3264&sign=2cd0bd563a518bd1aac12a830df20613"
+ },
+ {
+  "name": "裕垚源健康素养数据库",
+  "category": "教育资源",
+  "desc": "《裕垚源健康素养数据库》涵盖了医学、健康管理等多个领域，涵盖 BMI 测评、营养素查询、科普教育、食谱搭配等多个模块内容，帮助用户更好地了解健康知识，引导读者建立科学的生活习惯和养成健康的生活方式，为读者提供便捷、高效的健康知识查询服务。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.yyyask.com:8088/?orgId%3D1858315398910251010&wfwfid=3264&sign=f465bbec6280fac3f60c2108b7e1a2dc",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.yyyask.com:8088/?orgId%3D1858315398910251010&wfwfid=3264&sign=f465bbec6280fac3f60c2108b7e1a2dc"
+ },
+ {
+  "name": "古地图库",
+  "category": "教育资源",
+  "desc": "《古地图库》收录世界范围内收藏的中国古地图，包含城市、建筑、风景名胜、水利河工、天文、坤舆、疆域、地形、军事交通、民生经济、地质、海洋、气候、边界及邻国、其他国家、复合式地图、地图集等十几个大类。目前已经收录古地图12万余张，每年增加200",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://map.reasonlib.com&wfwfid=3264&sign=f23eacc171511ead1fd16e33e2c7503e",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://map.reasonlib.com&wfwfid=3264&sign=f23eacc171511ead1fd16e33e2c7503e"
+ },
+ {
+  "name": "域外汉籍库",
+  "category": "电子图书",
+  "desc": "《域外汉籍库》长期专注收录域外保存和出版的汉文著述的数据库。近十年来，该库持续大范围整理、录入、出版域外汉籍文献资料。所收书籍均影印自国外图书馆、研究机构和个人收藏的国内不见或稀见的汉文文献。目前全库共有2.5万余种，44万余卷古籍。其内容",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://gj.reasonlib.com/&wfwfid=3264&sign=21cb89aafea3e2823344a8e8e1ebbb96",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://gj.reasonlib.com/&wfwfid=3264&sign=21cb89aafea3e2823344a8e8e1ebbb96"
+ },
+ {
+  "name": "大为全球专利数据库",
+  "category": "决策工具",
+  "desc": "《大为全球专利检索分析系统》高度整合专利文献资源，涵盖全球170个国家和地区超过1.7亿多条专利数据，如专利文摘、说明书、法律状态、同族专利、引证引用等信息，每周更新5次以上。同时还提供AI智能检索、大为独有的DPI检索等十余种检索方式。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://pat.daweisoft.com/home&wfwfid=3264&sign=384db5d11dd17b6d5d7ad185617f4543",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://pat.daweisoft.com/home&wfwfid=3264&sign=384db5d11dd17b6d5d7ad185617f4543"
+ },
+ {
+  "name": "红色经典专题库",
+  "category": "音视频资源",
+  "desc": "《知识视界红色经典专题库》重点展示了建党100年征程中的重大事件、杰出人物、历史故事。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://redlib.libvideo.com/&wfwfid=3264&sign=332394c1c953bdbd747f77db888a6508",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://redlib.libvideo.com/&wfwfid=3264&sign=332394c1c953bdbd747f77db888a6508"
+ },
+ {
+  "name": "乐儿智慧王国",
+  "category": "少儿资源",
+  "desc": "乐儿智慧王国由科普动漫营、开心学字、乐趣理化、博览名著、恐龙星球、亲子奇趣屋、乐动美育等版块组成。资源内容涵盖自然、植物、动物、环保、音体美、数理化、恐龙、文化遗产、世界各国、折纸、手工制作等多种类别，向少儿趣味讲解多种类知识，陪伴孩子开启",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://scssy.atleer.com/%23/&wfwfid=3264&sign=e9d0156dada062ba917c6154cad03e61",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://scssy.atleer.com/%23/&wfwfid=3264&sign=e9d0156dada062ba917c6154cad03e61"
+ },
+ {
+  "name": "中国民俗专题数据库",
+  "category": "教育资源",
+  "desc": "《民俗文化专题数据库》是面向公共文化领域机构开发的文化专题数据库，从《万方地方志数据库》和《万方知识服务平台》中抽取民俗文化领域相关的志书条目、期刊论文、学位论文、会议论文，依照民俗志编纂体例并结合民俗学界公认的范畴，对民俗条目进行专题分类",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://mswh.wanfangdata.com.cn/index.do&wfwfid=3264&sign=934500f65f5ae22bfbc917ab63bfc92c",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://mswh.wanfangdata.com.cn/index.do&wfwfid=3264&sign=934500f65f5ae22bfbc917ab63bfc92c"
+ },
+ {
+  "name": "源素通",
+  "category": "决策工具",
+  "desc": "“源素通”是中新金桥打造的软件素材学习资源数据库产品，是一款计算机应用软件模板素材的综合发布平台，包含多种软件的办公模板、应用模型、电子电路、开发源码、广告设计图模板、UI创意库、图标库等资源，是构建在计算机应用领域的服务产品；",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://yst.softtone.cn/&wfwfid=3264&sign=9da620fe43f0f58c8a97c8311064d05f",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://yst.softtone.cn/&wfwfid=3264&sign=9da620fe43f0f58c8a97c8311064d05f"
+ },
+ {
+  "name": "本草数典中药知识库",
+  "category": "决策工具",
+  "desc": "《本草数典中药知识库》以《本草纲目》研究集成出版成果为基础，并扩展关联相关中医药主题专著的知识内容。目前知识库包含：本草库，收录条目1.3万余条；中医古籍图库，收录本草药图、历代古籍图像近6万余幅；中药术语库，术语词条6万余条；资源库，以篇",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://lmm.sciencereading.cn/&wfwfid=3264&sign=896fa2f807bf88621221170ff4783796",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://lmm.sciencereading.cn/&wfwfid=3264&sign=896fa2f807bf88621221170ff4783796"
+ },
+ {
+  "name": "中国生物志库",
+  "category": "决策工具",
+  "desc": "《中国生物志库》收录了我国最全面的生物物种信息，满足专业科研和教学需求、兼顾大众科普需求。专业用户主要为生物学、生态学、农学、林学、海洋水产、医药等专业高等院校和研究所的科研人员、教师和学生，以及生产管理、检验检疫、环境保护等单位的技术人员",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://species.sciencereading.cn/&wfwfid=3264&sign=8bf580726c5e961383f7b888a8f7dcf5",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://species.sciencereading.cn/&wfwfid=3264&sign=8bf580726c5e961383f7b888a8f7dcf5"
+ },
+ {
+  "name": "科学智库",
+  "category": "决策工具",
+  "desc": "科学智库是基于重大战略咨询项目和研究报告的数字平台，覆盖自然科学、社会科学和交叉领域科学，通过知识化标引和系统化关联建立友好、便捷的使用场景，面向各领域科研、决策和咨询研究提供优质知识内容和解决方案，为客户提供高端资源支撑和学术参考。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://thinktank.sciencereading.cn/&wfwfid=3264&sign=27fc14241f9bc5d5c962473a8d02289c",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://thinktank.sciencereading.cn/&wfwfid=3264&sign=27fc14241f9bc5d5c962473a8d02289c"
+ },
+ {
+  "name": "知识视界视点周刊",
+  "category": "音视频资源",
+  "desc": "每期一个主题，追踪最热话题，以科学视角的解读，整合碎片化资讯，视频+图片+文字，为读者提供深度阅读体验，给读者最丰盛的精神大餐。视点周刊适配PC端、移动端（手机、Pad）、触控一体机等多终端，可实现多平台视频化阅读，为图书馆提供全新类型的产",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://week.libvideo.com&wfwfid=3264&sign=722f1303b872b933824d69f319b96eaf",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://week.libvideo.com&wfwfid=3264&sign=722f1303b872b933824d69f319b96eaf"
+ },
+ {
+  "name": "知识视界视频图书馆",
+  "category": "音视频资源",
+  "desc": "《知识视界视频图书馆》全民科普视频资源库，视频双语发音，双语字幕，随时可切换，满足不同人群需求。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.libvideo.cn/&wfwfid=3264&sign=bced47babd55ff2f72f044b8fc041ef7",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.libvideo.cn/&wfwfid=3264&sign=bced47babd55ff2f72f044b8fc041ef7"
+ },
+ {
+  "name": "软件通",
+  "category": "音视频资源",
+  "desc": "《软件通》是“软件通-计算机软件视频学习资源”数据库的简称，于2006年研发并推出，通过“微课程”（知识点+实例）的方式，帮助学生快速学习和精通掌握各院系、各学科主流软件操作技能的自助式网络学习系统。该库目前涵盖计算机最主流的23个大类，包",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://rjtgt.softtone.cn/&wfwfid=3264&sign=7c77d60fc612be69c4381f19e9601462",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://rjtgt.softtone.cn/&wfwfid=3264&sign=7c77d60fc612be69c4381f19e9601462"
+ },
+ {
+  "name": "可知电子书",
+  "category": "电子图书",
+  "desc": "《可知》是国家知识服务平台的分平台，有电子工业出版社、人民邮电出版社、化学工业出版社、高等教育出版社、中信出版社、人民卫生出版社、北京大学医学出版社、中医药科技出版社等300余家知名出版社直接入驻，提供正版、高品质的电子图书资源。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps%253A%252F%252Fwww.keledge.com%252F&wfwfid=3264&sign=25eb42a62d73587f35eac7df2cf80864",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps%253A%252F%252Fwww.keledge.com%252F&wfwfid=3264&sign=25eb42a62d73587f35eac7df2cf80864"
+ },
+ {
+  "name": "中华历史文献库",
+  "category": "电子图书",
+  "desc": "《中华历史文献库》收录了四库全书（包括摛藻堂四库全书450册、四库存目4400册、四库存目补编200册、四库未收书辑刊1200、四库续修5000、文渊阁四库全书3300、四库禁毁700）及丛书集成（新文丰续编4500册、新文丰三编1200册",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://guji.zzshitu.com:9009/&wfwfid=3264&sign=241e3a86c1e6425960659a9d00841515",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://guji.zzshitu.com:9009/&wfwfid=3264&sign=241e3a86c1e6425960659a9d00841515"
+ },
+ {
+  "name": "科学文库",
+  "category": "电子图书",
+  "desc": "《科学文库》以服务于教育科研机构的专业人员为宗旨，提供专业优质的数字图书资源、高效便捷的知识服务，满足各个层次的专业人士和广大用户对权威、经典、实用科技知识的需求。该库15个学科辑覆盖自然科学、工程与技术科学、人文与社会科学、医药科学、农业",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://book.sciencereading.cn/&wfwfid=3264&sign=cce982a4ebde4511e4b3bbceb7a34be1",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://book.sciencereading.cn/&wfwfid=3264&sign=cce982a4ebde4511e4b3bbceb7a34be1"
+ },
+ {
+  "name": "万方视频",
+  "category": "音视频资源",
+  "desc": "《万方视频》收录视频资源92余万分钟，包含高校课程、学术讲座、学术会议报告、考试辅导、医学实践、管理讲座、科普视频、国外优秀视频、环球高清精选等各个板块。在科技、教育、文化板块中包括中小学教育、思政、党建、高校课程、学术讲座、健康教育、考试",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://video.wanfangdata.com.cn&wfwfid=3264&sign=df7df0a79a2a0e0310c8e7f02aca818c",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://video.wanfangdata.com.cn&wfwfid=3264&sign=df7df0a79a2a0e0310c8e7f02aca818c"
+ },
+ {
+  "name": "设计师之家",
+  "category": "音视频资源",
+  "desc": "《设计师之家》是中国图书馆学会阅读推广委员会主办的“全国‘图书馆杯’主题图像创意设计征集活动”赛事平台，是为响应《国务院关于推进文化创意和设计服务与相关产业融合发展的若干意见》，推动文化创意与创新设计产业快速发展，针对文化创意及设计爱好者推",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.51sjsj.com/&wfwfid=3264&sign=090215e7b500750b0c2cbb7b3c5066f5",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.51sjsj.com/&wfwfid=3264&sign=090215e7b500750b0c2cbb7b3c5066f5"
+ },
+ {
+  "name": "中科VIPExam考试学习资源库",
+  "category": "教育资源",
+  "desc": "《中科VIPExam考试学习资源数据库》(以下简称VIPExam数据库)是一套集日常学习、考核考评、交互体验、智能考场等功能于一体的教育资源库软件。VIPExam数据库目前涵盖英语类、计算机类、考研类、公务员类、财经类、司法类、医学类、工程",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.vipexam.cn/&wfwfid=3264&sign=4d750d1e47bbb36f7446f1b775a2193f",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.vipexam.cn/&wfwfid=3264&sign=4d750d1e47bbb36f7446f1b775a2193f"
+ },
+ {
+  "name": "中科AboutJob职业教育数据库",
+  "category": "教育资源",
+  "desc": "《中科AboutJob职业教育数据库》（简称“中科职教数据库”）以视频课程为核心资源，包含思政教育、职业技能和专业知识三个子库和“党史学习教育”专题库，聚焦职业精神、职业技能、职业知识的有机融合，提供泛在学习、专项练习、效能分析等实用功能。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.aboutjob.cn/&wfwfid=3264&sign=ffce70fed1800380037c3b183901a681",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.aboutjob.cn/&wfwfid=3264&sign=ffce70fed1800380037c3b183901a681"
+ },
+ {
+  "name": "中科JobLib就业创业知识数据库",
+  "category": "教育资源",
+  "desc": "《中科JobLib就业创业知识总库》为学生提供就业相关视频课程学习、就业政策与资讯、技能操作与职业能力测评等资源，配合就业全流程场景服务、专业大数据分析、职业倾向测试、学习过程分析、简历与面试指导、交流互动等环节，既是为大学生服务的系统化职",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.joblib.cn/&wfwfid=3264&sign=1cfd3256d0b0350c4d078536f0d1f212",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.joblib.cn/&wfwfid=3264&sign=1cfd3256d0b0350c4d078536f0d1f212"
+ },
+ {
+  "name": "中华诗词库",
+  "category": "少儿资源",
+  "desc": "《中华诗词库》是集文献、阅读、鉴赏、竞赛为一体的传统文化诗词学习平台，整合了从周、秦汉、三国、晋、南北朝、隋、唐、五代、宋、金、元、明清、现代等不同朝代作者的诗词作品。平台包含精品课堂、诗图、书法鉴赏等专题内容，将诗词曲赋、经典诵读、名家配",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://zhsckpc.cxcwwlkj.com/?tokenAuth%3DMjcyMDU0MjkxODY1NDA3NDg4Y3hjdzIwMjAy&wfwfid=3264&sign=e4ae3fe3a5a87d131042bc8cd3aef31b",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://zhsckpc.cxcwwlkj.com/?tokenAuth%3DMjcyMDU0MjkxODY1NDA3NDg4Y3hjdzIwMjAy&wfwfid=3264&sign=e4ae3fe3a5a87d131042bc8cd3aef31b"
+ },
+ {
+  "name": "晨星历史故事库",
+  "category": "少儿资源",
+  "desc": "《晨星历史故事库》是一款针对青少年了解五千年历史的故事集，包含春秋故事、战国故事、晋和南北朝故事、五代十国故事、历史典故、人物等故事锦集。内容包括经典故事、成语故事、历史典故、智慧故事、榜样人物、巾帼英雄、历史人物、一带一路共八大模块内容，",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://lsgskpc.cxcwwlkj.com&wfwfid=3264&sign=490fce459321b97505b0f874bc227550",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://lsgskpc.cxcwwlkj.com&wfwfid=3264&sign=490fce459321b97505b0f874bc227550"
+ },
+ {
+  "name": "翼狐设计学习资源库",
+  "category": "音视频资源",
+  "desc": "《翼狐设计学习库》是功能强大的免费设计类课程视频资源库，能满足不同用户的学习需求。库内包含 PS、AI、PR 等 55 + 设计软件的案例教学课程，无论是三维动画、游戏制作等 9 大设计行业从业者，还是营销策划、工商管理等非设计行业人员，都",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://passport.yiihuu.com/js-api-lib.php?method%3Dyiihuu.login%26account%3Dscslib%26password%3Dscslib2019&wfwfid=3264&sign=6570e38be333dc27709d904293ccaff9",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://passport.yiihuu.com/js-api-lib.php?method%3Dyiihuu.login%26account%3Dscslib%26password%3Dscslib2019&wfwfid=3264&sign=6570e38be333dc27709d904293ccaff9"
+ },
+ {
+  "name": "中华连环画数字图书馆",
+  "category": "少儿资源",
+  "desc": "《中华连环画》是由教育部教育信息管理中心与神州共享（北京）文化传媒有限公司联合开发的。资源涵盖《四大名著》、《成语典故》、《新中国建设》等8大主题阅览室1500多册经典数字连环画。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.zhlhh.com/scslib/&wfwfid=3264&sign=45d2953a1c0bb273ce4d2de2b9c701e4",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.zhlhh.com/scslib/&wfwfid=3264&sign=45d2953a1c0bb273ce4d2de2b9c701e4"
+ },
+ {
+  "name": "少儿多媒体图书馆",
+  "category": "少儿资源",
+  "desc": "《少儿多媒体图书馆》资源总量达到16000余篇，分别从幼教、绘本、绘本导读、语文、数学、英语、舞蹈、音乐、美术、百科、科学探索、诗词、国学等多方面对少儿的兴趣、成长进行培养教育。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://kids.bjadks.com/&wfwfid=3264&sign=de88b709bcf730cc93e0f645a8cae7ba",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://kids.bjadks.com/&wfwfid=3264&sign=de88b709bcf730cc93e0f645a8cae7ba"
+ },
+ {
+  "name": "贝贝国学",
+  "category": "少儿资源",
+  "desc": "《贝贝国学》是面向全国3至12岁少年儿童线上自主学习研发的，包含经典蒙学、四书五经、诗词歌赋、国学经典、传统文化、华夏瑰宝、名人古迹、互动专区八大板块。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.bbguoxue.com/?OrgCode%3D92S3SQ312&wfwfid=3264&sign=bf1978fb5ff511a1072474322935b7ce",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.bbguoxue.com/?OrgCode%3D92S3SQ312&wfwfid=3264&sign=bf1978fb5ff511a1072474322935b7ce"
+ },
+ {
+  "name": "智编牛",
+  "category": "少儿资源",
+  "desc": "《智编牛》面向4-16岁青少年儿童，提供编程创作平台，丰富的原创素材库资源，能够一站式学习与体验编程。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://zhibianniu.com/%23/?orgid%3D312&wfwfid=3264&sign=17e0c3f20f6f40de2d812cecbee50de0",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://zhibianniu.com/%23/?orgid%3D312&wfwfid=3264&sign=17e0c3f20f6f40de2d812cecbee50de0"
+ },
+ {
+  "name": "看展览",
+  "category": "教育资源",
+  "desc": "《看展览数字平台》是2014年创建的展览类资源整合数据平台，平台涵盖6大类300余个主题展览，包括天文地理历史人物等。",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.kanzhanlan.cn/sclib/&wfwfid=3264&sign=b5cf0eb6c8ca6a51148b7ec6587e1cf3",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.kanzhanlan.cn/sclib/&wfwfid=3264&sign=b5cf0eb6c8ca6a51148b7ec6587e1cf3"
+ },
+ {
+  "name": "推广工程网络书香讲坛",
+  "category": "共享资源",
+  "desc": "暂无简介",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.ndlib.cn/&wfwfid=3264&sign=edf786df9c58562c58c823b5a6e23034",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.ndlib.cn/&wfwfid=3264&sign=edf786df9c58562c58c823b5a6e23034"
+ },
+ {
+  "name": "四川省政府信息公开",
+  "category": "共享资源",
+  "desc": "暂无简介",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sc.gov.cn/10462/wza2012/zwxx/zwxx.shtml&wfwfid=3264&sign=b96f8c1962b05ecb4439b211b6bf51ce",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sc.gov.cn/10462/wza2012/zwxx/zwxx.shtml&wfwfid=3264&sign=b96f8c1962b05ecb4439b211b6bf51ce"
+ },
+ {
+  "name": "国家少儿图书馆",
+  "category": "共享资源",
+  "desc": "暂无简介",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://kids.nlc.cn/&wfwfid=3264&sign=9b3a75d18d9f22255d2afa21a112018c",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://kids.nlc.cn/&wfwfid=3264&sign=9b3a75d18d9f22255d2afa21a112018c"
+ },
+ {
+  "name": "中少动画资源库",
+  "category": "共享资源",
+  "desc": "暂无简介",
+  "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://202.106.125.154:92/&wfwfid=3264&sign=d0d30347a3e11aa4ef080dd31839a088",
+  "proxy_url": "/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://202.106.125.154:92/&wfwfid=3264&sign=d0d30347a3e11aa4ef080dd31839a088"
+ }
+]

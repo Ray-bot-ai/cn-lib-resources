@@ -1,0 +1,339 @@
+{
+ "id": "guangxi-prov",
+ "name": "广西壮族自治区图书馆",
+ "level": "省级公共图书馆",
+ "region": "广西壮族自治区",
+ "verified": true,
+ "official_site": "https://www.gxlib.org.cn/",
+ "digital_resource_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+ "registration": {
+  "online": "yes",
+  "eligibility": "面向读者；身份证实名(人脸认证)或广西区内社保卡扫码免费注册电子证",
+  "cost": "免费",
+  "how": "官网左上角『我的图书馆』→注册，或微信『广西壮族自治区图书馆』公众号→我的图书馆→在线注册，选身份证实名注册(需人脸认证)免费办电子证；广西区内社保卡可扫码注册GM免费证。电子证号=身份证号，初始密码=出生年月日8位。登录数字资源平台(res.gxlib.org.cn)即用全量资源。",
+  "tutorial_url": "https://register.gxlib.org.cn/opac/help.pdf",
+  "notes": "官网支持纯线上注册电子证(人脸认证)访问数字资源平台，故判 yes。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-14d1f8cb",
+   "raw_name": "e线图情",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：报刊；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-a858258c",
+   "raw_name": "八桂讲坛",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：影视；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-f9beff54",
+   "raw_name": "博看数据库",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：报刊，图书；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-5ff6acb5",
+   "raw_name": "超星数字图书馆",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：图书；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-fcf36d9f",
+   "raw_name": "鼎秀古籍全文检索平台",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：图书；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-6e2d6313",
+   "raw_name": "读秀知识库系统",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：报刊，图书，学位、会议论文；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-2bded523",
+   "raw_name": "馆藏纸质文献",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：报刊，图书；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-61d512f2",
+   "raw_name": "广西民国照片",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：图片；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-26ff80d7",
+   "raw_name": "广西民族民俗",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：影视；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-7d8831d3",
+   "raw_name": "广西图书馆界",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：报刊；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-88866e00",
+   "raw_name": "广西文物库",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：影视，图片；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-b90086a0",
+   "raw_name": "广西戏剧动漫库",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：影视，图片；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-fcadf54d",
+   "raw_name": "科学文库",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：；试用资源；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-a721c545",
+   "raw_name": "龙源电子期刊阅览室",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：报刊；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-62d2bc23",
+   "raw_name": "鲁迅手稿数据库",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：；试用资源；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-2010bd59",
+   "raw_name": "民国图书数据库",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：图书；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-abf43f1e",
+   "raw_name": "名师讲坛",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：影视；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-662e24b3",
+   "raw_name": "全国报刊索引-民国期刊报纸等",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：报刊；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-49457050",
+   "raw_name": "人大复印报刊全文数据库",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：报刊；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-21382a24",
+   "raw_name": "少儿新语数字图书馆",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：图书；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-fcfc093a",
+   "raw_name": "设计师之家数字图书馆",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：工具类；试用资源；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-0682c66e",
+   "raw_name": "书香广西",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：图书；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-52f9a497",
+   "raw_name": "台湾学术期刊(TWS)在线数据库",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：报刊；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-18b2bc14",
+   "raw_name": "台湾学位论文(airitilibrary)数据库",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：学位、会议论文；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-ea925f15",
+   "raw_name": "万方数据",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：报刊，学位、会议论文，专利、标准；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-8812b70a",
+   "raw_name": "维普中文科技期刊数据库",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：报刊；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-66308c97",
+   "raw_name": "喜马拉雅有声图书馆",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：图书，音乐；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-b691a99d",
+   "raw_name": "芯经典阅读平台",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：；试用资源；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-bd6a78b5",
+   "raw_name": "新语数字图书馆-有声读物",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：图书；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-b4b5fb58",
+   "raw_name": "优质图书资源全民阅读服务平台",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：；试用资源；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-39902447",
+   "raw_name": "云图数字有声图书馆",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：图书；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-63d15a9e",
+   "raw_name": "掌阅精选",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-e49b5587",
+   "raw_name": "职业全能培训库",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：影视；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-2da04f99",
+   "raw_name": "中国历代方志集（1368-1949）",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：图书，工具类；试用资源；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-159d743a",
+   "raw_name": "中国历代方志集（1949-）",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：图书，工具类；试用资源；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-3825edb1",
+   "raw_name": "中国社会科学文库",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：；试用资源；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-51b2d0e9",
+   "raw_name": "中国生物志库",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：；试用资源；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-6f9d0af5",
+   "raw_name": "中国知网（CNKI）总库",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：报刊，学位、会议论文，数值事实，工具类；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-416b6c63",
+   "raw_name": "中宏领导决策支持",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：数值事实；官网未逐库明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-e8708741",
+   "raw_name": "中华连环画",
+   "access_url": "https://res.gxlib.org.cn/ermsClient/browse.do",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西馆数字资源平台(ERMS)资源类型：图书；官网未逐库明文声明馆内/馆外访问方式"
+  }
+ ]
+}

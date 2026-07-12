@@ -1,0 +1,340 @@
+{
+ "_说明": "重庆图书馆，2026-07-12 人工核对并更新。数字资源全量清单来自数字资源平台(cqlib.erlist.cn)，共40条。注册方式经人工核实：全国用户均可微信小程序或支付宝注册。",
+ "id": "chongqing-prov",
+ "name": "重庆图书馆",
+ "level": "省级公共图书馆",
+ "region": "重庆市",
+ "verified": true,
+ "official_site": "https://www.cqlib.cn/",
+ "digital_resource_url": "https://cqlib.erlist.cn/",
+ "registration": {
+  "online": "yes",
+  "eligibility": "全国读者均可线上注册",
+  "cost": "免押金",
+  "how": "微信小程序『重庆图书馆』或支付宝均可在线注册电子读者证",
+  "tutorial_url": "https://www.cqlib.cn/web/column/col5003515.html",
+  "notes": "全国用户均可从微信小程序或支付宝注册。原仅限川渝，现已扩展至全国。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-8e7dfc00",
+   "raw_name": "万方数据知识服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-f3c553e1",
+   "raw_name": "维普中文科技期刊",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-26b63c73",
+   "raw_name": "超星汇雅电子书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-4d34689c",
+   "raw_name": "畅想之星电子书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-c4a88600",
+   "raw_name": "超星名师讲坛",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-0ab3c1af",
+   "raw_name": "中华经典古籍库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-65531427",
+   "raw_name": "博看期刊",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-36aef4ad",
+   "raw_name": "笔杆网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-0498411a",
+   "raw_name": "全国报刊索引数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-5375495e",
+   "raw_name": "乐儿智慧王国",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-83237514",
+   "raw_name": "QQ阅读",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-adbe30e4",
+   "raw_name": "北大法宝数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-331712b9",
+   "raw_name": "KES外文检索平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-7f3aeeb3",
+   "raw_name": "学科网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn). 官网标注：馆内访问"
+  },
+  {
+   "canonical_id": "r-24806bc8",
+   "raw_name": "新东方双语阅读",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-7d45fac7",
+   "raw_name": "京东读书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-4b49f333",
+   "raw_name": "公共学习服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-24fbb863",
+   "raw_name": "中文在线",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-a1716a4e",
+   "raw_name": "赛阅-OverDrive(需单独登录)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-e87a8a8d",
+   "raw_name": "无障碍影音数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn). 官网标注：试用"
+  },
+  {
+   "canonical_id": "r-7d2c4513",
+   "raw_name": "问典民国图书数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-d73490ee",
+   "raw_name": "中国知网(CNKI)资源总库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-71227cb1",
+   "raw_name": "读秀学术搜索",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-53e213dd",
+   "raw_name": "国务院发展研究中心信息网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-9006192d",
+   "raw_name": "龙源期刊网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-e8708741",
+   "raw_name": "中华连环画",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-39902447",
+   "raw_name": "云图数字有声图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-8c19ff3a",
+   "raw_name": "看展览数字平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-c77db767",
+   "raw_name": "皮书数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-4d50354f",
+   "raw_name": "万方数据库-地方志数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-37e154d0",
+   "raw_name": "爱读宝",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-57e9c30f",
+   "raw_name": "业科技创新服务平台区域创新版",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-989a6b9e",
+   "raw_name": "中国近代影像资料",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-2ac9417a",
+   "raw_name": "中少快乐阅读平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-92e2d8cb",
+   "raw_name": "掌阅电子书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-068d883f",
+   "raw_name": "重庆图书馆民国文献数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-f71217b3",
+   "raw_name": "重庆图书馆民国方志数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-3e8efd69",
+   "raw_name": "重庆图书馆知识图谱数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-e0cc204d",
+   "raw_name": "重庆图书馆家谱数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  },
+  {
+   "canonical_id": "r-6c1f913f",
+   "raw_name": "智慧图书馆知识发布系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自重庆图书馆数字资源平台(cqlib.erlist.cn)."
+  }
+ ]
+}

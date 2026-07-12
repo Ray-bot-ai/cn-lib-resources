@@ -1,0 +1,620 @@
+{
+ "id": "anhui-prov",
+ "name": "安徽省图书馆",
+ "level": "省级公共图书馆",
+ "region": "安徽省",
+ "verified": true,
+ "official_site": "https://www.lib.ah.cn/",
+ "digital_resource_url": "https://szzy.ahlib.com:8099/portal/",
+ "registration": {
+  "online": "yes",
+  "eligibility": "全国读者可通过支付宝信用证办理（芝麻信用≥550分）；安徽省社保卡可在线开通；实体证需到馆",
+  "cost": "支付宝信用证/社保卡信用证免押金；实体借阅证需押金（到馆办）",
+  "how": "支付宝搜索『安徽省图书馆生活号』免押金办信用证（电子证），或用安徽省社保卡经皖事通/属地平台在线开通，或安徽省图书馆App办电子证。官网初始密码说明可能不准，可\"忘记密码\"重设。办证后凭读者证号登录数字资源远程访问系统在馆外使用全部数字资源。",
+  "tutorial_url": "https://www.lib.ah.cn/",
+  "notes": "远程访问系统登录账号=读者证号（支付宝信用证/社保卡信用证账号为身份证号）；系统设单用户单日流量上限默认500MB。实体证到西一楼办证处办理。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-8bcbabe8",
+   "raw_name": "中国知网",
+   "access_url": "https://www-cnki-net-s.ycfw.ahlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-b493a836",
+   "raw_name": "智通达电子书",
+   "access_url": "https://ahlib.zhitongda.cn/opac/reads",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-07faac00",
+   "raw_name": "可知电子书",
+   "access_url": "https://www.keledge.com",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-d4ead02d",
+   "raw_name": "裕垚源健康素养中心",
+   "access_url": "https://www.yyyask.com:8088/?orgId=1683298777398456322",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-0b5ff0c7",
+   "raw_name": "“知识视界”视频图书馆",
+   "access_url": "http://www.libvideo.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-fc21fe92",
+   "raw_name": "e博在线",
+   "access_url": "http://pc.yibo365.net",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-3b56fa4e",
+   "raw_name": "博看元阅读",
+   "access_url": "http://box.bookan.com.cn/?org_id=25",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-c00a8dc0",
+   "raw_name": "抗战老兵电子书库",
+   "access_url": "https://4mjq5y13.mh.chaoxing.com/app/universal-search/1/more?searchId=97bf1d8a45934311ee1acc27af550f804084&wfwfid=2653&entryType=2&websiteId=439892&pageId=825692&uid=109141504",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-65531427",
+   "raw_name": "博看期刊",
+   "access_url": "http://zq.bookan.com.cn/?t=index&id=22327",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-fcf36d9f",
+   "raw_name": "鼎秀古籍全文检索平台",
+   "access_url": "http://www.ding-xiu.com",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-8364aaa9",
+   "raw_name": "畅想之星馆配电子书平台",
+   "access_url": "http://www.cxstar.com/ahlib.htm",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-5375495e",
+   "raw_name": "乐儿智慧王国",
+   "access_url": "http://ahsy.atleer.com.ycfw.ahlib.com",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-104a4654",
+   "raw_name": "龙源期刊",
+   "access_url": "http://ahstsg.dps.qikan.cn.ycfw.ahlib.com/pc",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-c77db767",
+   "raw_name": "皮书数据库",
+   "access_url": "https://www.pishu.com.cn",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-65ea0ebc",
+   "raw_name": "画说传统",
+   "access_url": "http://www.comiccc.com.ycfw.ahlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-462698c3",
+   "raw_name": "启航互动+简笔画",
+   "access_url": "http://qhhd.online.ycfw.ahlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-8ba76cd4",
+   "raw_name": "哪吒看书少儿云图书馆",
+   "access_url": "https://nezhakid.cn/?org_id=340000",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-af56de0a",
+   "raw_name": "MTrends专利库",
+   "access_url": "https://webpat-learningtech-com-cn-s.ycfw.ahlib.com/webpat/index.cshtml",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-5bb42ec1",
+   "raw_name": "全国报刊索引",
+   "access_url": "https://www-cnbksy-com-s.ycfw.ahlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-af680606",
+   "raw_name": "普法学习平台",
+   "access_url": "http://www.sslawy.com.ycfw.ahlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-83f52797",
+   "raw_name": "维普全文期刊",
+   "access_url": "http://qikan.cqvip.com.ycfw.ahlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-52ffb56b",
+   "raw_name": "慧科资讯报纸",
+   "access_url": "https://login.wisers.net/?fromUrl=https://vertical-new-search.wisersone.com&clang=zh-zh&ipAccessType=2&groupId=ahlibcn&user=ipaccess",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-89f87391",
+   "raw_name": "超星期刊",
+   "access_url": "http://qikan.chaoxing.com.ycfw.ahlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-ffa84d51",
+   "raw_name": "超星少儿绘本",
+   "access_url": "http://shaoerhuiben.chaoxing.com.ycfw.ahlib.com/?siteId=423",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-c4a88600",
+   "raw_name": "超星名师讲坛",
+   "access_url": "https://ssvideo-superlib-com-s.ycfw.ahlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-71227cb1",
+   "raw_name": "读秀学术搜索",
+   "access_url": "https://www-duxiu-com-s.ycfw.ahlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-bc5c872b",
+   "raw_name": "超星图书",
+   "access_url": "https://www-sslibrary-com-s.ycfw.ahlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-53cfe89a",
+   "raw_name": "安徽省图书馆看展览数字平台",
+   "access_url": "http://www.kanzhanlan.cn.ycfw.ahlib.com/ahlib/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-bca01627",
+   "raw_name": "风暴实验室",
+   "access_url": "http://stormlab.com.cn/Account/UrlLogin?token=7728b8d1-8236-4721-9dd9-d8eb2f8e23a3",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-823a0a05",
+   "raw_name": "中华连环画数字阅读馆",
+   "access_url": "http://www.zhlhh.com/ahslib",
+   "scope": "",
+   "access_method": "",
+   "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
+  },
+  {
+   "canonical_id": "r-c32f9bc7",
+   "raw_name": "黄梅戏",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=40019183003815751",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-ad6d04d5",
+   "raw_name": "万象徽韵",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30041313003815702",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-60345bb3",
+   "raw_name": "刘铭传的故事",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=40019183003815680",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-51e40975",
+   "raw_name": "安图微课堂——红色安徽（一期）",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=40019183003815681",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-a7f5a0e4",
+   "raw_name": "热土家园",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=40019183003815614",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-995839fa",
+   "raw_name": "刘铭传在台湾",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=40019183003815526",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-c457a1ac",
+   "raw_name": "安徽刻书",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30041313003815691",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-c4c82c3e",
+   "raw_name": "安徽家谱",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=40019183003815743",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-7bc152b9",
+   "raw_name": "安徽非遗",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30038473003815607",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-b1875b22",
+   "raw_name": "成语安徽",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30041313003815703",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-8f371250",
+   "raw_name": "微视频慕课",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30041313003815635",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-dc69eb82",
+   "raw_name": "中国儿童珠算",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30041313003815634",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-eafcaca1",
+   "raw_name": "红色经典",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30040453003815730",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-faa8010c",
+   "raw_name": "徽州建筑",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30040193003815531",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-08c1a6b7",
+   "raw_name": "徽派建筑",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30040193003815530",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-0d2016d0",
+   "raw_name": "光辉烈士县",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30040193003815529",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-42c140a1",
+   "raw_name": "馆藏历史人物手札",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30040193003815528",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-fcb3df0c",
+   "raw_name": "烽火江淮",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30040193003815527",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-ae442fb9",
+   "raw_name": "安徽花鼓灯",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30040193003815526",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-9958e8b6",
+   "raw_name": "安徽馆藏文物",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30040193003815525",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-3b049d51",
+   "raw_name": "安徽美术",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30040193003815524",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-43850c38",
+   "raw_name": "大黄山",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30040193003815523",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-a0fd1d3e",
+   "raw_name": "星火燎原",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30038473003815605",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-b9c83db1",
+   "raw_name": "安图宣传片",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30038473003815604",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-e6512ee1",
+   "raw_name": "安图快闪",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30038473003815603",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-fb6fa727",
+   "raw_name": "听见中国声音-2020长三角有声阅读联盟",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30038473003815602",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-c103eba1",
+   "raw_name": "双百人物中的安徽人",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30038473003815601",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-a6b32330",
+   "raw_name": "洪学智将军纪念馆巡礼",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30038473003815600",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-3d533033",
+   "raw_name": "安徽民间工艺",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30038473003815599",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-d21760eb",
+   "raw_name": "安徽历史文化名城",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30038473003815598",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-d19282f4",
+   "raw_name": "安徽红色记忆",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30038473003815597",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-deb94052",
+   "raw_name": "将军的摇篮",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30038473003815596",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-ecf274d3",
+   "raw_name": "我爱你中国",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30038473003815595",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-87106781",
+   "raw_name": "飘扬的红领巾",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30038473003815594",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-52cb1b3a",
+   "raw_name": "安徽文化名人",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30038473003815589",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-ae9262d8",
+   "raw_name": "安徽旅游",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30038473003815586",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-fe55b807",
+   "raw_name": "安徽戏曲",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30038473003815583",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-3347eeb0",
+   "raw_name": "安徽古建筑",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30038473003815576",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-7ef2a979",
+   "raw_name": "我们渡江啦",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30041313003815633",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-75ab6955",
+   "raw_name": "江与淮",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=30041313003815636",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-c081a340",
+   "raw_name": "2022年图书馆公开课",
+   "access_url": "https://szzy.ahlib.com:8099/portal/specialdetail?columnId=40019183003815613",
+   "scope": "",
+   "access_method": "",
+   "notes": "馆藏特色自建库（专题资源）"
+  },
+  {
+   "canonical_id": "r-c05b987e",
+   "raw_name": "安徽地方戏曲数据库",
+   "access_url": "https://ahlib.dulianti.com.cn/diancang/list?columnId=40019183003815529",
+   "scope": "",
+   "access_method": "",
+   "notes": "地方文献专题库（读联体平台）"
+  },
+  {
+   "canonical_id": "r-11dc6d56",
+   "raw_name": "地方文献书目数据库",
+   "access_url": "https://ahlib.dulianti.com.cn/diancang/list?columnId=30041313003815689",
+   "scope": "",
+   "access_method": "",
+   "notes": "地方文献专题库（读联体平台）"
+  },
+  {
+   "canonical_id": "r-48e3623c",
+   "raw_name": "馆藏廉政书目数据库",
+   "access_url": "https://ahlib.dulianti.com.cn/diancang/list?columnId=30041313003815627",
+   "scope": "",
+   "access_method": "",
+   "notes": "地方文献专题库（读联体平台）"
+  },
+  {
+   "canonical_id": "r-c66dc766",
+   "raw_name": "安徽家谱文献数据库",
+   "access_url": "http://ahjp.ahlib.com:8011/",
+   "scope": "",
+   "access_method": "",
+   "notes": "家谱文献独立平台（官网菜单入口）"
+  }
+ ],
+ "_说明": "安徽省图书馆，2026-07-12 采集并人工核对。数字资源来自远程访问系统。注册方式经人工核实：支付宝信用证+社保卡均可线上办。"
+}

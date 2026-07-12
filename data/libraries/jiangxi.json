@@ -1,0 +1,731 @@
+{
+ "id": "jiangxi-prov",
+ "name": "江西省图书馆",
+ "level": "省级公共图书馆",
+ "region": "江西省",
+ "verified": true,
+ "official_site": "https://www.jxlibrary.net/",
+ "digital_resource_url": "https://www.jxlibrary.net/utils/resalllist.html",
+ "registration": {
+  "online": "yes",
+  "eligibility": "全国读者（支付宝芝麻信用≥550分可在线办电子借阅证）；16周岁以上凭身份证可到馆自助办证",
+  "cost": "免费（信用办证免押金，每人限办1张）",
+  "how": "支付宝搜索并关注『江西省图书馆生活号』小程序→『在线办证/小程序在线办证』→芝麻信用办证（≥550分）生成电子借阅证；办证后用读者证号（=身份证号，初始密码为出生年月日8位）登录官网 www.jxlibrary.net 或微信公众号『数字资源』栏目免费访问全部数字资源",
+  "tutorial_url": "https://www.jxlibrary.net/channels/66.html",
+  "notes": "数字资源需持证读者登录后访问（gwfw.jxlibrary.net 统一认证）；官网『全部资源』页(utils/resalllist.html)列出全量。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-9a6aa5c9",
+   "raw_name": "国家外文文献共享平台",
+   "access_url": "https://wdss.nlc.cn",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-a9237fcb",
+   "raw_name": "数字连环画阅览室",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=429",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-3e46aa6a",
+   "raw_name": "阅见经典-优质图书资源全民阅读平台",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=424",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-573e395e",
+   "raw_name": "中国学术辑刊全文数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=423",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-f4623c74",
+   "raw_name": "中国重要报纸全文数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=422",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-52653bd6",
+   "raw_name": "元阅读",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=324",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-eba39d57",
+   "raw_name": "中国历史文献总库·红色文献数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=395",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-89f87391",
+   "raw_name": "超星期刊",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=17",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-449e92e5",
+   "raw_name": "汇雅电子书",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=297",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-d955662c",
+   "raw_name": "博看人文社科期刊数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=87",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-8812b70a",
+   "raw_name": "维普中文科技期刊数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=71",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-83237514",
+   "raw_name": "QQ阅读",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=284",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-c049937f",
+   "raw_name": "懒人听书",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=285",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-89345ce4",
+   "raw_name": "云图有声",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=277",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-a721c545",
+   "raw_name": "龙源电子期刊阅览室",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=383",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-3825edb1",
+   "raw_name": "中国社会科学文库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=364",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-a1aa477c",
+   "raw_name": "书香中国",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=313",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-573c1f8c",
+   "raw_name": "中国历史文献总库·近代报纸数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=356",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-4d4d154e",
+   "raw_name": "中国历史文献总库·民国图书数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=355",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-63d15a9e",
+   "raw_name": "掌阅精选",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=386",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子书刊"
+  },
+  {
+   "canonical_id": "r-e4985054",
+   "raw_name": "中国音网歌舞库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=432",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：影音艺术"
+  },
+  {
+   "canonical_id": "r-a96e00ab",
+   "raw_name": "中国音网戏曲库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=431",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：影音艺术"
+  },
+  {
+   "canonical_id": "r-95dabbf4",
+   "raw_name": "中国服饰文化库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=377",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：影音艺术"
+  },
+  {
+   "canonical_id": "r-c9e25cc8",
+   "raw_name": "居家生活馆数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=291",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：影音艺术"
+  },
+  {
+   "canonical_id": "r-e0e67309",
+   "raw_name": "知识视界视频图书馆",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=274",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：影音艺术"
+  },
+  {
+   "canonical_id": "r-8d06a198",
+   "raw_name": "数字展览平台",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=143",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：影音艺术"
+  },
+  {
+   "canonical_id": "r-07e25042",
+   "raw_name": "中国近代影像资料库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=365",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：影音艺术"
+  },
+  {
+   "canonical_id": "r-6967b532",
+   "raw_name": "艺术维基·全球艺术资源库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=387",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：影音艺术"
+  },
+  {
+   "canonical_id": "r-83e81cb4",
+   "raw_name": "中华传统连环画数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=174",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：影音艺术"
+  },
+  {
+   "canonical_id": "r-d104bf0c",
+   "raw_name": "知识视界红色经典专题库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=391",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：影音艺术"
+  },
+  {
+   "canonical_id": "r-018ba1c4",
+   "raw_name": "大雅相似度检测库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=436",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：科研论文"
+  },
+  {
+   "canonical_id": "r-57c70289",
+   "raw_name": "人大复印报刊资料库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=183",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：科研论文"
+  },
+  {
+   "canonical_id": "r-6e2d6313",
+   "raw_name": "读秀知识库系统",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=26",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：科研论文"
+  },
+  {
+   "canonical_id": "r-8e7dfc00",
+   "raw_name": "万方数据知识服务平台",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=72",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：科研论文"
+  },
+  {
+   "canonical_id": "r-1ce8d4f9",
+   "raw_name": "中国知识资源总库（中国知网CNKI）",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=178",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：科研论文"
+  },
+  {
+   "canonical_id": "r-657a91af",
+   "raw_name": "知识视界智库系统",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=437",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：工具索引"
+  },
+  {
+   "canonical_id": "r-f3137586",
+   "raw_name": "中国政府文献信息库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=433",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：工具索引"
+  },
+  {
+   "canonical_id": "r-cd1f5a40",
+   "raw_name": "维普科创助手",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=418",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：工具索引"
+  },
+  {
+   "canonical_id": "r-fd680fbe",
+   "raw_name": "产业科技创新服务平台",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=412",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：工具索引"
+  },
+  {
+   "canonical_id": "r-520a9667",
+   "raw_name": "慧炬专利情报分析平台",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=410",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：工具索引"
+  },
+  {
+   "canonical_id": "r-f885efdf",
+   "raw_name": "非物质文化遗产库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=411",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：工具索引"
+  },
+  {
+   "canonical_id": "r-7ab07a8a",
+   "raw_name": "AI聚合服务平台",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=414",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：工具索引"
+  },
+  {
+   "canonical_id": "r-27504630",
+   "raw_name": "北大法宝",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=369",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：工具索引"
+  },
+  {
+   "canonical_id": "r-9138c0f4",
+   "raw_name": "混合科普立体书数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=396",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：工具索引"
+  },
+  {
+   "canonical_id": "r-e8be2730",
+   "raw_name": "百链云图书馆",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=13",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：工具索引"
+  },
+  {
+   "canonical_id": "r-65c28fc6",
+   "raw_name": "阅读推广资源库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=296",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：工具索引"
+  },
+  {
+   "canonical_id": "r-5e81932b",
+   "raw_name": "国研网",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=336",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：工具索引"
+  },
+  {
+   "canonical_id": "r-33280a5e",
+   "raw_name": "i图情知识服务平台",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=357",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：工具索引"
+  },
+  {
+   "canonical_id": "r-d4bf617e",
+   "raw_name": "裕垚源健康素养数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=348",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：工具索引"
+  },
+  {
+   "canonical_id": "r-2be858d3",
+   "raw_name": "求索党建云",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=390",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：工具索引"
+  },
+  {
+   "canonical_id": "r-2257d0dd",
+   "raw_name": "知心心理服务平台",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=337",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：工具索引"
+  },
+  {
+   "canonical_id": "r-80e8f96e",
+   "raw_name": "起点公考网",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=441",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：职业教育"
+  },
+  {
+   "canonical_id": "r-f91311a9",
+   "raw_name": "起点考研网",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=421",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：职业教育"
+  },
+  {
+   "canonical_id": "r-a81027e8",
+   "raw_name": "起点考试网",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=420",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：职业教育"
+  },
+  {
+   "canonical_id": "r-c7b910b7",
+   "raw_name": "上岸考研网",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=416",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：职业教育"
+  },
+  {
+   "canonical_id": "r-a6133042",
+   "raw_name": "名师讲坛每天30分钟讲座",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=261",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：职业教育"
+  },
+  {
+   "canonical_id": "r-d8f299fc",
+   "raw_name": "计算机技自助式网络视频学习系统",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=260",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：职业教育"
+  },
+  {
+   "canonical_id": "r-1712b5c4",
+   "raw_name": "蔚秀报告厅",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=194",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：职业教育"
+  },
+  {
+   "canonical_id": "r-fa7bdacf",
+   "raw_name": "维普考试服务平台",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=192",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：职业教育"
+  },
+  {
+   "canonical_id": "r-e49b5587",
+   "raw_name": "职业全能培训库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=298",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：职业教育"
+  },
+  {
+   "canonical_id": "r-932a8c35",
+   "raw_name": "博学易知考试数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=361",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：职业教育"
+  },
+  {
+   "canonical_id": "r-c4acbbaf",
+   "raw_name": "博学易知医考数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=360",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：职业教育"
+  },
+  {
+   "canonical_id": "r-8998ee4f",
+   "raw_name": "博学易知考研数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=359",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：职业教育"
+  },
+  {
+   "canonical_id": "r-267ae50c",
+   "raw_name": "上岸考公网",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=362",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：职业教育"
+  },
+  {
+   "canonical_id": "r-95cf2b82",
+   "raw_name": "AI素养与技能提升数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=349",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：职业教育"
+  },
+  {
+   "canonical_id": "r-5a89a89a",
+   "raw_name": "新东方多媒体学习库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=228",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：职业教育"
+  },
+  {
+   "canonical_id": "r-63e5b7d5",
+   "raw_name": "全民数字素养与技能教育资源库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=287",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：职业教育"
+  },
+  {
+   "canonical_id": "r-f1006e61",
+   "raw_name": "英文绘本库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=434",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿科普"
+  },
+  {
+   "canonical_id": "r-e0e67309",
+   "raw_name": "知识视界视频图书馆",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=274",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿科普"
+  },
+  {
+   "canonical_id": "r-ad8c3784",
+   "raw_name": "中华传统文化诗词数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=175",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿科普"
+  },
+  {
+   "canonical_id": "r-7db92018",
+   "raw_name": "少儿4D AR与绘本阅读数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=251",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿科普"
+  },
+  {
+   "canonical_id": "r-c9f56db3",
+   "raw_name": "爱迪科森少儿多媒体图书馆",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=189",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿科普"
+  },
+  {
+   "canonical_id": "r-e4ebeb44",
+   "raw_name": "爱上简笔画",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=188",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿科普"
+  },
+  {
+   "canonical_id": "r-4266a07a",
+   "raw_name": "贝贝国学教育数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=384",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿科普"
+  },
+  {
+   "canonical_id": "r-76a25753",
+   "raw_name": "新东方素养微课堂（青少版）",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=279",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿科普"
+  },
+  {
+   "canonical_id": "r-e38adef4",
+   "raw_name": "汉字的故事教育数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=300",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿科普"
+  },
+  {
+   "canonical_id": "r-0b41272e",
+   "raw_name": "KaDa少儿故事绘本资源库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=276",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿科普"
+  },
+  {
+   "canonical_id": "r-772a75e0",
+   "raw_name": "课本旅行手绘资源库平台",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=325",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿科普"
+  },
+  {
+   "canonical_id": "r-1dce41d3",
+   "raw_name": "中国金石总录",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=438",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志古籍"
+  },
+  {
+   "canonical_id": "r-05679df7",
+   "raw_name": "中国地方志知识服务平台",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=413",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志古籍"
+  },
+  {
+   "canonical_id": "r-fb1fded9",
+   "raw_name": "江西省历史文献数字资源库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=409",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志古籍"
+  },
+  {
+   "canonical_id": "r-227bf159",
+   "raw_name": "中国历代人物",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=400",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志古籍"
+  },
+  {
+   "canonical_id": "r-b4cf4d67",
+   "raw_name": "中国近代文献数据总库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=312",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志古籍"
+  },
+  {
+   "canonical_id": "r-e7ee0595",
+   "raw_name": "江右文库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=350",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志古籍"
+  },
+  {
+   "canonical_id": "r-8cc18b84",
+   "raw_name": "中国数字方志库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=231",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志古籍"
+  },
+  {
+   "canonical_id": "r-3adade3d",
+   "raw_name": "中华古籍数字资源库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=196",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志古籍"
+  },
+  {
+   "canonical_id": "r-fad82b9b",
+   "raw_name": "中华古籍书目数据库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=235",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志古籍"
+  },
+  {
+   "canonical_id": "r-0ab3c1af",
+   "raw_name": "中华经典古籍库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=172",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志古籍"
+  },
+  {
+   "canonical_id": "r-af02e0d4",
+   "raw_name": "中国古籍图典资源库",
+   "access_url": "https://gwfw.jxlibrary.net/user/resource/visit?id=358",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志古籍"
+  }
+ ]
+}

@@ -1,0 +1,484 @@
+{
+ "_说明": "甘肃省图书馆，2026-07-12 人工核对并更新。数字资源全量清单来自官网逐条核对，共58条。注册方式经人工核实：微信公众号'云上甘图'（视频验证非常不灵敏）。",
+ "id": "gansu-prov",
+ "name": "甘肃省图书馆",
+ "level": "省级公共图书馆",
+ "region": "甘肃省",
+ "verified": true,
+ "official_site": "https://www.gslib.com.cn/",
+ "digital_resource_url": "https://www.gslib.com.cn/szzy/qbzy",
+ "registration": {
+  "online": "yes",
+  "eligibility": "全国读者",
+  "cost": "免费",
+  "how": "微信公众号'云上甘图'在线注册（注：视频验证非常不灵敏）",
+  "tutorial_url": "https://www.gslib.com.cn/gtgg/content_11990",
+  "notes": "微信公众号注册。部分数据库提供馆外公网账号密码直接访问。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-87d919c2",
+   "raw_name": "中国知网全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-09237540",
+   "raw_name": "万方期刊、学位、会议知识服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-98fc882a",
+   "raw_name": "人大报刊全文检索数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-d9f0629a",
+   "raw_name": "超星汇雅电子图书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-5bb42ec1",
+   "raw_name": "全国报刊索引",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-1ee1e79b",
+   "raw_name": "文旅产业融合发展信息平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-c180864c",
+   "raw_name": "金图外文原版数字图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-71227cb1",
+   "raw_name": "读秀学术搜索",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-aa50d8dc",
+   "raw_name": "乐儿数字资源平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-39902447",
+   "raw_name": "云图数字有声图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-da8ad333",
+   "raw_name": "维普中文期刊服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-e0e67309",
+   "raw_name": "知识视界视频图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "公网免登录",
+   "notes": "人工核对。馆外读者账号：LibTem，密码：lib8288"
+  },
+  {
+   "canonical_id": "r-af680606",
+   "raw_name": "普法学习平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "公网免登录",
+   "notes": "人工核对。馆外读者账号：814365@lawy.org，密码：23789669，机构编码：gsstsg"
+  },
+  {
+   "canonical_id": "r-ba491b77",
+   "raw_name": "库客音乐图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-5a89a89a",
+   "raw_name": "新东方多媒体学习库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-aec6a384",
+   "raw_name": "博看AI书苑",
+   "access_url": "",
+   "scope": "",
+   "access_method": "公网免登录",
+   "notes": "人工核对。馆外读者在登录页面先输入手机号注册，再绑定机构账号gslib即可使用"
+  },
+  {
+   "canonical_id": "r-fcadf54d",
+   "raw_name": "科学文库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-b6ba01fe",
+   "raw_name": "全民数字素养与技能教育数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。馆内注册登录后，馆外90天内可以免登陆使用"
+  },
+  {
+   "canonical_id": "r-4a3939c7",
+   "raw_name": "环球探索教育视频资源服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限内网使用"
+  },
+  {
+   "canonical_id": "r-841af5c4",
+   "raw_name": "古籍数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用，账号：gstsg，密码：123456dbs"
+  },
+  {
+   "canonical_id": "r-93df10ae",
+   "raw_name": "超星少儿绘本数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "公网免登录",
+   "notes": "人工核对。馆外登陆账号：gsstsg_4535，密码：gsstsg4535"
+  },
+  {
+   "canonical_id": "r-1b9553ee",
+   "raw_name": "掌阅精选-畅销精品电子图书平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-0768fdbf",
+   "raw_name": "书香甘肃省图",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用，用户名：书香甘肃省图，密码：123456"
+  },
+  {
+   "canonical_id": "r-87466e2f",
+   "raw_name": "超星发现系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。馆外登陆需首次在馆内使用时点击页面右下角个人账号注册，注册成功后馆外可登陆"
+  },
+  {
+   "canonical_id": "r-540cbcf1",
+   "raw_name": "中国引文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-abf43f1e",
+   "raw_name": "名师讲坛",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-caee0abf",
+   "raw_name": "中华优秀传统文化百科知识库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-4ce30562",
+   "raw_name": "中国党建知识资源总库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-caada5e9",
+   "raw_name": "中国基本古籍库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-a5812603",
+   "raw_name": "中国经济社会大数据研究平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-22b3a238",
+   "raw_name": "红色记忆专题资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-0cbfa796",
+   "raw_name": "网上报告厅多媒体数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-7f80fe40",
+   "raw_name": "中华诗词库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-ba13df00",
+   "raw_name": "国学绘本数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内访问"
+  },
+  {
+   "canonical_id": "r-259de657",
+   "raw_name": "少儿多媒体阅读平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-8c19ff3a",
+   "raw_name": "看展览数字平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-1dce41d3",
+   "raw_name": "中国金石总录",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-87496c44",
+   "raw_name": "中华连环画数字阅览室",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-781bbca6",
+   "raw_name": "中国大百科全书数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-e86d332a",
+   "raw_name": "博看AI智能体聚合平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-e93e63aa",
+   "raw_name": "数字教育双百工程",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-c0bf54ca",
+   "raw_name": "中国传统书法百科系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-c90b35c7",
+   "raw_name": "一带一路研究与决策支撑平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "人工核对。限馆内使用"
+  },
+  {
+   "canonical_id": "r-e3da83c3",
+   "raw_name": "公共数字文化工程视频资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-8afd0920",
+   "raw_name": "西北地方文献图像数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-1d900ec6",
+   "raw_name": "中外牦牛数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-8f64aad9",
+   "raw_name": "西北地方文献报刊篇名索引数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-a3039c75",
+   "raw_name": "西北民族宗教史料文摘数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-b1607d67",
+   "raw_name": "西北地方文献期刊库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-1c9a54c0",
+   "raw_name": "西北地方文献报纸库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-b02ad192",
+   "raw_name": "丝绸之路文献叙录",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-01f37405",
+   "raw_name": "甘肃工业发展研究专题数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-55bfe0c8",
+   "raw_name": "四库全书研究资源数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-58d8896b",
+   "raw_name": "信息综揽",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-16fa92fd",
+   "raw_name": "西北地方戏曲剧本全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-b945d975",
+   "raw_name": "西北地方文献古籍善本全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-b2d23446",
+   "raw_name": "甘肃省情",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  },
+  {
+   "canonical_id": "r-6176a848",
+   "raw_name": "甘肃省图书馆自建视频库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。"
+  }
+ ]
+}

@@ -1,0 +1,924 @@
+{
+ "_说明": "南京图书馆，2026-07-12 人工核对。113条。",
+ "id": "jiangsu",
+ "name": "南京图书馆",
+ "level": "省级公共图书馆",
+ "region": "江苏省",
+ "verified": true,
+ "official_site": "http://www.jslib.org.cn",
+ "digital_resource_url": "http://www.jslib.org.cn/zy/wgzy/zw/",
+ "registration": {
+  "online": "no",
+  "eligibility": "年满15周岁的中国公民凭本人有效身份证原件、外籍人士凭本人有效护照原件申办；6～15周岁少儿读者凭户口簿或有效身份证原件申办少儿读者证",
+  "cost": "中文借阅证押金(现金)400元/证，免工本费；阅览证等其他证种详见办证须知",
+  "how": "须本人持有效证件到馆现金办理，无线上办证渠道；办证时间周二～周日9:00~17:00",
+  "tutorial_url": "http://www.jslib.org.cn/fwzn/bzxz/",
+  "notes": "数字资源全部免费开放。办证后凭读者证可远程登录使用馆外访问类数字资源；标注『馆内访问』的资源需在馆内网络使用。online=no仅指无法线上办实体读者证，与数字资源能否远程使用是两回事。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-bc1c390a",
+   "raw_name": "掌阅精选数字图书馆",
+   "access_url": "https://se.zhangyue.com/channel/index?appId=5f72666e",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-24806bc8",
+   "raw_name": "新东方双语阅读",
+   "access_url": "https://reading.bjfuture.cn/?library_id=3uLO9iOLMWA35h0GHRQljgQgnX4EatbBcG7zvMW92iBc8QJu91i46ywGWHeVdYfJ",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-83237514",
+   "raw_name": "QQ阅读",
+   "access_url": "http://www.readse.com/qqreader/org/login/jslib/third.visit.action",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-71227cb1",
+   "raw_name": "读秀学术搜索",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=7&uid=499",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-60b20326",
+   "raw_name": "华艺电子书数据库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=900&uid=642",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-fb5c8f38",
+   "raw_name": "中医数字图书馆",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=880&uid=595",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-4d34689c",
+   "raw_name": "畅想之星电子书",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=104&uid=222",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-e7f0f2dc",
+   "raw_name": "大众艺术美育数字图书馆",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=892&uid=625",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-410d245e",
+   "raw_name": "云图数字有声图书馆（少儿版）",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=76&uid=76",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-87496c44",
+   "raw_name": "中华连环画数字阅览室",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=70&uid=474",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-74552a93",
+   "raw_name": "博看书苑",
+   "access_url": "https://ai-zq.bookan.com.cn/?id=22120",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-37e154d0",
+   "raw_name": "爱读宝（试用）",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=975&uid=731",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-d4e278cf",
+   "raw_name": "维普智启科创",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=931&uid=682",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-4800ae74",
+   "raw_name": "国家科技期刊平台",
+   "access_url": "https://opaj.napstic.cn/periodicals",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-fe5e9ead",
+   "raw_name": "国家哲学社会科学文献中心",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=308&uid=639",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-f80501e3",
+   "raw_name": "知网——中国学术期刊（网络版）",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=175&uid=367",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-da8ad333",
+   "raw_name": "维普中文期刊服务平台",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=3&uid=427",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-8b2f0a26",
+   "raw_name": "万方——中国数字化期刊全文数据库（镜像版）",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=976&uid=732",
+   "scope": "镜像",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-ed6a6958",
+   "raw_name": "华艺学术文献数据库（试用）",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=55&uid=55",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-89f87391",
+   "raw_name": "超星期刊（试用）",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=867&uid=523",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-32236134",
+   "raw_name": "知网——中国重要报纸全文数据库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=861&uid=725",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-f1c458da",
+   "raw_name": "慧科新闻媒体研究库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=93&uid=328",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-d60b6559",
+   "raw_name": "国家学术会议平台",
+   "access_url": "https://sinoconf.napstic.cn/index",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-259a2325",
+   "raw_name": "知网——学位论文全文数据库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=860&uid=726",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-a71df44e",
+   "raw_name": "知网——会议论文全文数据库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=862&uid=727",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-f1c61aa9",
+   "raw_name": "万方——中国学位论文全文数据库（镜像版）",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=976&uid=732",
+   "scope": "镜像",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-01d1d4dd",
+   "raw_name": "汉语大词典&康熙字典（知网版）",
+   "access_url": "http://192.168.70.161/kxhd/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-301cacf8",
+   "raw_name": "中国大套图书目次库（试用）",
+   "access_url": "https://toc.cnpereading.com/",
+   "scope": "试用",
+   "access_method": "馆内",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-6c5803e7",
+   "raw_name": "星河智源专利数据库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=973&uid=728",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-f57c0ce0",
+   "raw_name": "中国国情多语种数据库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=934&uid=685",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-781bbca6",
+   "raw_name": "中国大百科全书数据库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=98&uid=638",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-78353dee",
+   "raw_name": "全国报刊索引数据库之《现刊索引目次数据库》《民...",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=24&uid=463",
+   "scope": "",
+   "access_method": "馆内/馆外",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-e14f46fe",
+   "raw_name": "知网——中国年鉴网络出版总库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=171&uid=366",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-cbe6598d",
+   "raw_name": "万方——中国科技成果资源库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=851&uid=494",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-cdf8c27d",
+   "raw_name": "万方——中国标准数据库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=882&uid=600",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-af589df1",
+   "raw_name": "万方——中国新方志知识服务系统",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=883&uid=602",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-ee27b622",
+   "raw_name": "引得数字人文平台（试用）",
+   "access_url": "https://www.inindex.com/biog",
+   "scope": "试用",
+   "access_method": "馆内",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-d3e8dfc4",
+   "raw_name": "天禄云枢古籍数据库（试用）",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=978&uid=734",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-4d4d154e",
+   "raw_name": "中国历史文献总库·民国图书数据库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=923&uid=674",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-6b76bad9",
+   "raw_name": "中华古籍书目库（第一、二期）",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=891&uid=623",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-ebec39b1",
+   "raw_name": "全国报刊索引数据库之《晚清期刊全文数据库》《民...",
+   "access_url": "https://www.cnbksy.com/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-fcf36d9f",
+   "raw_name": "鼎秀古籍全文检索平台",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=126&uid=671",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-c87fa367",
+   "raw_name": "中华经典古籍库 一期",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=120&uid=714",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-56fb1723",
+   "raw_name": "大成老旧刊全文数据库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=90&uid=688",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-36619ecf",
+   "raw_name": "中国历代典藏总目分析",
+   "access_url": "http://chinabooktrading.com/hbcc/index.action",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-f1c977a0",
+   "raw_name": "《中国近代报刊数据库》之中央日报库",
+   "access_url": "http://tk.cepiec.com.cn/SP/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-ea7d9cd7",
+   "raw_name": "《申报》（1872-1949）全文数据库",
+   "access_url": "http://spnjlib.egreenapple.com",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-caada5e9",
+   "raw_name": "中国基本古籍库",
+   "access_url": "http://www.jslib.org.cn/pub/njlib/njlib_wszy/njlib_ntsjk/201212/GujikuClientSetup.exe",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-b47966bb",
+   "raw_name": "中国谱牒库",
+   "access_url": "http://www.jslib.org.cn/pub/njlib/njlib_wszy/njlib_ntsjk/201212/P020131229580447840864.exe",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-00de97de",
+   "raw_name": "明清实录",
+   "access_url": "http://www.jslib.org.cn/pub/njlib/njlib_wszy/njlib_ntsjk/201312/P020131227626879568488.exe",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-98531422",
+   "raw_name": "雕龙-中国古籍全文数据库",
+   "access_url": "https://tk.cepiec.com.cn/ancientc/ancientkm",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-bcf18970",
+   "raw_name": "向日葵情商少儿心理数据库（试用）",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=979&uid=736",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-d4bf617e",
+   "raw_name": "裕垚源健康素养数据库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=974&uid=729",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-c01f6153",
+   "raw_name": "研图学堂学习平台（试用）",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=922&uid=673",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-0b5ff0c7",
+   "raw_name": "“知识视界”视频图书馆",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=16&uid=1",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-d586c84c",
+   "raw_name": "中国法律资源库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=898&uid=640",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-c4087e25",
+   "raw_name": "51CTO学堂",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=82&uid=261",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-5a89a89a",
+   "raw_name": "新东方多媒体学习库",
+   "access_url": "http://library.koolearn.com/encryptedLogin/9ac3beef07c731e4",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-fcfc093a",
+   "raw_name": "设计师之家数字图书馆",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=869&uid=525",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-b1b7e477",
+   "raw_name": "MET世界语言学习馆",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=870&uid=526",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-7221a653",
+   "raw_name": "Artlib世界艺术鉴赏库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=152&uid=244",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-b1bd1478",
+   "raw_name": "库客音乐——艺术鉴赏库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=66&uid=66",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-b3dd5652",
+   "raw_name": "党建数据库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=890&uid=619",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-cfe777dd",
+   "raw_name": "博云非书资料管理系统",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=107&uid=225",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-ce6638f4",
+   "raw_name": "E线图情",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=67&uid=504",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-9cdbe872",
+   "raw_name": "碧虚网",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=850&uid=505",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-56538c83",
+   "raw_name": "中科VIPExam考试学习资源数据库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=101&uid=466",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-dd8c4880",
+   "raw_name": "维普考试资源系统（试用）",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=32&uid=503",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-740246bb",
+   "raw_name": "Artbase艺术图片库",
+   "access_url": "http://192.168.50.32:90/home/index",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-3a0d4e10",
+   "raw_name": "翼狐设计学习库（试用）",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=889&uid=615",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-a451b4f7",
+   "raw_name": "国研网经济管理案例库(试用)",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=103&uid=433",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-c77db767",
+   "raw_name": "皮书数据库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=109&uid=442",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-43abea17",
+   "raw_name": "国研网全文数据库",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=182&uid=469",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-2f2041d5",
+   "raw_name": "国研网行业研究月度分析报告数据库(试用)",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=856&uid=510",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-1f324b04",
+   "raw_name": "国研网世界经济专版数据库(试用)",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=181&uid=470",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-b395aac3",
+   "raw_name": "燕递文献服务系统（试用）",
+   "access_url": "https://web.yandilib.com/yddiscover/home?code=103204&discoverid=2a1038fe6197d3ce6cfaf19166599780",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "外文资源"
+  },
+  {
+   "canonical_id": "r-abcfd099",
+   "raw_name": "国际开放获取期刊推荐名录（OARL）",
+   "access_url": "https://oarl.org.cn/zh",
+   "scope": "",
+   "access_method": "",
+   "notes": "外文资源"
+  },
+  {
+   "canonical_id": "r-d4e278cf",
+   "raw_name": "维普智启科创",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=931&uid=682",
+   "scope": "",
+   "access_method": "",
+   "notes": "外文资源"
+  },
+  {
+   "canonical_id": "r-e5032080",
+   "raw_name": "Britannica Library大英百科公众版",
+   "access_url": "https://library.ebonline.cnpereading.com/login?accessId=jslin&passcode=nj2102",
+   "scope": "",
+   "access_method": "",
+   "notes": "外文资源"
+  },
+  {
+   "canonical_id": "r-0f05c302",
+   "raw_name": "“易阅通”（CNPeReading）",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=49&uid=49",
+   "scope": "",
+   "access_method": "",
+   "notes": "外文资源"
+  },
+  {
+   "canonical_id": "r-af8b6374",
+   "raw_name": "百链（试用）",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=8&uid=172",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "外文资源"
+  },
+  {
+   "canonical_id": "r-55de946f",
+   "raw_name": "EI",
+   "access_url": "https://www.engineeringvillage.com/search/quick.url",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "外文资源"
+  },
+  {
+   "canonical_id": "r-3ab8d294",
+   "raw_name": "爱思唯尔ScienceDirect电子书",
+   "access_url": "http://ntszzy.org:8070/entry.do?rid=928&uid=679",
+   "scope": "",
+   "access_method": "",
+   "notes": "外文资源"
+  },
+  {
+   "canonical_id": "r-84cf4ecf",
+   "raw_name": "Wiley在线参考工具书（EMRW）",
+   "access_url": "https://onlinelibrary.wiley.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "外文资源"
+  },
+  {
+   "canonical_id": "r-81fb5edf",
+   "raw_name": "牛津学术专著在线数据库Oxford Scholarship Online",
+   "access_url": "http://www.iresearchbook.cn",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "外文资源"
+  },
+  {
+   "canonical_id": "r-72bd2f35",
+   "raw_name": "江苏作家作品数据库",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/jszjzpsjk.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-bc5dd7d9",
+   "raw_name": "江苏地区老报纸数据库",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/jsdqlbzsjk.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-bbd75de8",
+   "raw_name": "江苏地方网络资源典藏自建专题",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/jsdfwlzydc.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-e8c80725",
+   "raw_name": "南京图书馆馆藏民国连环画",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/njtsggcmglhh.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-fe640dfa",
+   "raw_name": "红色记忆",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/hsjy.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-4a1565fa",
+   "raw_name": "百年商标",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/bnsb.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-68b6e317",
+   "raw_name": "老商标老广告数据库",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/lsblggsjk.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-fb57a153",
+   "raw_name": "中华民族风情数据库",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/zhmzfqsjk.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-d7c69e9b",
+   "raw_name": "中外文学名著插图数据库",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/zwwxmzct.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-5caf9da9",
+   "raw_name": "江苏地方文献视频资源",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/jsdfwxspzy.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-bf852445",
+   "raw_name": "江苏省五星工程数据库",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/jsswxgcsjk.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-c4fb8a74",
+   "raw_name": "中国古代体育图片库",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/zggdtytpk.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-8611a1b9",
+   "raw_name": "中国近现代史系列讲座",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/zgjxdsxljz.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-02e23e84",
+   "raw_name": "江苏特色博物馆",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/jstsbwg.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-89479bc1",
+   "raw_name": "江苏近现代名人",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/jxdmr.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-15b4df8d",
+   "raw_name": "江苏名人故居",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/mrgj.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-78362982",
+   "raw_name": "江苏非物质文化遗产",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/fwzwhyc.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-7ebd2ea1",
+   "raw_name": "江苏红色之旅",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/hshwzl.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-d16eb0e6",
+   "raw_name": "南图微讲座",
+   "access_url": "http://www.jslib.org.cn/trsnjapp/zjzy/ntwjz.html",
+   "scope": "",
+   "access_method": "",
+   "notes": "南图自建特色资源"
+  },
+  {
+   "canonical_id": "r-d3551a8e",
+   "raw_name": "江苏省古籍数字资源集成平台",
+   "access_url": "http://zggj.jslib.org.cn/#/home",
+   "scope": "",
+   "access_method": "",
+   "notes": "江苏省级古籍数字平台（南图承建，SPA站点）"
+  },
+  {
+   "canonical_id": "r-c85d7be1",
+   "raw_name": "百年艺苑",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-c4a05a0c",
+   "raw_name": "奥运图像数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-f4ccaffb",
+   "raw_name": "抗日战争历史图库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-2961e369",
+   "raw_name": "百年人物",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-f4d9006b",
+   "raw_name": "中国近代文献图像数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-12cc56e8",
+   "raw_name": "江苏文化数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-d3551a8e",
+   "raw_name": "江苏省古籍数字资源集成平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-19dbf604",
+   "raw_name": "江苏省少儿数字图书馆百馆荐书全省共读",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  }
+ ]
+}

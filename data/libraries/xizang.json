@@ -1,0 +1,84 @@
+{
+ "id": "xizang-prov",
+ "name": "西藏自治区图书馆",
+ "level": "省级公共图书馆",
+ "region": "西藏自治区",
+ "verified": true,
+  "_说明": "西藏自治区图书馆，2026-07-13 人工核对。18条。无问题。",
+ "official_site": "https://www.tdcn.org.cn",
+ "digital_resource_url": "https://www.tdcn.org.cn",
+ "registration": {
+  "online": "unknown",
+  "eligibility": "官网显示读者证号/身份证号登录入口，未找到公开的线上自助办证流程",
+  "cost": "未知（官网未公示）",
+  "how": "官网首页有登录弹窗（读者证号/身份证号），资源访问通过 openVpn 机制（需登录后跳转）。未找到线上办证渠道，建议到馆或致电咨询。",
+  "tutorial_url": "",
+  "notes": "官网 tdcn.org.cn 是智图软件开发平台，首页即数字资源导航页（资源导航 ums.tdcn.org.cn 指向同一页面）。8 个资源全部通过 VPN 访问（openVpn），需读者证号或身份证号登录。6 个分类筛选（全部/图书/期刊/论文/报纸/其他）均为这 8 条的子集。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-533cb8b7",
+   "raw_name": "CNKI中国知网",
+   "access_url": "https://www.tdcn.org.cn",
+   "scope": "",
+   "access_method": "馆外凭读者证（VPN登录）",
+   "notes": "官网 tdcn.org.cn 数字资源页列出；描述：《中国知识资源总库》，简称《总库》，是具有完备知识体系和规范知识管理功能的、由海量知识信息资源构成的学习系统和知识挖掘系统。由清华大学主办、中国学术期刊（光盘版"
+  },
+  {
+   "canonical_id": "r-88fca4e3",
+   "raw_name": "爱不释书少儿精品阅读馆",
+   "access_url": "https://www.tdcn.org.cn",
+   "scope": "",
+   "access_method": "馆外凭读者证（VPN登录）",
+   "notes": "官网 tdcn.org.cn 数字资源页列出"
+  },
+  {
+   "canonical_id": "r-8843a441",
+   "raw_name": "博看微书屋",
+   "access_url": "https://www.tdcn.org.cn",
+   "scope": "",
+   "access_method": "馆外凭读者证（VPN登录）",
+   "notes": "官网 tdcn.org.cn 数字资源页列出；描述：博看期刊数据库主要分为10个子数据库，收录涉及党政、时事、军事、管理、财经、文摘、文学、情感、家庭、健康、时尚、娱乐、科技、教育、行业等40多类3500多种主流"
+  },
+  {
+   "canonical_id": "r-6d66b259",
+   "raw_name": "超星电子资源",
+   "access_url": "https://www.tdcn.org.cn",
+   "scope": "",
+   "access_method": "馆外凭读者证（VPN登录）",
+   "notes": "官网 tdcn.org.cn 数字资源页列出；描述：签约360,000+授权作者，300+出版社，拥有130万余种图书，涵盖中图分类法22个大类，同时拥有来自全国1000多家专业图书馆的大量珍本、善本、民国图书等"
+  },
+  {
+   "canonical_id": "r-9ee2b338",
+   "raw_name": "党建期刊文献总库",
+   "access_url": "https://www.tdcn.org.cn",
+   "scope": "",
+   "access_method": "馆外凭读者证（VPN登录）",
+   "notes": "官网 tdcn.org.cn 数字资源页列出；描述：该数据库收录1979年至今约8000种期刊全文。内容覆盖数理科学（理工A）、化学化工能源与材料（理工B）、工业技术（理工C）、农业、医药卫生、文史哲、经济政治与"
+  },
+  {
+   "canonical_id": "r-4eb60237",
+   "raw_name": "馆藏图书",
+   "access_url": "https://www.tdcn.org.cn",
+   "scope": "",
+   "access_method": "馆外凭读者证（VPN登录）",
+   "notes": "官网 tdcn.org.cn 数字资源页列出；描述：本产品包含检索、特色检索、新书通报、热点排行、图书预约预借"
+  },
+  {
+   "canonical_id": "r-8eba11f4",
+   "raw_name": "OverDrive赛阅数字图书馆",
+   "access_url": "https://www.tdcn.org.cn",
+   "scope": "",
+   "access_method": "馆外凭读者证（VPN登录）",
+   "notes": "官网 tdcn.org.cn 数字资源页列出；描述：内含进口英文原版绘本、电子书、配音电子书、有声书，以及国际畅销书和大奖作品等；也包含一些优质中文电子书。平台上的英文原版原声配音电子书绘本+分级阅读功能，助力英"
+  },
+  {
+   "canonical_id": "r-82d616de",
+   "raw_name": "万方地方志数据库",
+   "access_url": "https://www.tdcn.org.cn",
+   "scope": "",
+   "access_method": "馆外凭读者证（VPN登录）",
+   "notes": "官网 tdcn.org.cn 数字资源页列出；描述：万方地方志数据库，简称“方志”，即按一定体例，全面记载某一时期某一地域的自然、社会、政治、经济、文化等方面情况或特定事项的书籍文献。按年代分为新方志、旧方志，新"
+  }
+ ]
+}

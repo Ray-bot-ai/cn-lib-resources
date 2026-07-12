@@ -1,0 +1,380 @@
+{
+ "_说明": "青海省图书馆，2026-07-12 人工核对。全量45条。",
+ "id": "qinghai-prov",
+ "name": "青海省图书馆",
+ "level": "省级公共图书馆",
+ "region": "青海省",
+ "verified": true,
+ "official_site": "http://qhslib.org.cn/",
+ "digital_resource_url": "http://qhslib.org.cn/#/resources",
+ "registration": {
+  "online": "yes",
+  "eligibility": "仅线上注册",
+  "cost": "",
+  "how": "官网线上注册。注册教程：http://qhslib.org.cn/#/guideDel",
+  "tutorial_url": "http://qhslib.org.cn/#/guideDel",
+  "notes": "人工核对。仅线上注册。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-7212b853",
+   "raw_name": "少儿连环画",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-ebde44e9",
+   "raw_name": "贝贝国学",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-ffa84d51",
+   "raw_name": "超星少儿绘本",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-e69e874f",
+   "raw_name": "红色故事绘",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-d5fb3daa",
+   "raw_name": "维普考试网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-2eee8238",
+   "raw_name": "新东方媒体学习库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-fcf36d9f",
+   "raw_name": "鼎秀古籍全文检索平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-9a6aa5c9",
+   "raw_name": "国家外文文献共享平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-468524b7",
+   "raw_name": "中国知网（馆外访问）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-d7d7179d",
+   "raw_name": "艺术教育多媒体平台（馆外访问）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-57c6afc8",
+   "raw_name": "中国历代馆藏书画",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-966db355",
+   "raw_name": "世界油画数字资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-880a2080",
+   "raw_name": "万方数据民俗文化专题",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-b166415a",
+   "raw_name": "万方数据地方志知识",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-f3a1c5f1",
+   "raw_name": "万方数据家风家训专题",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-cbeb5031",
+   "raw_name": "医多维（试用）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。试用"
+  },
+  {
+   "canonical_id": "r-16bbfcfb",
+   "raw_name": "生寻（试用）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。试用"
+  },
+  {
+   "canonical_id": "r-d4ead02d",
+   "raw_name": "裕垚源健康素养中心",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-384998b9",
+   "raw_name": "维普咨询",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-a1aa477c",
+   "raw_name": "书香中国",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-0ab3c1af",
+   "raw_name": "中华经典古籍库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-1f10667b",
+   "raw_name": "艺术美育数字图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-43825112",
+   "raw_name": "读秀学术搜索平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-6abd7c34",
+   "raw_name": "人大复印报刊资料",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-aec6a384",
+   "raw_name": "博看AI书苑",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-96542439",
+   "raw_name": "近代报纸数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-83237514",
+   "raw_name": "QQ阅读",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-dd111715",
+   "raw_name": "艺术教育多媒体资源服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-65531427",
+   "raw_name": "博看期刊",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-cb28708d",
+   "raw_name": "当代中文报纸数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-383c7148",
+   "raw_name": "人民数据",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-bc1c390a",
+   "raw_name": "掌阅精选数字图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-37a635f9",
+   "raw_name": "喜马拉雅",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-89345ce4",
+   "raw_name": "云图有声",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-9c180014",
+   "raw_name": "新东方素养课堂",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-7a5f891e",
+   "raw_name": "无损音乐平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-192150e5",
+   "raw_name": "新语听书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-266063c6",
+   "raw_name": "无障碍影音",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-2eb4bece",
+   "raw_name": "灯塔",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-3ee49b1e",
+   "raw_name": "看展览数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-2cbcfb43",
+   "raw_name": "PC专题平台（内网）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对。内网访问"
+  },
+  {
+   "canonical_id": "r-cf740fff",
+   "raw_name": "PC专题平台（外网）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-3210e794",
+   "raw_name": "采集保存中心",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-1601d071",
+   "raw_name": "网事典藏-青海分站",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-c816764b",
+   "raw_name": "公开信息整合服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  }
+ ]
+}

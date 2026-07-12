@@ -1,0 +1,2315 @@
+{
+ "id": "guojia-nlc",
+ "name": "国家图书馆",
+ "level": "国家级公共图书馆",
+ "region": "全国",
+ "verified": true,
+ "official_site": "http://www.nlc.cn/",
+ "digital_resource_url": "http://read.nlc.cn/outRes/outResList?type=%E5%85%A8%E9%83%A8",
+ "registration": {
+  "online": "yes",
+  "eligibility": "中国公民持身份证件（身份证/户口簿/护照/军人证/港澳通行证/台胞回乡证/外国人永久居留证）可注册；2023年9月起可通过\"国家数字图书馆\"App线上办理电子读者卡",
+  "cost": "免费（实体卡首次免工本费，电子卡免费）",
+  "how": "读者可通过国家图书馆网站或移动互联网提供的各类在线服务平台进行注册（部分远程数字资源服务需实名认证）",
+  "tutorial_url": "http://read.nlc.cn/ReaderGuide/bzxz",
+  "notes": "人工核对。在线注册可用，部分远程数字资源服务需进一步认证。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-1cbc8bad",
+   "raw_name": "龙源期刊网有声阅览室",
+   "access_url": "http://nlckf.vip.qikan.cn/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-f9c538ca",
+   "raw_name": "中国重要报纸全文数据库（清华同方知网）",
+   "access_url": "https://kns.cnki.net/kns/brief/result.aspx?dbPrefix=CCND",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-04a32939",
+   "raw_name": "中国优秀硕士论文数据库（清华同方知网）",
+   "access_url": "https://kns.cnki.net/kns/brief/result.aspx?dbprefix=CMFD",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-53e213dd",
+   "raw_name": "国务院发展研究中心信息网",
+   "access_url": "http://g.drcnet.com.cn/u/918578/index.aspx",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-fe5e9ead",
+   "raw_name": "国家哲学社会科学文献中心",
+   "access_url": "http://www.ncpssd.cn/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-273f1cb3",
+   "raw_name": "中国学术期刊网络出版总库（清华同方知网）",
+   "access_url": "https://kns.cnki.net/kns/brief/result.aspx?dbPrefix=CJFQ",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-c09e5ec7",
+   "raw_name": "国家哲学社会科学学术期刊数据库",
+   "access_url": "http://www.nssd.cn/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-fb08bcc7",
+   "raw_name": "中华医学会数字化期刊",
+   "access_url": "https://www.yiigle.com/index",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-d701ed7c",
+   "raw_name": "人民日报图文数据库",
+   "access_url": "http://192.168.181.109:958/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-25fa59fe",
+   "raw_name": "中国优秀博士论文数据库（清华同方知网）",
+   "access_url": "https://kns.cnki.net/kns/brief/result.aspx?dbprefix=CDFD",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-508f89e2",
+   "raw_name": "京津冀协同发展数据库",
+   "access_url": "https://www.jingjinjicn.com/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-4e530492",
+   "raw_name": "QQ阅读（机构版）",
+   "access_url": "https://jinghecx.com/responsive/?org=zggjtsg",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-04f596be",
+   "raw_name": "中国权威经济论文库",
+   "access_url": "http://192.168.182.78:93/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-573c1f8c",
+   "raw_name": "中国历史文献总库·近代报纸数据库",
+   "access_url": "http://bz.nlcpress.com/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-113ff8b6",
+   "raw_name": "中国重要会议全文数据库（清华同方知网）",
+   "access_url": "https://kns.cnki.net/kns/brief/result.aspx?dbprefix=CPFD",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-9f72acb3",
+   "raw_name": "一带一路数据库",
+   "access_url": "https://www.ydylcn.com/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-2a53c8b0",
+   "raw_name": "中国理论网",
+   "access_url": "http://www.ccpph.com.cn/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-99315a36",
+   "raw_name": "万方数字化期刊",
+   "access_url": "http://192.168.180.216:8088/C/periodical.aspx",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-9006192d",
+   "raw_name": "龙源期刊网",
+   "access_url": "https://gtty.dps.qikan.cn/pc",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-1d8d0bb2",
+   "raw_name": "瀚堂近代报刊",
+   "access_url": "http://192.168.182.133:8085/Main.aspx",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-3c0b4be7",
+   "raw_name": "中国生物医学文献服务系统",
+   "access_url": "http://www.sinomed.ac.cn/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-c77db767",
+   "raw_name": "皮书数据库",
+   "access_url": "http://www.pishu.com.cn/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-4245d8a9",
+   "raw_name": "人大复印资料全文数据库",
+   "access_url": "http://202.106.125.44:6251/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-781bbca6",
+   "raw_name": "中国大百科全书数据库",
+   "access_url": "http://192.168.181.109:9721",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-1d6a3cfa",
+   "raw_name": "中国科学文献服务系统(ScienceChina)",
+   "access_url": "http://sciencechina.cn/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-0412dda8",
+   "raw_name": "中经网统计数据库",
+   "access_url": "http://192.168.182.78:91/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-b53ad76a",
+   "raw_name": "万方学位论文数据库",
+   "access_url": "http://192.168.180.216:8088/C/thesis.aspx",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-70a177a7",
+   "raw_name": "中宏形势分析系统",
+   "access_url": "http://202.96.31.36:807",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-54157783",
+   "raw_name": "Nineteenth Century Collections Online（十九世纪作品在线，NCCO）",
+   "access_url": "http://infotrac.galegroup.com/itweb/nichina?db=NCCO",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-bd995df3",
+   "raw_name": "国别区域与全球治理数据平台",
+   "access_url": "https://www.crggcn.com/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-962972c8",
+   "raw_name": "British Periodicals (英国期刊)",
+   "access_url": "http://search.proquest.com/britishperiodicals?accountid=10086",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-6b864724",
+   "raw_name": "点点书库",
+   "access_url": "http://202.96.31.36:8085",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-7bd84fc9",
+   "raw_name": "EAI美国早期印刷品：系列I (1639-1800)",
+   "access_url": "http://infoweb.newsbank.com/?db=EVAN&s_startsearch=keyword",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-7aa911a2",
+   "raw_name": "EAI美国早期印刷品：系列II (1801-1819)",
+   "access_url": "http://infoweb.newsbank.com/?db=SHAW&s_startsearch=keyword",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-f31b3906",
+   "raw_name": "ECCO十八世纪文献在线（ECCOI，ECCOII）",
+   "access_url": "http://infotrac.galegroup.com/itweb/nichina?db=ECCO",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-48bbb4e2",
+   "raw_name": "Early English Books Online（早期英文书籍在线，EEBO）",
+   "access_url": "https://search.proquest.com/eebo",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-05d103a4",
+   "raw_name": "Gale Virtual Reference Library （Gale虚拟参考书图书馆）",
+   "access_url": "https://link.gale.com/apps/GVRL?u=nichina",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-0605455e",
+   "raw_name": "MOMW 现代经济之路",
+   "access_url": "http://infotrac.galegroup.com/itweb/nichina?db=MOME",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-b491b318",
+   "raw_name": "国学宝典数据库",
+   "access_url": "http://202.106.125.35/kns55/brief/result.aspx?dbPrefix=GXDB",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-53fdc5f1",
+   "raw_name": "MOML 现代法律之路",
+   "access_url": "http://infotrac.galegroup.com/itweb/nichina?db=MOML",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-81127d92",
+   "raw_name": "二十五史研习系统",
+   "access_url": "http://202.106.125.44:8082/h25/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-87496c44",
+   "raw_name": "中华连环画数字阅览室",
+   "access_url": "http://192.168.181.109:8055/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-533c3f87",
+   "raw_name": "全宋诗分析系统",
+   "access_url": "http://202.106.125.44:8082/song/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-ac1a93a6",
+   "raw_name": "全唐诗分析系统",
+   "access_url": "http://202.106.125.44:8082/tang/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-fcadf54d",
+   "raw_name": "科学文库",
+   "access_url": "https://book.sciencereading.cn",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-59bc81f5",
+   "raw_name": "ProQuest Ebook Central电子书（原MyiLibrary）",
+   "access_url": "http://ebookcentral.proquest.com/lib/nlc-ebooks/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-2e72aa63",
+   "raw_name": "Academic Search Ultimate 综合学科参考文献旗舰版（EBSCO）",
+   "access_url": "http://ebsco.cc/cr",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-110b893e",
+   "raw_name": "Business Source Ultimate 商管财经类参考文献旗舰版（EBSCO）",
+   "access_url": "http://ebsco.cc/cr",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-43eb7c38",
+   "raw_name": "Education Resource Information Center教育学文献数据库(EBSCO)",
+   "access_url": "http://ebsco.cc/cr",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-aa191d60",
+   "raw_name": "Oxford Journals（牛津期刊）",
+   "access_url": "http://www.oxfordjournals.org/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-a6187d2b",
+   "raw_name": "SAGE Journals Online",
+   "access_url": "http://sage.cnpereading.com/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-9b819b3f",
+   "raw_name": "Periodicals Archive Online（典藏期刊数据库）",
+   "access_url": "http://search.proquest.com/pao/index?accountid=10086",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-aee77708",
+   "raw_name": "Military and Government Collection军事与政府全文数据库(EBSCO)",
+   "access_url": "http://ebsco.cc/cr",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-3cd73416",
+   "raw_name": "Professional Development Collection教育发展全文数据库(EBSCO)",
+   "access_url": "http://ebsco.cc/cr",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-d570c3ab",
+   "raw_name": "RSC 英国皇家化学学会电子期刊",
+   "access_url": "http://pubs.rsc.org/en/journals?key=title&value=all",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-dccea790",
+   "raw_name": "Asian European Business",
+   "access_url": "http://search.proquest.com/asianbusiness/index?accountid=10086",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-fccb36e3",
+   "raw_name": "SciTech Premium Collection（科学与技术资源专辑高级版）",
+   "access_url": "http://search.proquest.com/scitechpremium/science/fromDatabasesLayer?accountid=10086",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-8dda5f20",
+   "raw_name": "悦读汇（新东方）",
+   "access_url": "http://ydh.koolearn.com",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-8a49152f",
+   "raw_name": "万方数字化期刊（推广工程资源）",
+   "access_url": "http://202.106.125.165:92/C/Periodical.aspx",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注；官网标注：因设备维护暂时无法访问"
+  },
+  {
+   "canonical_id": "r-b24777a8",
+   "raw_name": "17th and 18th Century Burney Collection Newspapers（17和18世纪伯尼典藏报纸）",
+   "access_url": "https://link.gale.com/apps/BBCN?u=nichina",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-9fa3345e",
+   "raw_name": "ProQuest历史报纸：近现代中国英文报纸库",
+   "access_url": "http://search.proquest.com/hnpchinesecollection/fromDatabasesLayer?accountid=10086",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-8548ac1d",
+   "raw_name": "慧科新闻",
+   "access_url": "http://login.wisers.net/?clang=zh_CN-zh_CN&amp;fromUrl=https://we3.wisersone.com&amp;ipAccessType=2&amp;groupId=nlc&amp;user=ipaccess&amp;product=wiseone",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-c207b836",
+   "raw_name": "ProQuest Dissertations & Theses学位论文全文库",
+   "access_url": "http://www.pqdtcn.com",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-59f80feb",
+   "raw_name": "中国学术会议论文全文数据库-中文版(万方)",
+   "access_url": "http://192.168.180.216:8088/C/conference.aspx",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-ff697a41",
+   "raw_name": "Archives Unbound珍稀原始典藏档案合集(Gale)",
+   "access_url": "http://find.galegroup.com/menu/start?userGroupName=nichina&prod=GDSC",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-7f69c945",
+   "raw_name": "Artbase中国艺术图片库",
+   "access_url": "http://202.106.125.154:90/beijing.jsp",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-4728fb26",
+   "raw_name": "Blackwell Reference Online(Blackwell文科经典馆藏在线参考书库)",
+   "access_url": "https://onlinelibrary.wiley.com",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-bb5ce985",
+   "raw_name": "Digital National Security Archive（解密后的数字化美国国家安全档案）",
+   "access_url": "http://search.proquest.com/dnsa/index?accountid=10086",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-fbd9457e",
+   "raw_name": "Documents on British Policy Overseas（英国海外政策文件）",
+   "access_url": "https://www.proquest.com/dbpo/?accountid=10086",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-bcebbeb8",
+   "raw_name": "Oxford Digital Reference Shelf（牛津数字参考书库）",
+   "access_url": "http://www.oxfordreference.com/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-1977633f",
+   "raw_name": "Oxford Handbooks Online（牛津在线参考书数据库）",
+   "access_url": "http://www.oxfordhandbooks.com",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-c38d0d9a",
+   "raw_name": "U.S. Declassified Documents Online（美国解密档案在线，USDDO）",
+   "access_url": "http://infotrac.galegroup.com/itweb/nichina?db=USDD",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-ac25c915",
+   "raw_name": "World Trials Library（世界审判文库）",
+   "access_url": "http://heinonline.org/HOL/Index?collection=trials",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-27504630",
+   "raw_name": "北大法宝",
+   "access_url": "www.pkulaw.com",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-15efcad3",
+   "raw_name": "北大法意",
+   "access_url": "https://data.lawyee.net/web/login.html",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-3e9f81f6",
+   "raw_name": "中国艺术博物馆数据库（方正阿帕比）",
+   "access_url": "http://202.106.125.14:8000/Usp/nlc/?pid=picture.index&cult=CN",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-227a1048",
+   "raw_name": "中国工具书资源全文数据库（方正阿帕比）",
+   "access_url": "http://202.106.125.14:8000/Usp/nlc/?pid=refbook.index&cult=CN",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-e7b01ab8",
+   "raw_name": "中国年鉴资源全文数据库（方正阿帕比）",
+   "access_url": "http://202.106.125.14:8000/Usp/nlc/?pid=yearbook.index&cult=CN",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-b8a5e0f6",
+   "raw_name": "美国国会文献集",
+   "access_url": "http://infoweb.newsbank.com/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-1a2c57a0",
+   "raw_name": "南亚研究回溯数据库（South Asia Archive）",
+   "access_url": "https://southasiacommons.net/?from=www.SARF/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-1b976c9d",
+   "raw_name": "中国工具书网络出版总库（清华同方知网）",
+   "access_url": "https://gongjushu.cnki.net/rbook/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-09d1d9c6",
+   "raw_name": "中国年鉴全文数据库（清华同方知网）",
+   "access_url": "https://kns.cnki.net/kns/brief/result.aspx?dbPrefix=CYFD",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-0d617822",
+   "raw_name": "中国经济社会大数据研究平台（清华同方知网）",
+   "access_url": "https://data.cnki.net",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-a85a62c0",
+   "raw_name": "中宏领导决策支持系统",
+   "access_url": "http://202.96.31.36:808",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-bafd2af8",
+   "raw_name": "中经专网",
+   "access_url": "http://192.168.182.78:90/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-ce489c28",
+   "raw_name": "微学习空间",
+   "access_url": "http://vl.koolearn.com/encryptedLogin/2f0c309442963135",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-5251831b",
+   "raw_name": "宝成多媒体外语学习平台",
+   "access_url": "http://192.168.182.79:8008",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-071c2c84",
+   "raw_name": "库客数字音乐图书馆",
+   "access_url": "http://www.kuke.com/kuke/orgUser?orgName=cnlib&orgPwd=cnlib",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-e0e67309",
+   "raw_name": "知识视界视频图书馆",
+   "access_url": "http://202.106.125.201:82/index.aspx",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-5a89a89a",
+   "raw_name": "新东方多媒体学习库",
+   "access_url": "http://library.koolearn.com/encryptedLogin/e9e6b3963fba5854",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-7972fcf4",
+   "raw_name": "网上报告厅",
+   "access_url": "http://192.168.182.77:8011",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-e6cce5aa",
+   "raw_name": "中国专利全文数据库(清华同方知网)",
+   "access_url": "http://acad.cnki.net/KNS/brief/result.aspx?dbPrefix=SCPD",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-7548b057",
+   "raw_name": "中国行业标准全文数据库(清华同方知网)",
+   "access_url": "http://acad.cnki.net/KNS/brief/result.aspx?dbprefix=SCHF",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-4635b6f8",
+   "raw_name": "国家标准全文数据库(清华同方知网)",
+   "access_url": "http://acad.cnki.net/KNS/brief/result.aspx?dbprefix=SCSF",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-f8733000",
+   "raw_name": "中国标准在线服务网",
+   "access_url": "http://192.168.182.80:8983/spcweb/view/main/index",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-b7aa1da7",
+   "raw_name": "网上报告厅（基础教育版）",
+   "access_url": "192.168.182.77:8013",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-d6dec840",
+   "raw_name": "知识视界视频图书馆（少儿版）",
+   "access_url": "http://192.168.181.109:81/index.aspx",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-c3b55b0b",
+   "raw_name": "新东方多媒体学习库（少儿版）",
+   "access_url": "http://library.koolearn.com/encryptedLogin/78ad850e7512012e",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-b9e9a588",
+   "raw_name": "妙趣手工坊",
+   "access_url": "http://202.106.125.154:8010",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-0e9eb24f",
+   "raw_name": "中少动画资源库",
+   "access_url": "http://202.106.125.154:92/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-1a1eb6aa",
+   "raw_name": "中少绘本",
+   "access_url": "http://202.106.125.14:8888/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-d7aaa953",
+   "raw_name": "哪吒看书",
+   "access_url": "http://202.106.125.154:91/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-55e18f33",
+   "raw_name": "乐儿科普动漫",
+   "access_url": "http://202.106.125.171:8082/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-2ac9417a",
+   "raw_name": "中少快乐阅读平台",
+   "access_url": "http://202.96.31.36:8888",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-5e7e9219",
+   "raw_name": "慧科搜索",
+   "access_url": "https://login.wisers.net/?fromUrl=https://vertical-new-search-guotu.wisersone.com&clang=zh_CN-zh_CN&ipAccessType=2&groupId=nlccn1&user=ipaccess",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-d55b4ac5",
+   "raw_name": "Gale Primary Sources原始资料数据库（Gale）",
+   "access_url": "https://link.gale.com/apps/GDCS?u=nichina",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-896a06cc",
+   "raw_name": "Early Arabic Printed Books from the British Library大英图书馆早期阿拉伯书籍(Gale)",
+   "access_url": "https://link.gale.com/apps/EAPB?u=nichina",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-e60ec7ee",
+   "raw_name": "Gale Presents: National Geographic Virtual Library美国国家地理虚拟图书馆（Gale）",
+   "access_url": "https://link.gale.com/apps/NGMA?u=nichina",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-5fff37e6",
+   "raw_name": "历代石刻史料汇编",
+   "access_url": "http://guji.unihan.com.cn/Web#/book/LDSK",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-7f7a9b51",
+   "raw_name": "State Papers Online英国政府档案在线，1509-1714年（Gale）",
+   "access_url": "https://link.gale.com/apps/SPOL?u=nichina",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-b47966bb",
+   "raw_name": "中国谱牒库",
+   "access_url": "http://192.168.181.109:9080/guji.html",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-b4b5fb58",
+   "raw_name": "优质图书资源全民阅读服务平台（试用）",
+   "access_url": "https://www.yztszyqmyd.com/",
+   "scope": "试用",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-e41e3ecc",
+   "raw_name": "多媒体光盘管理系统",
+   "access_url": "http://192.168.30.9:905/poweb/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-bcd827c8",
+   "raw_name": "数字博看中文期刊",
+   "access_url": "http://192.168.182.80:8018/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-640e89f7",
+   "raw_name": "ACS回溯期刊数据库",
+   "access_url": "http://pubs.acs.org/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-0caa3584",
+   "raw_name": "Akadémiai Kiadó",
+   "access_url": "https://akjournals.com/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-59ceb32e",
+   "raw_name": "Cambridge Journals Online（剑桥期刊在线）",
+   "access_url": "https://www.cambridge.org/core/services/cambridge-journals-complete-digital-archive-2011",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-e911fc40",
+   "raw_name": "China: Culture and Society，The Wason Pamphlet Collection（中国：文化与社会，华生中国收藏）",
+   "access_url": "http://www.chinacultureandsociety.amdigital.co.uk/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-91313d29",
+   "raw_name": "Derwent Innovations Index（德温特世界专利创新索引）",
+   "access_url": "http://www.webofknowledge.com/diidw",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-9e7b947b",
+   "raw_name": "Elsevier-Science Direct 学术期刊",
+   "access_url": "http://www.sciencedirect.com/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-8ee8a6db",
+   "raw_name": "Engineering Village Compendex 工程索引",
+   "access_url": "http://www.engineeringvillage2.org/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-0919fba2",
+   "raw_name": "IMF E-Library（国际货币基金组织电子图书馆）",
+   "access_url": "http://www.elibrary.imf.org/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-8212ac67",
+   "raw_name": "ISI Current Contents Connect期刊题录快讯数据库",
+   "access_url": "http://isiknowledge.com/?DestApp=CCC",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-070ce960",
+   "raw_name": "Izvestiia（消息报）",
+   "access_url": "http://dlib.eastview.com/browse/publication/11265",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-bbb832f5",
+   "raw_name": "Japan Chronicle Weekly（日本编年史周报）",
+   "access_url": "http://primarysources.brillonline.com/browse/japan-chronicle",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-a3fb9038",
+   "raw_name": "MEDLINE 美国医学索引数据库",
+   "access_url": "http://apps.webofknowledge.com/MEDLINE_GeneralSearch_input.do?highlighted_tab=MEDLINE&amp;product=MEDLINE&amp;last_prod=MEDLINE&amp;search_mode=GeneralSearch&amp;SID=R2AgALkm9eEj5Bi@poP",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-5483c342",
+   "raw_name": "NSTL（中国国家科技文献中心）外文回溯数据库",
+   "access_url": "http://archive.nstl.gov.cn/Archives/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-09a70ba2",
+   "raw_name": "Regional Business News区域商业报纸全文数据库(EBSCO)",
+   "access_url": "http://ebsco.cc/cr",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-46a13932",
+   "raw_name": "Springer电子期刊数据库",
+   "access_url": "http://link.springer.com/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-81051622",
+   "raw_name": "Wiley-Blackwell在线期刊",
+   "access_url": "https://onlinelibrary.wiley.com/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-b77905c8",
+   "raw_name": "Wiley学术图书在线",
+   "access_url": "https://onlinelibrary.wiley.com/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-af86301a",
+   "raw_name": "WORLD BANK E-LIBRARY（世界银行电子图书馆）",
+   "access_url": "http://elibrary.worldbank.org/content/book/9780821374740",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-5e81932b",
+   "raw_name": "国研网",
+   "access_url": "http://g.drcnet.com.cn/u/918578/index.aspx",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-22550780",
+   "raw_name": "加州大学出版社电子期刊",
+   "access_url": "https://online.ucpress.edu/journals",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-fa906c3b",
+   "raw_name": "世界历史文化原始资料数据库集成",
+   "access_url": "http://www.cinfo.net.cn/user/AMDall.htm",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-f7a52e6d",
+   "raw_name": "英国皇家物理学会（IOP）电子期刊",
+   "access_url": "http://iopscience.iop.org/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-685e54d8",
+   "raw_name": "英国外交部档案：印度、巴基斯坦与阿富汗，1947-1980",
+   "access_url": "http://www.archivesdirect.amdigital.co.uk/introduction/FO_India/default.aspx",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-d6c871e1",
+   "raw_name": "英国外交部机密文件：北美，1824－1961",
+   "access_url": "http://www.archivesdirect.amdigital.co.uk/Introduction/Confidential_Print/default.aspx",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-b3755112",
+   "raw_name": "英国外交部机密文件：中东，1839-1969",
+   "access_url": "http://www.archivesdirect.amdigital.co.uk/Introduction/Confidential_Print_ME/default.aspx",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-400b71f2",
+   "raw_name": "原剑桥科学文摘",
+   "access_url": "http://search.proquest.com/cv_583086?accountid=10086",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-eb0a9bf6",
+   "raw_name": "真理报",
+   "access_url": "http://dlib.eastview.com/browse/publication/9305?enc=rus",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-ee7acbec",
+   "raw_name": "民国图书馆学文献数据库",
+   "access_url": "http://mld.nlcpress.com",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-a45e992c",
+   "raw_name": "维普中文科技期刊（国家图书馆资源）",
+   "access_url": "http://202.106.125.34/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-5007ea16",
+   "raw_name": "中国历史人物传记资源数据库",
+   "access_url": "http://p.nlcpress.com",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-26b0a691",
+   "raw_name": "全四库系统",
+   "access_url": "http://192.168.181.109:9080/guji.html",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-38fb87da",
+   "raw_name": "中国古籍影印丛书查询数据库",
+   "access_url": "http://39.98.95.7:90/default/search",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-512429b9",
+   "raw_name": "人民日报全文数据库（旧版入口）",
+   "access_url": "http://192.168.30.10:919/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注；官网标注：因设备维护暂时无法访问"
+  },
+  {
+   "canonical_id": "r-200f1f70",
+   "raw_name": "中华再造善本",
+   "access_url": "http://z.nlcpress.com",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-6850f9f9",
+   "raw_name": "China:Trade,PoliticsandCulture——海外收藏的中国近代史珍稀史料文献库",
+   "access_url": "http://www.china.amdigital.co.uk/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-8f2dcb25",
+   "raw_name": "馆际互借与文献传递",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-6aa0abf0",
+   "raw_name": "阿拉伯语电子书：第1辑：现代埃及典藏",
+   "access_url": "http://dlib.eastview.com/browse/books/1030",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-ca9785cc",
+   "raw_name": "阿拉伯语电子书：第2辑：现代阿拉伯文艺复兴",
+   "access_url": "http://dlib.eastview.com/browse/udb/1130",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-69519d06",
+   "raw_name": "Nature：主站点(2008-)",
+   "access_url": "http://www.nature.com/siteindex",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-5bb42ec1",
+   "raw_name": "全国报刊索引",
+   "access_url": "http://202.106.125.34:8090/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-f9f19e8b",
+   "raw_name": "Nature：CALIS北大服务器(1997-)",
+   "access_url": "http://nature.calis.edu.cn/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-1794076e",
+   "raw_name": "中国历史文献总库·近代期刊数据库",
+   "access_url": "http://qk.nlcpress.com",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-5b0c64a0",
+   "raw_name": "龙源电子期刊少年儿童图书馆",
+   "access_url": "http://nlcqsn.vip.qikan.cn/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-b860b832",
+   "raw_name": "The Chinese Students'Monthly Online（中国留美学生月报在线）",
+   "access_url": "http://primarysources.brillonline.com/browse/the-chinese-students-monthly-online",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-94f02842",
+   "raw_name": "Web of science",
+   "access_url": "http://isiknowledge.com/?DestApp=WOS",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-bec38f88",
+   "raw_name": "Lexis Advance 法律数据库",
+   "access_url": "http://advance.lexis.com/?identityprofileid=NWWGRB53738",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-eba39d57",
+   "raw_name": "中国历史文献总库·红色文献数据库",
+   "access_url": "http://red.nlcpress.com/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-3857c646",
+   "raw_name": "Scopus",
+   "access_url": "http://www.scopus.com",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-8a0c500c",
+   "raw_name": "国家知识产权公共服务网",
+   "access_url": "https://ggfw.cnipa.gov.cn",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-7ac3f251",
+   "raw_name": "Taylor & Francis Online Journals 电子期刊",
+   "access_url": "https://www.tandfonline.com",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-a28c1416",
+   "raw_name": "Social Science Premium Collection（社会科学资源专辑高级版）",
+   "access_url": "https://nlc.summon.serialssolutions.com/#!/search?ho=t&amp;include.ft.matches=t&amp;fvf=DatabaseName,Social%20Science%20Premium%20Collection,f&amp;l=en&amp;q=",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-53bdb1b0",
+   "raw_name": "JSTOR过刊数据库",
+   "access_url": "https://nlc.summon.serialssolutions.com/#!/search?ho=t&include.ft.matches=t&fvf=DatabaseName,JSTOR%20Public%20Library%20Collection%20I,f%7CDatabaseName,JSTOR%20Public%20Library%20Collection%20II,f%7CDatabaseName,JSTOR%20Open%20Access%20Journals,f&l=zh-CN&q=",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-6e332b78",
+   "raw_name": "专利检索及分析系统",
+   "access_url": "https://pss-system.cponline.cnipa.gov.cn/conventionalSearch",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-a78ac52a",
+   "raw_name": "Emerald回溯数据库",
+   "access_url": "http://www.emeraldinsight.com/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-84beb164",
+   "raw_name": "韩使燕行录",
+   "access_url": "http://guji.unihan.com.cn/Web#/book/YXL",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-6bbde42c",
+   "raw_name": "Journal Citation Reports （期刊引证分析报告）",
+   "access_url": "https://jcr.clarivate.com/jcr/home",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-6da7cbc6",
+   "raw_name": "Essential Science Indicators（基本科学指标数据库）",
+   "access_url": "https://esi.clarivate.com/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-94d73cc5",
+   "raw_name": "HeinOnline法学数据库",
+   "access_url": "https://heinonline.org/HOL/Welcome",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-d142afbf",
+   "raw_name": "Ulrichsweb（乌利希国际期刊指南）",
+   "access_url": "https://ulrichsweb.serialssolutions.com/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-e2d9d108",
+   "raw_name": "Emerald E-book Series（Emerald电子丛书）",
+   "access_url": "https://www.emerald.com",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-dca070e0",
+   "raw_name": "Emerald管理学全文期刊库",
+   "access_url": "https://www.emerald.com",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-34537a89",
+   "raw_name": "中国共产党思想理论资源数据库",
+   "access_url": "http://data.lilun.cn/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-07817938",
+   "raw_name": "ISI Emerging Market Information Service（新兴市场信息服务，EMIS）",
+   "access_url": "https://www.emis.cn/php/home",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-4f765ded",
+   "raw_name": "元阅读精品电子书数据库",
+   "access_url": "https://h5.metareader.cn/h5/pages/pc/index?tenantId=101429&amp;appId=r475p52j&amp;third=gjtsg&amp;client=gjtsg-pc",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-4d4d154e",
+   "raw_name": "中国历史文献总库·民国图书数据库",
+   "access_url": "http://mg.nlcpress.com",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-5519b4c5",
+   "raw_name": "ElsevierScience Direct 回溯期刊数据库",
+   "access_url": "https://www.sciencedirect.com/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-451c4974",
+   "raw_name": "中国音网",
+   "access_url": "http://www.china1901.com/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-3825edb1",
+   "raw_name": "中国社会科学文库",
+   "access_url": "https://www.sklib.cn/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-a6a5aa18",
+   "raw_name": "橙艺艺术在线（试用）",
+   "access_url": "https://www.chengyiart.cn",
+   "scope": "试用",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-af02e0d4",
+   "raw_name": "中国古籍图典资源库（试用）",
+   "access_url": "https://tudian.nlcpress.com",
+   "scope": "试用",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-6ce5106d",
+   "raw_name": "Kluwer Law Online Journals（威科法律期刊数据库）",
+   "access_url": "https://kluwerlawonline.com/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-410d245e",
+   "raw_name": "云图数字有声图书馆（少儿版）",
+   "access_url": "https://nlc.erlist.cn/go?id=674",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-63675a17",
+   "raw_name": "英国外交部档案：中国",
+   "access_url": "http://www.archivesdirect.amdigital.co.uk/Introduction/FO_China/default.aspx",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-c32c8fca",
+   "raw_name": "四部丛刊",
+   "access_url": "http://guji.unihan.com.cn/web#/book/SBCK",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-81690e99",
+   "raw_name": "EBSCO eBook Collection电子书全文数据库（原NetLibrary电子图书）",
+   "access_url": "http://ebsco.cc/cr",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-1a40f643",
+   "raw_name": "中文社会科学引文索引数据库",
+   "access_url": "http://cssci.nju.edu.cn/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-946ab3f6",
+   "raw_name": "德古意特出版社EBA电子书",
+   "access_url": "https://www.degruyter.com/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-0ab3c1af",
+   "raw_name": "中华经典古籍库",
+   "access_url": "http://192.168.182.133/index.html",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-fc609cda",
+   "raw_name": "中经数据-上市公司财报库",
+   "access_url": "https://nlc.erlist.cn/go?id=339",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-b754376a",
+   "raw_name": "阅读中国——当代文学作品（数字）推荐工程",
+   "access_url": "http://202.96.31.88/usp",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-2dd62a84",
+   "raw_name": "辞海网络版",
+   "access_url": "https://www.cihai.com.cn/index",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-e69e874f",
+   "raw_name": "红色故事绘",
+   "access_url": "http://gjtsghsgsh.zhlhh.com/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-abe8072b",
+   "raw_name": "全国报刊索引-晚清期刊全文数据库",
+   "access_url": "http://www.cnbksy.com",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-aa752d39",
+   "raw_name": "科学文库数据库（新版）",
+   "access_url": "https://iam.sciencereading.cn/login/natlogin?redirecturl=aHR0cHM6Ly9ib29rLnNjaWVuY2VyZWFkaW5nLmNuL3Nob3AvbWFpbi9Mb2dpbi9zc29Mb2dpbi5kbw==",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-6b0ada32",
+   "raw_name": "有章——法律知识服务平台",
+   "access_url": "https://nlc.erlist.cn/go?id=875",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-540cbcf1",
+   "raw_name": "中国引文数据库",
+   "access_url": "http://ref.cnki.net/REF/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-8ebbfc78",
+   "raw_name": "中国科学引文数据库（web of science版）",
+   "access_url": "http://apps.webofknowledge.com/CSCD_GeneralSearch_input.do?product=CSCD&amp;SID=X2pREUthAayltxWmEFL&amp;search_mode=GeneralSearch",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-12f88b74",
+   "raw_name": "商务印书馆精品工具书数据库",
+   "access_url": "http://202.106.125.35/cpnet/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-d8e39c07",
+   "raw_name": "术语在线",
+   "access_url": "http://www.termonline.cn/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-643a358b",
+   "raw_name": "云图数字有声图书馆（公图版）",
+   "access_url": "https://nlc.erlist.cn/go?id=757",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-8b7554c3",
+   "raw_name": "中国类书库",
+   "access_url": "http://192.168.181.109:9080/guji.html",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-367f70f5",
+   "raw_name": "工具书在线",
+   "access_url": "http://dportal.nlc.cn:8332/nlcdrss/gjs/gjs.htm",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-66d82009",
+   "raw_name": "VOD视频点播",
+   "access_url": "http://192.168.29.57/theme/original.smallfont.imagelist/",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-ed6a6958",
+   "raw_name": "华艺学术文献数据库",
+   "access_url": "https://nlc.erlist.cn/go?id=1551",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-feb9aa95",
+   "raw_name": "方正电子图书",
+   "access_url": "http://202.106.125.14:8000/Usp/nlc/?pid=dlib.index&amp;cult=CN",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-62d2bc23",
+   "raw_name": "鲁迅手稿数据库",
+   "access_url": "http://192.168.182.81:5008",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-18206173",
+   "raw_name": "台湾原住民期刊论文资料库",
+   "access_url": "http://192.168.29.16/yuanzhumin/user/index.php",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-198df561",
+   "raw_name": "申报",
+   "access_url": "http://192.168.181.109:9080/guji.html",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-b37a2680",
+   "raw_name": "四部丛刊增补版",
+   "access_url": "http://guji.unihan.com.cn/web#/book/SBCK09",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-a9f7242c",
+   "raw_name": "掌阅精选电子书平台",
+   "access_url": "https://nlc.erlist.cn/go?id=1860",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-caada5e9",
+   "raw_name": "中国基本古籍库",
+   "access_url": "http://192.168.181.109:9080/guji.html",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-8092decc",
+   "raw_name": "宝卷新集",
+   "access_url": "http://192.168.181.109:9080/guji.html",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-c6d85357",
+   "raw_name": "阅藏知津—中国历代典籍目录总库（试用）",
+   "access_url": "https://nlc.erlist.cn/go?id=1900",
+   "scope": "试用",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-5b0e1caa",
+   "raw_name": "全国报刊索引-民国时期期刊全文数据库",
+   "access_url": "http://www.cnbksy.com",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-c7d93aa8",
+   "raw_name": "中国丛书库",
+   "access_url": "http://192.168.181.109:9080/guji.html",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-261b4708",
+   "raw_name": "中国经典库（道藏篇）",
+   "access_url": "http://192.168.181.109:9080/guji.html",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-063fddd8",
+   "raw_name": "incoPat全球科技分析运营平台",
+   "access_url": "https://nlc.erlist.cn/go?id=359",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-5344d14d",
+   "raw_name": "敦煌文献库",
+   "access_url": "http://192.168.181.109:9080/guji.html",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-8dce0605",
+   "raw_name": "二十五史考补",
+   "access_url": "http://192.168.181.109:9080/guji.html",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-a0a35b6e",
+   "raw_name": "学术知析数据库",
+   "access_url": "https://xszx.cnki.net/home",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-00de97de",
+   "raw_name": "明清实录",
+   "access_url": "http://192.168.181.109:9080/guji.html",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-e550af8c",
+   "raw_name": "中国方志库",
+   "access_url": "http://192.168.181.109:9080/guji.html",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-a993e195",
+   "raw_name": "复兴文库（试用）",
+   "access_url": "https://nlc.erlist.cn/go?id=2225",
+   "scope": "试用",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-8e3b521e",
+   "raw_name": "抗日战争与近代中日关系文献数据平台",
+   "access_url": "https://www.modernhistory.org.cn/#/",
+   "scope": "",
+   "access_method": "馆内 / 公网免登录",
+   "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
+  },
+  {
+   "canonical_id": "r-c2f2b5d6",
+   "raw_name": "电子图书",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=1&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-3c751e0f",
+   "raw_name": "博士论文",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=65&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-ff12cf4a",
+   "raw_name": "民国图书",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=24&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-8b0b9cd5",
+   "raw_name": "民国法律",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=61&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-39f690b2",
+   "raw_name": "民国期刊",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=35&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-f25d45f1",
+   "raw_name": "民国报纸",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=60&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-09cb5f48",
+   "raw_name": "日本细菌战资源库",
+   "access_url": "http://zxsl.nlc.cn/zxsl/djsp.jhtml",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-f61d52e6",
+   "raw_name": "东京审判资源库",
+   "access_url": "http://zxsl.nlc.cn/jeecms/djsp.jhtml",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-38597374",
+   "raw_name": "革命历史文献资源库",
+   "access_url": "http://read.nlc.cn/gmls/index",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-286533ed",
+   "raw_name": "馆藏音像",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=51&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-a0f60e09",
+   "raw_name": "文津读书沙龙",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=50&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-ba8a3a60",
+   "raw_name": "国图讲坛",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=52&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-3416d0c8",
+   "raw_name": "文津讲坛",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=6&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-35c3a164",
+   "raw_name": "中国典籍与文化系列",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=58&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-39c3d8f5",
+   "raw_name": "数字古籍",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=10024&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-1784e7cb",
+   "raw_name": "数字方志",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=12&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-c5c596f9",
+   "raw_name": "赵城金藏",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=10021&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-571a63fd",
+   "raw_name": "宋人文集",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=30&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-10cd5de9",
+   "raw_name": "碑帖菁华",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=34&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-324108d2",
+   "raw_name": "甲骨世界",
+   "access_url": "http://read.nlc.cn/specialResourse/jiaguIndex",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-847e1c19",
+   "raw_name": "西夏文献",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=37&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-2fa233fb",
+   "raw_name": "西夏论著",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=33&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-9fc47f4e",
+   "raw_name": "年画撷英",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=29&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-3274a8ff",
+   "raw_name": "前尘旧影",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=36&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-430f10b9",
+   "raw_name": "近现代名家手稿库",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=108&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-361f0e8b",
+   "raw_name": "敦煌遗珍",
+   "access_url": "http://idp.nlc.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-a5007c46",
+   "raw_name": "徽州善本家谱",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=40&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-b172566a",
+   "raw_name": "中华医药典籍",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=81&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-725bf48e",
+   "raw_name": "云南图书馆古籍",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=10025&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-5261b07d",
+   "raw_name": "天津图书馆古籍",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=10023&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-e725a393",
+   "raw_name": "上海图书馆家谱",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=28&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-ddfaf9c4",
+   "raw_name": "扬州市图书馆古籍",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=109&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-db6078ed",
+   "raw_name": "山东大学图书馆古籍",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=106&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-5478b439",
+   "raw_name": "澳门大学图书馆古籍",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=110&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-b6720845",
+   "raw_name": "中华古籍善本联合书目",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=62&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-1c6be2fa",
+   "raw_name": "东文研汉籍影像库",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=54&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-39c67636",
+   "raw_name": "哈佛大学善本特藏",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=14&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-ba83b9de",
+   "raw_name": "法藏敦煌遗书",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=10022&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-70b28fb5",
+   "raw_name": "中华寻根网",
+   "access_url": "http://ouroots.nlc.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-bc85fe1c",
+   "raw_name": "日本永青文库捐赠汉籍",
+   "access_url": "http://read.nlc.cn/specialResourse/yongqingIndex",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-9ad8bd0e",
+   "raw_name": "民族文字古籍特藏库",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=102&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-8df9d76f",
+   "raw_name": "广西民族文字古籍特藏库",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=104&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-85a2b287",
+   "raw_name": "云南民族文字古籍特藏库",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=107&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-eadce79a",
+   "raw_name": "西藏民族文字古籍特藏",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=111&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-e830d52a",
+   "raw_name": "珍秘公天下",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=105&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-58a625c0",
+   "raw_name": "地方馆特色资源",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=42&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-2aaafb8e",
+   "raw_name": "地方志",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=43&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-ae210dab",
+   "raw_name": "民国文献",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=47&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-4bf61e2c",
+   "raw_name": "家谱",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=28&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-5c4b8a21",
+   "raw_name": "老照片",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=48&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-e6238141",
+   "raw_name": "地方视频资料",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=53&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-8007f711",
+   "raw_name": "少数民族资源",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=63&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-68a31f63",
+   "raw_name": "少年儿童资源",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=56&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-ed901c86",
+   "raw_name": "地方非物质文化遗产",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=55&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-7a7cef94",
+   "raw_name": "年画",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=45&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-e364f07c",
+   "raw_name": "科普科教",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=64&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-159980ad",
+   "raw_name": "历史文化",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=59&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-b4d50fa8",
+   "raw_name": "碑帖",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=46&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  },
+  {
+   "canonical_id": "r-70c646c0",
+   "raw_name": "中国学汉学家",
+   "access_url": "http://read.nlc.cn/allSearch/searchList?searchType=66&showType=1&pageNo=1",
+   "scope": "",
+   "access_method": "",
+   "notes": "读者云门户(read.nlc.cn)特色资源库；access_method 留空(读者云门户未逐库标注访问方式)"
+  }
+ ]
+}

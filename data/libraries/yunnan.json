@@ -1,0 +1,372 @@
+{
+ "id": "yunnan-prov",
+ "name": "云南省图书馆",
+ "level": "省级公共图书馆",
+ "region": "云南省",
+ "verified": true,
+ "_说明": "云南省图书馆，2026-07-13 人工核对。44条。无问题。",
+ "official_site": "https://www.ynlib.cn/",
+ "digital_resource_url": "http://dl.ynlib.cn/ynlib",
+ "registration": {
+  "online": "yes",
+  "eligibility": "凡中国公民可凭身份证+手机号通过云南省图书馆微信公众号『我的图书馆』→『网上办证』在线自助注册电子资源读者证/电子借阅卡；已持实体证或电子社保卡读者证可直接登录",
+  "cost": "电子资源读者证免押金；电子借阅卡押金100/200元",
+  "how": "微信公众号『云南省图书馆』→『我的图书馆』→『网上办证』注册(默认身份证号为证号,初始密码出生年月日8位)；登录官网 www.ynlib.cn『电子资源』或微信公众号『数字云图』→『数字资源』使用",
+  "tutorial_url": "http://www.ynlib.cn/fw/jyzn",
+  "notes": "数字资源统一平台 dl.ynlib.cn/ynlib(数字资源新平台)。馆内IP直连；馆外可用公用账号reader(密码123)或持卡读者申请开通。官网对本馆资源中部分库明文标注『仅限馆内访问』(已相应标access_method=馆内)，其余未逐库声明。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-45223251",
+   "raw_name": "游客您好，请",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-4f7f87cb",
+   "raw_name": "维普期刊资源整合服务平台（云南地区可用）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-15539ad9",
+   "raw_name": "人大复印报刊资料全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-fea10381",
+   "raw_name": "中国学术期刊数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-56538c83",
+   "raw_name": "中科VIPExam考试学习资源数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-a721c545",
+   "raw_name": "龙源电子期刊阅览室",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-83237514",
+   "raw_name": "QQ阅读",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-becd467d",
+   "raw_name": "云南省图书馆学习中心",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-6a260b42",
+   "raw_name": "阿法迪阅读",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-823a0a05",
+   "raw_name": "中华连环画数字阅读馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-8c19ff3a",
+   "raw_name": "看展览数字平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-e69e874f",
+   "raw_name": "红色故事绘",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-e61e64a6",
+   "raw_name": "云南省图书馆数字展厅",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-0b5ff0c7",
+   "raw_name": "“知识视界”视频图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-551613f3",
+   "raw_name": "新东方多媒体数据库(仅限馆内访问)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "官网明文『仅限馆内访问』"
+  },
+  {
+   "canonical_id": "r-51b2d0e9",
+   "raw_name": "中国生物志库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-1ee1e79b",
+   "raw_name": "文旅产业融合发展信息平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-7dbc9b4f",
+   "raw_name": "国研网政府管理决策支持系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-29108ec1",
+   "raw_name": "“一带一路”研究与决策支撑平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-ce6638f4",
+   "raw_name": "E线图情",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-37a635f9",
+   "raw_name": "喜马拉雅",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-2695b26f",
+   "raw_name": "新语听书少儿版",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-071c2c84",
+   "raw_name": "库客数字音乐图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-7f80fe40",
+   "raw_name": "中华诗词库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-003cbba1",
+   "raw_name": "启航简笔画",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-07e6e8c4",
+   "raw_name": "新基建信息产业知识平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-59725ba0",
+   "raw_name": "东盟国际语言学习平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-e87a8a8d",
+   "raw_name": "无障碍影音数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-b1cb1564",
+   "raw_name": "大成故纸堆全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-adba0541",
+   "raw_name": "中国地方志知识服务系统(仅限馆内访问)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "官网明文『仅限馆内访问』"
+  },
+  {
+   "canonical_id": "r-ddaa4128",
+   "raw_name": "书同文古籍数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-3fb5d525",
+   "raw_name": "云南省图书馆古籍资源数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "官网明文『仅限馆内访问』"
+  },
+  {
+   "canonical_id": "r-4f97fdb5",
+   "raw_name": "云南方志",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "官网明文『仅限馆内访问』"
+  },
+  {
+   "canonical_id": "r-c4a88600",
+   "raw_name": "超星名师讲坛",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "官网明文『仅限馆内访问』"
+  },
+  {
+   "canonical_id": "r-9a588db8",
+   "raw_name": "博看书苑数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "官网明文『仅限馆内访问』"
+  },
+  {
+   "canonical_id": "r-fb95b2fd",
+   "raw_name": "全国报刊索引(仅限馆内访问)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "官网明文『仅限馆内访问』"
+  },
+  {
+   "canonical_id": "r-7caa67c9",
+   "raw_name": "籍合网·西南联大专题数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "官网明文『仅限馆内访问』"
+  },
+  {
+   "canonical_id": "r-14628783",
+   "raw_name": "音像特色库(仅限馆内访问)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "官网明文『仅限馆内访问』"
+  },
+  {
+   "canonical_id": "r-4d34689c",
+   "raw_name": "畅想之星电子书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "官网明文『仅限馆内访问』"
+  },
+  {
+   "canonical_id": "r-fde7bbba",
+   "raw_name": "畅想之星全民阅读库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "官网明文『仅限馆内访问』"
+  },
+  {
+   "canonical_id": "r-ce2ac447",
+   "raw_name": "科学智库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自云南省图书馆数字图书馆 dl.ynlib.cn/ynlib 本馆资源列表"
+  },
+  {
+   "canonical_id": "r-d90947ee",
+   "raw_name": "书香云南有声图书馆(仅限馆内访问)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "官网明文『仅限馆内访问』"
+  },
+  {
+   "canonical_id": "r-429542ac",
+   "raw_name": "知网CNKI数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "官网明文『仅限馆内访问』"
+  },
+  {
+   "canonical_id": "r-c0b87e66",
+   "raw_name": "TPI专题数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "官网明文『仅限馆内访问』"
+  }
+ ]
+}

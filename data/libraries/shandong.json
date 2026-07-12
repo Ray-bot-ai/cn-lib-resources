@@ -1,0 +1,500 @@
+{
+ "id": "shandong-prov",
+ "name": "山东省图书馆",
+ "level": "省级公共图书馆",
+ "region": "山东省",
+ "verified": true,
+ "official_site": "http://www.sdlib.cn/",
+ "digital_resource_url": "https://lmpt.sdlib.cn/",
+ "_说明": "山东省图书馆，2026-07-12 人工核对。60条。无问题。",
+ "registration": {
+  "online": "yes",
+  "eligibility": "关注微信公众号可线上免押金办电子读者证（人脸识别，证号=身份证号）；到馆凭身份证/鲁通码/社保卡等办证。数字资源馆外访问：持证读者登录『全省数字资源共享服务平台』即可（早期电子阅读证曾要求山东户籍，现以微信在线办证为主）",
+  "cost": "免费（线上免押金；实体证部分类型需押金）",
+  "how": "关注『山东省图书馆』微信公众号→『微服务』→『在线办证』，按年龄选证型、填身份证信息、人脸识别，即生成电子读者证；再登录『全省数字资源共享服务平台』(lmpt.sdlib.cn，官网首页入口)用读者证号+密码(初始为身份证出生年月日8位)访问数字资源",
+  "tutorial_url": "http://www.sdlib.cn/channels/ch00173/",
+  "notes": "数字资源统一在『全省数字资源共享服务平台』(原 rcenter.sdlib.com:8091 已迁移至 lmpt.sdlib.cn)。该平台聚合全省94个资源，本清单仅取山东省图书馆(tenantCode=sd)订阅/自建的60个；其余为各地市馆专题库。馆内可用IP登录。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-9c785ff4",
+   "raw_name": "山东省地方特色资源总库",
+   "access_url": "http://ziyuan.sdlib.cn",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-e038e75a",
+   "raw_name": "山东省古籍数字资源平台",
+   "access_url": "https://guji.sdlib.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-ce8b15e5",
+   "raw_name": "山东智慧图书馆云",
+   "access_url": "http://zhihui.sdlib.cn",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-599e55af",
+   "raw_name": "红色讲坛数据库（试用）",
+   "access_url": "https://www.redlecture.cn",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-6c95b6fa",
+   "raw_name": "爱学术(iresearch)电子书库",
+   "access_url": "https://www.iresearchbook.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-04c8fe23",
+   "raw_name": "中国历史人物传记数据库",
+   "access_url": "https://p.nlcpress.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-bd96fcb5",
+   "raw_name": "“可知”平台电子书（试用）",
+   "access_url": "https://www.keledge.com/",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-f8e11634",
+   "raw_name": "万方数据-抗疫救灾知识服务平台",
+   "access_url": "https://kms.wanfangdata.com.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-91236604",
+   "raw_name": "中华传统音乐资源系列数据库",
+   "access_url": "https://s.cdcgcart.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-bbddfc9b",
+   "raw_name": "《汉语大辞典》网络版（试用）",
+   "access_url": "https://www.hanyudacidian.cn/",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-fe5e9ead",
+   "raw_name": "国家哲学社会科学文献中心",
+   "access_url": "https://www.ncpssd.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-5a89a89a",
+   "raw_name": "新东方多媒体学习库",
+   "access_url": "http://library.koolearn.com/encryptedLogin/a12310638f76fcd7",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-fad82b9b",
+   "raw_name": "中华古籍书目数据库",
+   "access_url": "http://bib.ancientbooks.cn/docGuji",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-4075c450",
+   "raw_name": "民国图书数据库(官网)",
+   "access_url": "http://mg.nlcpress.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-e127e8f7",
+   "raw_name": "E-Academic资源库",
+   "access_url": "https://xueshu.libtools.com.cn/?tenant_id=1693860713669595136",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-caada5e9",
+   "raw_name": "中国基本古籍库",
+   "access_url": "http://dh.ersjk.com/jsp/front/prodlist.jsp",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-39902447",
+   "raw_name": "云图数字有声图书馆（试用）",
+   "access_url": "https://library.yuntuys.com/",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-1dce41d3",
+   "raw_name": "中国金石总录（试用）",
+   "access_url": "http://www.ch5000.com.cn",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-f667d3c8",
+   "raw_name": "公图艺术资源020服务平台（试用）",
+   "access_url": "http://gtart.gongtuedu.cn/",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-70f05e42",
+   "raw_name": "国家图书馆移动阅读平台",
+   "access_url": "http://m.ndlib.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-6a71606b",
+   "raw_name": "山东省图书馆馆藏报纸资源服务平台",
+   "access_url": "http://58.59.15.37:9088/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-c77db767",
+   "raw_name": "皮书数据库",
+   "access_url": "https://www.pishu.com.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-b441f8ce",
+   "raw_name": "北大法意（官网）",
+   "access_url": "https://data.lawyee.net/",
+   "scope": "",
+   "access_method": "",
+   "notes": "如需登录点击IP登录"
+  },
+  {
+   "canonical_id": "r-8548ac1d",
+   "raw_name": "慧科新闻",
+   "access_url": "http://wisesearch6.wisers.net/?gid=sdlibip&user=ipaccess",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-910251bb",
+   "raw_name": "全国报刊索引(官网)",
+   "access_url": "https://www.cnbksy.com/v1",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-045334bf",
+   "raw_name": "中国知网学术期刊数据库",
+   "access_url": "http://kns.cnki.net/kns8?dbcode=CJFQ",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-fc735b15",
+   "raw_name": "万方知识服务平台",
+   "access_url": "https://www.wanfangdata.com.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-68ad532f",
+   "raw_name": "山东历代诗词数据库",
+   "access_url": "https://www.syqilu.com",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-a03dd4db",
+   "raw_name": "维普期刊数据库（请使用微软Edge浏览器访问）",
+   "access_url": "https://qikan.cqvip.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-bf3e9d07",
+   "raw_name": "超星电子书",
+   "access_url": "https://www.sslibrary.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-a0051e0f",
+   "raw_name": "中国知网总库",
+   "access_url": "https://www.cnki.net/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-a9182068",
+   "raw_name": "博看网畅销期刊数据库",
+   "access_url": "http://zq5.bookan.com.cn/?id=23519",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-297c8575",
+   "raw_name": "万方期刊",
+   "access_url": "https://c.wanfangdata.com.cn/periodical",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-bf997e7d",
+   "raw_name": "万方学位论文",
+   "access_url": "https://c.wanfangdata.com.cn/thesis",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-a22bdba7",
+   "raw_name": "万方会议论文",
+   "access_url": "https://c.wanfangdata.com.cn/conference",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-de2e72cb",
+   "raw_name": "万方专利",
+   "access_url": "https://c.wanfangdata.com.cn/patent",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-8ffd6588",
+   "raw_name": "万方科技报告",
+   "access_url": "https://c.wanfangdata.com.cn/nstr",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-d1059730",
+   "raw_name": "万方科技成果数据库",
+   "access_url": "https://c.wanfangdata.com.cn/cstad",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-404b1a82",
+   "raw_name": "万方标准",
+   "access_url": "https://c.wanfangdata.com.cn/standard",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-d12373d6",
+   "raw_name": "中国知网-年鉴",
+   "access_url": "https://kns.cnki.net/kns8s/?classid=HHCPM1F8",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-8266d7c7",
+   "raw_name": "NSTL全国开通外文现刊数据库",
+   "access_url": "https://cds.nstl.gov.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-4e984f37",
+   "raw_name": "NSTL全国开通外文回溯库",
+   "access_url": "http://archive.nstl.gov.cn/Archives/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-ebbdc878",
+   "raw_name": "畅想之星电子书数据库",
+   "access_url": "http://www.cxstar.com/sdst.htm",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-7553e56a",
+   "raw_name": "中华医学健康科普知识库",
+   "access_url": "https://cmhadb.cma-cmc.com.cn",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-c2266a86",
+   "raw_name": "中科VIPEXAM考试学习",
+   "access_url": "http://www.vipexam.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-b4b5fb58",
+   "raw_name": "优质图书资源全民阅读服务平台（试用）",
+   "access_url": "https://www.yztszyqmyd.com/",
+   "scope": "试用",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-3d7f55c5",
+   "raw_name": "产业创新服务平台2.0",
+   "access_url": "https://di.vipisall.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-0ab3c1af",
+   "raw_name": "中华经典古籍库",
+   "access_url": "https://jingdian.ancientbooks.cn/6",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-ad79b8f3",
+   "raw_name": "雅昌艺术图书数据库",
+   "access_url": "https://ysts2.artron.net/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-0ed0a4d6",
+   "raw_name": "中科JobLib就业与创业创新知识库",
+   "access_url": "http://www.joblib.cn",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-4f765ded",
+   "raw_name": "元阅读精品电子书数据库",
+   "access_url": "https://h5.metareader.cn/?tenantId=102901&appId=h9c4y2d5",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-ce6638f4",
+   "raw_name": "E线图情",
+   "access_url": "http://www.chinalibs.net/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-2e1e66aa",
+   "raw_name": "Mirror（米乐）心理资源服务平台",
+   "access_url": "http://www.mirrorpsy.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-46482210",
+   "raw_name": "QQ阅读（使用读者证号密码登录使用）",
+   "access_url": "http://qdtsg.jinghecx.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-e2c64bbf",
+   "raw_name": "万方方志数据库",
+   "access_url": "https://fz.wanfangdata.com.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-8199a4f0",
+   "raw_name": "中华连环画数字图书馆",
+   "access_url": "http://www.zhlhh.com/qdlib/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-c7fe7338",
+   "raw_name": "龙源电子期刊",
+   "access_url": "http://sdlib.vip.qikan.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-71227cb1",
+   "raw_name": "读秀学术搜索",
+   "access_url": "https://www.duxiu.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-00f4fe95",
+   "raw_name": "全国报刊索引(民国期刊)",
+   "access_url": "https://www.cnbksy.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-5e81932b",
+   "raw_name": "国研网",
+   "access_url": "https://www.drcnet.com.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": ""
+  }
+ ]
+}

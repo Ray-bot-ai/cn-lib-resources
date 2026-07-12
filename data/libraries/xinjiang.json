@@ -1,0 +1,420 @@
+{
+ "id": "xinjiang-prov",
+ "name": "新疆维吾尔自治区图书馆",
+ "level": "省级公共图书馆",
+ "region": "新疆维吾尔自治区",
+ "verified": true,
+ "_说明": "新疆维吾尔自治区图书馆，2026-07-13 人工核对。17条。无问题。",
+ "official_site": "https://www.xjlib.org/",
+ "digital_resource_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+ "registration": {
+  "online": "unknown",
+  "eligibility": "官网未提供公开自助注册入口（读者系统需登录，个人中心在 tc.xjlib.org:6060/opac/reader）",
+  "cost": "未知",
+  "how": "官网『读者须知』内容需登录后查看，未能核实是否支持线上办证；建议到馆或致电咨询（0991-3850105）",
+  "tutorial_url": "",
+  "notes": "数字资源门户为畅想之星 engine2 智慧门户（wfwfid=6256），5 个分类共 50 个资源（35 正式 + 15 试用）。『自建资源』栏目需登录访问。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-76a779fd",
+   "raw_name": "科学导航",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术研究"
+  },
+  {
+   "canonical_id": "r-fc0ff491",
+   "raw_name": "超星发现",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术研究"
+  },
+  {
+   "canonical_id": "r-af8b6374",
+   "raw_name": "百链",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术研究"
+  },
+  {
+   "canonical_id": "r-41d732ef",
+   "raw_name": "读秀",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术研究"
+  },
+  {
+   "canonical_id": "r-931a8152",
+   "raw_name": "《中国金石总录》（试用）",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：学术研究"
+  },
+  {
+   "canonical_id": "r-4f78982c",
+   "raw_name": "文化印象数字人文服务平台",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术研究"
+  },
+  {
+   "canonical_id": "r-a0fbe4eb",
+   "raw_name": "万方方志",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术研究"
+  },
+  {
+   "canonical_id": "r-35ff474c",
+   "raw_name": "万方学位",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术研究"
+  },
+  {
+   "canonical_id": "r-fe5e9ead",
+   "raw_name": "国家哲学社会科学文献中心",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术研究"
+  },
+  {
+   "canonical_id": "r-51b2d0e9",
+   "raw_name": "中国生物志库（试用）",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：学术研究"
+  },
+  {
+   "canonical_id": "r-fcadf54d",
+   "raw_name": "科学文库（试用）",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：学术研究"
+  },
+  {
+   "canonical_id": "r-ce2ac447",
+   "raw_name": "科学智库（试用）",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：学术研究"
+  },
+  {
+   "canonical_id": "r-4bd74486",
+   "raw_name": "中国古生物地层知识库（试用）",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：学术研究"
+  },
+  {
+   "canonical_id": "r-fa7bdacf",
+   "raw_name": "维普考试服务平台",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术研究"
+  },
+  {
+   "canonical_id": "r-105d7495",
+   "raw_name": "高校图书馆考研阅览室学习资源平台（试用）",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：学术研究"
+  },
+  {
+   "canonical_id": "r-a5bda723",
+   "raw_name": "全球大学生创新创业与就业升学视频资源平台（试用）",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：学术研究"
+  },
+  {
+   "canonical_id": "r-5a89a89a",
+   "raw_name": "新东方多媒体学习库（试用）",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：学术研究"
+  },
+  {
+   "canonical_id": "r-449e92e5",
+   "raw_name": "汇雅电子书",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：图书期刊"
+  },
+  {
+   "canonical_id": "r-b4b5fb58",
+   "raw_name": "优质图书资源全民阅读服务平台",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：图书期刊"
+  },
+  {
+   "canonical_id": "r-297c8575",
+   "raw_name": "万方期刊",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：图书期刊"
+  },
+  {
+   "canonical_id": "r-4d34689c",
+   "raw_name": "畅想之星电子书",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：图书期刊"
+  },
+  {
+   "canonical_id": "r-3d672744",
+   "raw_name": "近代历史文献库",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：图书期刊"
+  },
+  {
+   "canonical_id": "r-24fbb863",
+   "raw_name": "中文在线",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：图书期刊"
+  },
+  {
+   "canonical_id": "r-89f87391",
+   "raw_name": "超星期刊",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：图书期刊"
+  },
+  {
+   "canonical_id": "r-83237514",
+   "raw_name": "QQ阅读",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：图书期刊"
+  },
+  {
+   "canonical_id": "r-63d15a9e",
+   "raw_name": "掌阅精选（试用）",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：图书期刊"
+  },
+  {
+   "canonical_id": "r-a59368b4",
+   "raw_name": "爱读宝数字阅读平台（试用）",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：图书期刊"
+  },
+  {
+   "canonical_id": "r-d570f604",
+   "raw_name": "龙源期刊阅览室",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：图书期刊"
+  },
+  {
+   "canonical_id": "r-c18f3b34",
+   "raw_name": "博文阅读",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：图书期刊"
+  },
+  {
+   "canonical_id": "r-0f6f5deb",
+   "raw_name": "近代数字文献资源库（试用）",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：图书期刊"
+  },
+  {
+   "canonical_id": "r-eb2035e2",
+   "raw_name": "古典乐谱资源库(试用)",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：图书期刊"
+  },
+  {
+   "canonical_id": "r-8541c78d",
+   "raw_name": "智编牛",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源"
+  },
+  {
+   "canonical_id": "r-b9e9a588",
+   "raw_name": "妙趣手工坊",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源"
+  },
+  {
+   "canonical_id": "r-4266a07a",
+   "raw_name": "贝贝国学教育数据库",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源"
+  },
+  {
+   "canonical_id": "r-2d56aa87",
+   "raw_name": "中华诗词文库",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源"
+  },
+  {
+   "canonical_id": "r-ffa84d51",
+   "raw_name": "超星少儿绘本",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源"
+  },
+  {
+   "canonical_id": "r-4769b3b2",
+   "raw_name": "青少年编程数据库",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源"
+  },
+  {
+   "canonical_id": "r-d9dcc125",
+   "raw_name": "汉字的故事",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源"
+  },
+  {
+   "canonical_id": "r-88a5b22e",
+   "raw_name": "数字博览万物馆",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源"
+  },
+  {
+   "canonical_id": "r-685d31d3",
+   "raw_name": "连环画",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源"
+  },
+  {
+   "canonical_id": "r-e69e874f",
+   "raw_name": "红色故事绘",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源"
+  },
+  {
+   "canonical_id": "r-66e2e14a",
+   "raw_name": "新疆图书馆素养微课堂（试用）",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：少儿资源"
+  },
+  {
+   "canonical_id": "r-5375495e",
+   "raw_name": "乐儿智慧王国（试用）",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：少儿资源"
+  },
+  {
+   "canonical_id": "r-2fe88ad9",
+   "raw_name": "考试学习库",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频库"
+  },
+  {
+   "canonical_id": "r-8f43cdbe",
+   "raw_name": "“文化讲坛”公共文化服务云课堂",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频库"
+  },
+  {
+   "canonical_id": "r-7972fcf4",
+   "raw_name": "网上报告厅",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频库"
+  },
+  {
+   "canonical_id": "r-0b5ff0c7",
+   "raw_name": "“知识视界”视频图书馆",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频库"
+  },
+  {
+   "canonical_id": "r-192150e5",
+   "raw_name": "新语听书",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频库"
+  },
+  {
+   "canonical_id": "r-5ea30f9c",
+   "raw_name": "看展览",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：其他"
+  },
+  {
+   "canonical_id": "r-b63db5c4",
+   "raw_name": "“知识视界”中国服饰文化库(试用)",
+   "access_url": "https://www.xjlib.org/engine2/m/EAC19328B24072E4?p=266336&wfwfid=6256&pageId=266336&websiteId=156885&mhType=1&publicId=6530bf5a44953111ed0a1776c93893275cbc&mhEnc=9487ec8c18cc79e3f38c641430783d2e",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：其他"
+  }
+ ]
+}

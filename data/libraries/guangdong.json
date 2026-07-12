@@ -1,12 +1,12 @@
 {
- "_说明": "广东省立中山图书馆，2026-07-12 采集。数字资源全量清单来自官网『电子资源统一服务平台』(sso1.zslib.com.cn) 的公开索引（共124条数据库），该清单为搜索引擎对官网平台的公开收录，官网实时平台需登录后查看具体访问地址。按铁律：access_url/scope/access_method 因登录墙无法逐条核实，一律留空；仅收录官网原样资源名，不臆断访问方式。办证方式已核实(广东省常住居民可线上自助办卡)。",
+ "_说明": "广东省立中山图书馆，2026-07-12 官网实地采集并更新。数字资源全量清单来自官网电子资源页面(https://www.zslib.com.cn/Page/ResourcesList.html)的18页全部条目，共86条。访问方式据官网标注：登录浏览→馆外可访问(需读者证)，直接浏览→公网免登录；描述中声明限馆内/仅供内网的已标注为馆内。办证方式已核实。",
  "id": "guangdong",
  "name": "广东省立中山图书馆",
  "level": "省级公共图书馆",
  "region": "广东省",
  "verified": true,
  "official_site": "https://www.zslib.com.cn/",
- "digital_resource_url": "https://sso1.zslib.com.cn",
+ "digital_resource_url": "https://www.zslib.com.cn/Page/ResourcesList.html",
  "registration": {
   "online": "yes",
   "eligibility": "广东省常住居民（凭二代身份证等）可线上自助办卡",
@@ -17,996 +17,692 @@
  },
  "resources": [
   {
-   "canonical_id": "r-d73490ee",
-   "raw_name": "中国知网(CNKI)资源总库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-5a77a2ad",
-   "raw_name": "EBSCOhost",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-082fc61b",
-   "raw_name": "ProQuest ABI/INFORM Complete (ProQuest商业管理数据库)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-c503a836",
-   "raw_name": "中国知网--中国博士学位论文全文数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-3e5c47ae",
-   "raw_name": "中华医学期刊全文数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-a3c80606",
-   "raw_name": "晚清期刊全文数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-87496c44",
-   "raw_name": "中华连环画数字阅览室",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-bd75c651",
-   "raw_name": "库客(KUKE)数字音乐图书馆",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-f098b3c5",
-   "raw_name": "博看期刊数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-c9782637",
-   "raw_name": "环球英语多媒体资源库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-c1051ab0",
-   "raw_name": "“知识视界”视频",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-81f53a6f",
-   "raw_name": "[嘉靖]广东通志",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-4db27615",
-   "raw_name": "ArtBase中国艺术图片库(国图)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-088a4bb2",
-   "raw_name": "博看手机版",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-b47bb63d",
-   "raw_name": "鲍少游艺术馆",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-e66afe8d",
-   "raw_name": "BioMed Central[生物医学中心]",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-94487f0b",
-   "raw_name": "百听听书(移动端)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
+   "raw_name": "CNKI知识资源总库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。CNKI系列数据库和加盟数据库2600多个，全文超5000万条",
    "canonical_id": "r-6aaf1103",
-   "raw_name": "CNKI知识资源总库(2023镜像)",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-a243112b",
-   "raw_name": "CNKI中国知网知识资源总库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-61b58998",
-   "raw_name": "读览天下",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-41d732ef",
-   "raw_name": "读秀",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-12f7cbf8",
-   "raw_name": "国研网(手机版)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-86f44a03",
-   "raw_name": "馆藏缩微文献目录检索",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-5fee0766",
-   "raw_name": "广东省红树林湿地专题",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-f5f3a5a4",
-   "raw_name": "广州大典",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-282fb211",
-   "raw_name": "海量试题资源库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-31f52e07",
-   "raw_name": "近代华侨报刊大系",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-e0b23ba2",
-   "raw_name": "客家文化多媒体资源库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-04896346",
-   "raw_name": "库客数字音乐(国图)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-93c85f48",
-   "raw_name": "民国时期期刊全文数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-0b23f72d",
-   "raw_name": "美国国家经济研究局(NBER)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-b141d1a8",
-   "raw_name": "MyET英语多媒体资源库(镜像)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-c164a04e",
-   "raw_name": "MET全民英语学习资源库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-20985da3",
-   "raw_name": "人大复印资料(镜像版)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-e742ee51",
-   "raw_name": "书同文",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-a1aa477c",
-   "raw_name": "书香中国",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-25e415b5",
-   "raw_name": "生态环保图书馆",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-23b8d325",
-   "raw_name": "少儿多媒体图书馆",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-fe7e374e",
-   "raw_name": "特藏文献数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-d3e8dfc4",
-   "raw_name": "天禄云枢古籍数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-a3c80606",
-   "raw_name": "晚清期刊全文数据库(镜像)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-aec2fbb8",
-   "raw_name": "维普-中国科学指标数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-c930e007",
-   "raw_name": "万方数据知识服务平台--中外标准",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-52290e9e",
-   "raw_name": "网易公开课",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-98f33469",
-   "raw_name": "维普科技期刊(镜像)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-5a89a89a",
-   "raw_name": "新东方多媒体学习库(镜像)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-8d8545ca",
-   "raw_name": "银符考试平台(镜像)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-539a05da",
-   "raw_name": "银符考试模拟题库应用系统",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-573c1f8c",
-   "raw_name": "中国历史文献总库·近代报纸数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-781bbca6",
-   "raw_name": "中国大百科全书数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-1fabead2",
-   "raw_name": "中少动画资源库(国图)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-2ac9417a",
-   "raw_name": "中少快乐阅读平台(镜像版)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-cb2fc827",
-   "raw_name": "中国学术期刊网络出版总库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-4743c4ab",
-   "raw_name": "中国报纸学术文献数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-c7d1a748",
-   "raw_name": "中国工具书网络出版总库(合订版)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-d11423fa",
-   "raw_name": "中国政报公报期刊文献数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-c9bc6f87",
-   "raw_name": "知网手机端",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-8489df8f",
-   "raw_name": "智慧图书馆知识资源服务平台",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-3825edb1",
-   "raw_name": "中国社会科学文库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-eed9a4a3",
-   "raw_name": "早期报纸——华商报",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-8a570433",
-   "raw_name": "中文在线H5",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-eb02babe",
-   "raw_name": "《申报》",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-602513db",
-   "raw_name": "维普期刊资源整合服务平台",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-8e7dfc00",
-   "raw_name": "万方数据知识服务平台",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-e191f610",
-   "raw_name": "中国知网--中国优秀硕士学位论文全文数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-26b63c73",
-   "raw_name": "超星汇雅电子书",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-6abd7c34",
-   "raw_name": "人大复印报刊资料",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-5a89a89a",
-   "raw_name": "新东方多媒体学习库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-34537a89",
-   "raw_name": "中国共产党思想理论资源数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-5a9d3d25",
-   "raw_name": "Emerald电子系列丛书",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-dfc86f62",
-   "raw_name": "CNKI-中国重要会议论文全文数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-a040b730",
-   "raw_name": "NSTL外文现刊数据库 OA",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-4a08b7fb",
-   "raw_name": "万方数据知识服务平台--学术期刊",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-e6a4ef39",
-   "raw_name": "3D互动知识模型",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-f7ad138d",
-   "raw_name": "北华捷报/字林西报全文数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-4e1bcb15",
-   "raw_name": "博云光盘系统",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-a9cd0657",
-   "raw_name": "报图览粤--清末民初画报中的广东",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-0b5dcc32",
-   "raw_name": "百听听书",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-09d55a19",
-   "raw_name": "Country Report(国家报告)(国图)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-0844291b",
-   "raw_name": "潮汕文献书目",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-87466e2f",
-   "raw_name": "超星发现系统",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-9297ed71",
-   "raw_name": "德语电子图书馆",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-04a27e28",
-   "raw_name": "繙云文獻",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-53e213dd",
-   "raw_name": "国务院发展研究中心信息网",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-28cfad85",
-   "raw_name": "馆藏书目数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-c4c69185",
-   "raw_name": "公共数字文化工程基层资源配送",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-c9782637",
-   "raw_name": "环球英语多媒体资源库(镜像)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-5b2f4344",
-   "raw_name": "经典影院",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-5632a2c0",
-   "raw_name": "客家文献目录",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-16257397",
-   "raw_name": "开放存取期刊目录(Directory of Open Access Journals)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-ef81bfdf",
-   "raw_name": "民国报纸服务平台",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-fc1f84c2",
-   "raw_name": "美国科学公共图书馆开放获取期刊(PLoS)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-233f3716",
-   "raw_name": "美国物理联合会",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-c164a04e",
-   "raw_name": "MET全民英语学习资源库(镜像)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-5bb42ec1",
-   "raw_name": "全国报刊索引(镜像)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-d701ed7c",
-   "raw_name": "人民日报图文数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-072fa28d",
-   "raw_name": "缩微文献全文数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-9b790410",
-   "raw_name": "生态环保图书馆全文库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-432da6ef",
-   "raw_name": "孙中山多媒体资源库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-6c1c0909",
-   "raw_name": "少儿多媒体图书馆H5",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-b1002fea",
-   "raw_name": "图书馆建设资源库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-e631da7f",
    "raw_name": "特色资源导览",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。含缩微文献全文库、近代华侨报刊大系、古籍数字资源库、[嘉靖]广东通志、早期报纸系列等（部分报纸和古籍暂限馆内访问）",
+   "canonical_id": "r-e631da7f",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
+   "raw_name": "超星发现系统",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。整合图书馆内外各类文献，实现目录级管理",
+   "canonical_id": "r-87466e2f",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "读秀知识库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。230万种书目、170万种图书、6亿页全文",
+   "canonical_id": "r-d9d6ca45",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "万方资源系统(包库)",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。期刊、学位论文、会议论文、外文期刊等",
    "canonical_id": "r-9d3ac1f6",
-   "raw_name": "万方资源系统(镜像)",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-a3216009",
-   "raw_name": "万方数据知识服务平台--学位论文",
+   "raw_name": "缩微文献全文数据库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。馆藏缩微古籍、期刊、报纸约160万幅全文",
+   "canonical_id": "r-072fa28d",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-00945c73",
-   "raw_name": "万方数据知识服务平台--学术会议",
+   "raw_name": "博看期刊数据库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。40多类近3000种主流畅销人文期刊",
+   "canonical_id": "r-f098b3c5",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-7b73f88b",
-   "raw_name": "万方手机端",
+   "raw_name": "维普中文期刊服务平台",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。中文期刊15300余种，文献总量7300余万篇",
+   "canonical_id": "r-da8ad333",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-192150e5",
-   "raw_name": "新语听书",
+   "raw_name": "学术期刊库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。CNKI中国学术期刊网络出版总库，约6908种期刊",
+   "canonical_id": "r-59082055",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-43bb9edc",
-   "raw_name": "央视教育视频资源库",
+   "raw_name": "环球英语多媒体资源库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。六大类约33000课时环球名师课程",
+   "canonical_id": "r-c9782637",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-89e5cf56",
-   "raw_name": "芸窗思政",
+   "raw_name": "万方数据知识服务平台--学术期刊",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。期刊7千余种，论文1千余万篇",
+   "canonical_id": "r-4a08b7fb",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-67412240",
-   "raw_name": "重庆智舍科技《FPD外刊资源服务系统》",
+   "raw_name": "馆藏书目数据库",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。中外文图书、连续出版物等多种类型",
+   "canonical_id": "r-28cfad85",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-ea4cce6f",
-   "raw_name": "知识视界(镜像)",
+   "raw_name": "近代华侨报刊大系",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。1949年前200余种华侨中文报刊，5.5万多页文献数字化",
+   "canonical_id": "r-31f52e07",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-8cc18b84",
+   "raw_name": "全国报刊索引",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。1833年至今近二百年、5000万条数据、50000余种报刊",
+   "canonical_id": "r-5bb42ec1",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "国务院发展研究中心信息网",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。大型经济信息数据库集群，含国研视点、宏观经济等十个数据库",
+   "canonical_id": "r-53e213dd",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "外刊资源服务系统",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。SCI/SSCI期刊8800种，累计超3750万篇",
+   "canonical_id": "r-350db842",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "MET全民英语学习资源库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。智能语音分析评测，人机对话练习",
+   "canonical_id": "r-c164a04e",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "人大复印资料包库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。复印报刊资料系列118种、文摘14种、索引8种",
+   "canonical_id": "r-a9e0cd13",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中国历史文献总库·近代报纸数据库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。广东地区约二十份民国时期报纸",
+   "canonical_id": "r-573c1f8c",
+   "access_url": "",
+   "scope": ""
+  },
+  {
    "raw_name": "中国数字方志库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。1949年前地志类文献万余种",
+   "canonical_id": "r-8cc18b84",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-2ac9417a",
+   "raw_name": "特藏文献数据库",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。广东图书、孙中山文献、广东舆图、家谱、民国期刊库等",
+   "canonical_id": "r-fe7e374e",
+   "access_url": "",
+   "scope": ""
+  },
+  {
    "raw_name": "中少快乐阅读平台",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。中少总社60年经典报纸、期刊、图书资源",
+   "canonical_id": "r-2ac9417a",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-6c1a562f",
-   "raw_name": "中文报纸(国图)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-5fc8d067",
    "raw_name": "中图展览图片库",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。历次展览相关图片、展品图片、历史影像资料",
+   "canonical_id": "r-5fc8d067",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-9f263a08",
-   "raw_name": "中国年鉴网络出版数据库",
+   "raw_name": "万方数据知识服务平台--学位论文",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。1980年以来硕博论文200万余篇",
+   "canonical_id": "r-a3216009",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-573e395e",
-   "raw_name": "中国学术辑刊全文数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-1036fb8f",
    "raw_name": "掌阅精选线上数字图书馆",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。20余万种图书，50万册有声图书，700余本解读书",
+   "canonical_id": "r-1036fb8f",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-f5fc4ca9",
-   "raw_name": "中国近代报刊-申报(镜像)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-f45ca7fb",
-   "raw_name": "知心心理资源平台",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
-  },
-  {
-   "canonical_id": "r-9ae938d3",
    "raw_name": "中国古典文献资源导航系统",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。首家古典文献资源导航平台，免费公益性服务",
+   "canonical_id": "r-9ae938d3",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-d55b0e32",
+   "raw_name": "网易公开课",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。哈佛、牛津、耶鲁等世界名校公开课",
+   "canonical_id": "r-52290e9e",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "3D互动知识模型",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。裸眼3D互动学习，含生活科技、天文航天等",
+   "canonical_id": "r-e6a4ef39",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "新东方多媒体学习库(镜像)",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。语言学习库，含应用外语、国内考试、出国留学、求职就业",
+   "canonical_id": "r-5a89a89a",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中华连环画数字阅览室",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。四大名著、成语典故、民间故事、革命历史等",
+   "canonical_id": "r-87496c44",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中文在线电子书",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。书香中国数字图书馆，一站式互联网读书服务平台",
+   "canonical_id": "r-1a2aba23",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "会议论文库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。CNKI中国重要会议论文全文数据库",
+   "canonical_id": "r-d8fae347",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "超星期刊",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。6500种期刊，6.3亿条元数据，近亿条全文",
+   "canonical_id": "r-89f87391",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "学位论文库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。CNKI中国博士学位论文全文数据库，380家博士培养单位",
+   "canonical_id": "r-930d7a6c",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "报图览粤--清末民初画报中的广东",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。清末民初石印画报中涉及广东的新闻图画",
+   "canonical_id": "r-a9cd0657",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "生态环保图书馆全文库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。覆盖图书、期刊、报纸、论文、专利，文献总量超200万件",
+   "canonical_id": "r-9b790410",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "少儿多媒体图书馆",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。面向0-15岁孩童、老师和家长的全方位教学育学产品",
+   "canonical_id": "r-23b8d325",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "国家哲学社会科学文献中心",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。中宣部指导、社科院牵头的全国哲学社会科学文献平台",
+   "canonical_id": "r-fe5e9ead",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "馆藏缩微文献目录检索",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。检索报纸、期刊、古籍缩微资料馆藏情况",
+   "canonical_id": "r-86f44a03",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "鲍少游艺术馆",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。2024年落成，收藏鲍少游书画作品、手稿、文献资料",
+   "canonical_id": "r-b47bb63d",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "万方中外专利数据库",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。1.5亿条国内外专利数据，中国专利4400万余条",
+   "canonical_id": "r-6e59604c",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "博看期刊数据库移动版",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。手机端访问博看期刊",
+   "canonical_id": "r-d9ce8019",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "万方资源系统(镜像)",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。镜像版万方资源系统",
+   "canonical_id": "r-9d3ac1f6",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "环球英语多媒体资源库（镜像）",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。镜像版，出国留学、学历考试、英语应用、职业英语、小语种",
+   "canonical_id": "r-c9782637",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "银符考试平台(镜像)",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。十一大考试专辑、300大类、27万余套试卷",
+   "canonical_id": "r-8d8545ca",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中华优秀传统文化百科知识库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。26个主题文化库，2600余本权威工具书",
+   "canonical_id": "r-caee0abf",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中少快乐阅读平台（镜像版）",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。镜像版中少快乐阅读平台",
+   "canonical_id": "r-2ac9417a",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "百听听书",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。朗声图书正版优质出版级有声书（用户名zslib密码zslib2017）",
+   "canonical_id": "r-0b5dcc32",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "万方数据知识服务平台--学术会议",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。1985年至今世界主要学会会议论文97万余篇",
+   "canonical_id": "r-00945c73",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "超星汇雅电子书",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。130万余种图书，中图分类法22个大类",
+   "canonical_id": "r-26b63c73",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "NSTL外文现刊数据库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。37个外文现刊数据库、478种期刊，含回溯数据库24个、3289种期刊",
+   "canonical_id": "r-a16325d2",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "银符考试模拟题库应用系统",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。非镜像版银符考试题库",
+   "canonical_id": "r-539a05da",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "书同文全文检索数据库系统",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。四部丛刊、十通、大明实录、清实录等九个子库",
+   "canonical_id": "r-1e5a1252",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "新语听书",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。国家正式出版物有声图书，30大分类",
+   "canonical_id": "r-192150e5",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中国学术辑刊全文数据库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。CNKI学术辑刊，反映各学科领域最新研究成果",
+   "canonical_id": "r-573e395e",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中国地区经济发展报告",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。全国及各省区市季度/年度经济形势分析、统计公报、政府工作报告",
+   "canonical_id": "r-5e067a55",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中国近代报刊-中央日报",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。台湾得泓公司研发，海峡两岸同期近代报纸史料",
+   "canonical_id": "r-8330f058",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中科VIPExam考试学习数据库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。1300余个考试科目模拟试卷和历年真题",
+   "canonical_id": "r-db82c7a7",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "人民日报图文数据库",
+   "access_method": "馆内",
+   "notes": "直接浏览但限馆内访问。1946年创刊至今全部新闻报道",
+   "canonical_id": "r-d701ed7c",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "人大复印资料（镜像版）",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。镜像版人大复印报刊资料",
+   "canonical_id": "r-20985da3",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中国年鉴网络出版数据库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。累计收录年鉴2470种、1732种年鉴年刊",
+   "canonical_id": "r-9f263a08",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "MET全民英语学习资源库（镜像）",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。镜像版MET英语",
+   "canonical_id": "r-c164a04e",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "cnki工具书总库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。200个出版社4000余部工具书，70%独家授权",
+   "canonical_id": "r-d5a06eb6",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中图易阅通",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。中图公司外文电子图书采选与访问一站式平台",
+   "canonical_id": "r-252bdc39",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中国政报公报期刊文献数据库",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。全国各级人大、政府、法院、检察院政报公报",
+   "canonical_id": "r-d11423fa",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "万方数据知识服务平台--中外标准",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。国家标准、行业标准、中外标准题录240余万条",
+   "canonical_id": "r-c930e007",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中国重要报纸全文数据库",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。中央及地方重要报纸500种以上",
+   "canonical_id": "r-f4623c74",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "维普期刊资源整合服务平台（镜像）",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。镜像版，含中国科技经济新闻数据库",
+   "canonical_id": "r-602513db",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中国近代报刊-申报",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。近代三大报纸之一",
+   "canonical_id": "r-f5fc4ca9",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "广州大典",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。广州历史文献全文数据库，收录1911年前广州相关著述",
+   "canonical_id": "r-f5f3a5a4",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中国近代报刊-大公报",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。近代三大报纸之一",
+   "canonical_id": "r-4d380568",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "[嘉靖]广东通志",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。黄佐纂修，AI+知识图谱技术构建立体化数据库（2025年上线）",
+   "canonical_id": "r-81f53a6f",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "早期报纸——华商报",
+   "access_method": "馆内",
+   "notes": "直接浏览但限馆内访问。1941年创刊于香港，1946年复刊",
+   "canonical_id": "r-eed9a4a3",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "早期报纸——民生日报、国民新闻、岭东日报",
+   "access_method": "馆内",
+   "notes": "直接浏览但限馆内访问。广东地区三份报纸约1万拍缩微文献",
+   "canonical_id": "r-1e21ed41",
+   "access_url": "",
+   "scope": ""
+  },
+  {
    "raw_name": "早期报纸——中山日报",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。前身为广州民国日报，1937年更名",
+   "canonical_id": "r-d55b0e32",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-9ae95c51",
-   "raw_name": "《大公报》",
+   "raw_name": "晚清（1816-1911）、民国时期（1911-1949）期刊全文数据库",
+   "access_method": "公网免登录",
+   "notes": "直接浏览。晚清600余种期刊60万余篇+民国20000余种期刊近1000万篇",
+   "canonical_id": "r-5ba82dd6",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
   },
   {
-   "canonical_id": "r-c592c978",
-   "raw_name": "《中央日报》",
+   "raw_name": "天禄云枢古籍数据库",
+   "access_method": "馆内",
+   "notes": "登录浏览但仅内网试用",
+   "canonical_id": "r-d3e8dfc4",
    "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自官网电子资源统一服务平台公开索引，访问入口需登录后查看"
+   "scope": ""
+  },
+  {
+   "raw_name": "知心心理资源平台",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。心理知识科普、趣味测试、情绪调节、音频疗愈",
+   "canonical_id": "r-f45ca7fb",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "法信平台",
+   "access_method": "馆内",
+   "notes": "直接浏览但仅供内网访问。最高人民法院立项，1.42亿篇文献",
+   "canonical_id": "r-e72f08a3",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "最高人民法院数字图书馆",
+   "access_method": "馆内",
+   "notes": "直接浏览但仅供内网访问。207个数据库、1.53亿篇文献，全球最大中文法律数字图书馆",
+   "canonical_id": "r-bc52ab96",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "优质图书资源全民阅读服务平台",
+   "access_method": "馆内",
+   "notes": "直接浏览但仅供内网访问。整合出版社优质电子图书",
+   "canonical_id": "r-b4b5fb58",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中国金石总录",
+   "access_method": "馆内",
+   "notes": "直接浏览但内网访问。先秦至清末金石文献，完整拓本、全文录文",
+   "canonical_id": "r-1dce41d3",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "复兴文库(馆内访问）",
+   "access_method": "馆内",
+   "notes": "直接浏览但限馆内访问。1840年以来与民族复兴相关重要文献",
+   "canonical_id": "r-d5bfd794",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "广东全民终身学习平台",
+   "access_method": "馆外可访问(需读者证)",
+   "notes": "登录浏览。省委教育工作领导小组主办，全省统一身份认证",
+   "canonical_id": "r-51bac1d0",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中国近代影像资料库(馆内访问）",
+   "access_method": "馆内",
+   "notes": "登录浏览但限馆内访问。1840-1949年8万多幅历史照片",
+   "canonical_id": "r-12515738",
+   "access_url": "",
+   "scope": ""
+  },
+  {
+   "raw_name": "中国连环画数字馆",
+   "access_method": "馆内",
+   "notes": "直接浏览但仅供内网访问。四大名著、红色经典、历史故事等",
+   "canonical_id": "r-8f2e4576",
+   "access_url": "",
+   "scope": ""
   }
  ]
 }

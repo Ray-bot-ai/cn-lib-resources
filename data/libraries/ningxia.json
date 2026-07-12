@@ -1,0 +1,172 @@
+{
+ "_说明": "宁夏图书馆，2026-07-12 人工核对。全量19条。注册系统升级中暂不可用。",
+ "id": "ningxia-prov",
+ "name": "宁夏图书馆",
+ "level": "省级公共图书馆",
+ "region": "宁夏回族自治区",
+ "verified": true,
+ "official_site": "https://www.nxlib.cn/",
+ "digital_resource_url": "https://www.yuedunx.cn/",
+ "registration": {
+  "online": "no",
+  "eligibility": "",
+  "cost": "",
+  "how": "2026-07-12 系统升级中暂不可用，详见 https://www.nxlib.cn/v2/sub/9d2509ff385b081a3645deca310d6648#/",
+  "tutorial_url": "https://www.nxlib.cn/v2/sub/9d2509ff385b081a3645deca310d6648#/",
+  "notes": "人工核对。系统升级中暂不可用。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-f3d6c6bc",
+   "raw_name": "古籍平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-83237514",
+   "raw_name": "QQ阅读",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-fcf36d9f",
+   "raw_name": "鼎秀古籍全文检索平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-94dae7eb",
+   "raw_name": "红色故事绘一连环画里的四史故事",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-af09e6d0",
+   "raw_name": "红色资源",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-93df10ae",
+   "raw_name": "超星少儿绘本数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-c4d76fcb",
+   "raw_name": "乐儿智慧王国-科普动漫营",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-7a3f5140",
+   "raw_name": "从零开始学乐器",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-a3cca9a2",
+   "raw_name": "国学经典数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-7f80fe40",
+   "raw_name": "中华诗词库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-55bda2b6",
+   "raw_name": "中国探索教育视频资源服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-b96fae0e",
+   "raw_name": "新语数字图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-cd7fb059",
+   "raw_name": "云图有声数字图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-24fbb863",
+   "raw_name": "中文在线",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-449e92e5",
+   "raw_name": "汇雅电子书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-f098b3c5",
+   "raw_name": "博看期刊数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-51e215b9",
+   "raw_name": "CNKI",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-5087e233",
+   "raw_name": "新东方多媒体学习平台（课程）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-56538c83",
+   "raw_name": "中科VIPExam考试学习资源数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  }
+ ]
+}

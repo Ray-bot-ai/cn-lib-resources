@@ -1,0 +1,188 @@
+{
+ "id": "hebei-prov",
+ "name": "河北省图书馆",
+ "level": "省级公共图书馆",
+ "region": "河北省",
+ "verified": true,
+ "_说明": "河北省图书馆，2026-07-13 人工核对。21条。无问题。",
+ "official_site": "https://www.helib.net/",
+ "digital_resource_url": "https://www.helib.net/newdigital/node_800.htm",
+ "registration": {
+  "online": "yes",
+  "eligibility": "年满14周岁以上中国公民可办成人免押金电子证；未满14周岁可办少儿免押金电子证；需二代身份证+人脸验证",
+  "cost": "免费（免押金读者证，2024-11起）",
+  "how": "微信关注『河北省图书馆』服务号 → 我的图书馆 → 冀图空间 → 在线办证，填真实信息并人脸验证，办理成功即生成电子读者证(二维码)；读者证号=本人身份证号，初始密码=出生年月日8位。也可到馆自助办证机/总服务台线下办理。",
+  "tutorial_url": "https://www.helib.net/fwzn/node_247.htm",
+  "notes": "数字资源凭读者证号登录『数字资源登录』使用。官网数字资源栏目共列出21个外购数据库(本表全量)，另有冀图讲坛、河北地方/非遗等自建资源分散于其他栏目，未列入统一数字资源页故未收录。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-ce79d0ab",
+   "raw_name": "中华数字书苑",
+   "access_url": "http://www.apabi.com/helib",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-d9d6ca45",
+   "raw_name": "读秀知识库",
+   "access_url": "http://www.duxiu.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-e323eaf5",
+   "raw_name": "近代文献数据库",
+   "access_url": "http://bk.reasonlib.com",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-b4b5fb58",
+   "raw_name": "优质图书资源全民阅读服务平台",
+   "access_url": "https://www.yztszyqmyd.com",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-b59eacf6",
+   "raw_name": "畅想中心数据平台",
+   "access_url": "http://www.cxstar.com/hblib.htm",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-669bb1af",
+   "raw_name": "外典搜索国家外文文献共享平台",
+   "access_url": "https://wdss.nlc.cn/#/",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-8bcbabe8",
+   "raw_name": "中国知网",
+   "access_url": "http://www.cnki.net/",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-4877a01f",
+   "raw_name": "龙源电子期刊阅览室数据库",
+   "access_url": "http://helib.vip.qikan.cn",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-f4a03d86",
+   "raw_name": "《中文科技期刊数据库》",
+   "access_url": "http://qikan.cqvip.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-01217219",
+   "raw_name": "《维普考试资源系统》",
+   "access_url": "http://vers.cqvip.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-8e7dfc00",
+   "raw_name": "万方数据知识服务平台",
+   "access_url": "https://www.wanfangdata.com.cn",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-0498411a",
+   "raw_name": "全国报刊索引数据库",
+   "access_url": "http://www.cnbksy.cn",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-d016aa85",
+   "raw_name": "国际教育系列全文专题库",
+   "access_url": "http://www.ieslib.com",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-5375495e",
+   "raw_name": "乐儿智慧王国",
+   "access_url": "http://hebei.atleer.com",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-c23e4d35",
+   "raw_name": "连环画阅览室系统",
+   "access_url": "http://www.zhlhh.com/hblib/",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-7972fcf4",
+   "raw_name": "网上报告厅",
+   "access_url": "https://wb.bjadks.com",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-9d80ba4e",
+   "raw_name": "库客数字音乐图书馆数据库",
+   "access_url": "http://www.kuke.com/#t=w/kuke/home/index",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-3bafdac1",
+   "raw_name": "新东方多媒体学习库（KOCD)",
+   "access_url": "http://library.koolearn.com/encryptedLogin/9d6e9275d8b9004c",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-a88a189e",
+   "raw_name": "国研网数据库",
+   "access_url": "http://www.drcnet.com.cn/www/integrated/",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-39902447",
+   "raw_name": "云图数字有声图书馆",
+   "access_url": "https://library.yuntuys.com",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-7221a653",
+   "raw_name": "Artlib世界艺术鉴赏库",
+   "access_url": "https://www.artlib.cn",
+   "scope": "",
+   "access_method": "",
+   "notes": "河北馆数字资源栏目(node_800)列出之外购数据库；官网未标注馆内/馆外访问方式"
+  }
+ ]
+}

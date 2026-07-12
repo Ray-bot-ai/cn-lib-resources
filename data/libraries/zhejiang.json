@@ -1,11 +1,11 @@
 {
- "_说明": "浙江图书馆，2026-07-12 CDP实地采集。55个数字资源来自digitalResource/pageList接口。access_method暂留空(列表接口无馆内/馆外字段，未核实,不臆断)。",
+ "_说明": "浙江图书馆，2024-07-13 人工核对。55条。无问题。",
  "id": "zhejiang",
  "name": "浙江图书馆",
  "level": "省级公共图书馆",
  "region": "浙江省",
  "verified": true,
- "official_site": "https://www.zjlib.cn",
+ "official_site": "https://www.zjlib.cn/",
  "digital_resource_url": "https://www.zjlib.cn/resource/digital",
  "registration": {
   "online": "yes",

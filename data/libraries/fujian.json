@@ -1,0 +1,756 @@
+{
+ "_说明": "福建省图书馆，2026-07-12 人工核对并更新。数字资源全量清单来自官网数字资源栏目，共92条。注册方式经人工核实：支付宝、微信均可在线办理。",
+ "id": "fujian-prov",
+ "name": "福建省图书馆",
+ "level": "省级公共图书馆",
+ "region": "福建省",
+ "verified": true,
+ "official_site": "https://www.fjlib.net/",
+ "digital_resource_url": "https://www.fjlib.net/zy/szzy/",
+ "registration": {
+  "online": "yes",
+  "eligibility": "面向全国读者",
+  "cost": "免费",
+  "how": "支付宝搜索『借阅宝』选福建省图书馆办虚拟读者证；微信『福建省图书馆』公众号也可在线注册。也可用身份证号在官网在线免费注册。",
+  "tutorial_url": "https://www.fjlib.net/gncs/mtzlzt/",
+  "notes": "支付宝、微信均可在线办证，故判 yes。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-9b591b9f",
+   "raw_name": "百度文库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-192150e5",
+   "raw_name": "新语听书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-1741f292",
+   "raw_name": "电视新闻阅览系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-d550c495",
+   "raw_name": "万方数据库（网络版）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-8583694e",
+   "raw_name": "万方数据库（镜像）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-1cf51316",
+   "raw_name": "中国知网(CNKI)（网络版）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-cea51149",
+   "raw_name": "中国知网(CNKI)（镜像）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-f4e0a7e2",
+   "raw_name": "维普全文电子期刊数据库（网络版）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-5bbe85ac",
+   "raw_name": "维普全文电子期刊数据库（镜像）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-da2c463a",
+   "raw_name": "博看网人文畅销期刊",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-3e5c47ae",
+   "raw_name": "中华医学期刊全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-73c227c3",
+   "raw_name": "两岸关系数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-cd7fb059",
+   "raw_name": "云图有声数字图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-a15ed6f1",
+   "raw_name": "超星电子图书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-2d4bf2d9",
+   "raw_name": "八闽悦读",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-63d15a9e",
+   "raw_name": "掌阅精选",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-18a99536",
+   "raw_name": "易学术图书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-0498411a",
+   "raw_name": "全国报刊索引数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-6abd7c34",
+   "raw_name": "人大复印报刊资料",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-1e4fec0d",
+   "raw_name": "Springer电子期刊",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-53a2c7f1",
+   "raw_name": "蓝博图易学术期刊",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-730d9c08",
+   "raw_name": "中国近代文献资源全库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-c19c486b",
+   "raw_name": "读秀中文学术搜索",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-8cd2301c",
+   "raw_name": "优阅数图外文数字图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-c28094f2",
+   "raw_name": "数图小语种数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-3aaf9460",
+   "raw_name": "Springer电子书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-3e15c65b",
+   "raw_name": "超星民国电子图书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-deb581cb",
+   "raw_name": "馆藏数字化在线服务",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-ae57fec7",
+   "raw_name": "在线读报",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-5e7e9219",
+   "raw_name": "慧科搜索",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-8d931a74",
+   "raw_name": "人民网党报资料数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-a88a189e",
+   "raw_name": "国研网数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-c75da5f7",
+   "raw_name": "中宏数据库-形势分析",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-b21bc07d",
+   "raw_name": "中宏数据库-领导决策",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-3a0d4e10",
+   "raw_name": "翼狐设计学习库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-8998ee4f",
+   "raw_name": "博学易知考研数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-e25126dd",
+   "raw_name": "博学易知公考网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-a81027e8",
+   "raw_name": "起点考试网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-ee7afa82",
+   "raw_name": "名师讲坛（网络版）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-5742b107",
+   "raw_name": "爱迪科森网上报告厅",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-e49b5587",
+   "raw_name": "职业全能培训库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-db883aa2",
+   "raw_name": "软件通",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-e0e67309",
+   "raw_name": "知识视界视频图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-9788c31f",
+   "raw_name": "中少报刊库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-e4ebeb44",
+   "raw_name": "爱上简笔画",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-5375495e",
+   "raw_name": "乐儿智慧王国",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-2de6d0e0",
+   "raw_name": "书童AR科普·数字博",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-21aacd3c",
+   "raw_name": "少儿绘本数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-9cf80927",
+   "raw_name": "晨星历史故事库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-e8708741",
+   "raw_name": "中华连环画",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-0ab3c1af",
+   "raw_name": "中华经典古籍库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-fad82b9b",
+   "raw_name": "中华古籍书目数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-8cc18b84",
+   "raw_name": "中国数字方志库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-355e4453",
+   "raw_name": "观书堂家谱数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-4a306350",
+   "raw_name": "古地图库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-6def217d",
+   "raw_name": "中华文史工具书数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-e5c6cd3d",
+   "raw_name": "中国地方志数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-a3102faa",
+   "raw_name": "清代外交报摘译汇编",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-b65df305",
+   "raw_name": "明清内阁大库史料集",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-c32c8fca",
+   "raw_name": "四部丛刊",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-df134f73",
+   "raw_name": "四部备要",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-7b9d66d1",
+   "raw_name": "明清两朝边塞海疆地理文献",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-d26d4779",
+   "raw_name": "大明实录全文检索",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-6ca91f90",
+   "raw_name": "大明会典全文检索",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-5ed7a15d",
+   "raw_name": "清代史料全文检索软件",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-ba2deff7",
+   "raw_name": "中医中药古籍大系",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-fcf36d9f",
+   "raw_name": "鼎秀古籍全文检索平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-a3a415f8",
+   "raw_name": "中华石刻数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-7105f4d1",
+   "raw_name": "中华传统音乐资源数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-304a7a90",
+   "raw_name": "艺术维基全球艺术",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-3ee49b1e",
+   "raw_name": "看展览数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-9fbef2c7",
+   "raw_name": "京剧绝版赏析",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-be1599f5",
+   "raw_name": "世界艺术鉴赏库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-7bf89b81",
+   "raw_name": "中国乐器大家学",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-5d7f9297",
+   "raw_name": "雅乐经典影院数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-a2f42591",
+   "raw_name": "人工智能知识服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-a53d55ac",
+   "raw_name": "中草药资源数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-e8be2730",
+   "raw_name": "百链云图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-87466e2f",
+   "raw_name": "超星发现系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-09140be5",
+   "raw_name": "中华诗词数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-66a7f0b0",
+   "raw_name": "中国年鉴资源全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-fdf6bae8",
+   "raw_name": "哲摄线",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-7c551967",
+   "raw_name": "优质图书资源全民阅读",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-50bb3683",
+   "raw_name": "福建文化记忆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-49847700",
+   "raw_name": "福建茶文化网上展厅",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-3a0a2e69",
+   "raw_name": "茶文化展厅",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-70cf788a",
+   "raw_name": "福文化网上展厅",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-1e6ee016",
+   "raw_name": "朱子文化网上展厅",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-a5833aba",
+   "raw_name": "朱子文化展",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-1d380042",
+   "raw_name": "坊巷名人",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-beb8cfcd",
+   "raw_name": "古代刻书展",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  },
+  {
+   "canonical_id": "r-1f24cc9b",
+   "raw_name": "海丝印记",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对，源自福建省图书馆数字资源页面"
+  }
+ ]
+}

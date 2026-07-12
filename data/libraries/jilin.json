@@ -1,0 +1,564 @@
+{
+ "id": "jilin-prov",
+ "name": "吉林省图书馆",
+ "level": "省级公共图书馆",
+ "region": "吉林省",
+ "verified": true,
+ "official_site": "https://www.jilinlib.cn/",
+ "digital_resource_url": "https://www.jilinlib.cn/gczy/zbzj/index_558.html",
+ "registration": {
+  "online": "yes",
+  "eligibility": "持本人有效证件(身份证/户口簿/社保卡/军人证/外国人永居证)可办；线上电子证经微信实名办理",
+  "cost": "免押金证(借5册) 或 200元押金证(借20册)，二选一",
+  "how": "线上：微信公众号『吉林省图书馆服务号』→『我的图书馆』实名办电子读者证。线下：馆内自助办证机扫身份证/社保卡，或一楼总服务台办实体证。数字资源：官网首页/公众号『授权访问系统』输读者证号密码，选馆内或馆外访问。",
+  "tutorial_url": "https://www.jilinlib.cn/fwzn/bzxz/index_556.html",
+  "notes": "微信可全程线上办电子读者证并立即用数字资源，故 online=yes。授权访问系统明文提供『馆外访问』选项。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-305b424f",
+   "raw_name": "古籍数字资源库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "",
+   "notes": "晋图数字资源栏目一级；含馆藏古籍全文"
+  },
+  {
+   "canonical_id": "r-ae210dab",
+   "raw_name": "民国文献",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "",
+   "notes": "数字资源栏目一级"
+  },
+  {
+   "canonical_id": "r-24f0fbec",
+   "raw_name": "缩微文献",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "",
+   "notes": "数字资源栏目一级"
+  },
+  {
+   "canonical_id": "r-4c6950ab",
+   "raw_name": "日文文献",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "",
+   "notes": "数字资源栏目一级"
+  },
+  {
+   "canonical_id": "r-3d2f7ab8",
+   "raw_name": "吉林省红色旅游数据库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；经『授权访问系统』读者证登录，可选馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-36769e0c",
+   "raw_name": "中国朝鲜族专题数据库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；经『授权访问系统』读者证登录，可选馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-1f4b1933",
+   "raw_name": "吉剧文化多媒体资源库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；经『授权访问系统』读者证登录，可选馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-b81d4bd1",
+   "raw_name": "吉林省红色历史文化专题数据库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；经『授权访问系统』读者证登录，可选馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-25fbce4a",
+   "raw_name": "吉林省非物质文化遗产数据库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；经『授权访问系统』读者证登录，可选馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-1967f9ad",
+   "raw_name": "长白山动植菌物图片数据库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；经『授权访问系统』读者证登录，可选馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-e49b16b8",
+   "raw_name": "吉林二人转数据库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；经『授权访问系统』读者证登录，可选馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-368cd84c",
+   "raw_name": "东北抗联数据库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；经『授权访问系统』读者证登录，可选馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-4b95885f",
+   "raw_name": "打牲乌拉数据库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；经『授权访问系统』读者证登录，可选馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-b160e375",
+   "raw_name": "吉林省农业种植数据库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；经『授权访问系统』读者证登录，可选馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-b2fd5aab",
+   "raw_name": "吉林省旅游数据库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；经『授权访问系统』读者证登录，可选馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-0ddc02a3",
+   "raw_name": "萨满文化数据库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；经『授权访问系统』读者证登录，可选馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-08ab44d9",
+   "raw_name": "百家之言—吉林省人物口述历史多媒体资源库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；经『授权访问系统』读者证登录，可选馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-45714e98",
+   "raw_name": "吉林省地方特色资源视频库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；经『授权访问系统』读者证登录，可选馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-b9a46838",
+   "raw_name": "杨靖宇将军专题",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；经『授权访问系统』读者证登录，可选馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-40024313",
+   "raw_name": "中国知网中华优秀传统文化百科知识库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-8bcbabe8",
+   "raw_name": "中国知网",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-3fb69034",
+   "raw_name": "文博图书库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-cbe5dc2d",
+   "raw_name": "中国知网文博行业知识资源库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-4e0394a7",
+   "raw_name": "博物馆业务服务平台",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-fbd0052c",
+   "raw_name": "中国知网考古知识服务平台",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-0c360e9c",
+   "raw_name": "吉林及东北地区地方历史文献数字平台（局域网使用）",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆内局域网",
+   "notes": "官网明文标注『局域网使用』"
+  },
+  {
+   "canonical_id": "r-c4a88600",
+   "raw_name": "超星名师讲坛",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-26b63c73",
+   "raw_name": "超星汇雅电子书",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-819f109c",
+   "raw_name": "博看人文畅销期刊",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-f0dee016",
+   "raw_name": "维普“经纶”知识资源系统",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-2eb49912",
+   "raw_name": "维普资讯中文期刊服务平台",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-fa7bdacf",
+   "raw_name": "维普考试服务平台",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-997ee310",
+   "raw_name": "维普基础教育信息服务系统",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-4f765ded",
+   "raw_name": "元阅读精品电子书数据库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-938c9b03",
+   "raw_name": "云图有声（ 账户名：jllib  密码：666666）",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "",
+   "notes": "官网明文给出共享账号，照抄"
+  },
+  {
+   "canonical_id": "r-8e7dfc00",
+   "raw_name": "万方数据知识服务平台",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-c2500e3e",
+   "raw_name": "万方医学网",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-a949e76a",
+   "raw_name": "智课教育云：智慧学习空间",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-a1c7cf1d",
+   "raw_name": "新东方剑桥彩虹英语分级阅读",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-6c6a58f8",
+   "raw_name": "宝宝智库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-4343fe5b",
+   "raw_name": "上业百科",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-e0e67309",
+   "raw_name": "知识视界视频图书馆",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-f9b82191",
+   "raw_name": "新华丝路数据库（帐号: zkjlplib  密码: zkjlplib@0323）",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "",
+   "notes": "官网明文给出共享账号，照抄"
+  },
+  {
+   "canonical_id": "r-6abd7c34",
+   "raw_name": "人大复印报刊资料",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-a9237fcb",
+   "raw_name": "数字连环画阅览室",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-b8df8f88",
+   "raw_name": "绘本在线悦读系统",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-23a914c1",
+   "raw_name": "书童AR科普·互动全息资源库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-53e213dd",
+   "raw_name": "国务院发展研究中心信息网",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-071c2c84",
+   "raw_name": "库客数字音乐图书馆",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-9e781d4d",
+   "raw_name": "中唱音乐在线资源库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-3c0b4be7",
+   "raw_name": "中国生物医学文献服务系统",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-db883aa2",
+   "raw_name": "软件通",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-56fb1723",
+   "raw_name": "大成老旧刊全文数据库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-ec31abff",
+   "raw_name": "上海图书馆《晚清期刊全文数据库》（1833～1910）",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "外购资源；经『授权访问系统』读者证登录，官网明文支持馆内/馆外访问"
+  },
+  {
+   "canonical_id": "r-2cc73178",
+   "raw_name": "书同文古籍数据库 （账号：jlstsg 密码：123abc）",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "",
+   "access_method": "",
+   "notes": "官网明文给出共享账号，照抄"
+  },
+  {
+   "canonical_id": "r-0a5ec044",
+   "raw_name": "大成故纸堆",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "试用",
+   "access_method": "馆外凭读者证",
+   "notes": "试用数字资源；经『授权访问系统』读者证登录"
+  },
+  {
+   "canonical_id": "r-14d1f8cb",
+   "raw_name": "e线图情",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "试用",
+   "access_method": "馆外凭读者证",
+   "notes": "试用数字资源；经『授权访问系统』读者证登录"
+  },
+  {
+   "canonical_id": "r-c9782637",
+   "raw_name": "环球英语多媒体资源库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "试用",
+   "access_method": "馆外凭读者证",
+   "notes": "试用数字资源；经『授权访问系统』读者证登录"
+  },
+  {
+   "canonical_id": "r-8c19ff3a",
+   "raw_name": "看展览数字平台",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "试用",
+   "access_method": "馆外凭读者证",
+   "notes": "试用数字资源；经『授权访问系统』读者证登录"
+  },
+  {
+   "canonical_id": "r-29a2ec7b",
+   "raw_name": "尚唯产品样本数据库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "试用",
+   "access_method": "馆外凭读者证",
+   "notes": "试用数字资源；经『授权访问系统』读者证登录"
+  },
+  {
+   "canonical_id": "r-262adaac",
+   "raw_name": "万方视频",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "试用",
+   "access_method": "馆外凭读者证",
+   "notes": "试用数字资源；经『授权访问系统』读者证登录"
+  },
+  {
+   "canonical_id": "r-413901cd",
+   "raw_name": "万方数据中小学数字图书馆",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "试用",
+   "access_method": "馆外凭读者证",
+   "notes": "试用数字资源；经『授权访问系统』读者证登录"
+  },
+  {
+   "canonical_id": "r-7f90b2ef",
+   "raw_name": "新语听书公图版电脑端",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "试用",
+   "access_method": "馆外凭读者证",
+   "notes": "试用数字资源；经『授权访问系统』读者证登录"
+  },
+  {
+   "canonical_id": "r-5bb42ec1",
+   "raw_name": "全国报刊索引",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "试用",
+   "access_method": "馆外凭读者证",
+   "notes": "试用数字资源；经『授权访问系统』读者证登录"
+  },
+  {
+   "canonical_id": "r-07e25042",
+   "raw_name": "中国近代影像资料库",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "试用",
+   "access_method": "馆外凭读者证",
+   "notes": "试用数字资源；经『授权访问系统』读者证登录"
+  },
+  {
+   "canonical_id": "r-80b6e061",
+   "raw_name": "掌阅精选电子书",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "试用",
+   "access_method": "馆外凭读者证",
+   "notes": "试用数字资源；经『授权访问系统』读者证登录"
+  },
+  {
+   "canonical_id": "r-76829e3e",
+   "raw_name": "新东方素养微课堂（青少版）平台",
+   "access_url": "http://218.62.1.217:8000/",
+   "scope": "试用",
+   "access_method": "馆外凭读者证",
+   "notes": "试用数字资源；经『授权访问系统』读者证登录"
+  },
+  {
+   "canonical_id": "r-c9ee71a7",
+   "raw_name": "吉林省图书馆专利信息服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  }
+ ],
+ "_说明": "吉林省图书馆，2026-07-12 人工核对。68条。"
+}

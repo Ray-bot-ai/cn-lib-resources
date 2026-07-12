@@ -1,0 +1,236 @@
+{
+ "id": "henan-prov",
+ "name": "河南省图书馆",
+ "level": "省级公共图书馆",
+ "region": "河南省",
+ "verified": true,
+ "official_site": "https://www.henanlib.com/",
+ "digital_resource_url": "https://www.henanlib.com/webs/list/notice/646.html",
+ "registration": {
+  "online": "no",
+  "eligibility": "持证读者；首次使用数字图书馆须官网注册『数字卡账号』(自助激活)",
+  "cost": "免费",
+  "how": "2026-07-12 人工实测官网找不到线上注册入口，需到馆办理。",
+  "tutorial_url": "https://www.henanlib.com/webs/show/notice/622/6879.html",
+  "notes": "人工核对。官网未找到线上注册入口。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-895df03c",
+   "raw_name": "读秀学术搜索数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商业数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-0a4e9ab5",
+   "raw_name": "清华同方全文期刊数据库(中国知网)",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "仅馆内(指南明文：中国知网只可在馆内查询)",
+   "notes": "商业数据库；仅馆内(指南明文：中国知网只可在馆内查询)"
+  },
+  {
+   "canonical_id": "r-52cc45d2",
+   "raw_name": "维普全文期刊数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商业数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-07ec02a7",
+   "raw_name": "万方全文期刊数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "馆外可用(指南明文：馆外可使用万方数据库)",
+   "notes": "商业数据库；馆外可用(指南明文：馆外可使用万方数据库)"
+  },
+  {
+   "canonical_id": "r-43abea17",
+   "raw_name": "国研网全文数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "仅馆内(指南明文：国研网只可在馆内查询)",
+   "notes": "商业数据库；仅馆内(指南明文：国研网只可在馆内查询)"
+  },
+  {
+   "canonical_id": "r-3b6017e6",
+   "raw_name": "中国宏观领导决策全文数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "仅馆内(指南明文：与国研网同列馆内资源)",
+   "notes": "商业数据库；仅馆内(指南明文：与国研网同列馆内资源)"
+  },
+  {
+   "canonical_id": "r-bfc02f07",
+   "raw_name": "中华连环画数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "馆外可用(指南明文：馆外可使用中华连环画数字阅览室)",
+   "notes": "商业数据库；馆外可用(指南明文：馆外可使用中华连环画数字阅览室)"
+  },
+  {
+   "canonical_id": "r-3c0d9cb8",
+   "raw_name": "博看主流畅销人文期刊原貌版全文数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "仅馆内(指南明文：博看网只可在馆内查询)",
+   "notes": "商业数据库；仅馆内(指南明文：博看网只可在馆内查询)"
+  },
+  {
+   "canonical_id": "r-7a4a7f13",
+   "raw_name": "考试学习资源数据库(中科VIP)",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "馆外可用(指南明文：馆外可使用中科VIP考试数据库)",
+   "notes": "商业数据库；馆外可用(指南明文：馆外可使用中科VIP考试数据库)"
+  },
+  {
+   "canonical_id": "r-3938714e",
+   "raw_name": "博士硕士论文全文数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商业数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-0565e5a4",
+   "raw_name": "重要报纸全文数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商业数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-4c1cd5cc",
+   "raw_name": "重要会议全文数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商业数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-818506dd",
+   "raw_name": "中国统计年鉴全文数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商业数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-7ed5362c",
+   "raw_name": "中国精品文化期刊文献库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商业数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-e0ab1e5b",
+   "raw_name": "中国精品科技期刊文献库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商业数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-5a1491d6",
+   "raw_name": "中国政报公报文献库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商业数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-b491b318",
+   "raw_name": "国学宝典数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商业数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-3175175f",
+   "raw_name": "新方志系统全文数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商业数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-13ef5ba9",
+   "raw_name": "科技成果、标准文献数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商业数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-c08251e9",
+   "raw_name": "机构库数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商业数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-d710dfbc",
+   "raw_name": "中国党建期刊文献数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "商业数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-5cb04d74",
+   "raw_name": "馆藏中文图书全文数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "自建数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-1860d609",
+   "raw_name": "ilas书目数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "馆外可用(指南明文：馆外可使用ilas书目数据)",
+   "notes": "自建数据库；馆外可用(指南明文：馆外可使用ilas书目数据)"
+  },
+  {
+   "canonical_id": "r-1dc8cae8",
+   "raw_name": "中州文化揽胜数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "自建数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-56fb1723",
+   "raw_name": "大成老旧刊全文数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "自建数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-4f082189",
+   "raw_name": "新农村致富之路数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "自建数据库；官网未明文声明馆内/馆外访问方式"
+  },
+  {
+   "canonical_id": "r-8054096f",
+   "raw_name": "河南地方戏曲数据库",
+   "access_url": "https://www.henanlib.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "自建数据库；官网未明文声明馆内/馆外访问方式"
+  }
+ ],
+ "_说明": "河南省图书馆，2026-07-12 人工核对。注册方式经人工实测：官网找不到线上注册入口。"
+}

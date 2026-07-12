@@ -1,0 +1,388 @@
+{
+ "id": "shanxi-prov",
+ "name": "山西省图书馆",
+ "level": "省级公共图书馆",
+ "region": "山西省",
+ "verified": true,
+ "_说明": "山西省图书馆，2026-07-13 人工核对时链接超时，暂无法核对。数据为之前采集。",
+ "official_site": "https://lib.sx.cn/",
+ "digital_resource_url": "https://lib.sx.cn/",
+ "registration": {
+  "online": "partial",
+  "eligibility": "山西省图书馆读者证；芝麻信用分≥600 可读者线上免押金办证(支付宝『借阅宝』授权)",
+  "cost": "押金证100/200/300元(可借2/4/6本)；芝麻信用≥600免押金线上办",
+  "how": "到馆：持身份证在自助办证机或总服务台办理。线上：支付宝生活号『借阅宝』芝麻信用授权(分≥600)免押金办电子读者证；微信『微服务大厅』绑定读者证。数字资源凭读者证号登录『晋图数字资源服务平台』(lib.sx.cn)使用。",
+  "tutorial_url": "https://lib.sx.cn/",
+  "notes": "线上办证有芝麻信用门槛(≥600)，故判 partial。实体证默认需到馆。数字资源入口 sso.lib.sx.cn/interlibSSO 读者证登录。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-51c32036",
+   "raw_name": "馆藏古籍数字资源库",
+   "access_url": "https://lib.sx.cn/",
+   "scope": "",
+   "access_method": "馆内局域网",
+   "notes": "晋图自建资源；馆藏国家/省级珍贵古籍，按四部分类，支持线上检索和全文阅读"
+  },
+  {
+   "canonical_id": "r-f03d8828",
+   "raw_name": "智慧图书馆资源服务平台",
+   "access_url": "https://lib.sx.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；依托自建《山西日报》《山西通志》《地方特色文化视频》，知识图谱呈现"
+  },
+  {
+   "canonical_id": "r-9ee620e8",
+   "raw_name": "馆藏山西日报数据库",
+   "access_url": "https://lib.sx.cn/",
+   "scope": "1980-07-01 至 1991-05-31",
+   "access_method": "馆内局域网",
+   "notes": "晋图自建资源；读者可到地方文献阅览室查阅"
+  },
+  {
+   "canonical_id": "r-7777a9ea",
+   "raw_name": "地方特色文化视听库",
+   "access_url": "https://lib.sx.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；《山西村落》《山西古建筑》等文化专题片、微视频与动漫"
+  },
+  {
+   "canonical_id": "r-05fe7ab3",
+   "raw_name": "山西历史文化专题文献库",
+   "access_url": "https://lib.sx.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；九大方面专题文献，含论文与期刊"
+  },
+  {
+   "canonical_id": "r-e9e456ad",
+   "raw_name": "黄河旅游文化专题文献库",
+   "access_url": "https://lib.sx.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；黄河流域山西段历史变迁、文物古迹等图书期刊报纸年鉴"
+  },
+  {
+   "canonical_id": "r-fa9ff042",
+   "raw_name": "长城旅游文化专题文献库",
+   "access_url": "https://lib.sx.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；山西长城沿线历史风貌、军事防御体系文献"
+  },
+  {
+   "canonical_id": "r-21218488",
+   "raw_name": "太行旅游文化专题文献库",
+   "access_url": "https://lib.sx.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图自建资源；太行山山西段历史变迁、自然风光文献"
+  },
+  {
+   "canonical_id": "r-d92655f7",
+   "raw_name": "馆藏抗战地图图片库",
+   "access_url": "https://lib.sx.cn/",
+   "scope": "",
+   "access_method": "馆内局域网",
+   "notes": "晋图自建资源；晋察冀、晋绥、晋冀鲁豫根据地馆藏抗战地图，到地方文献阅览室查阅"
+  },
+  {
+   "canonical_id": "r-63d15a9e",
+   "raw_name": "掌阅精选",
+   "access_url": "https://sso.lib.sx.cn/interlibSSO/goto/130",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源，经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-aec6a384",
+   "raw_name": "博看AI书苑",
+   "access_url": "https://ai-zq.bookan.com.cn/?id=26002#/",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源，经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-d9d6ca45",
+   "raw_name": "读秀知识库",
+   "access_url": "https://sso.lib.sx.cn/interlibSSO/goto/36",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源，经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-b5068632",
+   "raw_name": "万方数据知识服务平台·方知中国",
+   "access_url": "https://sso.lib.sx.cn/interlibSSO/goto/95",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源，经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-506ed8c2",
+   "raw_name": "ilearning外语学习资源库",
+   "access_url": "https://libsx.ilearningpro.unipus.cn",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源，外研社出品；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-3a28f3b9",
+   "raw_name": "设计师之家资源库",
+   "access_url": "https://www.51sjsj.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-9a6aa5c9",
+   "raw_name": "国家外文文献共享平台",
+   "access_url": "https://wdss.nlc.cn/#/",
+   "scope": "",
+   "access_method": "",
+   "notes": "国家图书馆外文文献平台；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-cb2fc827",
+   "raw_name": "中国学术期刊网络出版总库",
+   "access_url": "https://sso.lib.sx.cn/interlibSSO/goto/98",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源（中国知网），经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-c7fe7338",
+   "raw_name": "龙源电子期刊",
+   "access_url": "https://sso.lib.sx.cn/interlibSSO/goto/93",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源，经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-16ff69b6",
+   "raw_name": "中国知网·中国学术期刊（网络版）",
+   "access_url": "https://sso.lib.sx.cn/interlibSSO/goto/98",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源（中国知网），经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-d1dc7a48",
+   "raw_name": "中国知网·中国优秀硕士学位论文全文数据库",
+   "access_url": "https://sso.lib.sx.cn/interlibSSO/goto/98",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源（中国知网），经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-d00b6e02",
+   "raw_name": "中国知网·中国博士学位论文全文数据库",
+   "access_url": "https://sso.lib.sx.cn/interlibSSO/goto/98",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源（中国知网），经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-426d73c0",
+   "raw_name": "中华数字书苑（当代报纸库）",
+   "access_url": "http://hgpaper.f3ss.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源（方正阿帕比），当代报纸库；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-218939d3",
+   "raw_name": "雅乐经典视频数据库",
+   "access_url": "https://sso.lib.sx.cn/interlibSSO/goto/116",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源，经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-89345ce4",
+   "raw_name": "云图有声",
+   "access_url": "https://sso.lib.sx.cn/interlibSSO/goto/120",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源，经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-701605e9",
+   "raw_name": "新语听书有声图书",
+   "access_url": "https://sso.lib.sx.cn/interlibSSO/goto/125",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源，经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-91582af3",
+   "raw_name": "艺博绘知艺术文化知识库",
+   "access_url": "https://sso.lib.sx.cn/interlibSSO/goto/117",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源，经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-830145a5",
+   "raw_name": "万方数据知识服务平台·专利标准",
+   "access_url": "https://sso.lib.sx.cn/interlibSSO/goto/107",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源，经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-ce6638f4",
+   "raw_name": "E线图情",
+   "access_url": "https://sso.lib.sx.cn/interlibSSO/goto/72",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源，经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-2c2f4968",
+   "raw_name": "中国知网数据库·年鉴",
+   "access_url": "https://sso.lib.sx.cn/interlibSSO/goto/98",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源（中国知网），经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-5e81932b",
+   "raw_name": "国研网",
+   "access_url": "https://sso.lib.sx.cn/interlibSSO/goto/15",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源，经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-c77db767",
+   "raw_name": "皮书数据库",
+   "access_url": "https://sso.lib.sx.cn/interlibSSO/goto/79",
+   "scope": "",
+   "access_method": "",
+   "notes": "外购资源，经『晋图数字资源服务平台』(Interlib) 读者证登录使用；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-b1db4825",
+   "raw_name": "青少年编程学习平台",
+   "access_url": "https://scratch.twbxyz.com/index",
+   "scope": "",
+   "access_method": "",
+   "notes": "少儿编程学习资源；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-fad82b9b",
+   "raw_name": "中华古籍书目数据库",
+   "access_url": "https://bib.ancientbooks.cn/docGuji/",
+   "scope": "",
+   "access_method": "",
+   "notes": "古籍资源平台；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-0ab3c1af",
+   "raw_name": "中华经典古籍库",
+   "access_url": "https://jingdian.ancientbooks.cn/6",
+   "scope": "",
+   "access_method": "",
+   "notes": "古籍资源平台（中华书局）；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-5bb42ec1",
+   "raw_name": "全国报刊索引",
+   "access_url": "https://libproxy.lib.sx.cn:4000",
+   "scope": "",
+   "access_method": "",
+   "notes": "报刊索引数据库（上图）；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-04230ea2",
+   "raw_name": "国家古籍数字化资源总平台",
+   "access_url": "https://www.guji.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": "古籍资源平台；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-4a080e1a",
+   "raw_name": "中华古籍智慧化服务平台",
+   "access_url": "https://guji.nlc.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": "国家图书馆古籍平台；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-384daeb3",
+   "raw_name": "籍合网",
+   "access_url": "https://www.ancientbooks.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": "古籍资源平台（中华书局）；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-e53b74ee",
+   "raw_name": "汇典网",
+   "access_url": "https://www.gujidh.com/home",
+   "scope": "",
+   "access_method": "",
+   "notes": "古籍资源平台；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-6b50ba9c",
+   "raw_name": "识典古籍",
+   "access_url": "https://www.shidianguji.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "古籍资源平台；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-400c01d9",
+   "raw_name": "学习书房",
+   "access_url": "https://lib.sx.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图特色服务（空间/活动），非数据库；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-638a51a5",
+   "raw_name": "雅集室",
+   "access_url": "https://lib.sx.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图特色服务（空间/活动），非数据库；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-54dbdce6",
+   "raw_name": "你选书·我买单",
+   "access_url": "https://lib.sx.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图特色服务（荐购），非数据库；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-8e385237",
+   "raw_name": "三晋约书",
+   "access_url": "https://lib.sx.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图特色服务（预约借书），非数据库；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-33ee9310",
+   "raw_name": "文源书院",
+   "access_url": "https://lib.sx.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图特色服务（讲坛/活动），非数据库；官网前端清单列明"
+  },
+  {
+   "canonical_id": "r-4fd88870",
+   "raw_name": "典籍展厅",
+   "access_url": "https://lib.sx.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证",
+   "notes": "晋图特色服务（展览），非数据库；官网前端清单列明"
+  }
+ ]
+}

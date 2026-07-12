@@ -1,0 +1,628 @@
+{
+ "_说明": "黑龙江省图书馆，2026-07-12 人工核对。全量76条。",
+ "id": "heilongjiang",
+ "name": "黑龙江省图书馆",
+ "level": "省级公共图书馆",
+ "region": "黑龙江省",
+ "verified": true,
+ "official_site": "http://hljlib.org.cn",
+ "digital_resource_url": "http://hljlib.org.cn/index/DigitalResource/DigitalResourceList/a_id/1",
+ "registration": {
+  "online": "unknown",
+  "eligibility": "",
+  "cost": "",
+  "how": "官网注册说明见 http://hljlib.org.cn/index/Index/HomeMenuShow/id/2",
+  "tutorial_url": "http://hljlib.org.cn/index/Index/HomeMenuShow/id/2",
+  "notes": "人工核对。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-d4bf617e",
+   "raw_name": "裕垚源健康素养数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-d104bf0c",
+   "raw_name": "知识视界红色经典专题库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-e0e67309",
+   "raw_name": "知识视界视频图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-63d15a9e",
+   "raw_name": "掌阅精选",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-f11f1d90",
+   "raw_name": "易趣少儿漫画馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-8f3c8c10",
+   "raw_name": "易趣才智小天地",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-1472e313",
+   "raw_name": "易趣动画",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-823a0a05",
+   "raw_name": "中华连环画数字阅读馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-bae5a924",
+   "raw_name": "达尔文星球全息数字资源",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-77fb9026",
+   "raw_name": "易趣玩具书互动点读资源",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-e4bfab8d",
+   "raw_name": "黑龙江省省期刊创刊号数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-4e064e84",
+   "raw_name": "哈尔滨建筑凝固的历史文化",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-6251e97d",
+   "raw_name": "第二次世界大战的终结地",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-31a17c18",
+   "raw_name": "小兴安岭野生植物",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-4ffaf088",
+   "raw_name": "神奇鄂伦春",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-b804cef4",
+   "raw_name": "寒地黑土农业技术开发利用数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-b29b0aea",
+   "raw_name": "黑龙江非物质文化遗产赫哲族卷",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-b9f421b6",
+   "raw_name": "北大荒专题数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-cd352bff",
+   "raw_name": "龙江艺术精粹数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-e1f7e87f",
+   "raw_name": "犹太人在哈尔滨",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-78045379",
+   "raw_name": "东北招幌",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-06c1de14",
+   "raw_name": "龙江手工木雕艺术",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-2a96c2a3",
+   "raw_name": "黑龙江边境贸易",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-3c4ff1b6",
+   "raw_name": "黑龙江野生动物",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-4572f758",
+   "raw_name": "馆藏抗日战争文献",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-ac79f343",
+   "raw_name": "神州北极",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-f09f280c",
+   "raw_name": "哈尔滨旧影",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-aaf9013f",
+   "raw_name": "金源文化",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-94a44871",
+   "raw_name": "黑龙江体育名人",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-c49a21a5",
+   "raw_name": "百年萧红",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-0dcc4948",
+   "raw_name": "音乐之城哈尔滨",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-fc385a9e",
+   "raw_name": "百年英烈黑龙江世纪英雄谱",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-cb832b87",
+   "raw_name": "中国民间文化艺术黑龙江篇富裕漫画",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-10176ca8",
+   "raw_name": "中国民间文化艺术黑龙江篇海伦剪纸",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-8a01f5f0",
+   "raw_name": "望奎皮影戏",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-b59cc6ef",
+   "raw_name": "龙江剧多媒体资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-a35bffe7",
+   "raw_name": "龙江小候鸟守护",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-ebe1be63",
+   "raw_name": "侵华日军细菌战揭秘",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-e1490a18",
+   "raw_name": "龙江小候鸟守护二期",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-9afc1b0e",
+   "raw_name": "俄罗斯大全俄语数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-5a89a89a",
+   "raw_name": "新东方多媒体学习库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-417792d0",
+   "raw_name": "超星学术视频",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-e87a8a8d",
+   "raw_name": "无障碍影音数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-4977bce4",
+   "raw_name": "国图公开课",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-6b6c09e4",
+   "raw_name": "博看有声",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-a36cd31f",
+   "raw_name": "黑龙江省图书馆视频点播系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-1712b5c4",
+   "raw_name": "蔚秀报告厅",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-d51ec7c4",
+   "raw_name": "智课英语在线",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-51153a1a",
+   "raw_name": "中国专利数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-53e213dd",
+   "raw_name": "国务院发展研究中心信息网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-f344597b",
+   "raw_name": "中国宏观领导决策信息支持系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-19c806cd",
+   "raw_name": "公元集成教学图片数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-c90b35c7",
+   "raw_name": "一带一路研究与决策支撑平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-40e2b0e4",
+   "raw_name": "册府千华黑龙江省藏国家珍贵古籍特展",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-caee0abf",
+   "raw_name": "中华优秀传统文化百科知识库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-d0c419a4",
+   "raw_name": "新时代特色社会主义数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-039755b8",
+   "raw_name": "党员教育数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-e5c6cd3d",
+   "raw_name": "中国地方志数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-4c8e45d3",
+   "raw_name": "黑龙江省图书馆随书光盘云服务中心",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-092d3758",
+   "raw_name": "标准全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-dd8c4880",
+   "raw_name": "维普考试资源系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-8c19ff3a",
+   "raw_name": "看展览数字平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-c19c486b",
+   "raw_name": "读秀中文学术搜索",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-f4623c74",
+   "raw_name": "中国重要报纸全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-ae28cd59",
+   "raw_name": "中国工具书网络出版总库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-5bb3c0da",
+   "raw_name": "中国年鉴网络出版总库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-ca8e6445",
+   "raw_name": "中国优秀硕士学位论文全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-90b24e21",
+   "raw_name": "中国博士学位论文全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-ea9e13a1",
+   "raw_name": "中国重要会议论文全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-b491b318",
+   "raw_name": "国学宝典数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-26b63c73",
+   "raw_name": "超星汇雅电子书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-6b864724",
+   "raw_name": "点点书库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-9ef6ad20",
+   "raw_name": "中国文史资料集粹",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-7d45fac7",
+   "raw_name": "京东读书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-cdfe1e02",
+   "raw_name": "中国历代地方志集1949",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-319bd70c",
+   "raw_name": "中国历代地方志集1368-1949",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  }
+ ]
+}

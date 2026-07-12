@@ -1,0 +1,564 @@
+{
+ "id": "shaanxi-prov",
+ "name": "陕西省图书馆",
+ "level": "省级公共图书馆",
+ "region": "陕西省",
+ "verified": true,
+ "official_site": "https://www.sxlib.org.cn/",
+ "digital_resource_url": "https://www.sxlib.org.cn/zy/szzy/",
+ "registration": {
+  "online": "no",
+  "eligibility": "中国公民及外籍人士持有效身份证件到馆自助办证机办理（普通证押金100元）；老年/残疾/少儿各有对应证型",
+  "cost": "押金证（普通100元/家庭300元/少儿50元/参考400元），首次免工本费；数字资源权限办证1工作日后开通",
+  "how": "到馆自助办证机按提示办理→总服务台核验；办证后凭读者证号+密码(初始身份证出生日期8位)登录官网 www.sxlib.org.cn『数字资源』页(szzy)或微信公众号远程24小时免费使用",
+  "tutorial_url": "https://www.sxlib.org.cn/wx/fwzn/bzzn/",
+  "notes": "数字资源免费对持证读者开放，官网明确『数字资源权限一个工作日后开通，持证读者均可远程免费使用我馆数字资源』。办证须知仅提自助办证机/到馆，未见线上自助办证渠道，故 online=no。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-0525f072",
+   "raw_name": "CNKI中国知网数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-dc79ed87",
+   "raw_name": "万方数据系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-60f4176e",
+   "raw_name": "大为全球专利检索分析系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-e35a7350",
+   "raw_name": "陕西文献集成数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-82d616de",
+   "raw_name": "万方地方志数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-fcfc093a",
+   "raw_name": "设计师之家数字图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-0ab3c1af",
+   "raw_name": "中华经典古籍库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-624517cb",
+   "raw_name": "红色讲坛——新时代中国特色社会主义思想与文化讲坛",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-c9461916",
+   "raw_name": "大秦岭大文化·国脉秦岭",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-038bc71f",
+   "raw_name": "武复兴口述史专题",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-da097e31",
+   "raw_name": "“陕甘宁边区红色记忆”多媒体系列资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-fc1d16f1",
+   "raw_name": "陕甘宁边区·人物库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-54bd641e",
+   "raw_name": "陕甘宁边区·事件库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-12f4eb2c",
+   "raw_name": "陕甘宁边区·延安精神库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-11748e90",
+   "raw_name": "陕甘宁边区·旧址、遗址、纪念地",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-261e1799",
+   "raw_name": "陕甘宁边区·研究文献库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-19f64a35",
+   "raw_name": "民国报纸目录",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-355ce3d3",
+   "raw_name": "地方文献专题目录",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-4423969e",
+   "raw_name": "馆藏数字化方志目录",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-4e1a93df",
+   "raw_name": "《陕图讲坛》视频",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-cce5b5ca",
+   "raw_name": "“学在陕图”课堂",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-fc541535",
+   "raw_name": "陕图公开课",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-7fe9c45b",
+   "raw_name": "读者活动线上展",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-39460d6e",
+   "raw_name": "陕图展览线上展",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自陕西省图书馆官网首页『资源中心』数字资源展示区"
+  },
+  {
+   "canonical_id": "r-3825edb1",
+   "raw_name": "中国社会科学文库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-fc0ff491",
+   "raw_name": "超星发现",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-17defc0b",
+   "raw_name": "延安时期中共中央机关报全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-192150e5",
+   "raw_name": "新语听书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-6301af0d",
+   "raw_name": "中国探索教育视频",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-3a08d88d",
+   "raw_name": "生物志库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-e46b6b89",
+   "raw_name": "掌阅精选数字阅读平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-3e5c47ae",
+   "raw_name": "中华医学期刊全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-e9b1fe67",
+   "raw_name": "国编坊少儿数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-fcf36d9f",
+   "raw_name": "鼎秀古籍全文检索平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-ebbdc878",
+   "raw_name": "畅想之星电子书数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-abb85b00",
+   "raw_name": "TVMVDB电视新闻",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-8795988a",
+   "raw_name": "畅想之星光盘数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-71227cb1",
+   "raw_name": "读秀学术搜索",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-81502222",
+   "raw_name": "人大报刊全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-c7fe7338",
+   "raw_name": "龙源电子期刊",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-3dbe0cdf",
+   "raw_name": "博看期刊网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-4531a4b0",
+   "raw_name": "书香陕西省图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-e8708741",
+   "raw_name": "中华连环画",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-c4a88600",
+   "raw_name": "超星名师讲坛",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-7972fcf4",
+   "raw_name": "网上报告厅",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-bd4de1d8",
+   "raw_name": "商学院教育视频资源",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-e0e67309",
+   "raw_name": "知识视界视频图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-5375495e",
+   "raw_name": "乐儿智慧王国",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-2ac9417a",
+   "raw_name": "中少快乐阅读平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-07844a18",
+   "raw_name": "中国法律资源检索系统数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-dd8c4880",
+   "raw_name": "维普考试资源系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-1a8224e2",
+   "raw_name": "新东方多媒体资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-df93bca4",
+   "raw_name": "丝绸之路多媒体资源系列库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-0d6d1922",
+   "raw_name": "丝绸之路·文物古迹篇",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-aeda4d8a",
+   "raw_name": "丝绸之路·文化科技篇",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-baa3b1af",
+   "raw_name": "纪念红柯专题",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-5d16818e",
+   "raw_name": "陈忠实纪念专题",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-083f094b",
+   "raw_name": "话说陕商",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-2f451204",
+   "raw_name": "陕西佛教文化",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-38d0aafb",
+   "raw_name": "西安事变",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-c646abef",
+   "raw_name": "陕西帝王陵",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-c3042204",
+   "raw_name": "秦腔秦韵",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-bba5a2d2",
+   "raw_name": "陕西非物质文化遗产",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-45d72d04",
+   "raw_name": "陕西民间美术",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-144f5ece",
+   "raw_name": "陕西景观",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-c587baad",
+   "raw_name": "省情文献库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-0affd2e9",
+   "raw_name": "听遍陕西",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  },
+  {
+   "canonical_id": "r-b4fa2628",
+   "raw_name": "陕西作家高建群专题",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对追加"
+  }
+ ],
+ "_说明": "陕西省图书馆，2026-07-13 人工核对。68条。"
+}

@@ -1,0 +1,300 @@
+{
+ "_说明": "辽宁省图书馆，2026-07-12 人工核对。全量35条。",
+ "id": "liaoning-prov",
+ "name": "辽宁省图书馆",
+ "level": "省级公共图书馆",
+ "region": "辽宁省",
+ "verified": true,
+ "official_site": "https://www.lnlib.com/",
+ "digital_resource_url": "https://www.lnlib.com/html/shengtu/shouye/xianshangziyuan/shuziziyuan/index.html",
+ "registration": {
+  "online": "yes",
+  "eligibility": "全国读者可线上注册数字资源阅读证（无实体外借权限、免押金）",
+  "cost": "免押金",
+  "how": "官网在线表单注册数字资源阅读证（虚拟证，仅供数字资源登录使用，免押金）。注册后也可到馆交押金升级为有外借权限的实体证。",
+  "tutorial_url": "http://index.lnlib.com:108/opac/reader/register",
+  "notes": "人工核对。线上注册入口为数字资源阅读证（虚拟证），免费免押金。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-854606d2",
+   "raw_name": "清华同方平台（CNKI中国学术期刊网络出版总库、CNKI中国博士学位论文全文数据库、CNKI中国优秀硕士学位论文全文数据库、中国重要报纸全文数据库、中国年鉴网络出版总库、中国政报公报期刊文献总库）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-da8ad333",
+   "raw_name": "维普中文期刊服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-c3199dca",
+   "raw_name": "龙源电子期刊数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-8e7dfc00",
+   "raw_name": "万方数据知识服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-7fba32aa",
+   "raw_name": "标准文献数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-42e89332",
+   "raw_name": "万方地方志知识服务系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-8f5aac70",
+   "raw_name": "博看期刊数据库（在线、微信版）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-eee388c8",
+   "raw_name": "爱墨瑞得数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-0a5ec044",
+   "raw_name": "大成故纸堆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-bfc02f07",
+   "raw_name": "中华连环画数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-14982f39",
+   "raw_name": "QQ阅读（微信）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-3a79111b",
+   "raw_name": "北京畅想之星电子书阅读数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-fda28539",
+   "raw_name": "中国共产党思想理论专题库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-ce79d0ab",
+   "raw_name": "中华数字书苑",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-cf1c177f",
+   "raw_name": "博看有声书数据库（移动版）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-d19c809e",
+   "raw_name": "全民学习中心视频资源库（含电子书）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-0b1ac190",
+   "raw_name": "雅乐经典影院视频数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-cb66333e",
+   "raw_name": "优米青年必修课资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-1cdd4b46",
+   "raw_name": "中国近代影像资料库（含图片）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-7972fcf4",
+   "raw_name": "网上报告厅",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-49b1759f",
+   "raw_name": "创新树-全球创新知识平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-56538c83",
+   "raw_name": "中科VIPExam考试学习资源数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-599e55af",
+   "raw_name": "红色讲坛数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-c7e73a49",
+   "raw_name": "知识视界微信图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-210c0e04",
+   "raw_name": "知识视界视频图书馆（通识版）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-c9782637",
+   "raw_name": "环球英语多媒体资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-071c2c84",
+   "raw_name": "库客数字音乐图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-f7b3db89",
+   "raw_name": "云图有声（少儿版）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-5a8a73f8",
+   "raw_name": "云图有声（党建版）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-3558dee1",
+   "raw_name": "阳光无障碍电影平台系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-b2ea0e8b",
+   "raw_name": "畅想之星随书资源数据库系统软件V2.0",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-af6fabfe",
+   "raw_name": "全球产品样本数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-3b50f700",
+   "raw_name": "图书馆移动服务系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-d9d6ca45",
+   "raw_name": "读秀知识库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-822d474a",
+   "raw_name": "百链外文学术库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  }
+ ]
+}

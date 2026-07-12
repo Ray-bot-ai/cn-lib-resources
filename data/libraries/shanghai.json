@@ -8,12 +8,12 @@
  "official_site": "https://www.library.sh.cn",
  "digital_resource_url": "https://z.library.sh.cn/next/resource/databases/navigation",
  "registration": {
-  "online": "yes",
+  "online": "partial",
   "eligibility": "线上可办阅览证/普通外借证；具体申办条件见办证须知",
   "cost": "阅览证免费；外借证需押金，上海市常住居民信用良好可诚信免押金",
   "how": "线上：上海图书馆门户网站或“上海图书馆”微信小程序办证；线下：到馆办证处凭有效身份证件",
   "tutorial_url": "https://www.library.sh.cn/guide/banzheng",
-  "notes": "共197个数据库：145个馆外可访问(凭证)、24个仅馆内、17个OA公网免费。"
+  "notes": "人工核对：线上注册需线下激活。197个数据库：145个馆外可访问(凭证)、24个仅馆内、17个OA公网免费。"
  },
  "resources": [
   {

@@ -1,12 +1,12 @@
 {
- "_说明": "深圳图书馆，2026-07-12 采集。数字资源清单来自官网『数字资源』列表页(digitalResource/index.html)的公开收录与『电子资源统一服务平台』(er.szlib.org.cn:8899, 共61条)合并去重，共66条。实时官网页面在本机浏览器/CDP下未能稳定渲染(疑似需cookie/防盗链)，采用官网公开索引与搜索引擎公开收录核对，资源名为官网原样。访问方式：官网数字资源馆外访问政策规定大部分库支持馆外访问；列表明确标『仅限馆内使用』的3条已标注，其余按铁律未逐条标注的留空。办证方式已核实。",
+ "_说明": "深圳图书馆，2026-07-12 采集并更新。数字资源全量清单来自电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)，共177条。API仅返回资源名，无访问链接和访问方式。办证方式已核实。",
  "id": "shenzhen",
  "name": "深圳图书馆",
  "level": "省级公共图书馆",
  "region": "广东省",
  "verified": true,
  "official_site": "https://www.szlib.org.cn/",
- "digital_resource_url": "https://szlib.org.cn/digitalResource/index.html",
+ "digital_resource_url": "https://er.szlib.org.cn:8899/",
  "registration": {
   "online": "yes",
   "eligibility": "须在深圳地域通过移动服务平台办理虚拟读者证；也可到馆(总服务台/自助办证机)办实体证。面向全国（中国公民及外籍人士均可，无户籍限制但线上办证限深圳地域）",
@@ -17,84 +17,28 @@
  },
  "resources": [
   {
-   "canonical_id": "r-753b2384",
-   "raw_name": "喜马拉雅听书(机构版)",
+   "canonical_id": "r-d9d6ca45",
+   "raw_name": "读秀知识库",
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
-   "canonical_id": "r-63d15a9e",
-   "raw_name": "掌阅精选",
+   "canonical_id": "r-7972fcf4",
+   "raw_name": "网上报告厅",
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
-   "canonical_id": "r-3184a0a2",
-   "raw_name": "数字阅读馆",
+   "canonical_id": "r-6ffdcb4a",
+   "raw_name": "北大法宝—法律法规检索系统",
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-1632c76f",
-   "raw_name": "中国行业发展报告库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-83237514",
-   "raw_name": "QQ阅读",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-43210288",
-   "raw_name": "易阅通电子书",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-8eba11f4",
-   "raw_name": "OverDrive赛阅数字图书馆",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-d7aaa953",
-   "raw_name": "哪吒看书",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-ad79b8f3",
-   "raw_name": "雅昌艺术图书数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-e7d7c4cc",
-   "raw_name": "维普中文期刊",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
    "canonical_id": "r-65531427",
@@ -102,127 +46,15 @@
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
-   "canonical_id": "r-104a4654",
-   "raw_name": "龙源期刊",
+   "canonical_id": "r-071c2c84",
+   "raw_name": "库客数字音乐图书馆",
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-4245d8a9",
-   "raw_name": "人大复印资料全文数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-c4a88600",
-   "raw_name": "超星名师讲坛",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-3a28f3b9",
-   "raw_name": "设计师之家资源库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-05576827",
-   "raw_name": "KUKE库客数字音乐图书馆",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-39902447",
-   "raw_name": "云图数字有声图书馆",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-5a89a89a",
-   "raw_name": "新东方多媒体学习库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-b1b7e477",
-   "raw_name": "MET世界语言学习馆",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-2c4b4a70",
-   "raw_name": "英纺资讯数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-b0234bac",
-   "raw_name": "VERS维普考试服务平台",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-c77db767",
-   "raw_name": "皮书数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-72d50667",
-   "raw_name": "EB-Online(大英百科全书)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-781bbca6",
-   "raw_name": "中国大百科全书数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-e6ad4385",
-   "raw_name": "北大法宝法律专业数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-a5d19d9a",
-   "raw_name": "慧科新闻搜索研究数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
    "canonical_id": "r-cd6fc12d",
@@ -230,151 +62,7 @@
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-5aa24b10",
-   "raw_name": "高校财经数据库(Infobank)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-ce6638f4",
-   "raw_name": "E线图情",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-a5a5d9e1",
-   "raw_name": "Nature电子期刊全文数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-8df95422",
-   "raw_name": "Springer电子期刊全文数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-6c95b6fa",
-   "raw_name": "爱学术(iresearch)电子书库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-85566ee7",
-   "raw_name": "超星移动图书馆(公图版)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-49909695",
-   "raw_name": "国家智慧教育读书平台",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-8e3b521e",
-   "raw_name": "抗日战争与近代中日关系文献数据平台",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-c09e5ec7",
-   "raw_name": "国家哲学社会科学学术期刊数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-b7af154f",
-   "raw_name": "深圳记忆专题数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-93185fa7",
-   "raw_name": "深图视听-读者活动库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-72e0156d",
-   "raw_name": "深圳图书馆古籍数字平台",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-a2bdd906",
-   "raw_name": "深圳城市景观雕塑数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-8efa016e",
-   "raw_name": "深圳图片库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-7d11031f",
-   "raw_name": "中国国际高新技术成果交易会专题数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "馆内",
-   "notes": "官网数字资源列表标注『仅限馆内使用』"
-  },
-  {
-   "canonical_id": "r-d6115479",
-   "raw_name": "深圳文博会媒体报道汇编",
-   "access_url": "",
-   "scope": "",
-   "access_method": "馆内",
-   "notes": "官网数字资源列表标注『仅限馆内使用』"
-  },
-  {
-   "canonical_id": "r-041e24b7",
-   "raw_name": "深圳读书月平面媒体报道",
-   "access_url": "",
-   "scope": "",
-   "access_method": "馆内",
-   "notes": "官网数字资源列表标注『仅限馆内使用』"
-  },
-  {
-   "canonical_id": "r-cd75afd1",
-   "raw_name": "深圳地方报刊创刊号数据库",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
    "canonical_id": "r-30a01757",
@@ -382,15 +70,247 @@
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
-   "canonical_id": "r-d9d6ca45",
-   "raw_name": "读秀知识库",
+   "canonical_id": "r-1632c76f",
+   "raw_name": "中国行业发展报告库",
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-c4a88600",
+   "raw_name": "超星名师讲坛",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-7aa2cfe5",
+   "raw_name": "中国知网（CNKI）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-e49b5587",
+   "raw_name": "职业全能培训库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-1f0e4198",
+   "raw_name": "高校财经数据库（Infobank）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-cd590d23",
+   "raw_name": "近代数字文献资源全库(全国报刊索引)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-b0234bac",
+   "raw_name": "VERS维普考试服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-e7d7c4cc",
+   "raw_name": "维普中文期刊",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-b92c9e9d",
+   "raw_name": "天天.微学习中心",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-fe4082e7",
+   "raw_name": "EMIS全球新兴市场商业资讯数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-ce6638f4",
+   "raw_name": "E线图情",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-1548fae7",
+   "raw_name": "地方志数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-a093a858",
+   "raw_name": "MET英语学习资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-5bb3c0da",
+   "raw_name": "中国年鉴网络出版总库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-c8fcdb62",
+   "raw_name": "OverDrive赛阅数字图书馆（移动端）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-2ecbf2c2",
+   "raw_name": "ProQuest",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-cd0513eb",
+   "raw_name": "万方视频数据库（万方视频网站）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-6fb56f11",
+   "raw_name": "万方医学网临床诊疗知识库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-c7d1389f",
+   "raw_name": "国别区域与全球治理数据平台（原名“列国志”）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-a88a189e",
+   "raw_name": "国研网数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-dd1b5380",
+   "raw_name": "华艺台湾学术文献数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-a5d19d9a",
+   "raw_name": "慧科新闻搜索研究数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-104a4654",
+   "raw_name": "龙源期刊",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-d7aaa953",
+   "raw_name": "哪吒看书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-c77db767",
+   "raw_name": "皮书数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-b6748654",
+   "raw_name": "人大复印报刊资料数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-c67a128f",
+   "raw_name": "软件通视频数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-3a28f3b9",
+   "raw_name": "设计师之家资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-a33c6e24",
+   "raw_name": "书香深圳",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-3184a0a2",
+   "raw_name": "数字阅读馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
    "canonical_id": "r-ea925f15",
@@ -398,55 +318,119 @@
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
-   "canonical_id": "r-cea51149",
-   "raw_name": "中国知网(CNKI)",
+   "canonical_id": "r-5a89a89a",
+   "raw_name": "新东方多媒体学习库",
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
-   "canonical_id": "r-fcf36d9f",
-   "raw_name": "鼎秀古籍全文检索平台",
+   "canonical_id": "r-2c4b4a70",
+   "raw_name": "英纺资讯数据库",
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
-   "canonical_id": "r-7d45fac7",
-   "raw_name": "京东读书",
+   "canonical_id": "r-39902447",
+   "raw_name": "云图数字有声图书馆",
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
-   "canonical_id": "r-a16325d2",
-   "raw_name": "NSTL外文现刊数据库",
+   "canonical_id": "r-56538c83",
+   "raw_name": "中科VIPExam考试学习资源数据库",
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
-   "canonical_id": "r-fcadf54d",
-   "raw_name": "科学文库",
+   "canonical_id": "r-43210288",
+   "raw_name": "易阅通电子书",
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
-   "canonical_id": "r-3392c4fc",
-   "raw_name": "泛研全球科研项目数据库",
+   "canonical_id": "r-a4c3bb1e",
+   "raw_name": "掌阅精选数据库",
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-781bbca6",
+   "raw_name": "中国大百科全书数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-3a3b28e8",
+   "raw_name": "Nature电子期刊",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-8df95422",
+   "raw_name": "Springer电子期刊全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-7b0f841b",
+   "raw_name": "华艺「台湾电子书数据库」",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-7b5076b5",
+   "raw_name": "ME学院儿童通识课数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-c84069ce",
+   "raw_name": "中国思想与文化名家数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-07e25042",
+   "raw_name": "中国近代影像资料库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-413901cd",
+   "raw_name": "万方数据中小学数字图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
    "canonical_id": "r-aa9e51b0",
@@ -454,15 +438,367 @@
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
-   "canonical_id": "r-e4f3cc19",
-   "raw_name": "AI科创助手",
+   "canonical_id": "r-5a3f3860",
+   "raw_name": "《汉语大词典》数据库",
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-e058d13a",
+   "raw_name": "CEIC经济数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-3e5c47ae",
+   "raw_name": "中华医学期刊全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-fcf36d9f",
+   "raw_name": "鼎秀古籍全文检索平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-8c8ca539",
+   "raw_name": "广阅有声",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-6438a6d0",
+   "raw_name": "博看微刊（新）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-e72a1437",
+   "raw_name": "新东方多媒体学习库(移动端)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-2a9c6066",
+   "raw_name": "天天微学习",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-14ba3dbc",
+   "raw_name": "职业全能培训库（移动端）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-65f578d7",
+   "raw_name": "软件通学习库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-e37be508",
+   "raw_name": "ME儿童通识课",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-0a9d0710",
+   "raw_name": "广阅诗词(移动端)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-9bd02d45",
+   "raw_name": "深图视听",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-48867557",
+   "raw_name": "网上报告厅（移动端）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-49b1759f",
+   "raw_name": "创新树-全球创新知识平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-b1b7e477",
+   "raw_name": "MET世界语言学习馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-27504630",
+   "raw_name": "北大法宝",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-de7f28e1",
+   "raw_name": "触点通·人文通识学习",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-ae3ffab8",
+   "raw_name": "籍合文库·经典阅读书房",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-b4cf4d67",
+   "raw_name": "中国近代文献数据总库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-cc979061",
+   "raw_name": "书无涯古籍文献数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-32b89bf0",
+   "raw_name": "王阳明心学·法书遗墨文献数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-bdd5d3ca",
+   "raw_name": "中国近代报纸库（申报/大公报）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-49909695",
+   "raw_name": "国家智慧教育读书平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-e86c6ed0",
+   "raw_name": "喻白在心理",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-f45ca7fb",
+   "raw_name": "知心心理资源平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-727e9ece",
+   "raw_name": "全球智库洞察平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-a0a3ff2e",
+   "raw_name": "思政信息资源平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-1ee1e79b",
+   "raw_name": "文旅产业融合发展信息平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-4135c6d6",
+   "raw_name": "国研网统计数据查询分析平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-d3e8dfc4",
+   "raw_name": "天禄云枢古籍数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-db34b054",
+   "raw_name": "有道AI科研辅助平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-ee9a0a9c",
+   "raw_name": "艺术维基",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-c2e0a596",
+   "raw_name": "龙源期刊手机端",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-9f30bde3",
+   "raw_name": "设计师之家",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-c30b9b4c",
+   "raw_name": "维普考试",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-9127ba0d",
+   "raw_name": "辞海",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-3fbc377d",
+   "raw_name": "AI智能交互",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-76a25753",
+   "raw_name": "新东方素养微课堂（青少版）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-bc5b4c2d",
+   "raw_name": "双语阅读",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-a65ef6b7",
+   "raw_name": "MR混合科普",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-674aaa64",
+   "raw_name": "方志里的深圳移动端",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-fdc6dddd",
+   "raw_name": "党史里的深圳手机端",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-37dc7128",
+   "raw_name": "自然里的深圳手机端",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-2ed7090f",
+   "raw_name": "MET世界语言",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
    "canonical_id": "r-0b5dcc32",
@@ -470,39 +806,39 @@
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
-   "canonical_id": "r-89999001",
-   "raw_name": "高等教育视频资源数据库",
+   "canonical_id": "r-07e50df9",
+   "raw_name": "QQ阅读（小程序）",
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
-   "canonical_id": "r-bea52532",
-   "raw_name": "广阅诗词",
+   "canonical_id": "r-7434e524",
+   "raw_name": "AI闻道科学导航",
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
-   "canonical_id": "r-97d6251f",
-   "raw_name": "工程科技数字图书馆",
+   "canonical_id": "r-c049937f",
+   "raw_name": "懒人听书",
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
-   "canonical_id": "r-e8ca9f9d",
-   "raw_name": "中国近代报纸库(申报/大公报)",
+   "canonical_id": "r-d8934573",
+   "raw_name": "中国图书全文数据库（心可书馆）",
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
    "canonical_id": "r-51b2d0e9",
@@ -510,31 +846,15 @@
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
-   "canonical_id": "r-9e1e7747",
-   "raw_name": "智研AI-万方数据智慧研究平台",
+   "canonical_id": "r-97d6251f",
+   "raw_name": "工程科技数字图书馆",
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-69c49585",
-   "raw_name": "国际科技信息中心",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
-  },
-  {
-   "canonical_id": "r-f5dd0afa",
-   "raw_name": "中国图书全文数据库(心可书馆)",
-   "access_url": "",
-   "scope": "",
-   "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   },
   {
    "canonical_id": "r-4da62497",
@@ -542,7 +862,575 @@
    "access_url": "",
    "scope": "",
    "access_method": "",
-   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-1ced4c59",
+   "raw_name": "中国行业发展报告库(全库)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-9e1e7747",
+   "raw_name": "智研AI-万方数据智慧研究平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-e4f3cc19",
+   "raw_name": "AI科创助手",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-39733281",
+   "raw_name": "数字阅读馆小程序",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-a16325d2",
+   "raw_name": "NSTL外文现刊数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-9945d93c",
+   "raw_name": "NSTL外文回溯期刊全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-5851dff4",
+   "raw_name": "元阅读精品电子书数据库移动端",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-ad79b8f3",
+   "raw_name": "雅昌艺术图书数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-a40cc98c",
+   "raw_name": "ClinicalKey全医学平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-dda2dfcd",
+   "raw_name": "incoPat全球专利数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-bafd2af8",
+   "raw_name": "中经专网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-41e4ad08",
+   "raw_name": "Wiley Online Library电子期刊全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-7e954bde",
+   "raw_name": "ScienceDirect 电子期刊全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-1fe22d51",
+   "raw_name": "中华医学会",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-c3f1c0fd",
+   "raw_name": "方志里的深圳",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-2ebd6c29",
+   "raw_name": "自然里的深圳",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-aab18578",
+   "raw_name": "党史里的深圳",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-83237514",
+   "raw_name": "QQ阅读",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-0507df0a",
+   "raw_name": "喜马拉雅听书（机构版）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-93185fa7",
+   "raw_name": "深图视听-读者活动库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-72e0156d",
+   "raw_name": "深圳图书馆古籍数字平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-a2bdd906",
+   "raw_name": "深圳城市景观雕塑数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-8efa016e",
+   "raw_name": "深圳图片库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-7d11031f",
+   "raw_name": "中国国际高新技术成果交易会专题数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-d6115479",
+   "raw_name": "深圳文博会媒体报道汇编",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-041e24b7",
+   "raw_name": "深圳读书月平面媒体报道",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-cd75afd1",
+   "raw_name": "深圳地方报刊创刊号数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-3825edb1",
+   "raw_name": "中国社会科学文库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-fb5c8f38",
+   "raw_name": "中医数字图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-b975a8df",
+   "raw_name": "中国审判案例数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-dacf8166",
+   "raw_name": "ODILO智能集成数字图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-99e6e18f",
+   "raw_name": "AI阅行人工智能资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-37a635f9",
+   "raw_name": "喜马拉雅",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-2ab8dd54",
+   "raw_name": "“可知”电子书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-666b571b",
+   "raw_name": "百听听书移动端",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-8ee5ca0b",
+   "raw_name": "NTIS Database（美国政府报告题录数据库）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-fade88f0",
+   "raw_name": "Newspaper Source Plus报纸全文库进阶版",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-cefcda39",
+   "raw_name": "安邦政府大数据信息库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-fc875d15",
+   "raw_name": "WTiN（世界纺织信息网）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-2d56aa87",
+   "raw_name": "中华诗词文库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-3df9e99b",
+   "raw_name": "EB-Online(大英百科全书）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-89999001",
+   "raw_name": "高等教育视频资源数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-30a5b257",
+   "raw_name": "循证医学主题评论及临床决策支持数据库(DynaMed®)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-992b7999",
+   "raw_name": "雅昌艺术教育课堂",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-b77500a6",
+   "raw_name": "外文电子期刊",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-c8ac669d",
+   "raw_name": "学术出版与学术资源联盟",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-6bc3f1c4",
+   "raw_name": "中国社会学网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-e3e0681d",
+   "raw_name": "Carol Hurst's Children's Literature Site",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-218939d3",
+   "raw_name": "雅乐经典视频数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-44b220aa",
+   "raw_name": "数字图书馆推广工程资源库群",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-85b025af",
+   "raw_name": "手机版-博看有声书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-d1268499",
+   "raw_name": "艺术维基•全球艺术资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-c25da195",
+   "raw_name": "爱学术（iresearch）电子书库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-9e781d4d",
+   "raw_name": "中唱音乐在线资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-4f765ded",
+   "raw_name": "元阅读精品电子书数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-0a039ea9",
+   "raw_name": "人民数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-69c49585",
+   "raw_name": "国际科技信息中心",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-bea52532",
+   "raw_name": "广阅诗词",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-7d45fac7",
+   "raw_name": "京东读书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-2ac9417a",
+   "raw_name": "中少快乐阅读平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-d701ed7c",
+   "raw_name": "人民日报图文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-1dbbce2a",
+   "raw_name": "“深圳记忆”专题数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-995cf3ad",
+   "raw_name": "深圳图书馆古籍数字平台(2021年5月27日上线新平台)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-eff54ed1",
+   "raw_name": "VOD点播",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-e7dfe983",
+   "raw_name": "QQ阅读手机端",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-8eba11f4",
+   "raw_name": "OverDrive赛阅数字图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-63d15a9e",
+   "raw_name": "掌阅精选",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-88f93c57",
+   "raw_name": "书香深圳（移动端）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-1dd944d1",
+   "raw_name": "皮书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-71a4947c",
+   "raw_name": "云图有声书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
+  },
+  {
+   "canonical_id": "r-8903a059",
+   "raw_name": "OCLC FirstSearch",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "源自深圳图书馆电子资源统一服务平台 API (er.szlib.org.cn:8899/listElec)"
   }
  ]
 }

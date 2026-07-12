@@ -1,0 +1,1675 @@
+{
+ "id": "hubei-prov",
+ "name": "湖北省图书馆",
+ "level": "省级公共图书馆",
+ "region": "湖北省",
+ "verified": true,
+ "official_site": "https://www.library.hb.cn/",
+ "digital_resource_url": "https://www.library.hb.cn/resource/szzy/",
+ "registration": {
+  "online": "yes",
+  "eligibility": "全国读者可通过支付宝小程序线上办电子读者证：芝麻信用≥650分办免押金电子证(可借书+用数字资源)；<650分免费办仅用数字资源的电子证",
+  "cost": "免费（信用办证免押金）",
+  "how": "支付宝搜索『湖北省图书馆』小程序→『开通电子读者证』，填身份证等信息完成办理(初始密码身份证后6位)；再用身份证号+密码登录官网 www.library.hb.cn / 微信公众号 / 『掌上鄂图』App 远程访问数字资源",
+  "tutorial_url": "https://www.library.hb.cn/gywm/ydpt",
+  "notes": "数字资源馆外访问经统一认证(SSO)登录；馆内可IP直连。全量清单来自官网接口 /portal/public/dataResource/list.do (count=207)。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-e35a258e",
+   "raw_name": "中国知网CNKI",
+   "access_url": "https://www.cnki.net/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：中外文数据库"
+  },
+  {
+   "canonical_id": "r-4967ae65",
+   "raw_name": "爱如生系列古籍库",
+   "access_url": "http://dh.ersjk.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-0ab3c1af",
+   "raw_name": "中华经典古籍库",
+   "access_url": "http://publish.ancientbooks.cn/docShuju/platformSublibIndex.jspx?libId=6",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-71227cb1",
+   "raw_name": "读秀学术搜索",
+   "access_url": "https://www.duxiu.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：中外文数据库"
+  },
+  {
+   "canonical_id": "r-91d4de8e",
+   "raw_name": "全国报刊索引库",
+   "access_url": "https://www.cnbksy.com",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-6d98c8d4",
+   "raw_name": "墨香华文数字报纸",
+   "access_url": "http://new.mxpaper.cn/Search/main.aspx",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-8e7dfc00",
+   "raw_name": "万方数据知识服务平台",
+   "access_url": "http://new.wanfangdata.com.cn",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：中外文数据库"
+  },
+  {
+   "canonical_id": "r-d701ed7c",
+   "raw_name": "人民日报图文数据库",
+   "access_url": "http://data.people.com.cn/member/ipuser",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-96542439",
+   "raw_name": "近代报纸数据库",
+   "access_url": "https://bz.nlcpress.com/library/publish/default/IndexPaper.jsp",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-0b5ff0c7",
+   "raw_name": "“知识视界”视频图书馆",
+   "access_url": "https://www.libvideo.cn/?lib=B0310924557ED97C3443C74E53BEF1443F2BE9484F42DF96",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：多媒体视频"
+  },
+  {
+   "canonical_id": "r-da8ad333",
+   "raw_name": "维普中文期刊服务平台",
+   "access_url": "https://qikan.cqvip.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：中外文数据库"
+  },
+  {
+   "canonical_id": "r-6be64909",
+   "raw_name": "万方新方志",
+   "access_url": "https://fz.wanfangdata.com.cn",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴/古籍特藏"
+  },
+  {
+   "canonical_id": "r-4d34689c",
+   "raw_name": "畅想之星电子书",
+   "access_url": "http://www.cxstar.com/hbslib.htm",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-95cf2b82",
+   "raw_name": "AI素养与技能提升数据库",
+   "access_url": "https://ai.xxsuyang.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-38b5db20",
+   "raw_name": "高校考研精品课程学习库",
+   "access_url": "https://www.qskyedu.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-2010bd59",
+   "raw_name": "民国图书数据库",
+   "access_url": "https://mg.nlcpress.com/library/publish/default/IndexBook.jsp",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-3e5c47ae",
+   "raw_name": "中华医学期刊全文数据库",
+   "access_url": "https://www.yiigle.com/index",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：中外文数据库"
+  },
+  {
+   "canonical_id": "r-34537a89",
+   "raw_name": "中国共产党思想理论资源数据库",
+   "access_url": "https://data.lilun.cn",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-cd7fb059",
+   "raw_name": "云图有声数字图书馆",
+   "access_url": "https://library.yuntuys.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：多媒体视频"
+  },
+  {
+   "canonical_id": "r-2732a39b",
+   "raw_name": "尚古汇典-典籍整理文献",
+   "access_url": "https://www.gujidh.com",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-b4cf4d67",
+   "raw_name": "中国近代文献数据总库",
+   "access_url": "https://www.jdwxk.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-9b591b9f",
+   "raw_name": "百度文库",
+   "access_url": "https://pl.baidu.com/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-506af41a",
+   "raw_name": "全球经济（金融）数据库",
+   "access_url": "http://www.originp.com/ent/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-e46b6b89",
+   "raw_name": "掌阅精选数字阅读平台",
+   "access_url": "https://se.zhangyue.com/channel/index?appId=2c39daf0",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-bac110b1",
+   "raw_name": "繙云历史古籍报纸文献数据库",
+   "access_url": "http://fanyun.cepiec.com.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-fcf36d9f",
+   "raw_name": "鼎秀古籍全文检索平台",
+   "access_url": "http://www.ding-xiu.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-fad82b9b",
+   "raw_name": "中华古籍书目数据库",
+   "access_url": "http://bib.ancientbooks.cn/docGuji/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-758652db",
+   "raw_name": "书同文古籍数据库系列",
+   "access_url": "https://gujiku.unihan.com.cn/Products",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-a64b74ef",
+   "raw_name": "博看畅销期刊",
+   "access_url": "http://zq.bookan.com.cn/?t=index&id=21121",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-5f7fa3cf",
+   "raw_name": "Academic Search Premier综合学科参考类全文数据库",
+   "access_url": "https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=aph",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-a1e43098",
+   "raw_name": "北大法宝—中国法律信息总库",
+   "access_url": "http://www.pkulaw.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-b6ba01fe",
+   "raw_name": "全民数字素养与技能教育数据库",
+   "access_url": "https://isuyang.zxhnzq.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-19a61a59",
+   "raw_name": "皮书数据库——中国与世界经济社会发展数据库",
+   "access_url": "https://www.pishu.com.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-89f87391",
+   "raw_name": "超星期刊",
+   "access_url": "http://qikan.chaoxing.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-6c0f55b7",
+   "raw_name": "荆楚悦读--湖北省图书馆书香阅读平台",
+   "access_url": "http://sxhbst.chineseall.cn",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-6de91190",
+   "raw_name": "瀚堂近代报刊数据库",
+   "access_url": "http://10.118.61.215/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-256223ea",
+   "raw_name": "历代进士登科数据库",
+   "access_url": "https://examination.ancientbooks.cn/docDengke/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-b1111582",
+   "raw_name": "人民舆情库",
+   "access_url": "http://data.people.com.cn/rmyq",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-3825edb1",
+   "raw_name": "中国社会科学文库",
+   "access_url": "https://www.sklib.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-a4f21293",
+   "raw_name": "“法信”数据库",
+   "access_url": "https://www.faxin.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-1794076e",
+   "raw_name": "中国历史文献总库·近代期刊数据库",
+   "access_url": "https://qk.nlcpress.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-76a25753",
+   "raw_name": "新东方素养微课堂（青少版）",
+   "access_url": "https://dfyd.bjfuture.cn/#/login-no/b71b019171d5dd3db7976a8c60c9d39c",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：工具事实"
+  },
+  {
+   "canonical_id": "r-81a04752",
+   "raw_name": "Gale中国与现代世界",
+   "access_url": "https://link.gale.com/apps/CFER?u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-af7a6ac5",
+   "raw_name": "中国近代报纸库",
+   "access_url": "https://www.cnbksy.com/v2/news/horseRaceLampDescription?id=4",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-27d54f1f",
+   "raw_name": "人大“复印报刊”资料全文数据库",
+   "access_url": "http://www.rdfybk.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：中外文数据库/方志年鉴"
+  },
+  {
+   "canonical_id": "r-fcadf54d",
+   "raw_name": "科学文库",
+   "access_url": "https://book.sciencereading.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-22f4aa7e",
+   "raw_name": "报纸库专题",
+   "access_url": "http://zy.library.hb.cn:8090/bzztk/hbrb/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-66308c97",
+   "raw_name": "喜马拉雅有声图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子报纸/工具事实/多媒体视频"
+  },
+  {
+   "canonical_id": "r-803164d0",
+   "raw_name": "中国历史文献库",
+   "access_url": "https://www.reasonlib.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-ee2da1b7",
+   "raw_name": "古地图数据库",
+   "access_url": "https://map.reasonlib.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-000fbb7f",
+   "raw_name": "赛阅数字图书馆",
+   "access_url": "https://hubei.overdrivechina.cn/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-5584d629",
+   "raw_name": "Emerald全文期刊库",
+   "access_url": "https://www.emerald.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：中外文数据库"
+  },
+  {
+   "canonical_id": "r-95a622be",
+   "raw_name": "书同文（全库）",
+   "access_url": "https://guji.unihan.com.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-6f90df76",
+   "raw_name": "中共党史期刊数据库（-1949）",
+   "access_url": "https://dangshi.dachengdata.com",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸/古籍特藏"
+  },
+  {
+   "canonical_id": "r-b01ed248",
+   "raw_name": "发现系统",
+   "access_url": "http://fx.hb.superlib.net/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-b4e7a24b",
+   "raw_name": "incoPat全球专利文献数据库",
+   "access_url": "https://www.incopat.com/ip",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-d3e8dfc4",
+   "raw_name": "天禄云枢古籍数据库",
+   "access_url": "http://tlgj.bbtpress.com",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-7d45fac7",
+   "raw_name": "京东读书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-fe74349c",
+   "raw_name": "历史的衣橱·中国古代服饰平台",
+   "access_url": "http://fsweb.libvideo.com",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-08312940",
+   "raw_name": "Gale《泰晤士报》数字典藏",
+   "access_url": "https://link.gale.com/apps/TTDA?u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-3a0d4e10",
+   "raw_name": "翼狐设计学习库",
+   "access_url": "http://data.library.hb.cn:8001/dsftzym/yh/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：多媒体视频/电子图书"
+  },
+  {
+   "canonical_id": "r-744f1846",
+   "raw_name": "智慧芽全球专利数据库",
+   "access_url": "https://analytics.zhihuiya.com/search/input#/simple",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-3dbdd437",
+   "raw_name": "国研网教育版全库",
+   "access_url": "http://www.drcnet.com.cn/www/int/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-809a359d",
+   "raw_name": "辞海网络版资源数据库",
+   "access_url": "https://www.cihai.com.cn/home",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-3f36b89e",
+   "raw_name": "eBook Academic Collection 学术类电子书专辑",
+   "access_url": "https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=e000xww",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-02b4f5eb",
+   "raw_name": "近代华文书籍数据库",
+   "access_url": "https://www.mgebooks.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-76a7d05d",
+   "raw_name": "iLearning外语学习资源库",
+   "access_url": "https://hblib.ilearningpro.unipus.cn/home.html",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-6a6408a3",
+   "raw_name": "湖北地方文献专题",
+   "access_url": "http://data.library.hb.cn:8001/hbdfzzt/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习/古籍特藏"
+  },
+  {
+   "canonical_id": "r-e8be2730",
+   "raw_name": "百链云图书馆",
+   "access_url": "http://www.blyun.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-98754b88",
+   "raw_name": "Gale中国旧海关档案（1854-1949）",
+   "access_url": "https://go.gale.com/ps/aboutThisArchive?userGroupName=cnhb&inPS=true&mCode=2YNC&prodId=CFER",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴/中外文数据库"
+  },
+  {
+   "canonical_id": "r-a81027e8",
+   "raw_name": "起点考试网",
+   "access_url": "https://www.qdexam.com",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-a6a5aa18",
+   "raw_name": "橙艺艺术在线",
+   "access_url": "https://www.chengyiart.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：多媒体视频"
+  },
+  {
+   "canonical_id": "r-049d5352",
+   "raw_name": "Gale电子书数据库",
+   "access_url": "https://link.gale.com/apps/GVRL?u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-83237514",
+   "raw_name": "QQ阅读",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-07faac00",
+   "raw_name": "可知电子书",
+   "access_url": "https://www.keledge.com",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-413901cd",
+   "raw_name": "万方数据中小学数字图书馆",
+   "access_url": "http://edu.wanfangdata.com.cn",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书/工具事实"
+  },
+  {
+   "canonical_id": "r-82e6f029",
+   "raw_name": "中国历代典籍总目",
+   "access_url": "http://www.chinabooktrading.com/hbcc/index.action",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴/古籍特藏"
+  },
+  {
+   "canonical_id": "r-2622857f",
+   "raw_name": "畅想之星随书资源数据库",
+   "access_url": "http://www.bj.cxstar.cn",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-3f2984dd",
+   "raw_name": "Flipster数字杂志",
+   "access_url": "https://search.ebscohost.com/login.aspx?authtype=ip,shib&custid=ns148515&profile=eon",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-e8708741",
+   "raw_name": "中华连环画",
+   "access_url": "http://www.zhlhh.com/hbselib",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-ffa84d51",
+   "raw_name": "超星少儿绘本",
+   "access_url": "http://shaoerhuiben.chaoxing.com/?siteId=996",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：工具事实"
+  },
+  {
+   "canonical_id": "r-56a9ce3a",
+   "raw_name": "见值数据-职业发现数字平台",
+   "access_url": "http://jzshuju.net/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志年鉴/电子图书"
+  },
+  {
+   "canonical_id": "r-1dce41d3",
+   "raw_name": "中国金石总录",
+   "access_url": "http://www.ch5000.net.cn",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-9cf80927",
+   "raw_name": "晨星历史故事库",
+   "access_url": "https://lsgskpc.cxcwwlkj.com",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：工具事实"
+  },
+  {
+   "canonical_id": "r-b077ff46",
+   "raw_name": "Gale 原始资料数据库",
+   "access_url": "https://go.gale.com/ps/start.do?p=GDCS&u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-f965efd0",
+   "raw_name": "知识视界产学研数据库",
+   "access_url": "http://www.iurvideo.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：多媒体视频/电子图书"
+  },
+  {
+   "canonical_id": "r-86c141ec",
+   "raw_name": "Gale珍稀原始典藏档案 (中国相关)",
+   "access_url": "https://link.gale.com/apps/GDSC?u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-69bd250c",
+   "raw_name": "中华文史学术论著库",
+   "access_url": "https://academic.ancientbooks.cn/docLunzhu/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-b1b7e477",
+   "raw_name": "MET世界语言学习馆",
+   "access_url": "https://www.52met.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-7105f4d1",
+   "raw_name": "中华传统音乐资源数据库",
+   "access_url": "https://s.cdcgcart.cn/#/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：多媒体视频"
+  },
+  {
+   "canonical_id": "r-f71e7f8e",
+   "raw_name": "民国图书馆学文献",
+   "access_url": "http://mld.nlcpress.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-2e7739e1",
+   "raw_name": "千寻少儿艺术库",
+   "access_url": "https://myktkpc.cxcwwlkj.com",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：工具事实"
+  },
+  {
+   "canonical_id": "r-8a470e28",
+   "raw_name": "Gale大英图书馆报纸",
+   "access_url": "https://link.gale.com/apps/BNCN?u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-a5bda723",
+   "raw_name": "全球大学生创新创业与就业升学视频资源平台",
+   "access_url": "http://www.chinacxc.org",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-071c2c84",
+   "raw_name": "库客数字音乐图书馆",
+   "access_url": "http://www.kuke.com",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：多媒体视频"
+  },
+  {
+   "canonical_id": "r-6967b532",
+   "raw_name": "艺术维基·全球艺术资源库",
+   "access_url": "https://b.yishu.wiki/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：多媒体视频"
+  },
+  {
+   "canonical_id": "r-873b66e8",
+   "raw_name": "慧科搜索数据库",
+   "access_url": "https://login.wisers.net/?fromUrl=https://vertical-new-search.wisersone.com&clang=zh-zh&ipAccessType=2&groupId=HBLIBIP&user=ipaccess",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-b9a2b9f3",
+   "raw_name": "中国法律知识资源总库",
+   "access_url": "https://lawpro.cnki.net/lawindex/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-8bd65f59",
+   "raw_name": "Business Source Premier商管财经类全文数据库",
+   "access_url": "https://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=bsi",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-95dfaa8d",
+   "raw_name": "Gale美国《国家地理》",
+   "access_url": "https://link.gale.com/apps/NGMA?u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-932a8c35",
+   "raw_name": "博学易知考试数据库",
+   "access_url": "http://www.twbxyz.net/html/homeKs/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-645c39c1",
+   "raw_name": "中国近代中小学教育资源数据库",
+   "access_url": "http://jiaoyu.cishu.com.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-84ac6c6f",
+   "raw_name": "北大法意—中国法律资源库",
+   "access_url": "http://data.lawyee.net/web/login.html",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-192150e5",
+   "raw_name": "新语听书",
+   "access_url": "http://www.xinyulib.com.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸/多媒体视频"
+  },
+  {
+   "canonical_id": "r-6064a612",
+   "raw_name": "Gale美国解密档案在线",
+   "access_url": "https://link.gale.com/apps/USDD?u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-c2a42468",
+   "raw_name": "传世文献库",
+   "access_url": "http://www.HanjiLibrary.com",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-f2fc4b24",
+   "raw_name": "湖北地方特色资源库",
+   "access_url": "http://data.library.hb.cn:8001/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-f91311a9",
+   "raw_name": "起点考研网",
+   "access_url": "https://www.yjsexam.com",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-587b3726",
+   "raw_name": "有章法律知识服务平台",
+   "access_url": "https://b.ilawpress.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-d4bf617e",
+   "raw_name": "裕垚源健康素养数据库",
+   "access_url": "https://web.yyyask.com/?orgId=4817aaf283c945d6ae5a5ff9a8fb97d5",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-32894b67",
+   "raw_name": "国家法律法规数据库",
+   "access_url": "https://flk.npc.gov.cn",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-ab56cee3",
+   "raw_name": "“楚天智海”学习中心",
+   "access_url": "http://xxzx.library.hb.cn:5080/xxpt/index.html#/index",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-dfd92cea",
+   "raw_name": "Gale文学跨库检索平台",
+   "access_url": "https://go.gale.com/ps/start.do?p=GLS&u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸/方志年鉴"
+  },
+  {
+   "canonical_id": "r-65aeda05",
+   "raw_name": "红色历史文化",
+   "access_url": "http://data.library.hb.cn:8001/hslswh/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-5a89a89a",
+   "raw_name": "新东方多媒体学习库",
+   "access_url": "https://library.koolearn.com/encryptedLogin/e0100cf02fbe9b31",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：工具事实"
+  },
+  {
+   "canonical_id": "r-1d404058",
+   "raw_name": "达拓文明清档案数据库",
+   "access_url": "https://www.datawen.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-9164c0d2",
+   "raw_name": "博学易知公务员考试数据库",
+   "access_url": "http://www.twbxyz.net/html/homeGwy/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-1c9c899a",
+   "raw_name": "古镇名村",
+   "access_url": "http://data.library.hb.cn:8001/gzmc/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习/多媒体视频"
+  },
+  {
+   "canonical_id": "r-0a664b86",
+   "raw_name": "文泉学堂知识库",
+   "access_url": "https://lib-hblibrary.wqxuetang.com",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-c049937f",
+   "raw_name": "懒人听书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-a34a718a",
+   "raw_name": "非书资料系统",
+   "access_url": "http://10.118.62.115:1081/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-dd00baed",
+   "raw_name": "湖北特色美食库",
+   "access_url": "http://data.library.hb.cn:8001/hbxc/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-0ee6bd73",
+   "raw_name": "Gale文学资源库",
+   "access_url": "https://go.gale.com/ps/start.do?p=LCO&u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸/方志年鉴"
+  },
+  {
+   "canonical_id": "r-b8ba7a3f",
+   "raw_name": "清华大学藏战国竹简",
+   "access_url": "https://qhj.cihai.com.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-3ad39a96",
+   "raw_name": "趣悦读少儿数字图书馆",
+   "access_url": "https://tongshi.qydlibrary.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：工具事实"
+  },
+  {
+   "canonical_id": "r-593a73e5",
+   "raw_name": "湖北民间传说与故事数字动漫",
+   "access_url": "http://data.library.hb.cn:8001/hbmjcsygsdm/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习/工具事实"
+  },
+  {
+   "canonical_id": "r-a3655bb1",
+   "raw_name": "问道武当",
+   "access_url": "http://data.library.hb.cn:8001/wdwd",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-6c916916",
+   "raw_name": "正保多媒体数据库",
+   "access_url": "http://library.chnedu.com",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-8581e427",
+   "raw_name": "Gale《图画邮报》数字典藏 1938–1957",
+   "access_url": "https://link.gale.com/apps/PIPO?u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-adfd49fc",
+   "raw_name": "《杏林园》中医药数据库",
+   "access_url": "http://tcm.sstp.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-e8947508",
+   "raw_name": "戏曲动漫",
+   "access_url": "http://data.library.hb.cn:8001/xiqu/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习/多媒体视频"
+  },
+  {
+   "canonical_id": "r-399e6e2e",
+   "raw_name": "中国历代人物（CBDB）",
+   "access_url": "https://www.inindex.com/biog",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-6177280e",
+   "raw_name": "博学易知青少年编程数据库",
+   "access_url": "http://www.twbxyz.net/html/ptstem/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：工具事实"
+  },
+  {
+   "canonical_id": "r-e6413b48",
+   "raw_name": "Gale十九世纪美国报纸",
+   "access_url": "https://link.gale.com/apps/NCNP?u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-be819bc3",
+   "raw_name": "鄂图讲座",
+   "access_url": "http://data.library.hb.cn:8001/etjzztk/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-aaf3df77",
+   "raw_name": "馆藏古籍微视频",
+   "access_url": "http://data.library.hb.cn:8001/gjwsp1/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：古籍特藏/考试学习"
+  },
+  {
+   "canonical_id": "r-657a91af",
+   "raw_name": "知识视界智库系统",
+   "access_url": "https://zk.libvideo.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-0fa5c83e",
+   "raw_name": "Gale十九世纪作品在线",
+   "access_url": "https://link.gale.com/apps/NCCO?u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸/方志年鉴"
+  },
+  {
+   "canonical_id": "r-5ab47fe5",
+   "raw_name": "中华优秀传统文化数字图书馆",
+   "access_url": "http://hbst.lib.jingshangw.com/#/index",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：多媒体视频"
+  },
+  {
+   "canonical_id": "r-7597ebfb",
+   "raw_name": "知阅在线电子书平台",
+   "access_url": "https://www.zhiyuebook.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-9e8acfe7",
+   "raw_name": "“知识视界”红色经典专题库",
+   "access_url": "https://redlib.libvideo.com/?lib=c830ba805e_0425abe3714898779445d",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-3e88c1d9",
+   "raw_name": "图书馆公开课",
+   "access_url": "http://data.library.hb.cn:8001/gkk/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-a2f42591",
+   "raw_name": "人工智能知识服务平台",
+   "access_url": "http://www.nicksp.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-242540c8",
+   "raw_name": "“知识视界”视点周刊",
+   "access_url": "http://week.libvideo.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-8a0c500c",
+   "raw_name": "国家知识产权公共服务网",
+   "access_url": "https://ggfw.cnipa.gov.cn/home",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-cab0e306",
+   "raw_name": "红色历史动漫",
+   "access_url": "http://data.library.hb.cn:8001/hslsdme/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习/工具事实"
+  },
+  {
+   "canonical_id": "r-18567599",
+   "raw_name": "米乐心理资源服务平台",
+   "access_url": "https://www.mirrorpsy.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：多媒体视频"
+  },
+  {
+   "canonical_id": "r-4c20be58",
+   "raw_name": "文旅影像地图(武汉)",
+   "access_url": "http://data.library.hb.cn:8001/wlyx/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-91d09dbc",
+   "raw_name": "爱旅游",
+   "access_url": "http://data.library.hb.cn:8001/aly/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-d57058ee",
+   "raw_name": "中医药文献数字图书馆",
+   "access_url": "http://zhongyiyao.hanjilibrary.com",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-fba6a0ad",
+   "raw_name": "Gale《泰晤士报文学增刊》历史典藏",
+   "access_url": "https://link.gale.com/apps/TLSH?u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-422a208e",
+   "raw_name": "e线图情全文数据库（雷速）",
+   "access_url": "http://www.chinalibs.net/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-ecba1e53",
+   "raw_name": "湖北获奖少儿文艺作品",
+   "access_url": "http://data.library.hb.cn:8001/shaoer/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习/工具事实/多媒体视频"
+  },
+  {
+   "canonical_id": "r-29a2ec7b",
+   "raw_name": "尚唯产品样本数据库",
+   "access_url": "http://gpd.sunwayinfo.com.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-b46333ef",
+   "raw_name": "Gale美国小说 1774–1920",
+   "access_url": "https://link.gale.com/apps/AMFN?u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-eb70f8fe",
+   "raw_name": "人大工作决策知识服务平台",
+   "access_url": "https://law.cnki.net/rdjc/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-d5cf8bbf",
+   "raw_name": "网事典藏",
+   "access_url": "http://10.118.62.109:8888/portalController/index",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-97d6251f",
+   "raw_name": "工程科技数字图书馆",
+   "access_url": "http://ebooks.cmpbook.com",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-a1f327ac",
+   "raw_name": "中国地学专题数据库",
+   "access_url": "https://dixue.snupg.com",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-e2fe9c66",
+   "raw_name": "中国历代馆藏书画数字资源服务平台",
+   "access_url": "https://www.shutu.tv/school/721/gcsh",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：古籍特藏"
+  },
+  {
+   "canonical_id": "r-03412498",
+   "raw_name": "Gale文学传记辞典",
+   "access_url": "https://go.gale.com/ps/start.do?p=DLBC&u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸/方志年鉴"
+  },
+  {
+   "canonical_id": "r-8f26180d",
+   "raw_name": "Gale十八世纪作品在线",
+   "access_url": "https://link.gale.com/apps/ECCO?u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-8998ee4f",
+   "raw_name": "博学易知考研数据库",
+   "access_url": "https://www.twbxyz.net/html/homeKy/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-e3cebb5c",
+   "raw_name": "Gale现代世界的形成",
+   "access_url": "https://link.gale.com/apps/MOME?u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-b4b5fb58",
+   "raw_name": "优质图书资源全民阅读服务平台",
+   "access_url": "https://www.yztszyqmyd.com",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-3a497535",
+   "raw_name": "5A4A景区大全",
+   "access_url": "https://www.shutu.tv/school/721/jqdq",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：多媒体视频"
+  },
+  {
+   "canonical_id": "r-1ae48b28",
+   "raw_name": "楚剧多媒体资源库",
+   "access_url": "http://data.library.hb.cn:8001/chuju/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-1d78b3d7",
+   "raw_name": "臻.智慧云阅读",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：工具事实"
+  },
+  {
+   "canonical_id": "r-e568dd91",
+   "raw_name": "数据公园：设计创新与趋势分析数据库",
+   "access_url": "http://www.datapark.cn/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-cfdf1da8",
+   "raw_name": "湖北三国文化",
+   "access_url": "http://data.library.hb.cn:8001/hbsgwh/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-9671218f",
+   "raw_name": "铸牢中华民族共同体意识数据库",
+   "access_url": "http://zlzhmzgttys.cncpress.cn/fg",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-9d2abf04",
+   "raw_name": "回味经典--湖北老字号",
+   "access_url": "http://data.library.hb.cn:8001/hwlzh/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习/多媒体视频"
+  },
+  {
+   "canonical_id": "r-b8f81788",
+   "raw_name": "回望初心——湖北党史故事",
+   "access_url": "http://data.library.hb.cn:8001/dsgs/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习/多媒体视频"
+  },
+  {
+   "canonical_id": "r-9e5ea0c5",
+   "raw_name": "花鼓戏多媒体资源库",
+   "access_url": "http://data.library.hb.cn:8001/hgx/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-296c6acd",
+   "raw_name": "湖北地名文化微视频",
+   "access_url": "http://data.library.hb.cn:8001/dmwh/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习/多媒体视频"
+  },
+  {
+   "canonical_id": "r-4db9fcca",
+   "raw_name": "江城往事专题片",
+   "access_url": "http://data.library.hb.cn:8001/jcwsxg/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习/多媒体视频"
+  },
+  {
+   "canonical_id": "r-9bab8e90",
+   "raw_name": "牛津期刊现刊库 Oxford Journals Collections",
+   "access_url": "https://academic.oup.com/journals",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-c5a60043",
+   "raw_name": "Gale史密森学会在线典藏",
+   "access_url": "https://link.gale.com/apps/SMIT?u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-b6bbf934",
+   "raw_name": "牛津学术专著在线电子书Oxford Scholarship Online",
+   "access_url": "https://academic.oup.com/books",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  },
+  {
+   "canonical_id": "r-28a3c2a6",
+   "raw_name": "Gale作家传略",
+   "access_url": "https://link.gale.com/apps/SATA?u=cnhb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-575a7de2",
+   "raw_name": "中华优秀传统文化慕课",
+   "access_url": "http://data.library.hb.cn:8001/mk1/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-25d6d9ae",
+   "raw_name": "文化中国微视频征集",
+   "access_url": "http://data.library.hb.cn:8001/yxhbmljcwsp/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习/多媒体视频"
+  },
+  {
+   "canonical_id": "r-4f9ce23e",
+   "raw_name": "汉剧多媒体资源库",
+   "access_url": "http://data.library.hb.cn:8001/hanju/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-3e3aef1d",
+   "raw_name": "商学院教育视频资源服务平台",
+   "access_url": "https://www.shutu.tv/school/721/sxy",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-b80eaa7a",
+   "raw_name": "荆楚名胜",
+   "access_url": "http://data.library.hb.cn:8001/jcms_new/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-9625bf4e",
+   "raw_name": "黄梅天下禅",
+   "access_url": "http://data.library.hb.cn:8001/hmtxc/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-2dcdf961",
+   "raw_name": "手工技艺专题片",
+   "access_url": "http://data.library.hb.cn:8001/sgjy/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-e9434add",
+   "raw_name": "楚剧系列文化专题片",
+   "access_url": "http://data.library.hb.cn:8001/jczty/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-02d4cb92",
+   "raw_name": "千年黄州",
+   "access_url": "http://data.library.hb.cn:8001/qnhz/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-68368f36",
+   "raw_name": "汉水文化多媒体资源库",
+   "access_url": "http://data.library.hb.cn:8001/hswh/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-a941eb77",
+   "raw_name": "荆风楚韵",
+   "access_url": "http://data.library.hb.cn:8001/jfcy/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-50e9de54",
+   "raw_name": "巧手天琢专题片",
+   "access_url": "http://data.library.hb.cn:8001/qstz/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-96c9d48b",
+   "raw_name": "凤舞九歌专题片",
+   "access_url": "http://data.library.hb.cn:8001/fwjg/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-4083d559",
+   "raw_name": "湖北地域舞蹈作品",
+   "access_url": "http://data.library.hb.cn:8001/hbdywd/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-e85ee0ae",
+   "raw_name": "环球财经数据库",
+   "access_url": "https://gf.harborn.cn/login?loginName=hblibrary&loginPwd=hblibrary",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-dd111715",
+   "raw_name": "艺术教育多媒体资源服务平台",
+   "access_url": "https://www.shutu.tv/school/721/ys",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：多媒体视频"
+  },
+  {
+   "canonical_id": "r-47caf27c",
+   "raw_name": "南剧多媒体资源库",
+   "access_url": "http://data.library.hb.cn:8001/nj/",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：考试学习"
+  },
+  {
+   "canonical_id": "r-f0c07c91",
+   "raw_name": "探索教育视频资源服务平台",
+   "access_url": "https://www.shutu.tv/school/721/mgts",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子图书"
+  },
+  {
+   "canonical_id": "r-dd21b6ee",
+   "raw_name": "优秀传统文化视频资源库",
+   "access_url": "https://www.hnhzjcm.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：多媒体视频"
+  },
+  {
+   "canonical_id": "r-e87a8a8d",
+   "raw_name": "无障碍影音数据库",
+   "access_url": "https://sun.waplexiang.net/HubeiWeb",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：多媒体视频"
+  },
+  {
+   "canonical_id": "r-781bbca6",
+   "raw_name": "中国大百科全书数据库",
+   "access_url": "http://10.118.61.226:1168/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-0cef6b61",
+   "raw_name": "黄河流域发展数据库",
+   "access_url": "https://yrb.harborn.cn/login?loginName=hblibrary&loginPwd=hblibrary",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-c728afb6",
+   "raw_name": "廉洁文化知识库",
+   "access_url": "http://10.118.61.211:17705",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：方志年鉴"
+  },
+  {
+   "canonical_id": "r-b9e9a588",
+   "raw_name": "妙趣手工坊",
+   "access_url": "https://www.libdiy.com/?OrgCode=2W2DFZ296",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：工具事实"
+  },
+  {
+   "canonical_id": "r-0ee72d80",
+   "raw_name": "智编牛少儿编程",
+   "access_url": "https://zhibianniu.com/#/?OrgCode=7OW8RO296",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：工具事实"
+  },
+  {
+   "canonical_id": "r-ebde44e9",
+   "raw_name": "贝贝国学",
+   "access_url": "https://www.bbguoxue.com?OrgCode=29Y8SV296",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：工具事实"
+  },
+  {
+   "canonical_id": "r-b691a99d",
+   "raw_name": "芯经典阅读平台",
+   "access_url": "https://www.xjdread.com/",
+   "scope": "",
+   "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
+   "notes": "分类：电子报纸"
+  }
+ ]
+}

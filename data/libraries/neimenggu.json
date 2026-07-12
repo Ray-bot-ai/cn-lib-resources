@@ -1,0 +1,268 @@
+{
+ "_说明": "内蒙古自治区图书馆，2026-07-12 人工核对。全量31条。",
+ "id": "neimenggu-prov",
+ "name": "内蒙古自治区图书馆",
+ "level": "省级公共图书馆",
+ "region": "内蒙古自治区",
+ "verified": true,
+ "official_site": "https://www.nmglib.com/",
+ "digital_resource_url": "https://www.nmgcnt.com/list-figure-2.html",
+ "registration": {
+  "online": "yes",
+  "eligibility": "全国读者可通过微信线上注册电子读者证",
+  "cost": "免费",
+  "how": "微信搜索进入服务号'内蒙古图书馆'，点击左下角'微官网'栏目，选择'办理证件'功能即可线上申领电子读者证。",
+  "tutorial_url": "https://www.nmglib.com/#/banZhengZhiNan",
+  "notes": "人工核对。微信服务号可线上办电子读者证。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-585596b0",
+   "raw_name": "法律图书馆数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-a1aa477c",
+   "raw_name": "书香中国",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-f8c92b76",
+   "raw_name": "中国学术期刊库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-5bb3c0da",
+   "raw_name": "中国年鉴网络出版总库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-f4623c74",
+   "raw_name": "中国重要报纸全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-7ba01513",
+   "raw_name": "中国重要会议论文库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-7156cc1d",
+   "raw_name": "超星全民阅读库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-e2554829",
+   "raw_name": "中国博硕士学位论文库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-9e4f98eb",
+   "raw_name": "汉王数字",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-e081def0",
+   "raw_name": "顾如专利研发数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-7972fcf4",
+   "raw_name": "网上报告厅",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-9d96440b",
+   "raw_name": "法信",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-83237514",
+   "raw_name": "QQ阅读",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-71227cb1",
+   "raw_name": "读秀学术搜索",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-e8be2730",
+   "raw_name": "百链云图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-463e8d59",
+   "raw_name": "职业全能培训",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-ce6638f4",
+   "raw_name": "E线图情",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-81a9856f",
+   "raw_name": "博看",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-5e81932b",
+   "raw_name": "国研网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-ea4cce6f",
+   "raw_name": "知识视界",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-ea925f15",
+   "raw_name": "万方数据",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-e8708741",
+   "raw_name": "中华连环画",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-12c9d2aa",
+   "raw_name": "书童AR互动科普",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-68025c2c",
+   "raw_name": "内蒙古红色革命纪念场所网上展厅",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-8bcbabe8",
+   "raw_name": "中国知网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-670a9afc",
+   "raw_name": "泛在微讲堂",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-63d15a9e",
+   "raw_name": "掌阅精选",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-bc1db4ab",
+   "raw_name": "MET少儿英语",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-451c4974",
+   "raw_name": "中国音网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-d48d28e4",
+   "raw_name": "MET公共文化英语学习库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-992e5c18",
+   "raw_name": "抗日战争历史图库（南京图书馆)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  }
+ ]
+}

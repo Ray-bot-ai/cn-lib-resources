@@ -1,0 +1,756 @@
+{
+ "id": "sichuan-prov",
+ "name": "四川省图书馆",
+ "level": "省级公共图书馆",
+ "region": "四川省",
+ "verified": true,
+ "official_site": "https://www.sclib.cn/",
+ "digital_resource_url": "https://www.sclib.cn/v2/sub/2b0a7efd7288c5d0ee6f0c1a6d9c0c98",
+ "registration": {
+  "online": "yes",
+  "eligibility": "全国读者可线上办证：微信小程序『四川省图书馆办证』上传身份证+人脸识别+免押金办理",
+  "cost": "免费（微信小程序免押金办证）",
+  "how": "微信搜索『四川省图书馆办证』小程序→办理读者证(上传身份证、人脸识别、设密码)；办证后登录官网『馆藏资源』页或四川省图书馆APP/微信公众号访问数字资源",
+  "tutorial_url": "https://www.sclib.cn/",
+  "notes": "数字资源统一入口为官网『馆藏资源』页(sclib.cn/v2/sub/...)，采用畅想之星engine2平台，接口 /engine2/data/api-v2/0/type/datas 一次返回全量92条(p2=100)。原『数字馆藏门户』portal.sclib.org 已整合进官网新平台。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-3ff67293",
+   "raw_name": "四川省图书馆珍贵古籍数据库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.150.20:9000/web/%23/&wfwfid=3264&sign=c39515c53de3ec47115b5b66ed6408a6",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：自建资源；官网馆藏资源页列出；四川省图书馆珍贵古籍数据库收藏珍贵古籍共计141部1636册。其中，入选《国家珍贵古籍名录》的古籍有108部1315册；"
+  },
+  {
+   "canonical_id": "r-301a1cde",
+   "raw_name": "中国知网学术期刊",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.cnki.net/&wfwfid=3264&sign=6be71e2dd1346e90dbcf24f5044f221f",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术资源；官网馆藏资源页列出；《中国学术期刊（网络版）》是连续动态更新的中文学术期刊全文数据库，是国家学术期刊权威性文献检索工具和网络出版平台，基本完"
+  },
+  {
+   "canonical_id": "r-dac1b809",
+   "raw_name": "《洪武南藏》数字化服务平台",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.1.24:90/&wfwfid=3264&sign=5d09448c2861744c0bc76974c6934dfd",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：自建资源；官网馆藏资源页列出；馆藏的《洪武南藏》是明代第一部官刻大藏经，具有极高的版本与文献价值，入选首批《国家珍贵古籍名录》。本平台提供全文数字化影"
+  },
+  {
+   "canonical_id": "r-bbb05354",
+   "raw_name": "智慧图书馆知识资源发布系统（民国文献，古籍）",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://125.70.14.133:8018/web/index?en%3Dscfz%26sourceproject%3D&wfwfid=3264&sign=1282c1426968ee533cf0b152f665b7d0",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：自建资源；官网馆藏资源页列出；自2021年以来，四川省图书馆积极参与全国智慧图书馆体系建设，充分利用语义网、大数据、知识图谱、自动抽取等技术深度揭示馆"
+  },
+  {
+   "canonical_id": "r-374c094a",
+   "raw_name": "四川省图书馆家谱知识库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://125.70.14.133:8018/family/index?book_id%3D240013020240373%26en%3Dscfz&wfwfid=3264&sign=176cdf41473792b40ea35d6437d77d33",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：自建资源；官网馆藏资源页列出；四川省图书馆利用数字化技术对馆藏家谱进行数字化加工整理和知识标引，打造“四川省图书馆家谱知识库”，收录馆藏家谱文献数字化"
+  },
+  {
+   "canonical_id": "r-518fce68",
+   "raw_name": "四川省图书馆特藏资源平台",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://guji.sclib.cn&wfwfid=3264&sign=a95bdf6503f4f42a6b79769618dd478c",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：自建资源；官网馆藏资源页列出；“四川省图书馆特藏资源平台”收录四川省图书馆馆藏的古籍和民国文献数字资源，分科技平台、线装书、家谱、方志四个板块，均提供"
+  },
+  {
+   "canonical_id": "r-d868ce0b",
+   "raw_name": "万方数据服务平台",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.wanfangdata.com.cn/index.html&wfwfid=3264&sign=f097b11f5dff1b51ce0d1733a137057e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术资源；官网馆藏资源页列出；《万方数据库服务平台》（学位论文数据库）收录博士和硕士论文400万余篇，年新增35余万篇，涵盖基础科学、理学、工业技术、"
+  },
+  {
+   "canonical_id": "r-41d732ef",
+   "raw_name": "读秀",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.duxiu.com/&wfwfid=3264&sign=c70f334c56b4b54c8f638072df4506bd",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术资源；官网馆藏资源页列出；“读秀”是一个以海量中文图书和全文资料为基础，为用户提供检索的学术搜索引擎及文献服务平台，该库拥有超660万种中文图书信"
+  },
+  {
+   "canonical_id": "r-413901cd",
+   "raw_name": "万方数据中小学数字图书馆",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://edu.wanfangdata.com.cn&wfwfid=3264&sign=4add95cfe80798f037ee4e7ba700909d",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：教育资源；官网馆藏资源页列出；《万方数据中小学数字图书馆》提供基础教育阶段海量优质教学教研及学生学习资源。其中微课数据库由一线教学教研骨干团队拍摄制作"
+  },
+  {
+   "canonical_id": "r-ffa84d51",
+   "raw_name": "超星少儿绘本",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://shaoerhuiben.chaoxing.com/?siteId%3D922&wfwfid=3264&sign=b79c5f92b1aefdd14036113939f46e59",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源；官网馆藏资源页列出；《超星少儿绘本》是针对3-12岁儿童精心打造的系列少儿数字绘本，精选国内外精品原创绘本1000本，涵盖8大领域、23个分"
+  },
+  {
+   "canonical_id": "r-c4a88600",
+   "raw_name": "超星名师讲坛",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://ssvideo.superlib.com/&wfwfid=3264&sign=801f029ffb4bb812b7c352da05b601f6",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频资源；官网馆藏资源页列出；《超星名师讲坛》主要收录各领域名师大咖的优质讲座，将他们的前沿思想、专业技术或成功经验系统地记录、保存，并深度编辑制作成"
+  },
+  {
+   "canonical_id": "r-26b63c73",
+   "raw_name": "超星汇雅电子书",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.sslibrary.com/&wfwfid=3264&sign=a0cf935973c5af7b7ec7247e001125cc",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书；官网馆藏资源页列出；《超星电子图书》支持电子图书的全文检索、目次检索等多种检索方式。电子图书总量在135万种以上，涵盖中图分类法22个大类。"
+  },
+  {
+   "canonical_id": "r-a32e2da0",
+   "raw_name": "中国知网工具书",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://gongjushu.cnki.net/rbook&wfwfid=3264&sign=baeb88ec4074e79cb2f1538cd2955a47",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：决策工具；官网馆藏资源页列出；《中国工具书网络出版总库》收录语文词典、专业词典、百科全书、手册、图录图鉴、表谱、资料集等工具书，收录我国200多家出版"
+  },
+  {
+   "canonical_id": "r-da8ad333",
+   "raw_name": "维普中文期刊服务平台",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://qikan.cqvip.com&wfwfid=3264&sign=e9e551adf0901cefe3fa3a90b1cc3093",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术资源；官网馆藏资源页列出；《维普中文期刊服务平台》是中文学术期刊大数据服务平台，收录中文期刊15000余种，现刊9317种，文献总量7000余万篇"
+  },
+  {
+   "canonical_id": "r-5bb42ec1",
+   "raw_name": "全国报刊索引",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.cnbksy.com/v1&wfwfid=3264&sign=392f257c9c381121d4e65bffabf5f133",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子报刊；官网馆藏资源页列出；《全国报刊索引》创立于1955年，是上海图书馆主管主办并倾力打造的专业信息服务品牌。六十余年来，《全国报刊索引》已由最初"
+  },
+  {
+   "canonical_id": "r-f40b2ab1",
+   "raw_name": "中华古籍书目库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://bib.ancientbooks.cn/docGuji/&wfwfid=3264&sign=1781158153936f771687ff3298b102d9",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：决策工具；官网馆藏资源页列出；《中华古籍书目数据库》是在“籍合”的概念下，将从古至今已整理的各类书目资源进行数字碎片化处理，在确保数据准确、权威的前提"
+  },
+  {
+   "canonical_id": "r-7aa0f709",
+   "raw_name": "超星党建资源库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://scstsgdj.mh.chaoxing.com&wfwfid=3264&sign=9c256da8a3e8098ec8ae21c7b7b7f17b",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：教育资源；官网馆藏资源页列出；《超星党建资源库》包括1400册党建图书、270种党建期刊、5000集红色视频、300个党建系列专题（辉煌历程、四个自信"
+  },
+  {
+   "canonical_id": "r-91a77bbf",
+   "raw_name": "中华医学会期刊-中文期刊",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.yiigle.com/index&wfwfid=3264&sign=92483865d75010a30ae6f01eb524359b",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术资源；官网馆藏资源页列出；《中华医学会期刊权威数据库》收录医学期刊180余种"
+  },
+  {
+   "canonical_id": "r-e618c8d6",
+   "raw_name": "畅想之星电子图书数据库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/cxstar?wfwfid%3D3264&wfwfid=3264&sign=d8d9885288c96eae9ac9876cacf5e341",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书；官网馆藏资源页列出；《畅想之星电子书》是一个集版权管理、新书发布、纸书荐购、电子图书阅读与知识发现于一体的大型综合性文献服务平台，该平台入驻"
+  },
+  {
+   "canonical_id": "r-e9d2f3c2",
+   "raw_name": "新语数字图书馆-中文音视频",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.xinyulib.com.cn/lib/index/index.jsp&wfwfid=3264&sign=82e4aedc6ba8166278e45dcef0878155",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频资源；官网馆藏资源页列出；《新语数字图书馆》收录听书资源5万小时、18万集。分类包含月排行榜、最新上线、畅销书、广播剧、建党百年专题、历史文学、获"
+  },
+  {
+   "canonical_id": "r-3b9ba1bc",
+   "raw_name": "文化产业数据库-中文信息咨讯",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://culture.drcnet.com.cn/%23/&wfwfid=3264&sign=6c75fc5f29caf37f91c617c2f4609766",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：决策工具；官网馆藏资源页列出；《文化产业数据库》全面系统地收录了中国文化产业发展相关的最新动态、政策法规、研究报告、统计数据，以及国外文化产业发展动态"
+  },
+  {
+   "canonical_id": "r-63d15a9e",
+   "raw_name": "掌阅精选",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://se.zhangyue.com/channel/index?appId%3D17d74fc4&wfwfid=3264&sign=1e51dfb52c558fb8557263da037ff6c5",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书；官网馆藏资源页列出；《掌阅精选》从精选出10万余册精品图书和3万集有声图书（包含名家解读书和大咖知识课），其中当当新书热卖榜覆盖80%，近3"
+  },
+  {
+   "canonical_id": "r-a01b6394",
+   "raw_name": "综合学科期刊数据库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://search.ebscohost.com/login.aspx?authtype%3Dip,uid%26custid%3Dns258595%26groupid%3Dmain%26profile%3Dehost&wfwfid=3264&sign=80db8b5fd37550b745c107b6c1f54863",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：外文资源；官网馆藏资源页列出；《综合学科期刊数据库》收录1887&nbsp;年至今8,900多种全文期刊（其中7,600多种为同行评审[peer-re"
+  },
+  {
+   "canonical_id": "r-f36f8f9d",
+   "raw_name": "云图有声-中文音视频",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps%253A%252F%252Flibrary.yuntuys.com&wfwfid=3264&sign=e754eb4114b7979925f05a40987e4d28",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频资源；官网馆藏资源页列出；《云图数字有声图书馆》以正版授权、名家演播的优质有声书为核心资源，全面覆盖经典文学、人文历史、文化艺术、职场财经、儿童文"
+  },
+  {
+   "canonical_id": "r-643c62ef",
+   "raw_name": "国研网政策法规库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://policy.drcnet.com.cn/home&wfwfid=3264&sign=a8957a53120052b9c8dbf707b1c361d8",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：决策工具；官网馆藏资源页列出；《政策法规库》重点采集政府信息公开目录中的政策法规文件，为用户提供国家及地方性政策参考以及平级单位政策对比，年更新量约5"
+  },
+  {
+   "canonical_id": "r-7393ad0e",
+   "raw_name": "“元阅读”精品电子书",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://h5.metareader.cn/?tenantId%253D101525%2526appId%253D4dg77hb9&wfwfid=3264&sign=574a14699f88550821fed42bf5b4bb54",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书；官网馆藏资源页列出；元阅读精品电子书数据库是集电子书阅读、听书、互动于一体的一站式数字阅读服务平台。平台内容丰富，且经过专业编辑精挑细选，内"
+  },
+  {
+   "canonical_id": "r-ebc5cea9",
+   "raw_name": "CNKI公共文化知识服务平台",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.cp.cnki.net&wfwfid=3264&sign=16925d82e3da96910b33f1d016033fdb",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术资源；官网馆藏资源页列出；《CNKI公共文化知识服务平台》内容包括学术期刊、国内会议、国际会议、报纸、科普期刊、经济信息期刊、党建期刊、法律法规、"
+  },
+  {
+   "canonical_id": "r-8037c563",
+   "raw_name": "MET全民英语",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.52met.com&wfwfid=3264&sign=d8827fd5e83163156378ed7832b77169",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：外文资源；官网馆藏资源页列出；《MET全民英语》是中国图书馆学会阅读推广委员会主办的“全国‘图书馆杯’全民英语口语风采展示活动”赛事平台，集教学视频讲"
+  },
+  {
+   "canonical_id": "r-a5a185ee",
+   "raw_name": "皮书数据库-中文报告",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.pishu.com.cn/skwx_ps/database?SiteID%3D14&wfwfid=3264&sign=c14e658996d9d9235bbb4df482afc3e4",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：决策工具；官网馆藏资源页列出；皮书数据库是分析解读当下中国发展变迁的智库产品与知识服务平台，以社科文献社知名图书品牌“皮书系列”为基础，内容覆盖经济、"
+  },
+  {
+   "canonical_id": "r-2010bd59",
+   "raw_name": "民国图书数据库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://mg.nlcpress.com&wfwfid=3264&sign=fe7303f1bef441904f89e3865805c7fb",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书；官网馆藏资源页列出；《中国历史文献总库·民国图书数据库》是《中国历史文献总库》的子库，由国家图书馆出版社开发，目前已完成五期20万种图书的建"
+  },
+  {
+   "canonical_id": "r-a7df85a2",
+   "raw_name": "万方数据-新方志",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://fz.wanfangdata.com.cn/&wfwfid=3264&sign=49055a97f474d2949ab3744fc8bd0304",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书；官网馆藏资源页列出；《万方数据-新方志》全面系统整合我国现有新旧方志文献资源。平台资源内容纵贯整个社会发展历史，横及社会各个门类，从历史到当"
+  },
+  {
+   "canonical_id": "r-74552a93",
+   "raw_name": "博看书苑",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp%253A%252F%252Fzq.bookan.com.cn%252F%253Ft%253Dindex%2526id%253D23504&wfwfid=3264&sign=cdc366a2b3b3fa3c23e452610e9900ee",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书；官网馆藏资源页列出；《博看书苑》以正版授权的人文期刊、畅销图书、有声资源等优质内容为核心，涵盖党政、时事、军事、管理、财经、文学、家庭、健康"
+  },
+  {
+   "canonical_id": "r-70531848",
+   "raw_name": "慧科新闻搜索",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps%253A%252F%252Fwisesearch6.wisers.net%252F%253Fgid%253DSCLIBWS%2526user%253Dipaccess&wfwfid=3264&sign=5b4239aaae7c9c349115d8ba7e9b090e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：决策工具；官网馆藏资源页列出；《慧科新闻搜索（WiseSearch）数据库》致力于满足用户对在新闻搜索/浏览、传播分析、案例研究的需求下，帮助用户深入"
+  },
+  {
+   "canonical_id": "r-393b469e",
+   "raw_name": "中宏智库支持系统",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://gov.macrochina.com.cn/skins/1/gov/index.shtml?tdsourcetag%3Ds_pcqq_aiomsg&wfwfid=3264&sign=19ea43c9eefd42bbd36db620516c01f3",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：决策工具；官网馆藏资源页列出；《中宏智库支持系统》提供政府决策过程中从“信息资源保障”到“政府决策支持”的“一揽子”支持方案的经济类资源。包括专家智囊"
+  },
+  {
+   "canonical_id": "r-55f07f8c",
+   "raw_name": "藏诸名山，传之其人——国家级非物质文化遗产代表性传承人记录工作成果展",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://ich.nlc.cn/10years&wfwfid=3264&sign=80d1fe739ecbb557b8b2e8d0d556dbdc",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：自建资源；官网馆藏资源页列出；简介：展览分为上下两篇。上篇主题为“滔滔长河”，将中国的非物质文化遗产比作长河，追溯我国记录民族民间文化的历史，盘点记录"
+  },
+  {
+   "canonical_id": "r-74c8e599",
+   "raw_name": "“年华易老，技·忆永存——第七届国家级非物质文化遗产代表性传承人记录工作成果展映月”活动",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://ich.nlc.cn/onshow&wfwfid=3264&sign=c91963d5a5bc5880ca96ccaae08f88fd",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：自建资源；官网馆藏资源页列出；简介：集中放映44部非遗纪录片。这批影片具有丰富的文化价值，集中展示了国家级非遗代表性传承人记录工作最新一批的优秀成果，"
+  },
+  {
+   "canonical_id": "r-87d0cf82",
+   "raw_name": "张大千文献库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://zdqwxk.lib.libsou.com/node/324.jspx&wfwfid=3264&sign=99e19b822bbb9169889121520dd54871",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：自建资源；官网馆藏资源页列出；2019年6月开放的张大千文献中心则是以专门收藏张大千相关文献为职能的文献机构，集“搜、藏、展、研”等职能为一体，集中入"
+  },
+  {
+   "canonical_id": "r-859d0dd7",
+   "raw_name": "科研成果论文库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.1.206:81/default.aspx&wfwfid=3264&sign=fece6ab9e20e8bc8fdda54a5d951552d",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：自建资源；官网馆藏资源页列出；《科研成果论文库》包含四川省图书馆馆内员工的科研成果信息，包括发表的论文，专著等。"
+  },
+  {
+   "canonical_id": "r-863205b9",
+   "raw_name": "川话说书",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.1.203:86/MainPage.aspx?en%3Dscfz&wfwfid=3264&sign=41e527d7b88d2c687f130d2c8330a1f1",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：自建资源；官网馆藏资源页列出；川话说书是四川省图书馆智慧图书馆建设项目的建设成果，所选书籍均用四川话进行录播，目前已上线《成都物候记》《市井闲谭（上下"
+  },
+  {
+   "canonical_id": "r-5e044e71",
+   "raw_name": "二李文库VR虚拟展厅",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.1.21&wfwfid=3264&sign=d7218f2882cb6a3e8c711666e51abdfc",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：自建资源；官网馆藏资源页列出；“二李”文库里收录了李劼人、李一氓捐赠给图书馆的珍贵古籍共2万余册。在公共图书馆中专门设立名人文献文库，并打造成藏阅一体"
+  },
+  {
+   "canonical_id": "r-587fd570",
+   "raw_name": "四川省公共文化数字资源",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://192.168.1.206:88/index.html?en%3Dscfz&wfwfid=3264&sign=a1c51fa7fc51d70c9b18b76cc0657e83",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：自建资源；官网馆藏资源页列出；四川省公共文化数字资源包含四川省图书馆和市州图书馆历年来自建的图书，报纸，音频，视频资源，以及自2021年以来四川省智慧"
+  },
+  {
+   "canonical_id": "r-7553e56a",
+   "raw_name": "中华医学健康科普知识库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://cmhadb.cma-cmc.com.cn&wfwfid=3264&sign=aa0e61648d88e7fa4bdc1ad9b1fc722d",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：教育资源；官网馆藏资源页列出；《中华医学会健康科普知识库》是由中华医学会牵头实施、入选“十四五”国家重点出版规划的重点健康科普项目。该知识库以《健康中"
+  },
+  {
+   "canonical_id": "r-b4b5fb58",
+   "raw_name": "优质图书资源全民阅读服务平台",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.yztszyqmyd.com/&wfwfid=3264&sign=2fbccd7243e751279366a42ee125a8d7",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书；官网馆藏资源页列出；作为全国智慧图书馆体系建设的重要组成部分，由北京国图书店有限责任公司（国家图书馆全资企业）主导建设的“优质图书资源全民阅"
+  },
+  {
+   "canonical_id": "r-79e311e1",
+   "raw_name": "沁言",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://app.qinyanai.com/?sourceCode%3DN9H67XRW&wfwfid=3264&sign=de885fd0acd69af760bc3543c0afc590",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术资源；官网馆藏资源页列出；沁言学术是一款深度融合人工智能技术的全流程学术服务平台，可为全校师生提供从选题分析、精准文献检索、文献管理、深度阅读、笔"
+  },
+  {
+   "canonical_id": "r-a993e195",
+   "raw_name": "复兴文库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://fuxingwenku.ancientbooks.cn/&wfwfid=3264&sign=66fe93c6fe1c527c4204ebf897ca21c9",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书；官网馆藏资源页列出；《复兴文库》以实现中华民族伟大复兴为主题，以思想史为基本线索编纂的大型历史文献丛书，全面梳理和精选1840年鸦片战争以来"
+  },
+  {
+   "canonical_id": "r-43180d80",
+   "raw_name": "慧写智能创作平台",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://write.wanfangdata.com.cn/&wfwfid=3264&sign=f0de8bcdaed488f6df164496597a8ade",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术资源；官网馆藏资源页列出；《慧写智能创作平台》构建了一套完备的智能写作解决方案，全面覆盖通用写作、专业创作以及学术研究的全周期流程。旨在为创作者提"
+  },
+  {
+   "canonical_id": "r-4aab5150",
+   "raw_name": "智研AI+",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://zhiyan.wanfangdata.com.cn/&wfwfid=3264&sign=c8c72c4286785e3d4ee543d9f64df6a9",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：学术资源；官网馆藏资源页列出； 《智研AI+》是万方数据的智慧研究平台，依托海量文献资源和前沿智能技术，面向本硕博、教师、科研学者等不同创新主体在科研"
+  },
+  {
+   "canonical_id": "r-b9e9a588",
+   "raw_name": "妙趣手工坊",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.libdiy.com/?OrgCode%3DD2RUVN312&wfwfid=3264&sign=1b261b5e4b064519b4e87ac79ece421d",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源；官网馆藏资源页列出；《妙趣手工坊数据库》囊括了多类儿童手工制作，内容丰富，花样出新；手工教学视频，形式多样，制作精细。在妙趣横生的手工世界里"
+  },
+  {
+   "canonical_id": "r-a8e2838e",
+   "raw_name": "芯经典",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.xjdread.com/&wfwfid=3264&sign=83bf39dd17455d020cac863fd25d59cb",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书；官网馆藏资源页列出；《芯经典学习平台》主要内容为电子图书和有声书，拥有电子图书15万册，有声书3万集，均可浏览全文。平台以经典图书为基础，整"
+  },
+  {
+   "canonical_id": "r-bd8ae1b6",
+   "raw_name": "触点通人文通识学习系统",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://longmai.link/sc-scstsg&wfwfid=3264&sign=e0b9bd355c70f842c01ed276ab5f0583",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：教育资源；官网馆藏资源页列出；《触点通人文通识学习系统》基于云存储、云计算和大数据技术的人文通识学习系统，涵盖文化、艺术、历史、民俗、地理、科技、旅游"
+  },
+  {
+   "canonical_id": "r-c7816b70",
+   "raw_name": "观致·数字展播",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://longmai.link/d-26357la&wfwfid=3264&sign=bc8473385651b8564ec0e7aedc9f327d",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：教育资源；官网馆藏资源页列出；《观致·数字展播》是基于优质数字文化资源和领先展示技术的数字内容展播系统。该库从规模可观的数字资源储备中精挑细选，已创设"
+  },
+  {
+   "canonical_id": "r-ee9a0a9c",
+   "raw_name": "艺术维基",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://b.yishu.wiki/&wfwfid=3264&sign=5159d50f7fa966a3b01f69ba72dc2051",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：教育资源；官网馆藏资源页列出；《艺术维基》收录全球112个国家和地区、2400余所艺术机构、16400余名艺术家各类艺术作品216.8万幅，包含大量珍"
+  },
+  {
+   "canonical_id": "r-24806bc8",
+   "raw_name": "新东方双语阅读",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://smart-reading.xdf.cn/%23/?cid%3Df230f036cb7b428909d45f6be6be2ace6b8f8ba6d500fb9c91cc67eb53248450&wfwfid=3264&sign=799ec0ad8adc41e0bdacc2f4a91ed45e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：外文资源；官网馆藏资源页列出；《新东方双语阅读》是以优质的原版剑桥读物资源为依托，专为中国中小学生提供“电子书+学习系统”的分级阅读。该库面向6-15"
+  },
+  {
+   "canonical_id": "r-c44f14c6",
+   "raw_name": "书香中国互联网数字图书馆",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/chineseall?wfwfid%3D3264%26refer%3D&wfwfid=3264&sign=32ce9351fc70f153619f52907ab72ea8",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书；官网馆藏资源页列出；《书香中国互联网数字图书馆》资源涵盖电子图书50万册，听书10万集、近千种期刊，内容涵盖畅销长销、名家精品、经典名著、人"
+  },
+  {
+   "canonical_id": "r-abc9d917",
+   "raw_name": "民间故事专题库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://cpc.wanfangdata.com.cn/folk/%23/&wfwfid=3264&sign=8648232a6671fdefcb7017c96540d0c9",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频资源；官网馆藏资源页列出；《民间故事专题库》集结了中华各地民间故事。数据库搜集并整理了丰富的民间故事，涵盖传说、动物、风俗、趣事、人物、神话和寓言"
+  },
+  {
+   "canonical_id": "r-267ae50c",
+   "raw_name": "上岸考公网",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.shangankaogong.net/&wfwfid=3264&sign=a710788002cd882a0b654ed947a4ae43",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：教育资源；官网馆藏资源页列出；《上岸考公网》依托中公、华图等师资力量，知识体系囊括国考、省考、选调生、事业单位等十五大类考试科目，并提供了历年真题试卷"
+  },
+  {
+   "canonical_id": "r-5a89a89a",
+   "raw_name": "新东方多媒体学习库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://library.koolearn.com/encryptedLogin/efbd4e2450ae77e1&wfwfid=3264&sign=7ceddbbd42a8acd7eb3f7670cd7ddc79",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频资源；官网馆藏资源页列出；《新东方多媒体学习库》是新东方推出的“一站式”学习平台，专注于为全广大读者提供丰富优质的数字视听资源与学习服务。"
+  },
+  {
+   "canonical_id": "r-96542439",
+   "raw_name": "近代报纸数据库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://bz.nlcpress.com/&wfwfid=3264&sign=2cd0bd563a518bd1aac12a830df20613",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子报刊；官网馆藏资源页列出；《近代报纸数据库》由国家图书馆出版社开发，以国家图书馆的馆藏为主，其他图书馆所藏的报纸为辅，优先选取具有全国影响或在某一"
+  },
+  {
+   "canonical_id": "r-d4bf617e",
+   "raw_name": "裕垚源健康素养数据库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.yyyask.com:8088/?orgId%3D1858315398910251010&wfwfid=3264&sign=f465bbec6280fac3f60c2108b7e1a2dc",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：教育资源；官网馆藏资源页列出；《裕垚源健康素养数据库》涵盖了医学、健康管理等多个领域，涵盖 BMI 测评、营养素查询、科普教育、食谱搭配等多个模块内容"
+  },
+  {
+   "canonical_id": "r-4a306350",
+   "raw_name": "古地图库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://map.reasonlib.com&wfwfid=3264&sign=f23eacc171511ead1fd16e33e2c7503e",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：教育资源；官网馆藏资源页列出；《古地图库》收录世界范围内收藏的中国古地图，包含城市、建筑、风景名胜、水利河工、天文、坤舆、疆域、地形、军事交通、民生经"
+  },
+  {
+   "canonical_id": "r-7c37126a",
+   "raw_name": "域外汉籍库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://gj.reasonlib.com/&wfwfid=3264&sign=21cb89aafea3e2823344a8e8e1ebbb96",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书；官网馆藏资源页列出；《域外汉籍库》长期专注收录域外保存和出版的汉文著述的数据库。近十年来，该库持续大范围整理、录入、出版域外汉籍文献资料。所"
+  },
+  {
+   "canonical_id": "r-c8a3c7e9",
+   "raw_name": "大为全球专利数据库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://pat.daweisoft.com/home&wfwfid=3264&sign=384db5d11dd17b6d5d7ad185617f4543",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：决策工具；官网馆藏资源页列出；《大为全球专利检索分析系统》高度整合专利文献资源，涵盖全球170个国家和地区超过1.7亿多条专利数据，如专利文摘、说明书"
+  },
+  {
+   "canonical_id": "r-283a2537",
+   "raw_name": "红色经典专题库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://redlib.libvideo.com/&wfwfid=3264&sign=332394c1c953bdbd747f77db888a6508",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频资源；官网馆藏资源页列出；《知识视界红色经典专题库》重点展示了建党100年征程中的重大事件、杰出人物、历史故事。"
+  },
+  {
+   "canonical_id": "r-5375495e",
+   "raw_name": "乐儿智慧王国",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://scssy.atleer.com/%23/&wfwfid=3264&sign=e9d0156dada062ba917c6154cad03e61",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源；官网馆藏资源页列出；乐儿智慧王国由科普动漫营、开心学字、乐趣理化、博览名著、恐龙星球、亲子奇趣屋、乐动美育等版块组成。资源内容涵盖自然、植物"
+  },
+  {
+   "canonical_id": "r-a0786e8e",
+   "raw_name": "中国民俗专题数据库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://mswh.wanfangdata.com.cn/index.do&wfwfid=3264&sign=934500f65f5ae22bfbc917ab63bfc92c",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：教育资源；官网馆藏资源页列出；《民俗文化专题数据库》是面向公共文化领域机构开发的文化专题数据库，从《万方地方志数据库》和《万方知识服务平台》中抽取民俗"
+  },
+  {
+   "canonical_id": "r-ce7b98d1",
+   "raw_name": "源素通",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://yst.softtone.cn/&wfwfid=3264&sign=9da620fe43f0f58c8a97c8311064d05f",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：决策工具；官网馆藏资源页列出；“源素通”是中新金桥打造的软件素材学习资源数据库产品，是一款计算机应用软件模板素材的综合发布平台，包含多种软件的办公模板"
+  },
+  {
+   "canonical_id": "r-124ee2f1",
+   "raw_name": "本草数典中药知识库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://lmm.sciencereading.cn/&wfwfid=3264&sign=896fa2f807bf88621221170ff4783796",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：决策工具；官网馆藏资源页列出；《本草数典中药知识库》以《本草纲目》研究集成出版成果为基础，并扩展关联相关中医药主题专著的知识内容。目前知识库包含：本草"
+  },
+  {
+   "canonical_id": "r-51b2d0e9",
+   "raw_name": "中国生物志库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://species.sciencereading.cn/&wfwfid=3264&sign=8bf580726c5e961383f7b888a8f7dcf5",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：决策工具；官网馆藏资源页列出；《中国生物志库》收录了我国最全面的生物物种信息，满足专业科研和教学需求、兼顾大众科普需求。专业用户主要为生物学、生态学、"
+  },
+  {
+   "canonical_id": "r-ce2ac447",
+   "raw_name": "科学智库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://thinktank.sciencereading.cn/&wfwfid=3264&sign=27fc14241f9bc5d5c962473a8d02289c",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：决策工具；官网馆藏资源页列出；科学智库是基于重大战略咨询项目和研究报告的数字平台，覆盖自然科学、社会科学和交叉领域科学，通过知识化标引和系统化关联建立"
+  },
+  {
+   "canonical_id": "r-cc6741d9",
+   "raw_name": "知识视界视点周刊",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://week.libvideo.com&wfwfid=3264&sign=722f1303b872b933824d69f319b96eaf",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频资源；官网馆藏资源页列出；每期一个主题，追踪最热话题，以科学视角的解读，整合碎片化资讯，视频+图片+文字，为读者提供深度阅读体验，给读者最丰盛的精"
+  },
+  {
+   "canonical_id": "r-e0e67309",
+   "raw_name": "知识视界视频图书馆",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.libvideo.cn/&wfwfid=3264&sign=bced47babd55ff2f72f044b8fc041ef7",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频资源；官网馆藏资源页列出；《知识视界视频图书馆》全民科普视频资源库，视频双语发音，双语字幕，随时可切换，满足不同人群需求。"
+  },
+  {
+   "canonical_id": "r-db883aa2",
+   "raw_name": "软件通",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://rjtgt.softtone.cn/&wfwfid=3264&sign=7c77d60fc612be69c4381f19e9601462",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频资源；官网馆藏资源页列出；《软件通》是“软件通-计算机软件视频学习资源”数据库的简称，于2006年研发并推出，通过“微课程”（知识点+实例）的方式"
+  },
+  {
+   "canonical_id": "r-07faac00",
+   "raw_name": "可知电子书",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps%253A%252F%252Fwww.keledge.com%252F&wfwfid=3264&sign=25eb42a62d73587f35eac7df2cf80864",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书；官网馆藏资源页列出；《可知》是国家知识服务平台的分平台，有电子工业出版社、人民邮电出版社、化学工业出版社、高等教育出版社、中信出版社、人民卫"
+  },
+  {
+   "canonical_id": "r-9565ecce",
+   "raw_name": "中华历史文献库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://guji.zzshitu.com:9009/&wfwfid=3264&sign=241e3a86c1e6425960659a9d00841515",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书；官网馆藏资源页列出；《中华历史文献库》收录了四库全书（包括摛藻堂四库全书450册、四库存目4400册、四库存目补编200册、四库未收书辑刊1"
+  },
+  {
+   "canonical_id": "r-fcadf54d",
+   "raw_name": "科学文库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://book.sciencereading.cn/&wfwfid=3264&sign=cce982a4ebde4511e4b3bbceb7a34be1",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书；官网馆藏资源页列出；《科学文库》以服务于教育科研机构的专业人员为宗旨，提供专业优质的数字图书资源、高效便捷的知识服务，满足各个层次的专业人士"
+  },
+  {
+   "canonical_id": "r-262adaac",
+   "raw_name": "万方视频",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://video.wanfangdata.com.cn&wfwfid=3264&sign=df7df0a79a2a0e0310c8e7f02aca818c",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频资源；官网馆藏资源页列出；《万方视频》收录视频资源92余万分钟，包含高校课程、学术讲座、学术会议报告、考试辅导、医学实践、管理讲座、科普视频、国外"
+  },
+  {
+   "canonical_id": "r-9f30bde3",
+   "raw_name": "设计师之家",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.51sjsj.com/&wfwfid=3264&sign=090215e7b500750b0c2cbb7b3c5066f5",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频资源；官网馆藏资源页列出；《设计师之家》是中国图书馆学会阅读推广委员会主办的“全国‘图书馆杯’主题图像创意设计征集活动”赛事平台，是为响应《国务院"
+  },
+  {
+   "canonical_id": "r-310eb4b7",
+   "raw_name": "中科VIPExam考试学习资源库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.vipexam.cn/&wfwfid=3264&sign=4d750d1e47bbb36f7446f1b775a2193f",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：教育资源；官网馆藏资源页列出；《中科VIPExam考试学习资源数据库》(以下简称VIPExam数据库)是一套集日常学习、考核考评、交互体验、智能考场等"
+  },
+  {
+   "canonical_id": "r-c36dff92",
+   "raw_name": "中科AboutJob职业教育数据库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.aboutjob.cn/&wfwfid=3264&sign=ffce70fed1800380037c3b183901a681",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：教育资源；官网馆藏资源页列出；《中科AboutJob职业教育数据库》（简称“中科职教数据库”）以视频课程为核心资源，包含思政教育、职业技能和专业知识三"
+  },
+  {
+   "canonical_id": "r-b1f1e3fd",
+   "raw_name": "中科JobLib就业创业知识数据库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.joblib.cn/&wfwfid=3264&sign=1cfd3256d0b0350c4d078536f0d1f212",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：教育资源；官网馆藏资源页列出；《中科JobLib就业创业知识总库》为学生提供就业相关视频课程学习、就业政策与资讯、技能操作与职业能力测评等资源，配合就"
+  },
+  {
+   "canonical_id": "r-7f80fe40",
+   "raw_name": "中华诗词库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://zhsckpc.cxcwwlkj.com/?tokenAuth%3DMjcyMDU0MjkxODY1NDA3NDg4Y3hjdzIwMjAy&wfwfid=3264&sign=e4ae3fe3a5a87d131042bc8cd3aef31b",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源；官网馆藏资源页列出；《中华诗词库》是集文献、阅读、鉴赏、竞赛为一体的传统文化诗词学习平台，整合了从周、秦汉、三国、晋、南北朝、隋、唐、五代、"
+  },
+  {
+   "canonical_id": "r-9cf80927",
+   "raw_name": "晨星历史故事库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://lsgskpc.cxcwwlkj.com&wfwfid=3264&sign=490fce459321b97505b0f874bc227550",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源；官网馆藏资源页列出；《晨星历史故事库》是一款针对青少年了解五千年历史的故事集，包含春秋故事、战国故事、晋和南北朝故事、五代十国故事、历史典故"
+  },
+  {
+   "canonical_id": "r-60d9858b",
+   "raw_name": "翼狐设计学习资源库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://passport.yiihuu.com/js-api-lib.php?method%3Dyiihuu.login%26account%3Dscslib%26password%3Dscslib2019&wfwfid=3264&sign=6570e38be333dc27709d904293ccaff9",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频资源；官网馆藏资源页列出；《翼狐设计学习库》是功能强大的免费设计类课程视频资源库，能满足不同用户的学习需求。库内包含 PS、AI、PR 等 55 "
+  },
+  {
+   "canonical_id": "r-8199a4f0",
+   "raw_name": "中华连环画数字图书馆",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.zhlhh.com/scslib/&wfwfid=3264&sign=45d2953a1c0bb273ce4d2de2b9c701e4",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源；官网馆藏资源页列出；《中华连环画》是由教育部教育信息管理中心与神州共享（北京）文化传媒有限公司联合开发的。资源涵盖《四大名著》、《成语典故》"
+  },
+  {
+   "canonical_id": "r-23b8d325",
+   "raw_name": "少儿多媒体图书馆",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://kids.bjadks.com/&wfwfid=3264&sign=de88b709bcf730cc93e0f645a8cae7ba",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源；官网馆藏资源页列出；《少儿多媒体图书馆》资源总量达到16000余篇，分别从幼教、绘本、绘本导读、语文、数学、英语、舞蹈、音乐、美术、百科、科"
+  },
+  {
+   "canonical_id": "r-ebde44e9",
+   "raw_name": "贝贝国学",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://www.bbguoxue.com/?OrgCode%3D92S3SQ312&wfwfid=3264&sign=bf1978fb5ff511a1072474322935b7ce",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源；官网馆藏资源页列出；《贝贝国学》是面向全国3至12岁少年儿童线上自主学习研发的，包含经典蒙学、四书五经、诗词歌赋、国学经典、传统文化、华夏瑰"
+  },
+  {
+   "canonical_id": "r-8541c78d",
+   "raw_name": "智编牛",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://zhibianniu.com/%23/?orgid%3D312&wfwfid=3264&sign=17e0c3f20f6f40de2d812cecbee50de0",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿资源；官网馆藏资源页列出；《智编牛》面向4-16岁青少年儿童，提供编程创作平台，丰富的原创素材库资源，能够一站式学习与体验编程。"
+  },
+  {
+   "canonical_id": "r-5ea30f9c",
+   "raw_name": "看展览",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.kanzhanlan.cn/sclib/&wfwfid=3264&sign=b5cf0eb6c8ca6a51148b7ec6587e1cf3",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：教育资源；官网馆藏资源页列出；《看展览数字平台》是2014年创建的展览类资源整合数据平台，平台涵盖6大类300余个主题展览，包括天文地理历史人物等。"
+  },
+  {
+   "canonical_id": "r-dd569906",
+   "raw_name": "推广工程网络书香讲坛",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://www.ndlib.cn/&wfwfid=3264&sign=edf786df9c58562c58c823b5a6e23034",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：共享资源；官网馆藏资源页列出；暂无简介"
+  },
+  {
+   "canonical_id": "r-d2fda663",
+   "raw_name": "四川省政府信息公开",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sc.gov.cn/10462/wza2012/zwxx/zwxx.shtml&wfwfid=3264&sign=b96f8c1962b05ecb4439b211b6bf51ce",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：共享资源；官网馆藏资源页列出；暂无简介"
+  },
+  {
+   "canonical_id": "r-70072318",
+   "raw_name": "国家少儿图书馆",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://kids.nlc.cn/&wfwfid=3264&sign=9b3a75d18d9f22255d2afa21a112018c",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：共享资源；官网馆藏资源页列出；暂无简介"
+  },
+  {
+   "canonical_id": "r-0e9eb24f",
+   "raw_name": "中少动画资源库",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttp://202.106.125.154:92/&wfwfid=3264&sign=d0d30347a3e11aa4ef080dd31839a088",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：共享资源；官网馆藏资源页列出；暂无简介"
+  }
+ ],
+ "_说明": "四川省图书馆，2026-07-13 人工核对。92条。无问题。"
+}

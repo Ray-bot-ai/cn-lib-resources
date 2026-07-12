@@ -1,0 +1,402 @@
+[
+  {
+    "channel": "学术研究",
+    "typeId": "9513773",
+    "name": "科学导航",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "学术研究",
+    "typeId": "9513773",
+    "name": "超星发现",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "学术研究",
+    "typeId": "9513773",
+    "name": "百链",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "学术研究",
+    "typeId": "9513773",
+    "name": "读秀",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "学术研究",
+    "typeId": "9513773",
+    "name": "《中国金石总录》（试用）",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "学术研究",
+    "typeId": "9513773",
+    "name": "文化印象数字人文服务平台",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "学术研究",
+    "typeId": "9513773",
+    "name": "万方方志",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "学术研究",
+    "typeId": "9513773",
+    "name": "万方学位",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "学术研究",
+    "typeId": "9513773",
+    "name": "国家哲学社会科学文献中心",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "学术研究",
+    "typeId": "9513773",
+    "name": "中国生物志库（试用）",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "学术研究",
+    "typeId": "9513773",
+    "name": "科学文库（试用）",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "学术研究",
+    "typeId": "9513773",
+    "name": "科学智库（试用）",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "学术研究",
+    "typeId": "9513773",
+    "name": "中国古生物地层知识库（试用）",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "学术研究",
+    "typeId": "9513773",
+    "name": "维普考试服务平台",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "学术研究",
+    "typeId": "9513773",
+    "name": "高校图书馆考研阅览室学习资源平台（试用）",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "学术研究",
+    "typeId": "9513773",
+    "name": "全球大学生创新创业与就业升学视频资源平台（试用）",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "学术研究",
+    "typeId": "9513773",
+    "name": "新东方多媒体学习库（试用）",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "图书期刊",
+    "typeId": "9513775",
+    "name": "汇雅电子书",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "图书期刊",
+    "typeId": "9513775",
+    "name": "优质图书资源全民阅读服务平台",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "图书期刊",
+    "typeId": "9513775",
+    "name": "万方期刊",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "图书期刊",
+    "typeId": "9513775",
+    "name": "畅想之星电子书",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "图书期刊",
+    "typeId": "9513775",
+    "name": "近代历史文献库",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "图书期刊",
+    "typeId": "9513775",
+    "name": "中文在线",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "图书期刊",
+    "typeId": "9513775",
+    "name": "超星期刊",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "图书期刊",
+    "typeId": "9513775",
+    "name": "QQ阅读",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "图书期刊",
+    "typeId": "9513775",
+    "name": "掌阅精选（试用）",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "图书期刊",
+    "typeId": "9513775",
+    "name": "爱读宝数字阅读平台（试用）",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "图书期刊",
+    "typeId": "9513775",
+    "name": "龙源期刊阅览室",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "图书期刊",
+    "typeId": "9513775",
+    "name": "博文阅读",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "图书期刊",
+    "typeId": "9513775",
+    "name": "近代数字文献资源库（试用）",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "图书期刊",
+    "typeId": "9513775",
+    "name": "古典乐谱资源库(试用)",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "少儿资源",
+    "typeId": "9513774",
+    "name": "智编牛",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "少儿资源",
+    "typeId": "9513774",
+    "name": "妙趣手工坊",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "少儿资源",
+    "typeId": "9513774",
+    "name": "贝贝国学教育数据库",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "少儿资源",
+    "typeId": "9513774",
+    "name": "中华诗词文库",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "少儿资源",
+    "typeId": "9513774",
+    "name": "超星少儿绘本",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "少儿资源",
+    "typeId": "9513774",
+    "name": "青少年编程数据库",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "少儿资源",
+    "typeId": "9513774",
+    "name": "汉字的故事",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "少儿资源",
+    "typeId": "9513774",
+    "name": "数字博览万物馆",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "少儿资源",
+    "typeId": "9513774",
+    "name": "连环画",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "少儿资源",
+    "typeId": "9513774",
+    "name": "红色故事绘",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "少儿资源",
+    "typeId": "9513774",
+    "name": "新疆图书馆素养微课堂（试用）",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "少儿资源",
+    "typeId": "9513774",
+    "name": "乐儿智慧王国（试用）",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "音视频库",
+    "typeId": "9513776",
+    "name": "考试学习库",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "音视频库",
+    "typeId": "9513776",
+    "name": "“文化讲坛”公共文化服务云课堂",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "音视频库",
+    "typeId": "9513776",
+    "name": "网上报告厅",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "音视频库",
+    "typeId": "9513776",
+    "name": "“知识视界”视频图书馆",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "音视频库",
+    "typeId": "9513776",
+    "name": "新语听书",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "其他",
+    "typeId": "9513772",
+    "name": "看展览",
+    "url": "",
+    "desc": "",
+    "access": ""
+  },
+  {
+    "channel": "其他",
+    "typeId": "9513772",
+    "name": "“知识视界”中国服饰文化库(试用)",
+    "url": "",
+    "desc": "",
+    "access": ""
+  }
+]

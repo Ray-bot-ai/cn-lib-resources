@@ -1,0 +1,348 @@
+{
+ "id": "hainan-prov",
+ "name": "海南省图书馆",
+ "level": "省级公共图书馆",
+ "region": "海南省",
+ "verified": true,
+ "official_site": "https://www.hilib.com/",
+ "digital_resource_url": "https://www.hilib.com/",
+ "registration": {
+  "online": "yes",
+  "eligibility": "持有海南省第三代社会保障卡的读者可在线注册；其他读者可用支付宝",
+  "cost": "免费",
+  "how": "持有海南省第三代社保卡可通过官方微信服务号直接在线申请注册并开通借阅服务。其他读者：支付宝'嘉图借书'（人工实测可访问数字资源，但借阅受限）或线下到馆办理。",
+  "tutorial_url": "https://www.hilib.com/sub/article-detail?pid=852167280444985344&cid=852167289911529472&id=852167289928306688&title=常见问题",
+  "notes": "人工核对。支付宝嘉图借书可访问数字资源但借阅受限。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-83237514",
+   "raw_name": "QQ阅读",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书及综合"
+  },
+  {
+   "canonical_id": "r-d9f0629a",
+   "raw_name": "超星汇雅电子图书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书及综合"
+  },
+  {
+   "canonical_id": "r-565f3497",
+   "raw_name": "畅想之星",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书及综合"
+  },
+  {
+   "canonical_id": "r-b96fae0e",
+   "raw_name": "新语数字图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书及综合"
+  },
+  {
+   "canonical_id": "r-5cdcc87d",
+   "raw_name": "书香海南（中文在线）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书及综合"
+  },
+  {
+   "canonical_id": "r-ad25843c",
+   "raw_name": "中华再造善本数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：电子图书及综合"
+  },
+  {
+   "canonical_id": "r-9a6aa5c9",
+   "raw_name": "国家外文文献共享平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库"
+  },
+  {
+   "canonical_id": "r-8bcbabe8",
+   "raw_name": "中国知网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库"
+  },
+  {
+   "canonical_id": "r-040ffc8c",
+   "raw_name": "万方数据资源总库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库"
+  },
+  {
+   "canonical_id": "r-34318955",
+   "raw_name": "读秀学术搜索知识库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库"
+  },
+  {
+   "canonical_id": "r-8bf84425",
+   "raw_name": "维普公共学习服务平台（维普考试资源系统）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库"
+  },
+  {
+   "canonical_id": "r-1cce8c61",
+   "raw_name": "维普考研资源数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库"
+  },
+  {
+   "canonical_id": "r-a88072df",
+   "raw_name": "Emerald管理学全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库"
+  },
+  {
+   "canonical_id": "r-97d27766",
+   "raw_name": "Gale 中国与现代世界：中国旧海关档案（1854-1949年）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库"
+  },
+  {
+   "canonical_id": "r-8025bdf8",
+   "raw_name": "Gale 中国与现代世界：传教士、汉学与文学期刊（1817-1949年）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库"
+  },
+  {
+   "canonical_id": "r-69476acb",
+   "raw_name": "《口语伙伴》",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库"
+  },
+  {
+   "canonical_id": "r-75bae4b8",
+   "raw_name": "公元图片数据库（镜像）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库（官网标注馆内镜像）"
+  },
+  {
+   "canonical_id": "r-8bcbabe8",
+   "raw_name": "中国知网（镜像）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库（官网标注馆内镜像）"
+  },
+  {
+   "canonical_id": "r-7972fcf4",
+   "raw_name": "网上报告厅（镜像）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库（官网标注馆内镜像）"
+  },
+  {
+   "canonical_id": "r-4d34689c",
+   "raw_name": "畅想之星电子书（镜像）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库（官网标注馆内镜像）"
+  },
+  {
+   "canonical_id": "r-5e81932b",
+   "raw_name": "国研网（镜像）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库（官网标注馆内镜像）"
+  },
+  {
+   "canonical_id": "r-295f3bdb",
+   "raw_name": "智云服务平台（镜像）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库（官网标注馆内镜像）"
+  },
+  {
+   "canonical_id": "r-c164a04e",
+   "raw_name": "MET全民英语学习资源库（镜像）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库（官网标注馆内镜像）"
+  },
+  {
+   "canonical_id": "r-89345ce4",
+   "raw_name": "云图有声（镜像）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库（官网标注馆内镜像）"
+  },
+  {
+   "canonical_id": "r-448580d3",
+   "raw_name": "临床诊疗知识库（镜像）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库（官网标注馆内镜像）"
+  },
+  {
+   "canonical_id": "r-c2500e3e",
+   "raw_name": "万方医学网（镜像）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库（官网标注馆内镜像）"
+  },
+  {
+   "canonical_id": "r-758339cd",
+   "raw_name": "中医药知识库（镜像）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库（官网标注馆内镜像）"
+  },
+  {
+   "canonical_id": "r-e1da5f4a",
+   "raw_name": "银符考试题库（镜像）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：数据库（官网标注馆内镜像）"
+  },
+  {
+   "canonical_id": "r-d955662c",
+   "raw_name": "博看人文社科期刊数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：报刊"
+  },
+  {
+   "canonical_id": "r-db883aa2",
+   "raw_name": "软件通",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频"
+  },
+  {
+   "canonical_id": "r-7972fcf4",
+   "raw_name": "网上报告厅",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频"
+  },
+  {
+   "canonical_id": "r-ca57bda6",
+   "raw_name": "天天微学习中心",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：音视频"
+  },
+  {
+   "canonical_id": "r-bc7b10f6",
+   "raw_name": "乐于学少儿多媒体图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "分类：少儿"
+  },
+  {
+   "canonical_id": "r-5e81932b",
+   "raw_name": "国研网",
+   "access_url": "",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：试用数据库"
+  },
+  {
+   "canonical_id": "r-89f87391",
+   "raw_name": "超星期刊",
+   "access_url": "",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：试用数据库"
+  },
+  {
+   "canonical_id": "r-bfa211b7",
+   "raw_name": "中医数字图书馆数据库",
+   "access_url": "",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：试用数据库"
+  },
+  {
+   "canonical_id": "r-d5a4aacf",
+   "raw_name": "商政通",
+   "access_url": "",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：试用数据库"
+  },
+  {
+   "canonical_id": "r-28945be0",
+   "raw_name": "维普期刊网",
+   "access_url": "",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：试用数据库"
+  },
+  {
+   "canonical_id": "r-769c2cdc",
+   "raw_name": "绘声绘色课堂",
+   "access_url": "",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：试用数据库"
+  },
+  {
+   "canonical_id": "r-63d15a9e",
+   "raw_name": "掌阅精选",
+   "access_url": "",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：试用数据库"
+  },
+  {
+   "canonical_id": "r-0923b962",
+   "raw_name": "ArtBase中国艺术品图片库",
+   "access_url": "",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "分类：试用数据库"
+  }
+ ],
+ "_说明": "海南省图书馆，2026-07-12 人工核对并更新。注册方式经人工核实。"
+}

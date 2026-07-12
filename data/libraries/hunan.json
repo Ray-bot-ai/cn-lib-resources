@@ -1,0 +1,276 @@
+{
+ "_说明": "湖南省图书馆，2026-07-12 人工核对。全量32条。",
+ "id": "hunan-prov",
+ "name": "湖南图书馆",
+ "level": "省级公共图书馆",
+ "region": "湖南省",
+ "verified": true,
+ "official_site": "https://www.library.hn.cn/",
+ "digital_resource_url": "https://www.library.hn.cn/",
+ "registration": {
+  "online": "yes",
+  "eligibility": "湖南读者",
+  "cost": "免费",
+  "how": "官网或微信服务号注册。注册教程：https://whhlyt.hunan.gov.cn/whhlyt/news/gzdt/202409/t20240906_33449059.html",
+  "tutorial_url": "https://www.library.hn.cn/entry/v2/sub/41496cfadcecb1ec8a66370f03511bfb",
+  "notes": "人工核对。两个注册教程链接：文旅厅公告+官网入口。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-90d49644",
+   "raw_name": "CNKI(知网)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-85ac2b9f",
+   "raw_name": "读秀电子图书（学术搜索)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-b456a666",
+   "raw_name": "维普",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-565f3497",
+   "raw_name": "畅想之星",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-0a5ec044",
+   "raw_name": "大成故纸堆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-4c3709ce",
+   "raw_name": "湖南图书馆家谱数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-ee777bf0",
+   "raw_name": "中文在线电子图书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-533426c1",
+   "raw_name": "湖南省古籍智慧化服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-3dd21036",
+   "raw_name": "湖南省古籍地方志",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-cc096119",
+   "raw_name": "湖南数字方志馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-12a4a7cc",
+   "raw_name": "湖南近代人物资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-74304017",
+   "raw_name": "视频点播系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-26cbca1b",
+   "raw_name": "全国联合发布古籍数字资源",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-fe5e9ead",
+   "raw_name": "国家哲学社会科学文献中心",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-7a64bad6",
+   "raw_name": "湖南红色记忆资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-781bbca6",
+   "raw_name": "中国大百科全书数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-e7ca4a6a",
+   "raw_name": "国研网数字资源",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-c77db767",
+   "raw_name": "皮书数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-4e8478b2",
+   "raw_name": "湖南非物质文化遗产资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-ae0eaf57",
+   "raw_name": "湖南地方戏剧资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-9e39c28b",
+   "raw_name": "国家科技图书文献中心开放获取",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-71387472",
+   "raw_name": "听游湖南音频资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-1f390c98",
+   "raw_name": "湖南古村镇古民居资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-22be3533",
+   "raw_name": "湖南少数民族风情库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-d414cea8",
+   "raw_name": "识典古籍平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-81fde8f2",
+   "raw_name": "锦绣潇湘大展台专题网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-415d7434",
+   "raw_name": "国家科技图书文献中心开放获取资",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-acbf10b9",
+   "raw_name": "国家自然科学基金基础研究知识库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-89cb0ec1",
+   "raw_name": "国家珍贵古籍名录数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-8308de21",
+   "raw_name": "全国古籍普查登记基本数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-32894b67",
+   "raw_name": "国家法律法规数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  },
+  {
+   "canonical_id": "r-9a6aa5c9",
+   "raw_name": "国家外文文献共享平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "人工核对"
+  }
+ ]
+}
