@@ -506,7 +506,7 @@
   {
    "canonical_id": "r-8548ac1d",
    "raw_name": "慧科新闻",
-   "access_url": "http://login.wisers.net/?clang=zh_CN-zh_CN&amp;fromUrl=https://we3.wisersone.com&amp;ipAccessType=2&amp;groupId=nlc&amp;user=ipaccess&amp;product=wiseone",
+   "access_url": "http://login.wisers.net/?clang=zh_CN-zh_CN&amp;fromUrl=https://we3.wisersone.com&amp;ipAccessType=2&amp;groupId=nlc&amp;product=wiseone",
    "scope": "",
    "access_method": "馆内 / 公网免登录",
    "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
@@ -714,7 +714,7 @@
   {
    "canonical_id": "r-071c2c84",
    "raw_name": "库客数字音乐图书馆",
-   "access_url": "http://www.kuke.com/kuke/orgUser?orgName=cnlib&orgPwd=cnlib",
+   "access_url": "http://www.kuke.com/kuke/orgUser",
    "scope": "",
    "access_method": "馆内 / 公网免登录",
    "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"
@@ -850,7 +850,7 @@
   {
    "canonical_id": "r-5e7e9219",
    "raw_name": "慧科搜索",
-   "access_url": "https://login.wisers.net/?fromUrl=https://vertical-new-search-guotu.wisersone.com&clang=zh_CN-zh_CN&ipAccessType=2&groupId=nlccn1&user=ipaccess",
+   "access_url": "https://login.wisers.net/?fromUrl=https://vertical-new-search-guotu.wisersone.com&clang=zh_CN-zh_CN&ipAccessType=2&groupId=nlccn1",
    "scope": "",
    "access_method": "馆内 / 公网免登录",
    "notes": "读者云门户(read.nlc.cn/outRes)外购资源库；访问方式为官网明文标注"

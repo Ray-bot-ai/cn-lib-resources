@@ -203,7 +203,7 @@
   {
    "canonical_id": "r-8548ac1d",
    "raw_name": "慧科新闻",
-   "access_url": "http://wisesearch6.wisers.net/?gid=sdlibip&user=ipaccess",
+   "access_url": "http://wisesearch6.wisers.net/?gid=sdlibip",
    "scope": "",
    "access_method": "",
    "notes": ""
@@ -442,7 +442,7 @@
   },
   {
    "canonical_id": "r-46482210",
-   "raw_name": "QQ阅读（使用读者证号密码登录使用）",
+   "raw_name": "QQ阅读",
    "access_url": "http://qdtsg.jinghecx.com/",
    "scope": "",
    "access_method": "",

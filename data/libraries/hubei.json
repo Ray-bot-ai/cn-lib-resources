@@ -786,7 +786,7 @@
   {
    "canonical_id": "r-873b66e8",
    "raw_name": "慧科搜索数据库",
-   "access_url": "https://login.wisers.net/?fromUrl=https://vertical-new-search.wisersone.com&clang=zh-zh&ipAccessType=2&groupId=HBLIBIP&user=ipaccess",
+   "access_url": "https://login.wisers.net/?fromUrl=https://vertical-new-search.wisersone.com&clang=zh-zh&ipAccessType=2&groupId=HBLIBIP",
    "scope": "",
    "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
    "notes": "分类：方志年鉴"
@@ -1570,7 +1570,7 @@
   {
    "canonical_id": "r-e85ee0ae",
    "raw_name": "环球财经数据库",
-   "access_url": "https://gf.harborn.cn/login?loginName=hblibrary&loginPwd=hblibrary",
+   "access_url": "https://gf.harborn.cn/login",
    "scope": "",
    "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
    "notes": "分类：方志年鉴"
@@ -1626,7 +1626,7 @@
   {
    "canonical_id": "r-0cef6b61",
    "raw_name": "黄河流域发展数据库",
-   "access_url": "https://yrb.harborn.cn/login?loginName=hblibrary&loginPwd=hblibrary",
+   "access_url": "https://yrb.harborn.cn/login",
    "scope": "",
    "access_method": "馆外凭读者证（外网经统一认证SSO登录）/馆内IP直连",
    "notes": "分类：方志年鉴"

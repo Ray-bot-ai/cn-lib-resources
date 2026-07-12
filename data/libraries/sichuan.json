@@ -674,7 +674,7 @@
   {
    "canonical_id": "r-60d9858b",
    "raw_name": "翼狐设计学习资源库",
-   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://passport.yiihuu.com/js-api-lib.php?method%3Dyiihuu.login%26account%3Dscslib%26password%3Dscslib2019&wfwfid=3264&sign=6570e38be333dc27709d904293ccaff9",
+   "access_url": "https://www.sclib.cn/engine2/general-rest/outer-proxy-detail-url?pageType=15&engineInstanceId=7052856&title=&url=https://www.sclib.cn/sso/api/auth/library/vpn358?wfwfid%3D3264%26refer%3Dhttps://passport.yiihuu.com/js-api-lib.php?method%3Dyiihuu.login%26&wfwfid=3264&sign=6570e38be333dc27709d904293ccaff9",
    "scope": "",
    "access_method": "",
    "notes": "分类：音视频资源；官网馆藏资源页列出；《翼狐设计学习库》是功能强大的免费设计类课程视频资源库，能满足不同用户的学习需求。库内包含 PS、AI、PR 等 55 "

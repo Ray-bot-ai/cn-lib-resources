@@ -186,7 +186,7 @@
   {
    "canonical_id": "r-52ffb56b",
    "raw_name": "慧科资讯报纸",
-   "access_url": "https://login.wisers.net/?fromUrl=https://vertical-new-search.wisersone.com&clang=zh-zh&ipAccessType=2&groupId=ahlibcn&user=ipaccess",
+   "access_url": "https://login.wisers.net/?fromUrl=https://vertical-new-search.wisersone.com&clang=zh-zh&ipAccessType=2&groupId=ahlibcn",
    "scope": "",
    "access_method": "",
    "notes": "商用数据库（数字文献资源库）；远程访问需登录安徽省图书馆数字资源远程访问系统(ycfw.ahlib.com)"
