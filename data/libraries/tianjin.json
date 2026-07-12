@@ -1,0 +1,483 @@
+{
+  "id": "tianjin-prov",
+  "name": "天津图书馆",
+  "level": "省级公共图书馆",
+  "region": "天津市",
+  "verified": true,
+  "official_site": "https://www.tjl.tj.cn/",
+  "digital_resource_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=259",
+  "registration": {
+    "online": "no",
+    "eligibility": "年满14周岁读者；办实体读者证实行身份证号准入，一个身份证号一张证",
+    "cost": "免费（免押金基础证）；有押金证需交100元押金（可退）",
+    "how": "实体读者证必须持本人身份证到天津图书馆三馆区自助办证机线下办理，无线上办证渠道。数字资源须用读者证号登录『阅览一码通』（TJLD/SE 打头）使用；微信公众号『阅·听』栏目游客身份可免证访问部分数字资源，全部资源需绑定读者证。",
+    "tutorial_url": "https://www.tjl.tj.cn/ArticleContent.aspx?ID=25215",
+    "notes": "官方口径：对外服务数据库共58个（本表52正式库+6试用=58，与官方数一致）；其中43个可经『阅览一码通』馆外远程访问，26个可经微信『阅·听』访问，部分仅馆内局域网。办证须知另见 http://hhjyy.tjl.tj.cn/TJHHPortal/ArticleChannel.aspx?ChannelID=281"
+  },
+  "resources": [
+    {
+      "canonical_id": "",
+      "raw_name": "中国共产党思想理论资源数据库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=271",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：电子图书"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "QQ阅读",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=271",
+      "scope": "",
+      "access_method": "微信阅·听",
+      "notes": "分类：电子图书"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "书香中国",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=271",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：电子图书"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "CNKI工具书网络出版总库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=271",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：电子图书"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "CNKI中国年鉴网络出版总库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=271",
+      "scope": "",
+      "access_method": "馆内局域网",
+      "notes": "分类：电子图书"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "辞海网络版",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=271",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：电子图书"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "历版辞海数据库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=271",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：电子图书"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "大辞海数据库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=271",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：电子图书"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "中华连环画",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=271",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：电子图书"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "中华经典古籍库（第5-12期在线版）",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=271",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：电子图书"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "万方方志数据库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=271",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：电子图书"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "域外汉籍",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=271",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：电子图书"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "《永乐大典》高清影像数据库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=271",
+      "scope": "",
+      "access_method": "",
+      "notes": "分类：电子图书"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "九星时代报刊",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=272",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：电子报纸"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "天津日报",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=272",
+      "scope": "",
+      "access_method": "馆内局域网",
+      "notes": "分类：电子报纸"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "慧科数据库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=272",
+      "scope": "",
+      "access_method": "馆内局域网",
+      "notes": "分类：电子报纸"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "中国历史文献总库 近代报纸数据库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=272",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：电子报纸"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "中国近代图库、益世报、申报、大公报、民国日报、盛京时报、晚清期刊",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=272",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：电子报纸"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "万方中国学位论文全文数据库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=273",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：电子期刊"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "维普中文期刊服务平台",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=273",
+      "scope": "",
+      "access_method": "馆内局域网",
+      "notes": "分类：电子期刊"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "龙源期刊数据库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=273",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：电子期刊"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "博看AI书苑",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=273",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：电子期刊"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "人大复印报刊资料全文数据库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=273",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：电子期刊"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "国家哲学社会科学文献中心",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=273",
+      "scope": "",
+      "access_method": "",
+      "notes": "分类：电子期刊"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "懒人听书",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=408",
+      "scope": "",
+      "access_method": "微信阅·听",
+      "notes": "分类：多媒体"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "爱迪科森网上报告厅",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=408",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：多媒体"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "新东方多媒体学习库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=408",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：多媒体"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "环球英语",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=408",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：多媒体"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "知识视界视频图书馆",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=408",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：多媒体"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "KUKE音乐数字图书馆",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=408",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：多媒体"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "VIP Exam考试学习资源数据库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=408",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：多媒体"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "ArtBase中国艺术教育课堂（镜像版）",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=408",
+      "scope": "",
+      "access_method": "馆内局域网",
+      "notes": "分类：多媒体"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "看展览资源库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=408",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：多媒体"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "Artlib世界艺术鉴赏库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=408",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：多媒体"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "文旅产业融合发展信息平台",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=409",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：数据事实"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "国研网数据库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=409",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：数据事实"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "皮书数据库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=409",
+      "scope": "",
+      "access_method": "馆内局域网",
+      "notes": "分类：数据事实"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "森途公共就业知识服务平台",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=409",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：数据事实"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "“i图情”知识服务平台",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=409",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：数据事实"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "国家知识产权局专利数据库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=625",
+      "scope": "",
+      "access_method": "",
+      "notes": "分类：标准专利"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "CNKI中国专利全文数据库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=625",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：标准专利"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "CNKI中国标准全文数据库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=625",
+      "scope": "",
+      "access_method": "馆内局域网",
+      "notes": "分类：标准专利"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "尚唯产品样本数据库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=625",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：标准专利"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "CNKI中华优秀传统文化百科知识库",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=620",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：少儿资源"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "万方数据中小学数字图书馆",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=620",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：少儿资源"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "中少快乐阅读平台",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=620",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：少儿资源"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "乐儿智慧王国",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=620",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：少儿资源"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "少儿多媒体",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=620",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：少儿资源"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "新东方双语阅读",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=620",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：少儿资源"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "新东方素养微课堂",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=620",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：少儿资源"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "爱上简笔画",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=620",
+      "scope": "",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：少儿资源"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "4D百科全书应用系统",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=620",
+      "scope": "",
+      "access_method": "",
+      "notes": "分类：少儿资源"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "新语听书（试用）",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=624",
+      "scope": "试用",
+      "access_method": "微信阅·听",
+      "notes": "分类：试用资源；试用资源"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "智启平台（试用）",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=624",
+      "scope": "试用",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：试用资源；试用资源"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "“文化讲坛”公共文化服务云课堂（试用）",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=624",
+      "scope": "试用",
+      "access_method": "馆内局域网",
+      "notes": "分类：试用资源；试用资源"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "设计师之家数字图书馆（试用）",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=624",
+      "scope": "试用",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：试用资源；试用资源"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "阅途美育在线（试用）",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=624",
+      "scope": "试用",
+      "access_method": "馆内局域网、馆外一码通",
+      "notes": "分类：试用资源；试用资源"
+    },
+    {
+      "canonical_id": "",
+      "raw_name": "人大当代报刊资源服务平台（试用）",
+      "access_url": "https://www.tjl.tj.cn/ArticleChannel.aspx?ChannelID=624",
+      "scope": "试用",
+      "access_method": "馆内局域网、馆外一码通、微信阅·听",
+      "notes": "分类：试用资源；试用资源"
+    }
+  ]
+}
