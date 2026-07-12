@@ -1,0 +1,980 @@
+{
+ "_说明": "首都图书馆，2026-07-12 采集。120个数字资源来自官网资源目录/resources的SSR分页(共6页,第7页起服务器重复返回第6页,靠id去重得120)。access_method来自页面馆内/馆外按钮。",
+ "id": "beijing",
+ "name": "首都图书馆",
+ "level": "省级公共图书馆(直辖市)",
+ "region": "北京市",
+ "verified": true,
+ "official_site": "https://www.clcn.net.cn",
+ "digital_resource_url": "https://www.clcn.net.cn/resources",
+ "registration": {
+  "online": "yes",
+  "eligibility": "年满13周岁读者可办阅享证；线上电子证需本人二代身份证实名",
+  "cost": "免押金",
+  "how": "线上：凭二代身份证在“首都图书馆”或“北京城市图书馆”微信小程序办电子证(或社保卡认证)；线下：到馆自助办证机/人工服务台办实体证",
+  "tutorial_url": "https://www.clcn.net.cn/guide/default/index?page_id=3",
+  "notes": "共120个数字资源；含馆内/馆外/试用标注。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-f4da6108",
+   "raw_name": "Academic Search Complete综合学科参考类全文数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=473",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-164172ca",
+   "raw_name": "Artlib《世界艺术鉴赏库》",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=443",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-156d1854",
+   "raw_name": "阿咘手绘百科",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=423",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-1847a4a0",
+   "raw_name": "爱学术（iresearch）外文电子书库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=407",
+   "scope": "试用",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-780e8c15",
+   "raw_name": "北京声音",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=493",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-652f3b8f",
+   "raw_name": "北京市知识产权信息公共服务平台",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=463",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-e6ad4385",
+   "raw_name": "北大法宝法律专业数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=209",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-8624e187",
+   "raw_name": "北京记忆",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=37",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-417792d0",
+   "raw_name": "超星学术视频",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=245",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-a6a5aa18",
+   "raw_name": "橙艺艺术在线",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=374",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-f802da26",
+   "raw_name": "畅想之星中文电子书",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=299",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-6aaf1103",
+   "raw_name": "CNKI知识资源总库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=8",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-cd335aea",
+   "raw_name": "当代中文数字报纸资源全文数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=503",
+   "scope": "试用",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-71227cb1",
+   "raw_name": "读秀学术搜索",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=49",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-2e146020",
+   "raw_name": "大明会典",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=29",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-aca9df11",
+   "raw_name": "大清五部会典",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=22",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-284d3b5d",
+   "raw_name": "大公报：1902-1949",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=268",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-33ddf8b7",
+   "raw_name": "典藏北京",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=410",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-4fb16866",
+   "raw_name": "EPS数据平台",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=504",
+   "scope": "试用",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-c37bab0e",
+   "raw_name": "Ebook Central电子书",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=397",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-ce6638f4",
+   "raw_name": "E线图情",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=44",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-dca070e0",
+   "raw_name": "Emerald管理学全文期刊库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=9",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-8a0c500c",
+   "raw_name": "国家知识产权公共服务网",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=464",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-4c6ad95b",
+   "raw_name": "国家哲学社会科学学术期刊数据库（NSSD）",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=398",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-6df64e5d",
+   "raw_name": "国研网教育版数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=45",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-bd995df3",
+   "raw_name": "国别区域与全球治理数据平台",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=272",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-06833e67",
+   "raw_name": "国研网文化产业数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=159",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-09a89712",
+   "raw_name": "光绪新法令",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=30",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-8a5b912d",
+   "raw_name": "国研网经济·管理案例库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=46",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-77831339",
+   "raw_name": "古籍插图库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=390",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-e69e874f",
+   "raw_name": "红色故事绘",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=418",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-70531848",
+   "raw_name": "慧科新闻搜索",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=214",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-d40291cc",
+   "raw_name": "旧影尘踪——历史图片数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=454",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-eb72eccd",
+   "raw_name": "剑桥期刊回溯数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=216",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-071c2c84",
+   "raw_name": "库客数字音乐图书馆",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=161",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-4a0508ba",
+   "raw_name": "历代诗文集总库·别集编 (明前编)",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=480",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-7d83d7aa",
+   "raw_name": "龙源少儿电子期刊阅览室",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=475",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-76b8ec33",
+   "raw_name": "Lexis®全球法律数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=474",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-a721c545",
+   "raw_name": "龙源电子期刊阅览室",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=7",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-5375495e",
+   "raw_name": "乐儿智慧王国",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=35",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-b872a6b0",
+   "raw_name": "历代诗文集总库·别集编 (明一)",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=25",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-00de97de",
+   "raw_name": "明清实录",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=20",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-2044e565",
+   "raw_name": "民国风云",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=111",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-5c0a5933",
+   "raw_name": "NSTL国家科技期刊开放平台（中文）",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=450",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-a16325d2",
+   "raw_name": "NSTL外文现刊数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=445",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-9945d93c",
+   "raw_name": "NSTL外文回溯期刊全文数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=315",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-8eba11f4",
+   "raw_name": "OverDrive赛阅数字图书馆",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=246",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-c77db767",
+   "raw_name": "皮书数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=273",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-ca4e48b5",
+   "raw_name": "全球经济金融数据库平台",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=505",
+   "scope": "试用",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-e1efb3ea",
+   "raw_name": "全国报刊索引中国近代文献图库(1833~1949)",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=411",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-abbc2c60",
+   "raw_name": "全国报刊索引中国近代报纸全文库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=296",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-6c7112e1",
+   "raw_name": "全国报刊索引现刊篇名目次库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=43",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-e733eeaa",
+   "raw_name": "全四库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=19",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-71c630bd",
+   "raw_name": "清代史料汇编",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=270",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-12f6763f",
+   "raw_name": "千人年谱（中国谱牒库·年谱编）",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=3",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-4fe7c00f",
+   "raw_name": "清代外交档案文献汇编",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=113",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-a62e5d95",
+   "raw_name": "全国报刊索引晚清期刊全文数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=11",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-7d67357b",
+   "raw_name": "全国报刊索引民国时期期刊全文数据库（1911-1949）",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=107",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-5aef54a6",
+   "raw_name": "清代历朝起居注",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=112",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-c0f9877a",
+   "raw_name": "人大当代报刊资源服务平台",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=494",
+   "scope": "试用",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-92cce162",
+   "raw_name": "人民数据党报资料库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=14",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-15539ad9",
+   "raw_name": "人大复印报刊资料全文数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=12",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-fcfc093a",
+   "raw_name": "设计师之家数字图书馆",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=497",
+   "scope": "试用",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-cd222b69",
+   "raw_name": "首都图书馆古籍数字资源发布平台",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=491",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-00635c1c",
+   "raw_name": "书童MR混合科普图书馆",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=489",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-463108d5",
+   "raw_name": "书童AR互动科普教育资源库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=430",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-454e3be1",
+   "raw_name": "数据公园全球设计创新数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=402",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-779a7260",
+   "raw_name": "思政教育学科资源平台",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=403",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-71bd68ff",
+   "raw_name": "数字展览资源库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=238",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-48df5b5f",
+   "raw_name": "四部丛刊2009增补版",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=24",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-596cadc6",
+   "raw_name": "十通",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=28",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-0c145e82",
+   "raw_name": "首图动漫在线",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=36",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-7000ea1b",
+   "raw_name": "首图讲坛资源库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=97",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-7d5350c9",
+   "raw_name": "视听精品库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=96",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-c4c00185",
+   "raw_name": "图壤图书馆",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=426",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-b7753a17",
+   "raw_name": "万方中小学数字图书馆",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=477",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-12df983d",
+   "raw_name": "万方数据知识服务平台（万方科技文献数据库）",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=431",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-0be5468e",
+   "raw_name": "微学习中心",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=297",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-da8ad333",
+   "raw_name": "维普中文期刊服务平台",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=300",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-d41ac4e8",
+   "raw_name": "Wiley在线图书",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=265",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-4c00fc40",
+   "raw_name": "Wiley在线期刊数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=264",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-f16bc563",
+   "raw_name": "习近平新时代中国特色社会主义思想学习文库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=416",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-24806bc8",
+   "raw_name": "新东方双语阅读",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=378",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-73163688",
+   "raw_name": "新方志库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=298",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-5a89a89a",
+   "raw_name": "新东方多媒体学习库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=48",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-b4b5fb58",
+   "raw_name": "优质图书资源全民阅读服务平台",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=506",
+   "scope": "试用",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-22cafadc",
+   "raw_name": "阅藏知津--中国历代典籍目录总库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=501",
+   "scope": "试用",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-daf745e2",
+   "raw_name": "艺术学科数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=496",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-5d7f9297",
+   "raw_name": "雅乐经典影院数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=387",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-39902447",
+   "raw_name": "云图数字有声图书馆",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=274",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-659d5b5b",
+   "raw_name": "中文在线数字图书馆",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=502",
+   "scope": "试用",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-779de244",
+   "raw_name": "掌阅精品书苑",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=500",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-28a2d75a",
+   "raw_name": "掌阅悦读",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=499",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-533c9765",
+   "raw_name": "终身学习+",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=492",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-fad82b9b",
+   "raw_name": "中华古籍书目数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=481",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-a0786e8e",
+   "raw_name": "中国民俗专题数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=479",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-e5c6cd3d",
+   "raw_name": "中国地方志数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=478",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-b80b9552",
+   "raw_name": "中国艺术研究报刊专题库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=476",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-bc922bc6",
+   "raw_name": "中文报纸资源库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=469",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-67a3cf40",
+   "raw_name": "中科多媒体教育资源数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=466",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-1f5fd767",
+   "raw_name": "中少智绘绘本活动平台",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=462",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-0555ebd4",
+   "raw_name": "中国音网（红色库、非遗库）",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=453",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-e0e67309",
+   "raw_name": "知识视界视频图书馆",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=449",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-1484ef79",
+   "raw_name": "中华民族音乐与戏曲资源库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=444",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-8af2b618",
+   "raw_name": "中共党史经典文献数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=438",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-ad25843c",
+   "raw_name": "中华再造善本数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=417",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-34537a89",
+   "raw_name": "中国共产党思想理论资源数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=345",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-4d4d154e",
+   "raw_name": "中国历史文献总库·民国图书数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=346",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-2ac9417a",
+   "raw_name": "中少快乐阅读平台",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=118",
+   "scope": "",
+   "access_method": "馆外可访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-fa8844f6",
+   "raw_name": "中国基本古籍库（8.0版）",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=21",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-0ab3c1af",
+   "raw_name": "中华经典古籍库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=275",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-c08b02b9",
+   "raw_name": "中国丛书库（初集）",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=31",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-20f0c17e",
+   "raw_name": "中国辞书库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=115",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-a4d80a0e",
+   "raw_name": "中国历代石刻史料汇编",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=27",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-1dce41d3",
+   "raw_name": "中国金石总录",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=269",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-1d3bf2b2",
+   "raw_name": "中国方志库（初集）",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=2",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-8cc18b84",
+   "raw_name": "中国数字方志库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=23",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-8ebd28f8",
+   "raw_name": "中国类书库（初集）",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=26",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-f61ec405",
+   "raw_name": "中国俗文库(初集)",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=114",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  },
+  {
+   "canonical_id": "r-3a2b66d9",
+   "raw_name": "中国近代大报库·申报数据库",
+   "access_url": "https://www.clcn.net.cn/resources/default/detail?id=145",
+   "scope": "",
+   "access_method": "仅馆内访问",
+   "notes": ""
+  }
+ ]
+}

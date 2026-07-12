@@ -1,0 +1,548 @@
+{
+ "_说明": "深圳图书馆，2026-07-12 采集。数字资源清单来自官网『数字资源』列表页(digitalResource/index.html)的公开收录与『电子资源统一服务平台』(er.szlib.org.cn:8899, 共61条)合并去重，共66条。实时官网页面在本机浏览器/CDP下未能稳定渲染(疑似需cookie/防盗链)，采用官网公开索引与搜索引擎公开收录核对，资源名为官网原样。访问方式：官网数字资源馆外访问政策规定大部分库支持馆外访问；列表明确标『仅限馆内使用』的3条已标注，其余按铁律未逐条标注的留空。办证方式已核实。",
+ "id": "shenzhen",
+ "name": "深圳图书馆",
+ "level": "省级公共图书馆",
+ "region": "广东省",
+ "verified": true,
+ "official_site": "https://www.szlib.org.cn/",
+ "digital_resource_url": "https://szlib.org.cn/digitalResource/index.html",
+ "registration": {
+  "online": "yes",
+  "eligibility": "须在深圳地域通过移动服务平台办理虚拟读者证；也可到馆(总服务台/自助办证机)办实体证。面向全国（中国公民及外籍人士均可，无户籍限制但线上办证限深圳地域）",
+  "cost": "鹏城励读证免押金；普通读者证押金100元",
+  "how": "微信『深圳图书馆』订阅号或『深圳图书馆|图书馆之城』服务号 → 数字阅读/个人图书馆 → 申办虚拟证（须在深圳地域）；或持二代身份证在自助办证机/城市街区自助图书馆自助申办；或到总服务台申办",
+  "tutorial_url": "https://www.szlib.org.cn/page/accreditation-guide.html",
+  "notes": "虚拟读者证全程线上办理(限深圳地域)，办证后即可登录网站/移动服务平台使用数字资源。馆外访问各库有并发/流量限量。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-753b2384",
+   "raw_name": "喜马拉雅听书(机构版)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-63d15a9e",
+   "raw_name": "掌阅精选",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-3184a0a2",
+   "raw_name": "数字阅读馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-1632c76f",
+   "raw_name": "中国行业发展报告库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-83237514",
+   "raw_name": "QQ阅读",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-43210288",
+   "raw_name": "易阅通电子书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-8eba11f4",
+   "raw_name": "OverDrive赛阅数字图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-d7aaa953",
+   "raw_name": "哪吒看书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-ad79b8f3",
+   "raw_name": "雅昌艺术图书数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-e7d7c4cc",
+   "raw_name": "维普中文期刊",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-65531427",
+   "raw_name": "博看期刊",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-104a4654",
+   "raw_name": "龙源期刊",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-4245d8a9",
+   "raw_name": "人大复印资料全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-c4a88600",
+   "raw_name": "超星名师讲坛",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-3a28f3b9",
+   "raw_name": "设计师之家资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-05576827",
+   "raw_name": "KUKE库客数字音乐图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-39902447",
+   "raw_name": "云图数字有声图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-5a89a89a",
+   "raw_name": "新东方多媒体学习库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-b1b7e477",
+   "raw_name": "MET世界语言学习馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-2c4b4a70",
+   "raw_name": "英纺资讯数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-b0234bac",
+   "raw_name": "VERS维普考试服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-c77db767",
+   "raw_name": "皮书数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-72d50667",
+   "raw_name": "EB-Online(大英百科全书)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-781bbca6",
+   "raw_name": "中国大百科全书数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-e6ad4385",
+   "raw_name": "北大法宝法律专业数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-a5d19d9a",
+   "raw_name": "慧科新闻搜索研究数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-cd6fc12d",
+   "raw_name": "搜数网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-5aa24b10",
+   "raw_name": "高校财经数据库(Infobank)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-ce6638f4",
+   "raw_name": "E线图情",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-a5a5d9e1",
+   "raw_name": "Nature电子期刊全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-8df95422",
+   "raw_name": "Springer电子期刊全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-6c95b6fa",
+   "raw_name": "爱学术(iresearch)电子书库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-85566ee7",
+   "raw_name": "超星移动图书馆(公图版)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-49909695",
+   "raw_name": "国家智慧教育读书平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-8e3b521e",
+   "raw_name": "抗日战争与近代中日关系文献数据平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-c09e5ec7",
+   "raw_name": "国家哲学社会科学学术期刊数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-b7af154f",
+   "raw_name": "深圳记忆专题数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-93185fa7",
+   "raw_name": "深图视听-读者活动库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-72e0156d",
+   "raw_name": "深圳图书馆古籍数字平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-a2bdd906",
+   "raw_name": "深圳城市景观雕塑数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-8efa016e",
+   "raw_name": "深圳图片库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-7d11031f",
+   "raw_name": "中国国际高新技术成果交易会专题数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "官网数字资源列表标注『仅限馆内使用』"
+  },
+  {
+   "canonical_id": "r-d6115479",
+   "raw_name": "深圳文博会媒体报道汇编",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "官网数字资源列表标注『仅限馆内使用』"
+  },
+  {
+   "canonical_id": "r-041e24b7",
+   "raw_name": "深圳读书月平面媒体报道",
+   "access_url": "",
+   "scope": "",
+   "access_method": "馆内",
+   "notes": "官网数字资源列表标注『仅限馆内使用』"
+  },
+  {
+   "canonical_id": "r-cd75afd1",
+   "raw_name": "深圳地方报刊创刊号数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-30a01757",
+   "raw_name": "晚清/民国期刊全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-d9d6ca45",
+   "raw_name": "读秀知识库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-ea925f15",
+   "raw_name": "万方数据",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-cea51149",
+   "raw_name": "中国知网(CNKI)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-fcf36d9f",
+   "raw_name": "鼎秀古籍全文检索平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-7d45fac7",
+   "raw_name": "京东读书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-a16325d2",
+   "raw_name": "NSTL外文现刊数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-fcadf54d",
+   "raw_name": "科学文库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-3392c4fc",
+   "raw_name": "泛研全球科研项目数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-aa9e51b0",
+   "raw_name": "新版《辞海》网络版",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-e4f3cc19",
+   "raw_name": "AI科创助手",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-0b5dcc32",
+   "raw_name": "百听听书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-89999001",
+   "raw_name": "高等教育视频资源数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-bea52532",
+   "raw_name": "广阅诗词",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-97d6251f",
+   "raw_name": "工程科技数字图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-e8ca9f9d",
+   "raw_name": "中国近代报纸库(申报/大公报)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-51b2d0e9",
+   "raw_name": "中国生物志库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-9e1e7747",
+   "raw_name": "智研AI-万方数据智慧研究平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-69c49585",
+   "raw_name": "国际科技信息中心",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-f5dd0afa",
+   "raw_name": "中国图书全文数据库(心可书馆)",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  },
+  {
+   "canonical_id": "r-4da62497",
+   "raw_name": "有章阅读法律数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "清单源自深圳图书馆官网数字资源列表(公开收录)与电子资源统一服务平台；官网政策：大部分数据库支持馆外访问"
+  }
+ ]
+}

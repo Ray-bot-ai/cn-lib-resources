@@ -1,3 +1,8 @@
 site/
 .venv/
 __pycache__/
+.DS_Store
+**/.DS_Store
+.workbuddy/
+tools/resp_*.json
+.trash_capture_dumps/
