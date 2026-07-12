@@ -1,0 +1,40 @@
+{
+  "_说明": "一个图书馆一个文件。verified=false 表示该馆信息整体尚未核实。resources 里每条先照抄馆网原名到 raw_name；canonical_id 在归一化时统一填（可先留空）。",
+
+  "id": "hubei-prov",
+  "name": "湖北省图书馆",
+  "level": "省级公共图书馆",
+  "region": "湖北省",
+  "verified": false,
+
+  "official_site": "",
+  "digital_resource_url": "",
+
+  "registration": {
+    "online": "unknown",
+    "eligibility": "",
+    "cost": "",
+    "how": "",
+    "tutorial_url": "",
+    "notes": ""
+  },
+
+  "resources": [
+    {
+      "canonical_id": "cnbksy-jindai-baozhi",
+      "raw_name": "中国历史文献总库·近代报纸库",
+      "access_url": "",
+      "scope": "",
+      "access_method": "",
+      "notes": "示例条目，字段值待核实"
+    },
+    {
+      "canonical_id": "cnki-zhiwang",
+      "raw_name": "中国知网",
+      "access_url": "",
+      "scope": "",
+      "access_method": "",
+      "notes": "示例条目，字段值待核实"
+    }
+  ]
+}

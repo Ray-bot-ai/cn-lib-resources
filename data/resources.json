@@ -1,0 +1,21 @@
+{
+  "_说明": "资源总目录。key 是唯一 canonical_id（自己起、小写英文-连字符）。各图书馆文件用 canonical_id 引用这里的资源。镜像相同的资源共用一个 id；订阅范围不同则拆成不同 id（如 xxx-full / xxx-partial）。",
+
+  "cnbksy-jindai-baozhi": {
+    "name": "中国历史文献总库·近代报纸库",
+    "vendor": "全国报刊索引（上海图书馆）",
+    "category": "近代报刊",
+    "homepage": "https://www.cnbksy.com",
+    "aliases": ["近代报纸库", "全国报刊索引 近代报纸"],
+    "notes": "示例条目，供参考格式"
+  },
+
+  "cnki-zhiwang": {
+    "name": "中国知网 CNKI",
+    "vendor": "同方知网",
+    "category": "综合期刊/学位论文",
+    "homepage": "https://www.cnki.net",
+    "aliases": ["知网", "CNKI"],
+    "notes": "示例条目，供参考格式"
+  }
+}
