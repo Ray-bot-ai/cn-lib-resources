@@ -66,14 +66,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-55bc861f": {
-  "name": "ABI/INFORMComplete美国商业信息期刊全文数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-4a35c6f4": {
   "name": "ACS Journals Web Edition and legacy Archive/美国化学学会期刊",
   "vendor": "",
@@ -90,14 +82,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-c81a4515": {
-  "name": "ACS网络数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-c7a4b84c": {
   "name": "AIAA美国航空航天学会会议录",
   "vendor": "",
@@ -108,14 +92,6 @@
  },
  "r-d599bbc7": {
   "name": "AIP Publications",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-4d2c471d": {
-  "name": "AIP/APS电子期刊全文数据库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -178,32 +154,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-a24fe1d7": {
-  "name": "ARL学术研究图书馆",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-dbfb63ea": {
-  "name": "ASCE全文期刊数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-f381a597": {
   "name": "ASME期刊数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-db81f762": {
-  "name": "ASME（美国机械工程师学会）全文期刊数据库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -242,32 +194,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-4d651afd": {
-  "name": "AcademicSourceComplete(ASC)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-1e238d54": {
-  "name": "AccessWorldNews",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-0caa3584": {
   "name": "Akadémiai Kiadó",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-47032973": {
-  "name": "AkadémiaiKiadó",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -290,24 +218,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-c8de6b62": {
-  "name": "ArchivesUnboundAsia（珍稀原始典藏档案合集：亚洲）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-0923b962": {
   "name": "ArtBase中国艺术品图片库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-4db27615": {
-  "name": "ArtBase中国艺术图片库(国图)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -358,38 +270,6 @@
  },
  "r-dccea790": {
   "name": "Asian European Business",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-9bc73a93": {
-  "name": "BIOSISPreviews(BP)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-6e8ab2f5": {
-  "name": "Beckonline法学数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-e66afe8d": {
-  "name": "BioMed Central[生物医学中心]",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-18eba9b0": {
-  "name": "BiographyandGenealogyMasterIndex传记与系谱索引数据库(Gale)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -452,40 +332,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-649bff5a": {
-  "name": "BusinessSourceComplete(BSC)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-b19e5b2d": {
-  "name": "BusinessandCompanyResourceCenter",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-057a5c2a": {
-  "name": "BusinessandCompanyResourceCenter（GALE）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-0dfc92f9": {
   "name": "CAS IP Finder",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-c70eb896": {
-  "name": "CAweb化学文摘",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -524,14 +372,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-dfc86f62": {
-  "name": "CNKI-中国重要会议论文全文数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-06be9fac": {
   "name": "CNKI中华优秀传统文化百科知识库",
   "vendor": "",
@@ -542,30 +382,6 @@
  },
  "r-198d05f5": {
   "name": "CNKI中国专利全文数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-5cede8a1": {
-  "name": "CNKI中国优秀硕士学位论文全文数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-8116e127": {
-  "name": "CNKI中国博士学位论文全文数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-f6a2bcfe": {
-  "name": "CNKI中国学术期刊(中国知网)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -700,14 +516,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-a243112b": {
-  "name": "CNKI中国知网知识资源总库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-ebc5cea9": {
   "name": "CNKI公共文化知识服务平台",
   "vendor": "",
@@ -742,14 +550,6 @@
   ],
   "notes": ""
  },
- "r-f73c7454": {
-  "name": "CNKI西藏地方文献服务平台",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-c305c8b7": {
   "name": "CNKI重要报纸",
   "vendor": "",
@@ -766,14 +566,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-e8d522bc": {
-  "name": "CSAInternetDatabaseService",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-7c2db253": {
   "name": "Cambridge Journals Online/剑桥电子期刊数据库",
   "vendor": "",
@@ -784,14 +576,6 @@
  },
  "r-59ceb32e": {
   "name": "Cambridge Journals Online（剑桥期刊在线）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-2e859bf0": {
-  "name": "CambridgeOnlineJournals",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -822,14 +606,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-8e9871c0": {
-  "name": "China:Trade,PoliticsandCulture",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-6850f9f9": {
   "name": "China:Trade,PoliticsandCulture——海外收藏的中国近代史珍稀史料文献库",
   "vendor": "",
@@ -840,30 +616,6 @@
  },
  "r-a40cc98c": {
   "name": "ClinicalKey全医学平台",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-09d55a19": {
-  "name": "Country Report(国家报告)(国图)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-c2f2e3a4": {
-  "name": "CountryReport国家报告",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-fde58c8c": {
-  "name": "Credo全球工具书大全",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -920,14 +672,6 @@
  },
  "r-7aa911a2": {
   "name": "EAI美国早期印刷品：系列II (1801-1819)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-72d50667": {
-  "name": "EB-Online(大英百科全书)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -1078,14 +822,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-5a77a2ad": {
-  "name": "EBSCOhost",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-8074686f": {
   "name": "EBSCO资源总链接",
   "vendor": "",
@@ -1096,14 +832,6 @@
  },
  "r-f31b3906": {
   "name": "ECCO十八世纪文献在线（ECCOI，ECCOII）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-9fabd7cb": {
-  "name": "EEBO早期英文图书在线(ProQuest)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -1158,14 +886,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-dbe08ea1": {
-  "name": "EastViewUniversalDatabase",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-c37bab0e": {
   "name": "Ebook Central电子书",
   "vendor": "",
@@ -1190,14 +910,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-c48016b6": {
-  "name": "EducationResourceInformationCenter(ERIC)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-d262b31e": {
   "name": "Ei Compendex 工程索引",
   "vendor": "",
@@ -1206,24 +918,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-1afaef24": {
-  "name": "EiCompendexWeb",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-9e7b947b": {
   "name": "Elsevier-Science Direct 学术期刊",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-1d1e459d": {
-  "name": "Elsevier-ScienceDirect学术期刊",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -1272,14 +968,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-5a9d3d25": {
-  "name": "Emerald电子系列丛书",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-a88072df": {
   "name": "Emerald管理学全文数据库",
   "vendor": "",
@@ -1296,24 +984,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-400891d4": {
-  "name": "Emerald（爱墨瑞得）管理学、经济学、工程学数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-f516bd35": {
   "name": "Encyclopedia Britannica Online/大英百科全书",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-6ff337aa": {
-  "name": "EncyclopediaBritannicaOnline",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -1344,24 +1016,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-098626f6": {
-  "name": "EssentialScienceIndicators",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-ce6638f4": {
   "name": "E线图情",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-6186e9b2": {
-  "name": "Factiva数据库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -1424,14 +1080,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-4a26b18d": {
-  "name": "GREENR（环境、能源及自然资源参考数据库）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-e60ec7ee": {
   "name": "Gale Presents: National Geographic Virtual Library美国国家地理虚拟图书馆（Gale）",
   "vendor": "",
@@ -1482,30 +1130,6 @@
  },
  "r-935c073c": {
   "name": "Gale/Eighteenth Century Collection Online（十八世纪作品在线）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-95f3e2d8": {
-  "name": "GaleBiographyinContext人物传记资源中心",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-8ec9ae41": {
-  "name": "GaleVirtualReferenceLibrary(Gale虚拟参考书图书馆)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-b3e5ae3b": {
-  "name": "GaleWorldHistoryInContext世界历史资源中心",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -1680,40 +1304,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-71fa328d": {
-  "name": "GlobalBooksInPrint",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-a83c6d0e": {
-  "name": "HKMO(港澳博硕)优秀学术全文资源库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-94d73cc5": {
   "name": "HeinOnline法学数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-5bc92a57": {
-  "name": "HeinOnline法律数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-868852ca": {
-  "name": "HumanitiesInternationalComplete(HIC)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -1736,14 +1328,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-a3a45b32": {
-  "name": "IEEE/IEEElectronicLibrary(IEL)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-2fbdf665": {
   "name": "IGI电子书",
   "vendor": "",
@@ -1760,14 +1344,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-d7e61eb9": {
-  "name": "IIMPFT国际音乐期刊索引与全文数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-0919fba2": {
   "name": "IMF E-Library（国际货币基金组织电子图书馆）",
   "vendor": "",
@@ -1778,14 +1354,6 @@
  },
  "r-5b7e6987": {
   "name": "INCOPAT专利服务平台",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-85ec6cd2": {
-  "name": "INSPEC",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -1826,14 +1394,6 @@
  },
  "r-410095e1": {
   "name": "ISI/EMIS新兴市场信息服务",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-35c3838a": {
-  "name": "ISICurrentContentsConnect",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -1896,14 +1456,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-05576827": {
-  "name": "KUKE库客数字音乐图书馆",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-55c79567": {
   "name": "KUKE音乐数字图书馆",
   "vendor": "",
@@ -1928,24 +1480,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-4581b164": {
-  "name": "KluwerLawOnline法律在线资源库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-bec38f88": {
   "name": "Lexis Advance 法律数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-18ac4cd0": {
-  "name": "Lexis.com法律库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -1960,24 +1496,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-38082ae8": {
-  "name": "Lexis全球法律数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-a3fb9038": {
   "name": "MEDLINE 美国医学索引数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-fee46df6": {
-  "name": "MEDLINE美国医学索引数据库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -2067,14 +1587,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-2d1120a3": {
-  "name": "MOML现代法律之路",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-0605455e": {
   "name": "MOMW 现代经济之路",
   "vendor": "",
@@ -2099,14 +1611,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-bc90790d": {
-  "name": "MathSciNet(数学评论网络版)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-aee77708": {
   "name": "Military and Government Collection军事与政府全文数据库(EBSCO)",
   "vendor": "",
@@ -2115,34 +1619,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-3d0c13b2": {
-  "name": "MilitaryandGovernmentCollection",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-2e1e66aa": {
   "name": "Mirror（米乐）心理资源服务平台",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-b141d1a8": {
-  "name": "MyET英语多媒体资源库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [
-   "MyET英语多媒体资源库(镜像)"
-  ],
-  "notes": ""
- },
- "r-df6ebb47": {
-  "name": "MyiLibrary电子图书",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -2197,22 +1675,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-a040b730": {
-  "name": "NSTL外文现刊数据库 OA",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-24a7cdf5": {
-  "name": "NSTL（中国国家科技文献中心）全国开通现刊数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-5483c342": {
   "name": "NSTL（中国国家科技文献中心）外文回溯数据库",
   "vendor": "",
@@ -2231,14 +1693,6 @@
  },
  "r-3a3b28e8": {
   "name": "Nature电子期刊",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-a5a5d9e1": {
-  "name": "Nature电子期刊全文数据库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -2269,32 +1723,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-825e34cc": {
-  "name": "NewspaperSource",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-10f9819b": {
-  "name": "Nexis.com商业库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-54157783": {
   "name": "Nineteenth Century Collections Online（十九世纪作品在线，NCCO）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-281becd7": {
-  "name": "OA(OpenAccess)资源一站式检索服务平台",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -2405,22 +1835,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-ec11a8b5": {
-  "name": "OxfordEnglishDictionary",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-f860abd8": {
-  "name": "OxfordUniversityPressJournals",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-2cbcfb43": {
   "name": "PC专题平台（内网）",
   "vendor": "",
@@ -2461,22 +1875,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-f56b31c9": {
-  "name": "PeriodicalsArchiveOnline（典藏期刊数据库）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-17720ed4": {
-  "name": "PressDisplay报纸数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-2ecbf2c2": {
   "name": "ProQuest",
   "vendor": "",
@@ -2487,14 +1885,6 @@
  },
  "r-33aa53db": {
   "name": "ProQuest ABI/INFORM Collection",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-082fc61b": {
-  "name": "ProQuest ABI/INFORM Complete (ProQuest商业管理数据库)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -2589,22 +1979,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-52fecde4": {
-  "name": "ProQuestDissertations&Theses:A&I学位论文文摘库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-fb6154dc": {
-  "name": "ProQuestDissertations&Theses学位论文全文库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-9fa3345e": {
   "name": "ProQuest历史报纸：近现代中国英文报纸库",
   "vendor": "",
@@ -2637,14 +2011,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-533e4da4": {
-  "name": "ProjectMuse全文期刊数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-7aa6400d": {
   "name": "PubScholar公益学术平台",
   "vendor": "",
@@ -2663,14 +2029,6 @@
  },
  "r-e7dfe983": {
   "name": "QQ阅读手机端",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-46482210": {
-  "name": "QQ阅读（使用读者证号密码登录使用）",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -2941,14 +2299,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-b60a6e42": {
-  "name": "UDBSTATISTICS",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-a246d0af": {
   "name": "Ulrich's Web Global Serials Directory/乌利希国际期刊指南",
   "vendor": "",
@@ -3045,22 +2395,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-604a140f": {
-  "name": "Webofscience",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-30a4d6e3": {
-  "name": "WestlawJapan日本法律法规数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-3a9838c4": {
   "name": "Wiley E-Textbook电子教材",
   "vendor": "",
@@ -3151,14 +2485,6 @@
  },
  "r-dc734d39": {
   "name": "WorldSciNet世界科技期刊数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-3abf165b": {
-  "name": "ZentralblattMATH",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -3405,14 +2731,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-c1051ab0": {
-  "name": "“知识视界”视频",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-0b5ff0c7": {
   "name": "“知识视界”视频图书馆",
   "vendor": "",
@@ -3447,14 +2765,6 @@
   ],
   "notes": ""
  },
- "r-c592c978": {
-  "name": "《中央日报》",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-f4a03d86": {
   "name": "《中文科技期刊数据库》",
   "vendor": "",
@@ -3465,14 +2775,6 @@
  },
  "r-69476acb": {
   "name": "《口语伙伴》",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-9ae95c51": {
-  "name": "《大公报》",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -3531,14 +2833,6 @@
  },
  "r-f3f35a78": {
   "name": "《瀚堂典藏》古籍库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-eb02babe": {
-  "name": "《申报》",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -3761,14 +3055,6 @@
  },
  "r-b53ad76a": {
   "name": "万方学位论文数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-7b73f88b": {
-  "name": "万方手机端",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -4033,14 +3319,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-bf2d044d": {
-  "name": "万方智搜",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-297c8575": {
   "name": "万方期刊",
   "vendor": "",
@@ -4083,14 +3361,6 @@
  },
  "r-8ffd6588": {
   "name": "万方科技报告",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-aa30e1b6": {
-  "name": "万方西藏地方志",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -4356,14 +3626,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-633c9ebd": {
-  "name": "中䓍药资源数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-6f90df76": {
   "name": "中共党史期刊数据库（-1949）",
   "vendor": "",
@@ -4374,14 +3636,6 @@
  },
  "r-8af2b618": {
   "name": "中共党史经典文献数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-7f230e05": {
-  "name": "中创云中有声数据库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -4782,14 +4036,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-cc42e8be": {
-  "name": "中国/世界进口商名录数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-e6cce5aa": {
   "name": "中国专利全文数据库(清华同方知网)",
   "vendor": "",
@@ -4830,32 +4076,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-33b621b1": {
-  "name": "中国产业经济信息网",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-3686ddd1": {
-  "name": "中国企业与产品数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-25fa59fe": {
   "name": "中国优秀博士论文数据库（清华同方知网）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-37a1daa4": {
-  "name": "中国优秀博硕士学位论文数据库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -4958,14 +4180,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-283814a5": {
-  "name": "中国医学科普文献数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-4fc024a7": {
   "name": "中国博士\\硕士学位论文全文数据库",
   "vendor": "",
@@ -5032,22 +4246,6 @@
  },
  "r-cdfe1e02": {
   "name": "中国历代地方志集1949",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-13d7ed78": {
-  "name": "中国历代地方志集（1368—1949）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-c47a7c93": {
-  "name": "中国历代地方志集（1949—）",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -5158,17 +4356,6 @@
   "aliases": [],
   "notes": ""
  },
- "cnbksy-jindai-baozhi": {
-  "name": "中国历史文献总库·近代报纸库",
-  "vendor": "全国报刊索引（上海图书馆）",
-  "category": "近代报刊",
-  "homepage": "https://www.cnbksy.com",
-  "aliases": [
-   "近代报纸库",
-   "全国报刊索引 近代报纸"
-  ],
-  "notes": "示例条目，供参考格式"
- },
  "r-573c1f8c": {
   "name": "中国历史文献总库·近代报纸数据库",
   "vendor": "",
@@ -5239,14 +4426,6 @@
  },
  "r-7d11031f": {
   "name": "中国国际高新技术成果交易会专题数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-f5dd0afa": {
-  "name": "中国图书全文数据库(心可书馆)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -5351,24 +4530,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-bee02eae": {
-  "name": "中国学术会议论文全文数据库-中文版",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-59f80feb": {
   "name": "中国学术会议论文全文数据库-中文版(万方)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-7e095cdb": {
-  "name": "中国学术会议论文全文数据库-西文版",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -5455,14 +4618,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-c7d1a748": {
-  "name": "中国工具书网络出版总库(合订版)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-1b976c9d": {
   "name": "中国工具书网络出版总库（清华同方知网）",
   "vendor": "",
@@ -5537,22 +4692,6 @@
  },
  "r-c84069ce": {
   "name": "中国思想与文化名家数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-4743c4ab": {
-  "name": "中国报纸学术文献数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-b90b2c9f": {
-  "name": "中国报纸资源全文数据库（方正阿帕比）",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -5647,14 +4786,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-3ef916ea": {
-  "name": "中国期刊全文数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-04f596be": {
   "name": "中国权威经济论文库",
   "vendor": "",
@@ -5673,22 +4804,6 @@
  },
  "r-a0786e8e": {
   "name": "中国民俗专题数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-f2dc8fa8": {
-  "name": "中国民间文化艺术(黑龙江篇)——富裕漫画",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-5b3f7226": {
-  "name": "中国民间文化艺术(黑龙江篇)——海伦剪纸",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -5743,14 +4858,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-4dfa9441": {
-  "name": "中国生物医学文献数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-3c0b4be7": {
   "name": "中国生物医学文献服务系统",
   "vendor": "",
@@ -5779,17 +4886,6 @@
   ],
   "notes": ""
  },
- "cnki-zhiwang": {
-  "name": "中国知网 CNKI",
-  "vendor": "同方知网",
-  "category": "综合期刊/学位论文",
-  "homepage": "https://www.cnki.net",
-  "aliases": [
-   "知网",
-   "CNKI"
-  ],
-  "notes": "示例条目，供参考格式"
- },
  "r-cea51149": {
   "name": "中国知网(CNKI)",
   "vendor": "",
@@ -5810,22 +4906,6 @@
  },
  "r-1cf51316": {
   "name": "中国知网(CNKI)（网络版）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-e191f610": {
-  "name": "中国知网--中国优秀硕士学位论文全文数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-c503a836": {
-  "name": "中国知网--中国博士学位论文全文数据库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -6040,14 +5120,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-7a121d35": {
-  "name": "中国科技经济新闻数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-8b7554c3": {
   "name": "中国类书库",
   "vendor": "",
@@ -6112,14 +5184,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-7b5b6a48": {
-  "name": "中国统计年鉴数据库（挖掘版）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-3e9f81f6": {
   "name": "中国艺术博物馆数据库（方正阿帕比）",
   "vendor": "",
@@ -6170,14 +5234,6 @@
  },
  "r-b47966bb": {
   "name": "中国谱牒库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-33c5cf7c": {
-  "name": "中国财经报刊数据库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -6316,14 +5372,6 @@
  },
  "r-af7a6ac5": {
   "name": "中国近代报纸库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-e8ca9f9d": {
-  "name": "中国近代报纸库(申报/大公报)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -6476,14 +5524,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-f577ee8d": {
-  "name": "中图电子期刊导航服务",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-d7c69e9b": {
   "name": "中外文学名著插图数据库",
   "vendor": "",
@@ -6524,24 +5564,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-88ac58af": {
-  "name": "中宏数据库-形势分析...",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-b21bc07d": {
   "name": "中宏数据库-领导决策",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-515b21a3": {
-  "name": "中宏数据库-领导决策...",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -6574,14 +5598,6 @@
  },
  "r-0e9eb24f": {
   "name": "中少动画资源库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-1fabead2": {
-  "name": "中少动画资源库(国图)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -6639,14 +5655,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-8a570433": {
-  "name": "中文在线H5",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-659d5b5b": {
   "name": "中文在线数字图书馆",
   "vendor": "",
@@ -6671,40 +5679,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-6c1a562f": {
-  "name": "中文报纸(国图)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-bc922bc6": {
   "name": "中文报纸资源库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-26f4bc71": {
-  "name": "中文核心期刊要目总览2004年版",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-beafa13f": {
-  "name": "中文核心期刊要目总览2008年版",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-12c5a5bc": {
-  "name": "中文社会科学引文索引",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -6849,14 +5825,6 @@
   ],
   "notes": ""
  },
- "r-64fe3f73": {
-  "name": "主站点(2008-)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-bc7b10f6": {
   "name": "乐于学少儿多媒体图书馆",
   "vendor": "",
@@ -6931,14 +5899,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-e742ee51": {
-  "name": "书同文",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-1e5a1252": {
   "name": "书同文全文检索数据库系统",
   "vendor": "",
@@ -6963,14 +5923,6 @@
   "aliases": [
    "书同文古籍数据库（试用）"
   ],
-  "notes": ""
- },
- "r-2cc73178": {
-  "name": "书同文古籍数据库 （账号：jlstsg 密码：123abc）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
   "notes": ""
  },
  "r-13e9616d": {
@@ -7069,14 +6021,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-fc2488df": {
-  "name": "书童AR科普·数字博览",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-00635c1c": {
   "name": "书童MR混合科普图书馆",
   "vendor": "",
@@ -7119,14 +6063,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-57b5c322": {
-  "name": "书香四川(中文在线)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-0682c66e": {
   "name": "书香广西",
   "vendor": "",
@@ -7161,14 +6097,6 @@
  },
  "r-0768fdbf": {
   "name": "书香甘肃省图",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-49848b6a": {
-  "name": "书香阅读",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -7315,16 +6243,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-938c9b03": {
-  "name": "云图有声（ 账户名：jllib 密码：666666）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [
-   "云图有声（ 账户名：jllib  密码：666666）"
-  ],
-  "notes": ""
- },
  "r-5a8a73f8": {
   "name": "云图有声（党建版）",
   "vendor": "",
@@ -7399,14 +6317,6 @@
  },
  "r-508f89e2": {
   "name": "京津冀协同发展数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-397b5bc7": {
-  "name": "人卫临床知识库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -7662,14 +6572,6 @@
  },
  "r-c2a42468": {
   "name": "传世文献库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-0350bef7": {
-  "name": "传统文化",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -7974,14 +6876,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-163db1c8": {
-  "name": "全民学习中心视频资源库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-d19c809e": {
   "name": "全民学习中心视频资源库（含电子书）",
   "vendor": "",
@@ -8008,14 +6902,6 @@
  },
  "r-af6fabfe": {
   "name": "全球产品样本数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-333f4567": {
-  "name": "全球创新知识平台",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -8106,22 +6992,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-4b44d2f8": {
-  "name": "公共数字文化工程",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-c4c69185": {
-  "name": "公共数字文化工程基层资源配送",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-e3da83c3": {
   "name": "公共数字文化工程视频资源库",
   "vendor": "",
@@ -8174,14 +7044,6 @@
  },
  "r-68025c2c": {
   "name": "内蒙古红色革命纪念场所网上展厅",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-4fca3ed9": {
-  "name": "册府千华——黑龙江省藏国家珍贵古籍特展",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -8294,14 +7156,6 @@
   ],
   "notes": ""
  },
- "r-f7ad138d": {
-  "name": "北华捷报/字林西报全文数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-27504630": {
   "name": "北大法宝",
   "vendor": "",
@@ -8342,14 +7196,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-1108b0ae": {
-  "name": "北大法律信息网",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-15efcad3": {
   "name": "北大法意",
   "vendor": "",
@@ -8360,14 +7206,6 @@
  },
  "r-84ac6c6f": {
   "name": "北大法意—中国法律资源库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-f4d54d4b": {
-  "name": "北大法意数据库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -8516,14 +7354,6 @@
  },
  "r-d16eb0e6": {
   "name": "南图微讲座",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-4e1bcb15": {
-  "name": "博云光盘系统",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -8698,24 +7528,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-91b6e557": {
-  "name": "博看微刊",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-6438a6d0": {
   "name": "博看微刊（新）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-088a4bb2": {
-  "name": "博看手机版",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -8732,14 +7546,6 @@
  },
  "r-6b6c09e4": {
   "name": "博看有声",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-9bdd0434": {
-  "name": "博看有声书数据库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -8834,14 +7640,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-4fcb3a7d": {
-  "name": "卢作孚与北碚",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-5fff37e6": {
   "name": "历代石刻史料汇编",
   "vendor": "",
@@ -8900,14 +7698,6 @@
  },
  "r-400b71f2": {
   "name": "原剑桥科学文摘",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-4a8a6248": {
-  "name": "厦门特色资源库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -9004,24 +7794,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-e636ae86": {
-  "name": "古籍文献",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-ae62abd1": {
   "name": "古籍文献服务平台",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-89627a3b": {
-  "name": "古籍文献知识服务平台",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -9060,24 +7834,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-0ab1b965": {
-  "name": "台湾学术文献数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-52f9a497": {
   "name": "台湾学术期刊(TWS)在线数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-15762287": {
-  "name": "台湾时报数据库（中文、日文）",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -9166,14 +7924,6 @@
  },
  "r-abf43f1e": {
   "name": "名师讲坛",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-67bbc031": {
-  "name": "名师讲坛(网络版)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -9334,14 +8084,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-753b2384": {
-  "name": "喜马拉雅听书(机构版)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-0507df0a": {
   "name": "喜马拉雅听书（机构版）",
   "vendor": "",
@@ -9360,14 +8102,6 @@
  },
  "r-e86c6ed0": {
   "name": "喻白在心理",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-47b19041": {
-  "name": "四川省公共图书馆数字资源共享平台(川话说书/民国文献/地方文献/古籍文献/期刊/报纸/论文/音视频/工具书)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -9514,14 +8248,6 @@
  },
  "r-ba8a3a60": {
   "name": "国图讲坛",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-665d1632": {
-  "name": "国学宝典",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -9728,14 +8454,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-1af2be02": {
-  "name": "国家统计数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-acbf10b9": {
   "name": "国家自然科学基金基础研究知识库",
   "vendor": "",
@@ -9752,14 +8470,6 @@
   "aliases": [
    "国研网（镜像）"
   ],
-  "notes": ""
- },
- "r-12f7cbf8": {
-  "name": "国研网(手机版)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
   "notes": ""
  },
  "r-1f324b04": {
@@ -9940,14 +8650,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-b1002fea": {
-  "name": "图书馆建设资源库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-3b50f700": {
   "name": "图书馆移动服务系统",
   "vendor": "",
@@ -9972,14 +8674,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-e368aab0": {
-  "name": "地方史志",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-2aaafb8e": {
   "name": "地方志",
   "vendor": "",
@@ -9996,14 +8690,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-844b8b71": {
-  "name": "地方文献",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-355ce3d3": {
   "name": "地方文献专题目录",
   "vendor": "",
@@ -10014,14 +8700,6 @@
  },
  "r-11dc6d56": {
   "name": "地方文献书目数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-c68e5cec": {
-  "name": "地方特色文化专题片(重庆古镇系列)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -10126,24 +8804,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-4223b29c": {
-  "name": "外文图书",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-b77500a6": {
   "name": "外文电子期刊",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-443d50ce": {
-  "name": "外研社外语资源",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -10168,14 +8830,6 @@
  },
  "r-60f4176e": {
   "name": "大为全球专利检索分析系统",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-c571e8e3": {
-  "name": "大众期刊",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -10318,14 +8972,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-b06bc1f7": {
-  "name": "天方有声数字图书馆",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-f957f66b": {
   "name": "天津公共图书馆电子图书共享系统",
   "vendor": "",
@@ -10376,14 +9022,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-43bb9edc": {
-  "name": "央视教育视频资源库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-c4a05a0c": {
   "name": "奥运图像数据库",
   "vendor": "",
@@ -10394,14 +9032,6 @@
  },
  "r-b9e9a588": {
   "name": "妙趣手工坊",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-432da6ef": {
-  "name": "孙中山多媒体资源库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -10648,22 +9278,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-e0b23ba2": {
-  "name": "客家文化多媒体资源库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-5632a2c0": {
-  "name": "客家文献目录",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-4bf61e2c": {
   "name": "家谱",
   "vendor": "",
@@ -10704,14 +9318,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-a7581722": {
-  "name": "少儿专区",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-9c27b8ec": {
   "name": "少儿多媒体",
   "vendor": "",
@@ -10722,14 +9328,6 @@
  },
  "r-23b8d325": {
   "name": "少儿多媒体图书馆",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-6c1c0909": {
-  "name": "少儿多媒体图书馆H5",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -10898,24 +9496,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-82665cd2": {
-  "name": "川图云阅读(微信小程序)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-863205b9": {
   "name": "川话说书",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-9406544e": {
-  "name": "工具书",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -10956,30 +9538,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-3cf48d59": {
-  "name": "巴渝传统村落",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-415a932c": {
-  "name": "巴渝文化名人",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-f325cb85": {
-  "name": "巴盐古道",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-7a7cef94": {
   "name": "年画",
   "vendor": "",
@@ -10998,14 +9556,6 @@
  },
  "r-51bac1d0": {
   "name": "广东全民终身学习平台",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-5fee0766": {
-  "name": "广东省红树林湿地专题",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -11092,22 +9642,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-bd75c651": {
-  "name": "库客(KUKE)数字音乐图书馆",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-04896346": {
-  "name": "库客数字音乐(国图)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-071c2c84": {
   "name": "库客数字音乐图书馆",
   "vendor": "",
@@ -11164,14 +9698,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-16257397": {
-  "name": "开放存取期刊目录(Directory of Open Access Journals)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-ee27b622": {
   "name": "引得数字人文平台",
   "vendor": "",
@@ -11222,14 +9748,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-114aea9d": {
-  "name": "微刊电子图书/期刊/有声读物(藏汉双语)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-0be5468e": {
   "name": "微学习中心",
   "vendor": "",
@@ -11256,14 +9774,6 @@
  },
  "r-946ab3f6": {
   "name": "德古意特出版社EBA电子书",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-9297ed71": {
-  "name": "德语电子图书馆",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -11336,14 +9846,6 @@
  },
  "r-520a9667": {
   "name": "慧炬专利情报分析平台",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-47c26475": {
-  "name": "慧科中文报纸数据库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -11430,24 +9932,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-82828b7f": {
-  "name": "懒人畅听",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-e8947508": {
   "name": "戏曲动漫",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-64a1a2fc": {
-  "name": "成渝数字资源共享",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -11536,14 +10022,6 @@
  },
  "r-992e5c18": {
   "name": "抗日战争历史图库（南京图书馆)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-ebaf7066": {
-  "name": "抗日战争历史图库（南京图书馆）",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -11680,14 +10158,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-d0215be5": {
-  "name": "政府信息平台",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-5344d14d": {
   "name": "敦煌文献库",
   "vendor": "",
@@ -11704,24 +10174,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-73f18406": {
-  "name": "敦煌遗珍数字化资源库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-c28094f2": {
   "name": "数图小语种数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-ea4c49a0": {
-  "name": "数图资源库群",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -11746,14 +10200,6 @@
  },
  "r-39c3d8f5": {
   "name": "数字古籍",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-17a22f63": {
-  "name": "数字图书馆推广工程自建资源库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -11794,94 +10240,6 @@
  },
  "r-1784e7cb": {
   "name": "数字方志",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-12c16586": {
-  "name": "数字资源分类·专题库(7)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-c378297d": {
-  "name": "数字资源分类·古籍库(4)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-3116ff57": {
-  "name": "数字资源分类·图书库(6)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-3e779d0e": {
-  "name": "数字资源分类·外文资源(1)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-e1a9e512": {
-  "name": "数字资源分类·报纸库(1)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-7b55c4b4": {
-  "name": "数字资源分类·教学库(3)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-31d324ff": {
-  "name": "数字资源分类·期刊库(5)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-ea728738": {
-  "name": "数字资源分类·视听库(5)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-3cdd490e": {
-  "name": "数字资源分类·论文库(2)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-f8d5783f": {
-  "name": "数字资源分类·试用库(59)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-c8a361d3": {
-  "name": "数字资源库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -11986,14 +10344,6 @@
  },
  "r-3416d0c8": {
   "name": "文津讲坛",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-8c155ac2": {
-  "name": "文津讲坛在线讲座视频库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -12187,16 +10537,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-f9b82191": {
-  "name": "新华丝路数据库（帐号: zkjlplib 密码: zkjlplib@0323）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [
-   "新华丝路数据库（帐号: zkjlplib  密码: zkjlplib@0323）"
-  ],
-  "notes": ""
- },
  "r-07e6e8c4": {
   "name": "新基建信息产业知识平台",
   "vendor": "",
@@ -12257,14 +10597,6 @@
   ],
   "notes": ""
  },
- "r-b4610ec1": {
-  "name": "新语听书(新语有声)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-7f90b2ef": {
   "name": "新语听书公图版电脑端",
   "vendor": "",
@@ -12307,14 +10639,6 @@
  },
  "r-bd6a78b5": {
   "name": "新语数字图书馆-有声读物",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-7fd50d54": {
-  "name": "新闻智慧网(台湾十大报纸)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -12387,14 +10711,6 @@
  },
  "r-e87a8a8d": {
   "name": "无障碍影音数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-c6784582": {
-  "name": "日出东方--马克思主义中国化90年大型电子图书展",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -12571,16 +10887,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-a3c80606": {
-  "name": "晚清期刊全文数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [
-   "晚清期刊全文数据库(镜像)"
-  ],
-  "notes": ""
- },
  "r-507c9ac6": {
   "name": "晚清期刊全文数据库（到馆内古籍部指导下使用）",
   "vendor": "",
@@ -12651,14 +10957,6 @@
  },
  "r-bbb05354": {
   "name": "智慧图书馆知识资源发布系统（民国文献，古籍）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-8489df8f": {
-  "name": "智慧图书馆知识资源服务平台",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -12761,14 +11059,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-e84460ef": {
-  "name": "有声读物",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-6b0ada32": {
   "name": "有章——法律知识服务平台",
   "vendor": "",
@@ -12849,14 +11139,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-9da2d911": {
-  "name": "机构数字图书馆平台",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-b9a46838": {
   "name": "杨靖宇将军专题",
   "vendor": "",
@@ -12883,14 +11165,6 @@
  },
  "r-457e81e1": {
   "name": "校园阅读平台",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-a27d81c2": {
-  "name": "格萨尔/藏戏等地方特色文化资源",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -12947,32 +11221,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-458e981a": {
-  "name": "民国中文期刊数字资源库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-e9614f4e": {
-  "name": "民国书数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-ff12cf4a": {
   "name": "民国图书",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-96cac462": {
-  "name": "民国图书数字化资源库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -12984,8 +11234,12 @@
   "vendor": "",
   "category": "",
   "homepage": "",
-  "aliases": [],
-  "notes": ""
+  "aliases": [
+   "中国历史文献总库",
+   "中国历史文献总库·民国图书数据库"
+  ],
+  "notes": "",
+  "note": "属「中国历史文献总库」"
  },
  "r-4075c450": {
   "name": "民国图书数据库(官网)",
@@ -13027,14 +11281,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-ef81bfdf": {
-  "name": "民国报纸服务平台",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-19f64a35": {
   "name": "民国报纸目录",
   "vendor": "",
@@ -13069,14 +11315,6 @@
   ],
   "notes": ""
  },
- "r-93c85f48": {
-  "name": "民国时期期刊全文数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-39f690b2": {
   "name": "民国期刊",
   "vendor": "",
@@ -13095,14 +11333,6 @@
  },
  "r-8b0b9cd5": {
   "name": "民国法律",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-e0914436": {
-  "name": "民国法律数字化资源库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -13405,14 +11635,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-3392c4fc": {
-  "name": "泛研全球科研项目数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-a6b32330": {
   "name": "洪学智将军纪念馆巡礼",
   "vendor": "",
@@ -13429,32 +11651,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-cdb7264d": {
-  "name": "浙江特色资源库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-1f24cc9b": {
   "name": "海丝印记",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-2f5fafaf": {
-  "name": "海外中国学导航",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-282fb211": {
-  "name": "海量试题资源库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -13519,14 +11717,6 @@
  },
  "r-d6115479": {
   "name": "深圳文博会媒体报道汇编",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-b7af154f": {
-  "name": "深圳记忆专题数据库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -13773,14 +11963,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-0844291b": {
-  "name": "潮汕文献书目",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-5478b439": {
   "name": "澳门大学图书馆古籍",
   "vendor": "",
@@ -13863,14 +12045,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-e8267670": {
-  "name": "爱不释书少儿数字图书馆",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-88fca4e3": {
   "name": "爱不释书少儿精品阅读馆",
   "vendor": "",
@@ -13881,14 +12055,6 @@
  },
  "r-eee388c8": {
   "name": "爱墨瑞得数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-a0974367": {
-  "name": "爱墨瑞得数据库(Emerald)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -14131,14 +12297,6 @@
   ],
   "notes": ""
  },
- "r-25e415b5": {
-  "name": "生态环保图书馆",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-9b790410": {
   "name": "生态环保图书馆全文库",
   "vendor": "",
@@ -14287,14 +12445,6 @@
  },
  "r-0b5dcc32": {
   "name": "百听听书",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-94487f0b": {
-  "name": "百听听书(移动端)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -14537,14 +12687,6 @@
  },
  "r-259a2325": {
   "name": "知网——学位论文全文数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-c9bc6f87": {
-  "name": "知网手机端",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -14807,14 +12949,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-67beb08d": {
-  "name": "第1辑：现代埃及典藏",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-6251e97d": {
   "name": "第二次世界大战的终结地",
   "vendor": "",
@@ -14857,22 +12991,6 @@
  },
  "r-bac110b1": {
   "name": "繙云历史古籍报纸文献数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-04a27e28": {
-  "name": "繙云文獻",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-68ba7720": {
-  "name": "红色专题",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -15009,22 +13127,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-5b2f4344": {
-  "name": "经典影院",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-56cd09bf": {
-  "name": "经典戏曲动漫",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-769c2cdc": {
   "name": "绘声绘色课堂",
   "vendor": "",
@@ -15043,22 +13145,6 @@
  },
  "r-b456a666": {
   "name": "维普",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-aec2fbb8": {
-  "name": "维普-中国科学指标数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-dec49b23": {
-  "name": "维普VIP考试资源库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -15231,16 +13317,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-98f33469": {
-  "name": "维普科技期刊",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [
-   "维普科技期刊(镜像)"
-  ],
-  "notes": ""
- },
  "r-1cce8c61": {
   "name": "维普考研资源数据库",
   "vendor": "",
@@ -15251,14 +13327,6 @@
  },
  "r-c30b9b4c": {
   "name": "维普考试",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-8663fd85": {
-  "name": "维普考试平台",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -15381,14 +13449,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-1d027ddb": {
-  "name": "网络典藏资源平台",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-b8a5e0f6": {
   "name": "美国国会文献集",
   "vendor": "",
@@ -15397,32 +13457,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-0b23f72d": {
-  "name": "美国国家经济研究局(NBER)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-d630630b": {
   "name": "美国政府研究报告数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-233f3716": {
-  "name": "美国物理联合会",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-fc1f84c2": {
-  "name": "美国科学公共图书馆开放获取期刊(PLoS)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -15471,14 +13507,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-a2026925": {
-  "name": "考试学习",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-2fe88ad9": {
   "name": "考试学习库",
   "vendor": "",
@@ -15513,14 +13541,6 @@
  },
  "r-14ba3dbc": {
   "name": "职业全能培训库（移动端）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-d704fcb1": {
-  "name": "联合国文献",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -15655,14 +13675,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-89e5cf56": {
-  "name": "芸窗思政",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-b3755112": {
   "name": "英国外交部机密文件：中东，1839-1969",
   "vendor": "",
@@ -15689,14 +13701,6 @@
  },
  "r-685e54d8": {
   "name": "英国外交部档案：印度、巴基斯坦与阿富汗，1947-1980",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-27d977f5": {
-  "name": "英国皇家物理学会（IOP）",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -15777,22 +13781,6 @@
  },
  "r-1712b5c4": {
   "name": "蔚秀报告厅",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-6b81bee4": {
-  "name": "藏图博看微刊/博看微书屋",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-c1e1ae21": {
-  "name": "藏文古籍数字化平台",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -15911,32 +13899,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-d6618ccd": {
-  "name": "西藏地方志",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-dfb12e02": {
-  "name": "西藏地方文献服务平台",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-eadce79a": {
   "name": "西藏民族文字古籍特藏",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-22375c35": {
-  "name": "西藏自治区图书馆藏文文献数据库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -15977,14 +13941,6 @@
  },
  "r-74304017": {
   "name": "视频点播系统",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-4ed0096d": {
-  "name": "视频资源",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -16145,14 +14101,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-61b58998": {
-  "name": "读览天下",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-772a75e0": {
   "name": "课本旅行手绘资源库平台",
   "vendor": "",
@@ -16177,24 +14125,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-71afdae6": {
-  "name": "贵州府县志辑数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-1ca4b8e1": {
   "name": "贵州文库（仅贵州省图书馆局域网内使用）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-9cc69574": {
-  "name": "贵州省古籍联合目录",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -16219,14 +14151,6 @@
  },
  "r-000fbb7f": {
   "name": "赛阅数字图书馆",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-9a018e71": {
-  "name": "赠书名录",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -16259,14 +14183,6 @@
  },
  "r-a81027e8": {
   "name": "起点考试网",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-42e7e863": {
-  "name": "超星--“发现系统”",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -16321,14 +14237,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-2b37afd6": {
-  "name": "超星名师讲坛/公开课视频",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-bc5c872b": {
   "name": "超星图书",
   "vendor": "",
@@ -16377,14 +14285,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-4a861ea7": {
-  "name": "超星数字资源",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-89f87391": {
   "name": "超星期刊",
   "vendor": "",
@@ -16393,14 +14293,6 @@
   "aliases": [
    "超星期刊（试用）"
   ],
-  "notes": ""
- },
- "r-59114338": {
-  "name": "超星期刊数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
   "notes": ""
  },
  "r-3e15c65b": {
@@ -16445,14 +14337,6 @@
  },
  "r-6d66b259": {
   "name": "超星电子资源",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-85566ee7": {
-  "name": "超星移动图书馆(公图版)",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -16629,14 +14513,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-6348108d": {
-  "name": "重修台湾省通志",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-e0cc204d": {
   "name": "重庆图书馆家谱数据库",
   "vendor": "",
@@ -16663,22 +14539,6 @@
  },
  "r-3e8efd69": {
   "name": "重庆图书馆知识图谱数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-a6b5f125": {
-  "name": "重庆抗战史迹",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-67412240": {
-  "name": "重庆智舍科技《FPD外刊资源服务系统》",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -16801,14 +14661,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-0984dbce": {
-  "name": "闻道科学导航",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-22cafadc": {
   "name": "阅藏知津--中国历代典籍目录总库",
   "vendor": "",
@@ -16867,14 +14719,6 @@
   "aliases": [
    "阅途美育在线（试用）"
   ],
-  "notes": ""
- },
- "r-ba952c93": {
-  "name": "阳光无障碍电影平台",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
   "notes": ""
  },
  "r-3558dee1": {
@@ -17117,22 +14961,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-6a3f7f15": {
-  "name": "青海历史",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-56534425": {
-  "name": "青海省专题数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-a34a718a": {
   "name": "非书资料系统",
   "vendor": "",
@@ -17165,14 +14993,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-9745c604": {
-  "name": "音乐之城——哈尔滨",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-0dcc4948": {
   "name": "音乐之城哈尔滨",
   "vendor": "",
@@ -17183,14 +15003,6 @@
  },
  "r-14628783": {
   "name": "音像特色库(仅限馆内访问)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-5e33b1e5": {
-  "name": "音视频数字化资源库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -17237,24 +15049,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-776c1f52": {
-  "name": "馆藏中文图书数字化资源库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-28cfad85": {
   "name": "馆藏书目数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-451d7563": {
-  "name": "馆藏博士论文与博士后研究报告数字化资源库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -17301,24 +15097,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-4d73052b": {
-  "name": "馆藏地方志数字化资源库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-9ee620e8": {
   "name": "馆藏山西日报数据库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-b3230c69": {
-  "name": "馆藏年画数字化资源库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -17365,22 +15145,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-60fe7199": {
-  "name": "馆藏甲骨实物与拓片数字化资源库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-be3d2b6d": {
-  "name": "馆藏石刻拓片数字化资源库",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-2bded523": {
   "name": "馆藏纸质文献",
   "vendor": "",
@@ -17391,14 +15155,6 @@
  },
  "r-86f44a03": {
   "name": "馆藏缩微文献目录检索",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-f1bf15bd": {
-  "name": "馆藏西夏文献与西夏论著数字化资源库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -17463,14 +15219,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-5aa24b10": {
-  "name": "高校财经数据库(Infobank)",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-1f0e4198": {
   "name": "高校财经数据库（Infobank）",
   "vendor": "",
@@ -17497,14 +15245,6 @@
  },
  "r-b47bb63d": {
   "name": "鲍少游艺术馆",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-f984f8aa": {
-  "name": "鹅湖知识库",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -17543,24 +15283,8 @@
   "aliases": [],
   "notes": ""
  },
- "r-03799537": {
-  "name": "黄葛树下龙门阵",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-94a44871": {
   "name": "黑龙江体育名人",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-60364af7": {
-  "name": "黑龙江省图书馆党建云",
   "vendor": "",
   "category": "",
   "homepage": "",
@@ -17615,14 +15339,6 @@
   "aliases": [],
   "notes": ""
  },
- "r-f1f44470": {
-  "name": "黑龙江非物质文化遗产（赫哲族卷）",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
  "r-fcf36d9f": {
   "name": "鼎秀古籍全文检索平台",
   "vendor": "",
@@ -17649,14 +15365,6 @@
  },
  "r-e1490a18": {
   "name": "龙江小候鸟守护二期",
-  "vendor": "",
-  "category": "",
-  "homepage": "",
-  "aliases": [],
-  "notes": ""
- },
- "r-f8177f67": {
-  "name": "龙江手工-木雕艺术",
   "vendor": "",
   "category": "",
   "homepage": "",

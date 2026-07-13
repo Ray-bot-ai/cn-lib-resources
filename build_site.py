@@ -132,6 +132,9 @@ TEMPLATE = r"""<!doctype html>
   .holder .links{font-size:12px; color:var(--sub); margin-top:3px;}
   .holder .links a{color:var(--sub);} .holder .links a:hover{color:var(--seal);}
   .sep{color:var(--faint); margin:0 8px;}
+  .ali{color:var(--seal); font-family:var(--sans); font-size:11.5px; margin-left:5px; opacity:.9;}
+  .sec-cat b{font-size:20px; letter-spacing:.06em;}
+  .sec-cat .cnt{color:var(--faint); font-family:var(--serif); font-size:12.5px;}
 
   /* 图书馆视图 */
   .regbox{margin:9px 0 14px; padding:2px 0 2px 16px; border-left:2px solid var(--seal); font-size:13px; color:var(--sub); line-height:1.8;}
@@ -173,6 +176,7 @@ TEMPLATE = r"""<!doctype html>
     <nav class="tabs">
       <button id="btn-res" class="on" onclick="setView('res')">按资源</button>
       <button id="btn-lib" onclick="setView('lib')">按图书馆</button>
+      <button id="btn-cat" onclick="setView('cat')">按分类</button>
     </nav>
     <input id="q" placeholder="检索 · 资源名或图书馆名…" oninput="render()">
     <div class="letterbar" id="letterbar"></div>
@@ -278,37 +282,72 @@ function holdingsByResource(){
   return idx;
 }
 
+/* ——— 分类（论文/图书/古籍/少儿/其他），可由 resources.json 的 category 字段覆盖 ——— */
+const CATS=['论文','图书','古籍','少儿','其他'];
+const CATLABEL={'论文':'论文','图书':'图书','古籍':'古籍','少儿':'少儿','其他':'其他或未分类'};
+function catOf(r){
+  if(CATS.includes(r.category)) return r.category;
+  const n=(r.name||'')+' '+((r.aliases||[]).join(' '));
+  if(/少儿|儿童|绘本|少年|青少年|亲子|幼儿|中小学|小学生|童书|卡通|漫画|中少|快乐阅读|宝贝|哪吒|阿咘|连环画|注音/.test(n)) return '少儿';
+  if(/古籍|善本|方志|家谱|谱牒|碑帖|拓片|历史文献|民国|四库|丛书|经典古籍|中华再造|籍合|鼎秀|瀚堂|尚古|历代|简帛|敦煌|石刻|地方志|旧志|中华经典|抄本|刻本|舆图|老照片|图典|金石|文献总库/.test(n)) return '古籍';
+  if(/期刊|报纸|报刊|学位论文|硕士|博士|会议论文|会议录|文摘|引文|引证|索引|知网|CNKI|万方|维普|论文|学术|学会|Academic|Journal|Publication|Elsevier|ScienceDirect|Springer|Wiley|JSTOR|ProQuest|Scopus|SCI|SSCI|Web of Science|EBSCO|全国报刊索引|龙源|人大复印|皮书|年鉴/.test(n)) return '论文';
+  if(/图书|电子书|有声|读秀|超星|畅想之星|掌阅|book|听书|文库|书苑|书城|藏书|云图|书香|e读|阿帕比|方正|微书|读书/.test(n)) return '图书';
+  return '其他';
+}
+function noteHTML(r){ return r.note ? ` <span class="ali">${esc(r.note)}</span>` : ''; }
+function resHay(r, holders){ return (r.name+' '+(r.aliases||[]).join(' ')+' '+(r.note||'')+' '+holders.map(x=>x.lib.name).join(' ')).toLowerCase(); }
+function resourceEntry(r, holders){
+  let out=`<div class="entry"><span class="name">${esc(r.name)}</span>${noteHTML(r)}<span class="cnt">${holders.length} 馆</span>`;
+  if(r.vendor||r.homepage) out+=`<div class="meta">${r.vendor?esc(r.vendor):''}${r.vendor&&r.homepage?'　':''}${r.homepage?link(r.homepage,'资源官网'):''}</div>`;
+  const hs=holders.slice().sort((x,y)=>cmpInit(x.lib.name,y.lib.name,x.lib.name,y.lib.name));
+  for(const {lib,h} of hs){
+    const reg=lib.registration||{};
+    out+=`<div class="holder"><span class="lib">${esc(lib.name)}</span> ${onlineBadge(reg)} ${remoteCell(h.access_method,reg)} ${unverified(lib)}`;
+    if(h.scope) out+=` <span class="empty">（${esc(h.scope)}）</span>`;
+    out+=`<div class="links">办证 ${reg.tutorial_url?link(reg.tutorial_url,'注册指南↗'):'<span class="empty">—</span>'}<span class="sep">·</span>资源 ${h.access_url?link(h.access_url,'打开↗'):'<span class="empty">见数字资源页</span>'}<span class="sep">·</span>数字资源页 ${link(lib.digital_resource_url,'↗')}</div></div>`;
+  }
+  return out+'</div>';
+}
+
 function setView(v){
   view=v;
   document.getElementById('btn-res').classList.toggle('on',v==='res');
   document.getElementById('btn-lib').classList.toggle('on',v==='lib');
+  document.getElementById('btn-cat').classList.toggle('on',v==='cat');
   render();
 }
 
-function renderByResource(kw){
+function allResourceItems(){
   const idx=holdingsByResource();
-  let items=Object.keys(idx).map(id=>{
+  return Object.keys(idx).map(id=>{
     const r=DATA.resources[id]||{name:(id.startsWith('__raw__')?id.slice(7):id), _unmatched:true};
-    return {id, r, holders:idx[id]};
+    return {r, holders:idx[id]};
   });
-  items.sort((a,b)=>cmpInit(a.r.name,b.r.name));
+}
+
+function renderByResource(kw){
+  let items=allResourceItems().sort((a,b)=>cmpInit(a.r.name,b.r.name));
   let out='', cur='', letters=[];
   for(const {r,holders} of items){
-    const hay=(r.name+' '+(r.aliases||[]).join(' ')+' '+holders.map(x=>x.lib.name).join(' ')).toLowerCase();
-    if(kw && !hay.includes(kw)) continue;
+    if(kw && !resHay(r,holders).includes(kw)) continue;
     const L=initialOf(r.name);
     if(L!==cur){ cur=L; letters.push(L); out+=`<div class="sec" id="sec-${L}"><b>${L}</b><span class="ln"></span></div>`; }
-    out+=`<div class="entry"><span class="name">${esc(r.name)}</span><span class="cnt">${holders.length} 馆</span>`;
-    const m=[]; if(r.vendor)m.push(esc(r.vendor)); if(r.category)m.push(esc(r.category));
-    if(m.length||r.homepage) out+=`<div class="meta">${m.join(' · ')}${r.homepage?'　'+link(r.homepage,'资源官网'):''}</div>`;
-    const hs=holders.slice().sort((x,y)=>cmpInit(x.lib.name,y.lib.name,x.lib.name,y.lib.name));
-    for(const {lib,h} of hs){
-      const reg=lib.registration||{};
-      out+=`<div class="holder"><span class="lib">${esc(lib.name)}</span> ${onlineBadge(reg)} ${remoteCell(h.access_method,reg)} ${unverified(lib)}`;
-      if(h.scope) out+=` <span class="empty">（${esc(h.scope)}）</span>`;
-      out+=`<div class="links">办证 ${reg.tutorial_url?link(reg.tutorial_url,'注册指南↗'):'<span class="empty">—</span>'}<span class="sep">·</span>资源 ${h.access_url?link(h.access_url,'打开↗'):'<span class="empty">见数字资源页</span>'}<span class="sep">·</span>数字资源页 ${link(lib.digital_resource_url,'↗')}</div></div>`;
-    }
-    out+='</div>';
+    out+=resourceEntry(r,holders);
+  }
+  return {html: out||'<div class="none">未见匹配的资源。</div>', letters};
+}
+
+function renderByCategory(kw){
+  const groups={}; CATS.forEach(c=>groups[c]=[]);
+  for(const it of allResourceItems()) (groups[catOf(it.r)]||groups['其他']).push(it);
+  let out='', letters=[];
+  for(const c of CATS){
+    let arr=groups[c].filter(it=>!kw || resHay(it.r,it.holders).includes(kw));
+    if(!arr.length) continue;
+    arr.sort((a,b)=>cmpInit(a.r.name,b.r.name));
+    const label=CATLABEL[c]; letters.push(label);
+    out+=`<div class="sec sec-cat" id="sec-${label}"><b>${esc(label)}</b><span class="ln"></span><span class="cnt">${arr.length} 种</span></div>`;
+    for(const {r,holders} of arr) out+=resourceEntry(r,holders);
   }
   return {html: out||'<div class="none">未见匹配的资源。</div>', letters};
 }
@@ -317,7 +356,8 @@ function renderByLibrary(kw){
   let libs=[...DATA.libraries].sort((a,b)=>cmpInit(a.name,b.name,a.name,b.name));
   let out='', cur='', letters=[];
   for(const lib of libs){
-    const hay=(lib.name+' '+(lib.region||'')+' '+(lib.resources||[]).map(h=>h.raw_name||'').join(' ')).toLowerCase();
+    const rmeta=(lib.resources||[]).map(h=>{const rr=DATA.resources[h.canonical_id]||{}; return (h.raw_name||'')+' '+(rr.name||'')+' '+((rr.aliases||[]).join(' '))+' '+(rr.note||'');}).join(' ');
+    const hay=(lib.name+' '+(lib.region||'')+' '+rmeta).toLowerCase();
     if(kw && !hay.includes(kw)) continue;
     const L=initialOf(lib.name, lib.name);
     if(L!==cur){ cur=L; letters.push(L); out+=`<div class="sec" id="sec-${L}"><b>${L}</b><span class="ln"></span></div>`; }
@@ -354,7 +394,7 @@ function buildLetterBar(letters){
 
 function render(){
   const kw=(document.getElementById('q').value||'').trim().toLowerCase();
-  const {html, letters}= view==='res' ? renderByResource(kw) : renderByLibrary(kw);
+  const {html, letters}= view==='res' ? renderByResource(kw) : view==='cat' ? renderByCategory(kw) : renderByLibrary(kw);
   app.innerHTML=html;
   buildLetterBar(letters);
 }

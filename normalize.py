@@ -49,6 +49,7 @@ def main():
     lib_files = [p for p in glob.glob(os.path.join(LIB, "*.json"))
                  if not os.path.basename(p).startswith("_")]
     merged = 0
+    used = set()
     for path in lib_files:
         data = json.load(open(path, encoding="utf-8"))
         for r in data.get("resources", []):
@@ -57,6 +58,7 @@ def main():
                 continue
             cid_ = cid(cleaned)
             r["canonical_id"] = cid_
+            used.add(cid_)
             if cid_ not in registry:
                 registry[cid_] = {"name": cleaned, "vendor": "", "category": "",
                                   "homepage": "", "aliases": [], "notes": ""}
@@ -68,11 +70,16 @@ def main():
                     al.append(rn)
         json.dump(data, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
+    # 清理无任何图书馆引用的孤儿条目（多因资源改名后旧 canonical_id 残留）
+    orphans = [k for k in registry if k not in used]
+    for k in orphans:
+        del registry[k]
+
     out = {"_说明": "资源总目录，由 normalize.py 自动生成/更新；vendor/category 可人工补充。"}
     out.update(dict(sorted(registry.items(), key=lambda kv: kv[1]["name"])))
     json.dump(out, open(RES, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print(f"归一化完成：{len(lib_files)} 个馆，资源总目录 {len(registry)} 个唯一资源，"
-          f"合并/复用 {merged} 次引用。")
+          f"合并/复用 {merged} 次引用，清理孤儿 {len(orphans)} 个。")
 
 
 if __name__ == "__main__":
