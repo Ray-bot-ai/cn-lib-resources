@@ -9,3 +9,5 @@ tools/shanxi_dump/
 .cdp-collect-profile*/
 .~*
 *.docx
+配置.md
+*api*key*

@@ -100,6 +100,21 @@ TEMPLATE = r"""<!doctype html>
   .letterbar{width:100%; display:flex; flex-wrap:wrap; gap:3px 13px; padding-top:2px;}
   .letterbar a{font-family:var(--serif); font-size:12.5px; color:var(--sub); letter-spacing:.06em;}
   .letterbar a:hover{color:var(--seal); text-decoration:none;}
+  .letterbar.wide{flex-wrap:nowrap; overflow-x:auto; gap:0 14px; padding-bottom:3px; scrollbar-width:thin;}
+  .letterbar.wide a{white-space:nowrap;}
+
+  /* 史料类推荐栏（可关闭） */
+  .rec{display:flex; align-items:center; gap:13px; border:1px solid var(--hair);
+    background:color-mix(in srgb, var(--seal) 5%, var(--paper)); border-radius:2px;
+    padding:11px 14px; margin-bottom:20px;}
+  .rec-ico{flex:0 0 auto; width:27px; height:27px; background:var(--seal); color:#fff;
+    font-family:var(--serif); display:flex; align-items:center; justify-content:center; border-radius:2px; font-size:15px;}
+  .rec-txt{flex:1; font-size:13px; color:var(--sub); line-height:1.6;}
+  .rec-txt b{color:var(--ink); font-family:var(--serif); letter-spacing:.03em;}
+  .rec-txt a{margin-left:6px; font-weight:600;}
+  .rec-x{flex:0 0 auto; border:none; background:none; color:var(--faint); font-size:19px;
+    line-height:1; cursor:pointer; padding:2px 4px;}
+  .rec-x:hover{color:var(--seal);}
 
   main{max-width:820px; margin:0 auto; padding:20px 22px 80px; animation:rise .5s ease both;}
   @keyframes rise{from{opacity:0; transform:translateY(6px);} to{opacity:1; transform:none;}}
@@ -186,8 +201,8 @@ TEMPLATE = r"""<!doctype html>
 <main>
   <details class="notice" open>
     <summary>· 使用说明 / About &amp; How to use</summary>
-    <p>本站整理国家图书馆及各省、直辖市、自治区图书馆 <b>能否线上注册读者证</b>、<b>注册指南链接</b>、<b>有哪些数字资源</b>、<b>各个数字资源能否远程访问</b>（这一点受资源限制，目前只标明了从数字资源页可直接看到能否远程访问的），数据均来自网络公开信息（主要是图书馆官网，不过，官网有时信息更新不及时，如果您对某图书馆很感兴趣，可再检索确认一下）。本站支持检索，以及按资源、图书馆分类访问。亦可于<a href="https://github.com/Ray-bot-ai/cn-lib-resources" target="_blank" rel="noopener">笔者 GitHub</a>直接下载原数据。截至 2026 年 7 月 13 日经笔者人工全量核对。<b>少数图书馆线上注册读者证者的可用权限少于线下办理实体读者证者，请自行确认（如国家图书馆，其远程访问已相应标注）。</b><b>如有建议请邮件 <a href="mailto:u3642567@connect.hku.hk">u3642567@connect.hku.hk</a>。</b></p>
-    <p lang="en">This site compiles, for the National Library of China and the public libraries of every province, municipality and autonomous region: whether a reader's card can be <b>registered online</b>, links to the <b>registration guides</b>, <b>which digital resources</b> each library offers, and whether each resource can be <b>accessed remotely</b> (marked only where the library's resource page states it directly). Data comes from publicly available sources (mainly the libraries' official websites, which are sometimes out of date — if you are especially interested in a library, please double-check with a fresh search). <b>Note for readers outside mainland China: most online resources listed here require a mainland-China platform account, and many require a mainland-China IP address, to open.</b> At a few libraries an online-registered card grants fewer privileges than a physical card obtained in person — please verify (e.g. the National Library of China; its remote-access entries are marked accordingly). You can search and browse by resource or by library; raw data is downloadable from the <a href="https://github.com/Ray-bot-ai/cn-lib-resources" target="_blank" rel="noopener">author's GitHub</a>. Fully hand-verified as of 13 July 2026. Suggestions welcome — email <a href="mailto:u3642567@connect.hku.hk">u3642567@connect.hku.hk</a>.</p>
+    <p>本站整理国家图书馆及各省、直辖市、自治区图书馆 <b>能否线上注册读者证</b>、<b>注册指南链接</b>、<b>有哪些数字资源</b>、<b>各个数字资源能否远程访问</b>（这一点受资源限制，目前只标明了从数字资源页可直接看到能否远程访问的），数据均来自网络公开信息（主要是图书馆官网，不过，官网有时信息更新不及时，如果您对某图书馆很感兴趣，可再检索确认一下）。本站支持检索，以及按资源、按图书馆、按分类三种方式浏览（<b>其中「分类」为人工 + DeepSeek Flash 粗略标注，仅供参考，可能有误</b>）。亦可于<a href="https://github.com/Ray-bot-ai/cn-lib-resources" target="_blank" rel="noopener">笔者 GitHub</a>直接下载原数据。截至 2026 年 7 月 13 日经笔者人工全量核对。<b>少数图书馆线上注册读者证者的可用权限少于线下办理实体读者证者，请自行确认（如国家图书馆，其远程访问已相应标注）。</b><b>如有建议请邮件 <a href="mailto:u3642567@connect.hku.hk">u3642567@connect.hku.hk</a>。</b></p>
+    <p lang="en">This site compiles, for the National Library of China and the public libraries of every province, municipality and autonomous region: whether a reader's card can be <b>registered online</b>, links to the <b>registration guides</b>, <b>which digital resources</b> each library offers, and whether each resource can be <b>accessed remotely</b> (marked only where the library's resource page states it directly). Data comes from publicly available sources (mainly the libraries' official websites, which are sometimes out of date — if you are especially interested in a library, please double-check with a fresh search). <b>Note for readers outside mainland China: most online resources listed here require a mainland-China platform account, and many require a mainland-China IP address, to open.</b> At a few libraries an online-registered card grants fewer privileges than a physical card obtained in person — please verify (e.g. the National Library of China; its remote-access entries are marked accordingly). You can search and browse by resource, by library, or by category (<b>category tags are a rough classification by a human + DeepSeek Flash, for reference only</b>); raw data is downloadable from the <a href="https://github.com/Ray-bot-ai/cn-lib-resources" target="_blank" rel="noopener">author's GitHub</a>. Fully hand-verified as of 13 July 2026. Suggestions welcome — email <a href="mailto:u3642567@connect.hku.hk">u3642567@connect.hku.hk</a>.</p>
     <div class="legend">
       <b>注册 Registration</b>　<span class="tag t-yes">可线上注册</span> 不限身份 ·
       <span class="tag t-local">仅本地居民线上注册</span> local only ·
@@ -198,6 +213,11 @@ TEMPLATE = r"""<!doctype html>
       <span class="tag t-mut">远程未标注</span> not stated
     </div>
   </details>
+  <div class="rec" id="rec">
+    <span class="rec-ico">史</span>
+    <div class="rec-txt"><b>史料类推荐</b> · 面向历史研究者——汇集史料、方志、报刊、档案、家谱、金石等资源<span id="rec-n"></span>。<a href="#" onclick="gotoShiliao();return false;">查看史料类 →</a></div>
+    <button class="rec-x" onclick="dismissRec()" title="不再显示">×</button>
+  </div>
   <div id="app"></div>
 </main>
 
@@ -283,19 +303,24 @@ function holdingsByResource(){
 }
 
 /* ——— 分类（论文/图书/古籍/少儿/其他），可由 resources.json 的 category 字段覆盖 ——— */
-const CATS=['论文','图书','古籍','少儿','其他'];
-const CATLABEL={'论文':'论文','图书':'图书','古籍':'古籍','少儿':'少儿','其他':'其他或未分类'};
-function catOf(r){
-  if(CATS.includes(r.category)) return r.category;
-  const n=(r.name||'')+' '+((r.aliases||[]).join(' '));
-  if(/少儿|儿童|绘本|少年|青少年|亲子|幼儿|中小学|小学生|童书|卡通|漫画|中少|快乐阅读|宝贝|哪吒|阿咘|连环画|注音/.test(n)) return '少儿';
-  if(/古籍|善本|方志|家谱|谱牒|碑帖|拓片|历史文献|民国|四库|丛书|经典古籍|中华再造|籍合|鼎秀|瀚堂|尚古|历代|简帛|敦煌|石刻|地方志|旧志|中华经典|抄本|刻本|舆图|老照片|图典|金石|文献总库/.test(n)) return '古籍';
-  if(/期刊|报纸|报刊|学位论文|硕士|博士|会议论文|会议录|文摘|引文|引证|索引|知网|CNKI|万方|维普|论文|学术|学会|Academic|Journal|Publication|Elsevier|ScienceDirect|Springer|Wiley|JSTOR|ProQuest|Scopus|SCI|SSCI|Web of Science|EBSCO|全国报刊索引|龙源|人大复印|皮书|年鉴/.test(n)) return '论文';
-  if(/图书|电子书|有声|读秀|超星|畅想之星|掌阅|book|听书|文库|书苑|书城|藏书|云图|书香|e读|阿帕比|方正|微书|读书/.test(n)) return '图书';
-  return '其他';
+// 分类标签（人工在 resources.json 的 category 里标注，支持多标签）
+function cats(r){
+  const c=r&&r.category;
+  if(Array.isArray(c)) return c.filter(x=>x&&x.trim());
+  if(typeof c==='string'&&c.trim()) return [c.trim()];
+  return [];
 }
+let CAT_ORDER=null;                    // 全库标签按频次降序（多者在前）
+function catOrder(){
+  if(CAT_ORDER) return CAT_ORDER;
+  const c={};
+  for(const k in DATA.resources){ if(k[0]==='_') continue; for(const t of cats(DATA.resources[k])) c[t]=(c[t]||0)+1; }
+  CAT_ORDER=Object.keys(c).sort((a,b)=>c[b]-c[a]||collator.compare(a,b));
+  return CAT_ORDER;
+}
+function shiliaoCount(){ let n=0; for(const k in DATA.resources){ if(k[0]==='_')continue; if(cats(DATA.resources[k]).includes('史料'))n++; } return n; }
 function noteHTML(r){ return r.note ? ` <span class="ali">${esc(r.note)}</span>` : ''; }
-function resHay(r, holders){ return (r.name+' '+(r.aliases||[]).join(' ')+' '+(r.note||'')+' '+holders.map(x=>x.lib.name).join(' ')).toLowerCase(); }
+function resHay(r, holders){ return (r.name+' '+(r.aliases||[]).join(' ')+' '+(r.note||'')+' '+cats(r).join(' ')+' '+holders.map(x=>x.lib.name).join(' ')).toLowerCase(); }
 function resourceEntry(r, holders){
   let out=`<div class="entry"><span class="name">${esc(r.name)}</span>${noteHTML(r)}<span class="cnt">${holders.length} 馆</span>`;
   if(r.vendor||r.homepage) out+=`<div class="meta">${r.vendor?esc(r.vendor):''}${r.vendor&&r.homepage?'　':''}${r.homepage?link(r.homepage,'资源官网'):''}</div>`;
@@ -338,17 +363,24 @@ function renderByResource(kw){
 }
 
 function renderByCategory(kw){
-  const groups={}; CATS.forEach(c=>groups[c]=[]);
-  for(const it of allResourceItems()) (groups[catOf(it.r)]||groups['其他']).push(it);
+  const items=allResourceItems();
+  const byTag={}, untagged=[];
+  for(const it of items){
+    const ts=cats(it.r);
+    if(!ts.length){ untagged.push(it); continue; }
+    for(const t of ts) (byTag[t]=byTag[t]||[]).push(it);
+  }
   let out='', letters=[];
-  for(const c of CATS){
-    let arr=groups[c].filter(it=>!kw || resHay(it.r,it.holders).includes(kw));
-    if(!arr.length) continue;
+  const emit=(label,arr)=>{
+    arr=arr.filter(it=>!kw || resHay(it.r,it.holders).includes(kw));
+    if(!arr.length) return;
     arr.sort((a,b)=>cmpInit(a.r.name,b.r.name));
-    const label=CATLABEL[c]; letters.push(label);
+    letters.push(label);
     out+=`<div class="sec sec-cat" id="sec-${label}"><b>${esc(label)}</b><span class="ln"></span><span class="cnt">${arr.length} 种</span></div>`;
     for(const {r,holders} of arr) out+=resourceEntry(r,holders);
-  }
+  };
+  for(const t of catOrder()) emit(t, byTag[t]||[]);
+  emit('未分类', untagged);
   return {html: out||'<div class="none">未见匹配的资源。</div>', letters};
 }
 
@@ -396,8 +428,19 @@ function render(){
   const kw=(document.getElementById('q').value||'').trim().toLowerCase();
   const {html, letters}= view==='res' ? renderByResource(kw) : view==='cat' ? renderByCategory(kw) : renderByLibrary(kw);
   app.innerHTML=html;
+  document.getElementById('letterbar').classList.toggle('wide', view==='cat');
   buildLetterBar(letters);
 }
+
+// 史料类推荐栏（可关闭，记忆到 localStorage）
+function gotoShiliao(){ setView('cat'); setTimeout(()=>{ location.hash=''; location.hash='#sec-史料'; }, 30); }
+function dismissRec(){ const el=document.getElementById('rec'); if(el) el.style.display='none'; try{localStorage.setItem('hideRec','1');}catch(e){} }
+(function(){
+  const rec=document.getElementById('rec'); if(!rec) return;
+  try{ if(localStorage.getItem('hideRec')==='1') rec.style.display='none'; }catch(e){}
+  const n=shiliaoCount(); const el=document.getElementById('rec-n'); if(el) el.textContent=n?`（共 ${n} 种）`:'';
+})();
+
 document.getElementById('stat').textContent =
   `收录 ${DATA.libraries.length} 馆 · ${Object.keys(DATA.resources).length} 种数字资源`;
 render();
