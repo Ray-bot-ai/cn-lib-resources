@@ -9,12 +9,12 @@
  "digital_resource_url": "https://www.zslib.com.cn/Page/ResourcesList.html",
  "registration": {
   "online": "yes",
-  "eligibility": "广东省常住居民（凭二代身份证等）可线上自助办卡",
+  "eligibility": "网友报告：经微信『粤读通』小程序注册不限地区（未官方核实）；官网自助办卡原表述为广东省常住居民（凭二代身份证等）",
   "cost": "普通卡/少儿卡/爱心卡免押金；外文卡押金500元",
   "how": "微信小程序『粤读通』或『广东省立中山图书馆』公众号自助办卡；也可在官网(www.zslib.com.cn)网上办少儿卡；或到馆（广州市文明路213号）办卡",
   "tutorial_url": "https://www.zslib.com.cn/userhelp/02/bzxz.html",
-  "notes": "粤读通依托广东『粤省事』平台，可『一键式』注册成为多家合作图书馆读者（一次办理、多馆通用）。登录官网后通过『馆藏电子资源』/『粤读通·资源平台』使用外购数据库。",
-  "online_scope": "local"
+  "notes": "粤读通依托广东『粤省事』平台，可『一键式』注册成为多家合作图书馆读者（一次办理、多馆通用）。登录官网后通过『馆藏电子资源』/『粤读通·资源平台』使用外购数据库。 【网友报告】粤读通不限地区即可注册。",
+  "online_scope": "open"
  },
  "resources": [
   {
