@@ -1,0 +1,419 @@
+{
+ "id": "guilin-city",
+ "name": "广西壮族自治区桂林图书馆",
+ "level": "市级公共图书馆",
+ "region": "广西壮族自治区桂林市",
+ "verified": true,
+ "official_site": "https://www.gxgllib.org.cn/",
+ "digital_resource_url": "http://search.gxgllib.org.cn:9000",
+ "registration": {
+  "online": "yes",
+  "eligibility": "成人可微信/支付宝办电子读者证，或持有效证件到馆办实体证；少儿须办实体证（家长陪同到馆）",
+  "cost": "免押金（实体证工本费首次免收，补办5元）",
+  "how": "官网『办证须知』(fwzn/show-181.html)确认：成人读者可使用微信、支付宝办理电子读者证（线上自助），或出示本人有效证件原件（身份证/户口簿/军人证/护照/驾照/社保卡等任一项）到临桂总馆或榕湖分馆办证台办理实体读者证；少儿读者只能办理实体读者证，需家长或法定监护人陪同。所有读者证类型均免押金。",
+  "tutorial_url": "https://www.gxgllib.org.cn/fwzn/show-181.html",
+  "notes": "Interlib 读者网上服务系统。数字资源共50个，全部需登录读者证后访问（读者网上服务系统 search.gxgllib.org.cn:9000）；官网未逐库明文标注馆内/馆外，access_method 故留空。"
+ },
+ "resources": [
+  {
+   "canonical_id": "r-7972fcf4",
+   "raw_name": "网上报告厅",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-970b1ca0",
+   "raw_name": "古运河·灵渠知识资源",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-2f62d0c0",
+   "raw_name": "晚清|民国期刊、报刊索引",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-39e647a0",
+   "raw_name": "桂林石刻专题资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-180acfbb",
+   "raw_name": "桂林抗战文化专题资源库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-5cfef218",
+   "raw_name": "听遍桂林音频资源",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-586db8ff",
+   "raw_name": "广西地方文化特色视频",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-34140351",
+   "raw_name": "桂林e文化",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-16f1fbf0",
+   "raw_name": "地方志知识资源服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-14d1f8cb",
+   "raw_name": "e线图情",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-8fa84e5d",
+   "raw_name": "报纸知识资源服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-f392243b",
+   "raw_name": "计算机技能网络微视频",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-b0b10937",
+   "raw_name": "桂林图书馆领导决策信息系统（镜像）",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-d85199c6",
+   "raw_name": "外文学术期刊",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-dd8c4880",
+   "raw_name": "维普考试资源系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-ca4dfe46",
+   "raw_name": "就业培训数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-ce79f6a1",
+   "raw_name": "维普数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-6ec836ab",
+   "raw_name": "广西红色历史文化",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-fd4676a5",
+   "raw_name": "广西期刊专利标准全文库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-5de7d050",
+   "raw_name": "桂林报纸数字版",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-63f6a277",
+   "raw_name": "桂林图书馆立法决策知识服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-db90f7c4",
+   "raw_name": "桂海讲坛",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-e78d324a",
+   "raw_name": "广西桂林图书馆数字资源特藏库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-3c301e96",
+   "raw_name": "广西土特产品",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-c6dc8734",
+   "raw_name": "广西农业",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-6bc82f2c",
+   "raw_name": "趣悦读少儿动画馆",
+   "access_url": "",
+   "scope": "试用",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-8ba76cd4",
+   "raw_name": "哪吒看书少儿云图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-7e4c4ee0",
+   "raw_name": "趣悦读数字图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-09bd1f35",
+   "raw_name": "趣悦读青少漫画馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-acad3675",
+   "raw_name": "民国图书期刊资料库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-095a0a1f",
+   "raw_name": "广西地方特色文献全文数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-39b3faa3",
+   "raw_name": "桂图公开课",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-f52328f0",
+   "raw_name": "中国政府公开信息整合服务平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-d73490ee",
+   "raw_name": "中国知网(CNKI)资源总库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-039755b8",
+   "raw_name": "党员教育数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-f098b3c5",
+   "raw_name": "博看期刊数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-23b8d325",
+   "raw_name": "少儿多媒体图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-c65f0869",
+   "raw_name": "汇雅电子图书",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-a85a62c0",
+   "raw_name": "中宏领导决策支持系统",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-b96fae0e",
+   "raw_name": "新语数字图书馆",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-71227cb1",
+   "raw_name": "读秀学术搜索",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-90407857",
+   "raw_name": "中共党史期刊数据库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-303f9bc3",
+   "raw_name": "文化兴安",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-b091fd07",
+   "raw_name": "民国广西教育期刊全文库",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-c45f4b03",
+   "raw_name": "特色资源平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-acd71930",
+   "raw_name": "视频点播",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-206c7499",
+   "raw_name": "网络资源典藏平台",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-2529881f",
+   "raw_name": "广西旧方志",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-a08e17c1",
+   "raw_name": "广西名菜集萃",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  },
+  {
+   "canonical_id": "r-267ae50c",
+   "raw_name": "上岸考公网",
+   "access_url": "",
+   "scope": "",
+   "access_method": "",
+   "notes": "广西桂林图书馆读者网上服务系统(search.gxgllib.org.cn:9000)数字资源列表收录"
+  }
+ ]
+}
