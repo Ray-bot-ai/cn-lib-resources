@@ -4650,7 +4650,8 @@
   "name": "上岸考公网",
   "vendor": "",
   "category": [
-   "考试"
+   "考试",
+   "就业"
   ],
   "homepage": "",
   "aliases": [],
@@ -4905,7 +4906,10 @@
  "r-90407857": {
   "name": "中共党史期刊数据库",
   "vendor": "",
-  "category": "",
+  "category": [
+   "史料",
+   "区域研究"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -6404,7 +6408,9 @@
  "r-f52328f0": {
   "name": "中国政府公开信息整合服务平台",
   "vendor": "",
-  "category": "",
+  "category": [
+   "政策"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -10647,7 +10653,9 @@
  "r-970b1ca0": {
   "name": "古运河·灵渠知识资源",
   "vendor": "",
-  "category": "",
+  "category": [
+   "史料"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -10886,7 +10894,10 @@
  "r-5cfef218": {
   "name": "听遍桂林音频资源",
   "vendor": "",
-  "category": "",
+  "category": [
+   "有声书",
+   "区域研究"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -10972,8 +10983,8 @@
   "name": "哪吒看书少儿云图书馆",
   "vendor": "",
   "category": [
-   "图书",
-   "少儿"
+   "少儿",
+   "图书"
   ],
   "homepage": "",
   "aliases": [],
@@ -11865,7 +11876,10 @@
  "r-16f1fbf0": {
   "name": "地方志知识资源服务平台",
   "vendor": "",
-  "category": "",
+  "category": [
+   "史料",
+   "方志"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -12033,7 +12047,10 @@
  "r-d85199c6": {
   "name": "外文学术期刊",
   "vendor": "",
-  "category": "",
+  "category": [
+   "论文",
+   "杂志"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -12949,7 +12966,9 @@
  "r-ca4dfe46": {
   "name": "就业培训数据库",
   "vendor": "",
-  "category": "",
+  "category": [
+   "就业"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -13148,7 +13167,10 @@
  "r-c6dc8734": {
   "name": "广西农业",
   "vendor": "",
-  "category": "",
+  "category": [
+   "科技",
+   "区域研究"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -13156,7 +13178,10 @@
  "r-a08e17c1": {
   "name": "广西名菜集萃",
   "vendor": "",
-  "category": "",
+  "category": [
+   "区域研究",
+   "民俗"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -13175,7 +13200,9 @@
  "r-3c301e96": {
   "name": "广西土特产品",
   "vendor": "",
-  "category": "",
+  "category": [
+   "区域研究"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -13183,7 +13210,11 @@
  "r-586db8ff": {
   "name": "广西地方文化特色视频",
   "vendor": "",
-  "category": "",
+  "category": [
+   "视频",
+   "区域研究",
+   "文化"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -13191,7 +13222,9 @@
  "r-095a0a1f": {
   "name": "广西地方特色文献全文数据库",
   "vendor": "",
-  "category": "",
+  "category": [
+   "史料"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -13221,7 +13254,10 @@
  "r-2529881f": {
   "name": "广西旧方志",
   "vendor": "",
-  "category": "",
+  "category": [
+   "史料",
+   "方志"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -13229,7 +13265,11 @@
  "r-fd4676a5": {
   "name": "广西期刊专利标准全文库",
   "vendor": "",
-  "category": "",
+  "category": [
+   "杂志",
+   "专利",
+   "标准"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -13237,7 +13277,10 @@
  "r-e78d324a": {
   "name": "广西桂林图书馆数字资源特藏库",
   "vendor": "",
-  "category": "",
+  "category": [
+   "其他学术参考",
+   "区域研究"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -13278,7 +13321,10 @@
  "r-6ec836ab": {
   "name": "广西红色历史文化",
   "vendor": "",
-  "category": "",
+  "category": [
+   "史料",
+   "区域研究"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -13875,7 +13921,9 @@
  "r-8fa84e5d": {
   "name": "报纸知识资源服务平台",
   "vendor": "",
-  "category": "",
+  "category": [
+   "报纸"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -14221,7 +14269,10 @@
  "r-303f9bc3": {
   "name": "文化兴安",
   "vendor": "",
-  "category": "",
+  "category": [
+   "文化",
+   "区域研究"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -15029,7 +15080,9 @@
  "r-2f62d0c0": {
   "name": "晚清|民国期刊、报刊索引",
   "vendor": "",
-  "category": "",
+  "category": [
+   "史料"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -15427,7 +15480,10 @@
  "r-39b3faa3": {
   "name": "桂图公开课",
   "vendor": "",
-  "category": "",
+  "category": [
+   "视频",
+   "教育"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -15435,7 +15491,10 @@
  "r-34140351": {
   "name": "桂林e文化",
   "vendor": "",
-  "category": "",
+  "category": [
+   "文化",
+   "区域研究"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -15443,7 +15502,10 @@
  "r-63f6a277": {
   "name": "桂林图书馆立法决策知识服务平台",
   "vendor": "",
-  "category": "",
+  "category": [
+   "政策",
+   "法律"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -15451,7 +15513,10 @@
  "r-b0b10937": {
   "name": "桂林图书馆领导决策信息系统",
   "vendor": "",
-  "category": "",
+  "category": [
+   "政策",
+   "经济类综合"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -15459,7 +15524,9 @@
  "r-180acfbb": {
   "name": "桂林抗战文化专题资源库",
   "vendor": "",
-  "category": "",
+  "category": [
+   "史料"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -15467,7 +15534,9 @@
  "r-5de7d050": {
   "name": "桂林报纸数字版",
   "vendor": "",
-  "category": "",
+  "category": [
+   "报纸"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -15475,7 +15544,9 @@
  "r-39e647a0": {
   "name": "桂林石刻专题资源库",
   "vendor": "",
-  "category": "",
+  "category": [
+   "史料"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -15483,7 +15554,10 @@
  "r-db90f7c4": {
   "name": "桂海讲坛",
   "vendor": "",
-  "category": "",
+  "category": [
+   "视频",
+   "文化"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -15597,7 +15671,9 @@
  "r-acad3675": {
   "name": "民国图书期刊资料库",
   "vendor": "",
-  "category": "",
+  "category": [
+   "史料"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -15640,7 +15716,9 @@
  "r-b091fd07": {
   "name": "民国广西教育期刊全文库",
   "vendor": "",
-  "category": "",
+  "category": [
+   "史料"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -15807,7 +15885,9 @@
  "r-c65f0869": {
   "name": "汇雅电子图书",
   "vendor": "",
-  "category": "",
+  "category": [
+   "图书"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -16963,7 +17043,10 @@
  "r-c45f4b03": {
   "name": "特色资源平台",
   "vendor": "",
-  "category": "",
+  "category": [
+   "其他学术参考",
+   "区域研究"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -18438,7 +18521,10 @@
  "r-ce79f6a1": {
   "name": "维普数据库",
   "vendor": "",
-  "category": "",
+  "category": [
+   "论文",
+   "其他学术参考"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -18568,7 +18654,8 @@
   "name": "维普考试资源系统",
   "vendor": "",
   "category": [
-   "考试"
+   "考试",
+   "教育"
   ],
   "homepage": "",
   "aliases": [
@@ -18701,7 +18788,9 @@
  "r-206c7499": {
   "name": "网络资源典藏平台",
   "vendor": "",
-  "category": "",
+  "category": [
+   "其他学术参考"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -19381,7 +19470,9 @@
  "r-acd71930": {
   "name": "视频点播",
   "vendor": "",
-  "category": "",
+  "category": [
+   "视频"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -19419,7 +19510,11 @@
  "r-f392243b": {
   "name": "计算机技能网络微视频",
   "vendor": "",
-  "category": "",
+  "category": [
+   "视频",
+   "科技",
+   "教育"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -19951,7 +20046,10 @@
  "r-6bc82f2c": {
   "name": "趣悦读少儿动画馆",
   "vendor": "",
-  "category": "",
+  "category": [
+   "少儿",
+   "视频"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -19970,7 +20068,10 @@
  "r-7e4c4ee0": {
   "name": "趣悦读数字图书馆",
   "vendor": "",
-  "category": "",
+  "category": [
+   "少儿",
+   "图书"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
@@ -19978,7 +20079,10 @@
  "r-09bd1f35": {
   "name": "趣悦读青少漫画馆",
   "vendor": "",
-  "category": "",
+  "category": [
+   "少儿",
+   "艺术"
+  ],
   "homepage": "",
   "aliases": [],
   "notes": ""
